@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T16:22:40.289Z",
+  "generatedAt": "2026-06-30T17:13:04.391Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -9,9 +9,227 @@
     "crisi_impresa": "Crisi d'Impresa"
   },
   "items": {
-    "fiscale": [],
+    "fiscale": [
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Concessione abusiva di finanziamenti alle imprese - Conseguenze (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108657",
+        "date": "29/06/2026",
+        "summary": "Il Quotidiano del Commercialista del 29.6.2026 - \"Abusiva erogazione di credito all’impresa in crisi a rischio nullità\" - Meoli M."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Decommercializzazione dei corrispettivi specifici - Condizioni (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109124",
+        "date": "29/06/2026",
+        "summary": "Il Quotidiano del Commercialista del 29.6.2026 - \"Per la decommercializzazione si guarda allo statuto dell’ente associativo\" - Girinelli A."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Dividendi corrisposti a fondi pensione europei - Nuova misura del 20% - Novità dello schema di DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1107865",
+        "date": "29/06/2026",
+        "summary": "Il Quotidiano del Commercialista del 29.6.2026 - \"Ritenuta del 20% sui dividendi percepiti dai fondi pensione Ue e See\" - Sanna S."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Contributo per le spedizioni di provenienza extra UE di valore non superiore a 150 euro - Chiarimenti (circ. Agenzia delle Dogane e monopoli 25.6.2026 n. 17) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109075",
+        "date": "26/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Novità dei modelli REDDITI SC 2026 e IRAP 2026 (circ. Assonime 24.6.2026 n. 17) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109031",
+        "date": "25/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Rinnovi contrattuali - Indennità e maggiorazioni - Imposte sostitutive - Novità della L. 199/2025 (Legge di bilancio 2026) - Chiarimenti (circ. Agenzia delle Entrate 24.6.2026 n. 3) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109007",
+        "date": "25/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Proroghe per il 2026 dei termini di versamento (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457661",
+        "date": "29/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Gestione separata INPS - Compilazione del quadro RR di REDDITI PF 2026 (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=456830",
+        "date": "19/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Artigiani e commercianti - Compilazione del quadro RR di REDDITI PF 2026 (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=456831",
+        "date": "19/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Accessi e ispezioni senza il “padrone di casa”: la delega orale e l’insidia della ratifica tacita",
+        "link": "https://www.mysolution.it/fisco/approfondimenti/commenti/2026/06/accessi-e-ispezioni-senza-il-padrone-di-casa-la-delega-orale-e-linsidia-della-ratifica-tacita-rizzardi/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Nuove istruzioni UIF per le segnalazioni di operazioni sospette: cosa cambia per i professionisti dal 1° luglio 2026",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/062/30/nuove-istruzioni-uif-per-le-segnalazioni-di-operazioni-sospette-sos-in-vigore-dal-1-luglio-2026/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "IRES premiale: nuovi chiarimenti dell’Agenzia delle Entrate",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/062/30/ires-premiale.-nuovi-chiarimenti-dellagenzia-delle-entrate",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Oggi, ore 15.00, \"Trasparenza retributiva di genere: le nuove regole per le imprese\"",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/062/30/trasparenza-retributiva-di-genere-le-nuove-regole-per-le-imprese/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Credito d’imposta Transizione 5.0: il debutto nel quadro RU e il principio di maturazione legato alla comunicazione GSE",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/062/30/credito-dimposta-transizione-5.0-il-debutto-nel-quadro-ru-e-il-principio-di-maturazione-legato-alla-comunicazione-gse",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Clausola arbitrale statutaria: si introduce solo con la modifica dello statuto",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/062/30/clausola-arbitrale-statutaria-si-introduce-solo-con-la-modifica-dello-statuto/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Martedì 7 luglio, ore 15.00, \"Come fare: il CPB nei Modelli Redditi e IRAP 2026\"",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/062/30/come-fare-il-cpb-nei-modelli-redditi-e-irap-2026/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Caldaie a condensazione: stop alle detrazioni anche per le spese accessorie",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/062/30/caldaie-a-condensazione-stop-alle-detrazioni-anche-per-le-spese-accessorie/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Remunerazione del socio-amministratore nelle s.r.l. a base ristretta: profili fiscali di compensi, dividendi e Tfm",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/062/30/remunerazione-del-socio-amministratore-nelle-srl-a-base-ristretta-profili-fiscali-di-compensi-dividendi-e-tfm/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Content creator e Fisco: evasione da oltre 420mila euro e “tassa etica”",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/062/30/content-creator-e-fisco-evasione-da-oltre-420mila-euro-e-tassa-etica/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      }
+    ],
     "contabile": [],
-    "lavoro": [],
+    "lavoro": [
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Tutto Quesiti: Le Relazioni sindacali e la contrattazione collettiva aziendale",
+        "link": "https://www.mysolution.it/lavoro/approfondimenti/circolare-monografica/2026/06/le-relazioni-sindacali-e-la-contrattazione-collettiva-aziendale/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Imprese esercenti in appalto: definito il costo medio orario del lavoro per il personale dipendente",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/06/30/definito-dal-mlps-il-costo-medio-orario-del-lavoro-per-il-personale-dipendente-da-imprese-esercenti-in-appalto/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "INAIL: disponibile il simulatore per il Bando ISI 2025",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/06/30/inail-disponibile-il-simulatore-per-il-bando-isi-2025/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Oggi, ore 15.00, \"Trasparenza retributiva di genere: le nuove regole per le imprese\"",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/06/30/trasparenza-retributiva-di-genere-le-nuove-regole-per-le-imprese/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Contributi all’INPS da destinare ad Enti Bilaterali: istituite le causali contributo per il versamento con F24",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/06/30/istituite-dallae-le-causali-contributo-per-il-versamento-tramite-modello-f24-dei-contributi-allinps-da-destinare-ad-enti-bilaterali/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Conciliazione: istituiti i codici tributo per il versamento tramite modello F24",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/06/30/istituiti-dallae-i-codici-tributo-per-il-versamento-tramite-il-modello-f24-delle-somme-dovute-a-seguito-di-conciliazione/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Definito dal MIMIT il tasso di attualizzazione/rivalutazione per le imprese",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/06/30/definito-dal-mimit-il-tasso-di-attualizzazionerivalutazione-per-le-imprese/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Fondazione Studi CdL: pubblicata la guida operativa sulle ferie",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/06/30/pubblicata-dalla-fondazione-studi-cdl-la-guida-operativa-sulle-ferie/",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": ""
+      }
+    ],
     "condominio": [],
     "contenzioso": [],
     "crisi_impresa": []
