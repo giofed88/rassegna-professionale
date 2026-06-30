@@ -1,0 +1,15 @@
+[
+  {
+    "id": "cliclavoro_lavoro",
+    "name": "Cliclavoro (Ministero del Lavoro)",
+    "category": "lavoro",
+    "newsUrl": "https://www.cliclavoro.gov.it/news",
+    "waitForSelector": "a.card-link-wrapper",
+    "itemSelector": "a.card-link-wrapper",
+    "titleSelector": ".card-title h3",
+    "linkSelector": null,
+    "dateSelector": "span.data small",
+    "summarySelector": ".card-text p",
+    "_note": "Pagina elenco notizie dedotta dal pattern URL dell'articolo (/news/trend-interviste/...). Da verificare al primo run reale, perché non è stato possibile raggiungere il dominio da questo ambiente per confermarla."
+  }
+]

@@ -32,6 +32,9 @@ jobs:
       - name: Install Playwright browser
         run: npx playwright install --with-deps chromium
 
+      - name: Fetch scraped news (fonti pubbliche senza RSS)
+        run: npm run fetch:scraped
+
       - name: Fetch authenticated news (Eutekne, MySolution)
         run: npm run fetch:auth
         env:

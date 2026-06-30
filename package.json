@@ -6,8 +6,9 @@
   "description": "Dashboard quotidiana di aggiornamenti fiscali, contabili, lavoro, condominio, contenzioso e crisi d'impresa",
   "scripts": {
     "fetch": "node scripts/fetch-news.mjs",
+    "fetch:scraped": "node scripts/fetch-scraped.mjs",
     "fetch:auth": "node scripts/fetch-authenticated.mjs",
-    "fetch:all": "npm run fetch && npm run fetch:auth"
+    "fetch:all": "npm run fetch && npm run fetch:scraped && npm run fetch:auth"
   },
   "dependencies": {
     "playwright": "^1.48.0",

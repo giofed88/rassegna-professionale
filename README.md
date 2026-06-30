@@ -5,9 +5,10 @@ Dashboard statica con gli aggiornamenti quotidiani su: fiscale, contabile, consu
 ## Come funziona
 
 1. `scripts/fetch-news.mjs` legge le fonti RSS pubbliche definite in `config/sources.json`, le unisce e salva tutto in `data/news.json`.
-2. `scripts/fetch-authenticated.mjs` fa login con Playwright sulle fonti a pagamento definite in `config/authenticated-sources.json` (Eutekne, MySolution, che non offrono RSS) e aggiunge i risultati a `data/news.json`.
-3. `index.html` legge `data/news.json` e mostra la dashboard interattiva (filtri per categoria, ricerca, esportazione di uno snapshot HTML autonomo).
-4. Una GitHub Action (`.github/workflows/daily-update.yml`) esegue entrambi gli script ogni mattina, committa i nuovi dati e pubblica il sito su GitHub Pages.
+2. `scripts/fetch-scraped.mjs` usa Playwright per leggere, senza login, le fonti pubbliche prive di RSS definite in `config/scraped-sources.json` (es. Cliclavoro) e aggiunge i risultati a `data/news.json`.
+3. `scripts/fetch-authenticated.mjs` fa login con Playwright sulle fonti a pagamento definite in `config/authenticated-sources.json` (Eutekne, MySolution, che non offrono RSS) e aggiunge i risultati a `data/news.json`.
+4. `index.html` legge `data/news.json` e mostra la dashboard interattiva (filtri per categoria, ricerca, esportazione di uno snapshot HTML autonomo).
+5. Una GitHub Action (`.github/workflows/daily-update.yml`) esegue tutti gli script ogni mattina, committa i nuovi dati e pubblica il sito su GitHub Pages.
 
 ## Setup
 
@@ -15,8 +16,9 @@ Dashboard statica con gli aggiornamenti quotidiani su: fiscale, contabile, consu
 npm install
 npx playwright install --with-deps chromium   # solo se usi le fonti autenticate
 npm run fetch         # genera data/news.json dalle fonti RSS
+npm run fetch:scraped # aggiunge le fonti pubbliche senza RSS (scraping, nessuna credenziale richiesta)
 npm run fetch:auth    # aggiunge le fonti autenticate (richiede le credenziali, vedi sotto)
-# oppure: npm run fetch:all   # esegue entrambi in sequenza
+# oppure: npm run fetch:all   # esegue tutti e tre in sequenza
 ```
 
 Poi apri `index.html` in un browser (o servilo con un server statico) per vedere la dashboard.
@@ -57,6 +59,16 @@ La Action (`daily-update.yml`) le passa già come variabili d'ambiente allo scri
 Senza selettori corretti lo script salta semplicemente quella fonte (loggando un avviso), senza bloccare le altre.
 
 **Se il login richiede verifica aggiuntiva** (2FA, captcha, conferma via email) in futuro, lo scraping automatico smetterebbe di funzionare e andrebbe rivisto.
+
+### Fonti pubbliche senza RSS: scraping diretto
+
+`scripts/fetch-scraped.mjs` usa Playwright per leggere pagine pubbliche (nessun login) che non offrono un feed RSS. Configurazione in `config/scraped-sources.json`, stesso formato di `authenticated-sources.json` ma senza i campi di login.
+
+**Stato per fonte:**
+
+- **Cliclavoro (Ministero del Lavoro)**: configurato in base all'HTML reale di un articolo (`a.card-link-wrapper` con `.card-title h3` per il titolo e `span.data small` per la data, formato Design System Italia/Bootstrap Italia). L'URL della pagina elenco (`https://www.cliclavoro.gov.it/news`) è dedotto dal pattern dell'URL dell'articolo e **non ancora verificato** (questo ambiente non ha accesso di rete al dominio): da controllare al primo run reale.
+
+Restano senza fonte configurata (nessun feed RSS o pagina scraping trovata/verificata finora): Normattiva, Fondazione OIC, Confedilizia, CNDCEC (sezione crisi d'impresa), Cassazione (sezioni civili filtrate per condominio). Per aggiungerle, serve l'HTML reale della pagina notizie (vedi istruzioni sopra) — il fetch automatico verso questi domini non è possibile da questo ambiente.
 
 ## Pubblicazione su GitHub Pages
 
