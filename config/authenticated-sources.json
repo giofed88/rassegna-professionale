@@ -44,8 +44,8 @@
     "loginUrl": "https://www.eutekne.it/Servizi/AreaUtente/Default.aspx",
     "usernameEnv": "EUTEKNE_USERNAME",
     "passwordEnv": "EUTEKNE_PASSWORD",
-    "usernameSelector": "#PLACEHOLDER_username_field",
-    "passwordSelector": "#PLACEHOLDER_password_field",
+    "usernameSelector": "input[name=username]",
+    "passwordSelector": "input[name=password]",
     "submitSelector": "#PLACEHOLDER_login_button",
     "newsUrl": "https://www.eutekne.it/PLACEHOLDER_pagina_notizie",
     "waitForSelector": ".PLACEHOLDER_news_item",
@@ -54,6 +54,6 @@
     "linkSelector": "a",
     "dateSelector": ".PLACEHOLDER_news_date",
     "summarySelector": ".PLACEHOLDER_news_summary",
-    "_note": "Eutekne usa un login JS complesso (LoginManager, possibile cross-domain con eutekne.info). Servono i selettori reali della pagina di login DA SLOGGATO per completare questa fonte. Nel frattempo è stato aggiunto il feed RSS pubblico /rss.ashx in config/sources.json."
+    "_note": "Eutekne usa un login JS complesso (LoginManager, possibile cross-domain con eutekne.info). Campi utente/password confermati (input[name=username], input[name=password]). Mancano ancora: selettore bottone submit, meccanismo di apertura del form di login (loginTrigger), conferma loginUrl, e newsUrl/selettori per la pagina notizie da tracciare. Nel frattempo è stato aggiunto il feed RSS pubblico /rss.ashx in config/sources.json."
   }
 ]
