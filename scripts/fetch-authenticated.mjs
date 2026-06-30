@@ -50,6 +50,7 @@ async function login(page, source, username, password) {
     page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 30000 }).catch(() => {}),
     page.click(source.submitSelector)
   ]);
+  await page.waitForTimeout(2000);
   await page.goto(source.newsUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
 }
 

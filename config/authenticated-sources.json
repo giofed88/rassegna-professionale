@@ -47,13 +47,13 @@
     "usernameSelector": "input[name=username]",
     "passwordSelector": "input[name=password]",
     "submitSelector": "a.o-btn-prosegui",
-    "newsUrl": "https://www.eutekne.it/PLACEHOLDER_pagina_notizie",
-    "waitForSelector": ".PLACEHOLDER_news_item",
-    "itemSelector": ".PLACEHOLDER_news_item",
-    "titleSelector": ".PLACEHOLDER_news_title",
+    "newsUrl": "https://www.eutekne.it/Servizi/AreaUtente/Default.aspx",
+    "waitForSelector": ".pos-primopiano1 .item",
+    "itemSelector": ".pos-primopiano1 .item",
+    "titleSelector": "p.titolo",
     "linkSelector": "a",
-    "dateSelector": ".PLACEHOLDER_news_date",
-    "summarySelector": ".PLACEHOLDER_news_summary",
-    "_note": "Eutekne: navighiamo direttamente su /Public/Login.aspx (link 'ACCEDI' della home), poi compiliamo i campi e clicchiamo il bottone 'ACCEDI ORA' (a.o-btn-prosegui, è un link <a href=\"javascript:;\">, non un submit di form). Confermati: usernameSelector, passwordSelector, submitSelector, loginUrl. Mancano ancora: newsUrl e selettori della pagina notizie da tracciare (es. Notiziario, Schede di aggiornamento, Settimana in breve). Nel frattempo è stato aggiunto il feed RSS pubblico /rss.ashx in config/sources.json."
+    "dateSelector": "p.data",
+    "summarySelector": null,
+    "_note": "Eutekne: navighiamo direttamente su /Public/Login.aspx (link 'ACCEDI' della home), poi compiliamo i campi e clicchiamo il bottone 'ACCEDI ORA' (a.o-btn-prosegui, è un link <a href=\"javascript:;\">, non un submit di form). Dopo il login si torna sulla pagina Area Utente, da cui leggiamo la colonna 'LA REDAZIONE CONSIGLIA' (.pos-primopiano1 .item): ogni voce ha un <a href> che avvolge <p class=titolo>, e un <p class=data> fratello. Configurazione completa."
   }
 ]
