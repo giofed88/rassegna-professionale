@@ -84,6 +84,38 @@
   .item a:hover { text-decoration: underline; }
   .item .src { font-size: 0.78rem; color: var(--muted); margin-top: 0.2rem; }
   .item .summary { font-size: 0.88rem; color: var(--text); margin-top: 0.4rem; }
+  .item .synth { font-size: 0.9rem; color: var(--text); margin-top: 0.5rem; line-height: 1.55; }
+  .item .badge-relevant {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    background: #e8f0fe;
+    color: var(--accent);
+    border: 1px solid #b3c8f5;
+    border-radius: 4px;
+    padding: 0.1rem 0.45rem;
+    margin-left: 0.5rem;
+    vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  details.deep-section { margin-top: 0.6rem; }
+  details.deep-section summary {
+    font-size: 0.82rem;
+    color: var(--accent);
+    cursor: pointer;
+    font-weight: 600;
+  }
+  details.deep-section .deep-body {
+    margin-top: 0.5rem;
+    font-size: 0.88rem;
+    line-height: 1.65;
+    color: var(--text);
+    background: #f0f4fb;
+    border-left: 3px solid var(--accent);
+    padding: 0.75rem 1rem;
+    border-radius: 0 6px 6px 0;
+  }
   .empty { color: var(--muted); font-style: italic; }
   footer { text-align: center; padding: 1.5rem; color: var(--muted); font-size: 0.8rem; }
 </style>
@@ -174,10 +206,17 @@ function render() {
       for (const item of items) {
         const div = document.createElement('div');
         div.className = 'item';
+        const badge = item.relevant ? '<span class="badge-relevant">Rilevante</span>' : '';
+        const displayText = item.synth || item.summary || '';
+        const textClass = item.synth ? 'synth' : 'summary';
+        const deepHtml = item.deep
+          ? `<details class="deep-section"><summary>Approfondimento operativo</summary><div class="deep-body">${item.deep}</div></details>`
+          : '';
         div.innerHTML = `
-          <a href="${item.link || '#'}" target="_blank" rel="noopener">${item.title}</a>
+          <a href="${item.link || '#'}" target="_blank" rel="noopener">${item.title}</a>${badge}
           <div class="src">${item.source}${item.date ? ' · ' + formatDate(item.date) : ''}</div>
-          ${item.summary ? `<div class="summary">${item.summary}</div>` : ''}
+          ${displayText ? `<div class="${textClass}">${displayText}</div>` : ''}
+          ${deepHtml}
         `;
         block.appendChild(div);
       }
