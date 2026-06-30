@@ -26,12 +26,19 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Fetch news
+      - name: Fetch RSS news
         run: npm run fetch
+
+      - name: Install Playwright browser
+        run: npx playwright install --with-deps chromium
+
+      - name: Fetch authenticated news (Eutekne, MySolution)
+        run: npm run fetch:auth
         env:
-          EUTEKNE_RSS_URL: ${{ secrets.EUTEKNE_RSS_URL }}
-          MYSOLUTION_FISCO_RSS_URL: ${{ secrets.MYSOLUTION_FISCO_RSS_URL }}
-          MYSOLUTION_LAVORO_RSS_URL: ${{ secrets.MYSOLUTION_LAVORO_RSS_URL }}
+          EUTEKNE_USERNAME: ${{ secrets.EUTEKNE_USERNAME }}
+          EUTEKNE_PASSWORD: ${{ secrets.EUTEKNE_PASSWORD }}
+          MYSOLUTION_USERNAME: ${{ secrets.MYSOLUTION_USERNAME }}
+          MYSOLUTION_PASSWORD: ${{ secrets.MYSOLUTION_PASSWORD }}
 
       - name: Commit updated data
         run: |
