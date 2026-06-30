@@ -1,8 +1,8 @@
 {
   "fiscale": [
-    { "name": "Fisco Oggi (Agenzia delle Entrate)", "url": "https://www.fiscooggi.it/feed" },
+    { "name": "Fisco Oggi (Agenzia delle Entrate)", "url": "" },
     { "name": "Il Sole 24 Ore - Norme e Tributi", "url": "https://www.ilsole24ore.com/rss/norme-e-tributi.xml" },
-    { "name": "Gazzetta Ufficiale - Serie Generale", "url": "https://www.gazzettaufficiale.it/rss/serie_generale" },
+    { "name": "Gazzetta Ufficiale - Serie Generale", "url": "" },
     { "name": "MEF - Comunicati stampa", "url": "" },
     { "name": "Normattiva - Nuovi provvedimenti", "url": "" },
     { "name": "Eutekne - Feed RSS", "url": "https://www.eutekne.it/rss.ashx" }
@@ -14,9 +14,9 @@
     { "name": "Eutekne - Feed RSS", "url": "https://www.eutekne.it/rss.ashx" }
   ],
   "lavoro": [
-    { "name": "INPS - Notizie", "url": "https://www.inps.it/notizie/rss.xml" },
-    { "name": "Il Sole 24 Ore - Lavoro e Carriere", "url": "https://www.ilsole24ore.com/rss/lavoro-e-carriere.xml" },
-    { "name": "INAIL - Comunicati", "url": "https://www.inail.it/cs/internet/comunicazione/news/rss.xml" },
+    { "name": "INPS - Notizie", "url": "" },
+    { "name": "Il Sole 24 Ore - Lavoro e Carriere", "url": "" },
+    { "name": "INAIL - Comunicati", "url": "" },
     { "name": "INL - Ispettorato Nazionale del Lavoro", "url": "" },
     { "name": "Ministero del Lavoro - Comunicati", "url": "" }
   ],
@@ -26,14 +26,14 @@
     { "name": "Confedilizia - Comunicati", "url": "" }
   ],
   "contenzioso": [
-    { "name": "Il Sole 24 Ore - Diritto e Giustizia", "url": "https://www.ilsole24ore.com/rss/diritto--giustizia.xml" },
-    { "name": "Corte Costituzionale - Comunicati", "url": "https://www.cortecostituzionale.it/actionRssFeed.do" },
-    { "name": "Ministero della Giustizia - Comunicati", "url": "https://www.giustizia.it/giustizia/it/mg_2_4.rss" },
+    { "name": "Il Sole 24 Ore - Diritto e Giustizia", "url": "" },
+    { "name": "Corte Costituzionale - Comunicati", "url": "" },
+    { "name": "Ministero della Giustizia - Comunicati", "url": "" },
     { "name": "Corte di Cassazione - Comunicati", "url": "" },
     { "name": "Normattiva - Nuovi provvedimenti", "url": "" }
   ],
   "crisi_impresa": [
-    { "name": "Gazzetta Ufficiale - Serie Generale", "url": "https://www.gazzettaufficiale.it/rss/serie_generale" },
+    { "name": "Gazzetta Ufficiale - Serie Generale", "url": "" },
     { "name": "Il Sole 24 Ore - Norme e Tributi", "url": "https://www.ilsole24ore.com/rss/norme-e-tributi.xml" },
     { "name": "CNDCEC - Crisi d'impresa", "url": "" },
     { "name": "Normattiva - Nuovi provvedimenti", "url": "" }
