@@ -1,0 +1,29 @@
+{
+  "fiscale": [
+    { "name": "Agenzia delle Entrate - Comunicati", "url": "https://www.agenziaentrate.gov.it/portale/web/guest/rss-comunicati-stampa" },
+    { "name": "MEF - Comunicati stampa", "url": "https://www.mef.gov.it/rss/comunicati.xml" },
+    { "name": "Eutekne (richiede abbonamento)", "url": "" }
+  ],
+  "contabile": [
+    { "name": "CNDCEC - Comunicati", "url": "https://www.cndcec.it/rss/comunicati" },
+    { "name": "OIC - Organismo Italiano di Contabilità", "url": "" },
+    { "name": "Eutekne (richiede abbonamento)", "url": "" }
+  ],
+  "lavoro": [
+    { "name": "INPS - Comunicati stampa", "url": "https://www.inps.it/it/it/inps-comunica/rss.comunicati-stampa.html" },
+    { "name": "INL - Ispettorato Nazionale del Lavoro", "url": "https://www.ispettorato.gov.it/it-it/rss/Pagine/default.aspx" },
+    { "name": "Ministero del Lavoro - Comunicati", "url": "" }
+  ],
+  "condominio": [
+    { "name": "Cassazione - Sezioni Civili (condominio)", "url": "" },
+    { "name": "Confedilizia - Comunicati", "url": "" }
+  ],
+  "contenzioso": [
+    { "name": "Corte di Cassazione - Comunicati", "url": "https://www.cortedicassazione.it/rss/comunicati.xml" },
+    { "name": "Corte Costituzionale - Comunicati", "url": "https://www.cortecostituzionale.it/actionRssFeed.do" }
+  ],
+  "crisi_impresa": [
+    { "name": "Gazzetta Ufficiale - Serie Generale", "url": "https://www.gazzettaufficiale.it/rss/serie_generale" },
+    { "name": "CNDCEC - Crisi d'impresa", "url": "" }
+  ]
+}

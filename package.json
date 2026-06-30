@@ -1,0 +1,13 @@
+{
+  "name": "rassegna-professionale",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Dashboard quotidiana di aggiornamenti fiscali, contabili, lavoro, condominio, contenzioso e crisi d'impresa",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

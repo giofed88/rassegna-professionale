@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rassegna Professionale Quotidiana</title>
+<style>
+  :root {
+    --bg: #f4f6f8;
+    --card: #ffffff;
+    --text: #1a2433;
+    --muted: #5b6b7c;
+    --accent: #1f5fa8;
+    --border: #e1e6eb;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    background: var(--accent);
+    color: #fff;
+    padding: 1.5rem 1.5rem 1rem;
+  }
+  header h1 { margin: 0 0 0.25rem; font-size: 1.5rem; }
+  header .meta { font-size: 0.85rem; opacity: 0.9; }
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 1rem 1.5rem;
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .toolbar input[type="search"] {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 0.95rem;
+  }
+  .chip {
+    padding: 0.4rem 0.8rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: #fff;
+    cursor: pointer;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  .chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  button.export {
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    border: none;
+    background: #2c7a4b;
+    color: #fff;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  main { padding: 1.5rem; max-width: 1100px; margin: 0 auto; }
+  .category-block { margin-bottom: 2rem; }
+  .category-block h2 {
+    font-size: 1.1rem;
+    border-left: 4px solid var(--accent);
+    padding-left: 0.6rem;
+    margin-bottom: 0.75rem;
+  }
+  .item {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.9rem 1.1rem;
+    margin-bottom: 0.6rem;
+  }
+  .item a { color: var(--accent); text-decoration: none; font-weight: 600; }
+  .item a:hover { text-decoration: underline; }
+  .item .src { font-size: 0.78rem; color: var(--muted); margin-top: 0.2rem; }
+  .item .summary { font-size: 0.88rem; color: var(--text); margin-top: 0.4rem; }
+  .empty { color: var(--muted); font-style: italic; }
+  footer { text-align: center; padding: 1.5rem; color: var(--muted); font-size: 0.8rem; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Rassegna Professionale Quotidiana</h1>
+  <div class="meta" id="generatedAt">Ultimo aggiornamento: -</div>
+</header>
+
+<div class="toolbar">
+  <input type="search" id="search" placeholder="Cerca tra le notizie...">
+  <div id="filters"></div>
+  <button class="export" id="exportBtn">Esporta HTML</button>
+</div>
+
+<main id="content"></main>
+
+<footer>Rassegna generata automaticamente da fonti pubbliche e di abbonamento. Verificare sempre le fonti originali.</footer>
+
+<script>
+let DATA = null;
+let activeCategory = 'all';
+
+async function loadData() {
+  const res = await fetch('data/news.json', { cache: 'no-store' });
+  DATA = await res.json();
+  render();
+}
+
+function formatDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d)) return '';
+  return d.toLocaleString('it-IT', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+}
+
+function renderFilters() {
+  const filtersEl = document.getElementById('filters');
+  filtersEl.innerHTML = '';
+  const allChip = document.createElement('div');
+  allChip.className = 'chip' + (activeCategory === 'all' ? ' active' : '');
+  allChip.textContent = 'Tutte';
+  allChip.onclick = () => { activeCategory = 'all'; render(); };
+  filtersEl.appendChild(allChip);
+
+  for (const [key, label] of Object.entries(DATA.categories)) {
+    const chip = document.createElement('div');
+    chip.className = 'chip' + (activeCategory === key ? ' active' : '');
+    chip.textContent = label;
+    chip.onclick = () => { activeCategory = key; render(); };
+    filtersEl.appendChild(chip);
+  }
+}
+
+function render() {
+  document.getElementById('generatedAt').textContent =
+    'Ultimo aggiornamento: ' + formatDate(DATA.generatedAt);
+
+  renderFilters();
+
+  const query = document.getElementById('search').value.trim().toLowerCase();
+  const content = document.getElementById('content');
+  content.innerHTML = '';
+
+  const categoriesToShow = activeCategory === 'all'
+    ? Object.keys(DATA.categories)
+    : [activeCategory];
+
+  for (const catKey of categoriesToShow) {
+    const items = (DATA.items[catKey] || []).filter((item) => {
+      if (!query) return true;
+      return (item.title + ' ' + item.summary).toLowerCase().includes(query);
+    });
+
+    const block = document.createElement('section');
+    block.className = 'category-block';
+    const h2 = document.createElement('h2');
+    h2.textContent = DATA.categories[catKey];
+    block.appendChild(h2);
+
+    if (items.length === 0) {
+      const empty = document.createElement('div');
+      empty.className = 'empty';
+      empty.textContent = 'Nessun aggiornamento disponibile.';
+      block.appendChild(empty);
+    } else {
+      for (const item of items) {
+        const div = document.createElement('div');
+        div.className = 'item';
+        div.innerHTML = `
+          <a href="${item.link || '#'}" target="_blank" rel="noopener">${item.title}</a>
+          <div class="src">${item.source}${item.date ? ' · ' + formatDate(item.date) : ''}</div>
+          ${item.summary ? `<div class="summary">${item.summary}</div>` : ''}
+        `;
+        block.appendChild(div);
+      }
+    }
+    content.appendChild(block);
+  }
+}
+
+document.getElementById('search').addEventListener('input', render);
+
+document.getElementById('exportBtn').addEventListener('click', async () => {
+  const htmlTemplate = document.documentElement.outerHTML;
+  const snapshot = htmlTemplate.replace(
+    "fetch('data/news.json', { cache: 'no-store' })",
+    `Promise.resolve({ json: () => (${JSON.stringify(DATA)}) })`
+  );
+  const blob = new Blob([snapshot], { type: 'text/html' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  const dateStr = new Date().toISOString().slice(0, 10);
+  a.href = url;
+  a.download = `rassegna-professionale-${dateStr}.html`;
+  a.click();
+  URL.revokeObjectURL(url);
+});
+
+loadData();
+</script>
+</body>
+</html>

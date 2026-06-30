@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-06-30T14:48:11.210Z",
+  "categories": {
+    "fiscale": "Fiscale",
+    "contabile": "Contabile",
+    "lavoro": "Consulenza del Lavoro",
+    "condominio": "Condominio",
+    "contenzioso": "Contenzioso",
+    "crisi_impresa": "Crisi d'Impresa"
+  },
+  "items": {
+    "fiscale": [],
+    "contabile": [],
+    "lavoro": [],
+    "condominio": [],
+    "contenzioso": [],
+    "crisi_impresa": []
+  }
+}
