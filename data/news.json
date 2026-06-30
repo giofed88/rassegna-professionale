@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T19:04:34.126Z",
+  "generatedAt": "2026-06-30T19:30:43.045Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -10,6 +10,38 @@
   },
   "items": {
     "fiscale": [
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Tabacco grezzo, necessaria una riforma europea",
+        "link": "https://www.ilsole24ore.com/art/tabacco-grezzo-necessaria-riforma-europea-AIONThhD",
+        "date": "2026-06-30T15:06:36.000Z",
+        "summary": "Il Tribunale Ue ha riaperto la questione della «fumabilità» dei cascami, non preparati per la vendita al dettaglio"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Imballaggi, dal 2030 stop a prodotti monouso e confezioni di ortofrutta",
+        "link": "https://www.ilsole24ore.com/art/imballaggi-2030-spariscono-prodotti-monouso-e-confezioni-ortofrutta-AIS3xewD",
+        "date": "2026-06-30T13:03:00.000Z",
+        "summary": "Sui divieti restano nodi da chiarire, come quello della plastica che avvolge le confezioni d’acqua minerale. Per misure definite occorre attendere il 2027"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Affitti brevi, il Tar Toscana conferma il sì al check-in a distanza",
+        "link": "https://www.ilsole24ore.com/art/affitti-brevi-tar-toscana-conferma-si-check-in-distanza-AISyHnvD",
+        "date": "2026-06-30T03:08:36.000Z",
+        "summary": "La precisazione dei giudici nella bocciatura del ricorso di un gestore di appartamenti a Firenze contro il regolamento del Comune"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Beni dual use, nel 2024 nell’Ue 320 domande per esportare prodotti di sorveglianza informatica",
+        "link": "https://www.ilsole24ore.com/art/beni-dual-use-2024-nell-ue-320-domande-esportare-prodotti-sorveglianza-informatica-AIUG7xvD",
+        "date": "2026-06-30T03:06:25.000Z",
+        "summary": "Il volume degli scambi autorizzati di questi prodotti, nel 2024, ha superato i 77 miliardi. A confermarlo il report della Commissione Ue a Parlamento e Consiglio europeo"
+      },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
@@ -230,8 +262,82 @@
         "summary": ""
       }
     ],
-    "condominio": [],
+    "condominio": [
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Turismo, nel 2026 attese 485 milioni di presenze: cresce la spinta su seconde case e locazioni brevi",
+        "link": "https://www.ilsole24ore.com/art/turismo-2026-attese-485-milioni-presenze-cresce-spinta-seconde-case-e-locazioni-brevi-AIIWh0rD",
+        "date": "2026-06-26T06:10:00.000Z",
+        "summary": "Il turismo italiano non sta attraversando una semplice fase di crescita, ma una vera e propria accelerazione strutturale, favorita dalla redistribuzione dei flussi internazionali e dalla progressiva estensione della stagione...."
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Immobili, la qualità dell’aria indoor potrebbe diventare un nuovo driver",
+        "link": "https://www.ilsole24ore.com/art/immobili-qualita-dell-aria-indoor-potrebbe-diventare-nuovo-driver-AInLpGsD",
+        "date": "2026-06-25T17:12:56.000Z",
+        "summary": "Negli Usa gli uffici certificati “healthy” registrano canoni fino al 7,7% più elevati. In Italia il mercato continua a premiare soprattutto l’efficienza energetica, ma cresce l’attenzione per la salubrità degli ambienti"
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Cbre IM acquisisce un portafoglio di otto asset per circa 370 milioni",
+        "link": "https://www.ilsole24ore.com/art/cbre-im-acquisisce-portafoglio-otto-asset-circa-370-milioni-AISWPFsD",
+        "date": "2026-06-25T16:55:48.000Z",
+        "summary": "Il portafoglio comprende circa 327mila mq di superficie lorda affittabile. Tre asset nel mercato di Bologna, tre nell’area di Roma, uno nel mercato di Milano e uno a Verona. E’ considerata tra le transazioni di portfolio logistico più significative sul mercato italiano"
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Prologis offre 16,6 miliari di dollari per Segro. Che rifiuta, ma le azioni volano del 16%",
+        "link": "https://www.ilsole24ore.com/art/prologis-offre-166-miliari-dollari-segro-che-rifiuta-ma-azioni-volano-16percento-AI824WqD",
+        "date": "2026-06-24T09:21:00.000Z",
+        "summary": "Il colosso statunitense ha tempo fino al 22 luglio per presentare un’offerta formale o rinunciare all’acquisizione"
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Palazzo Esedra, club deal a Roma in sinergia con UniCredit e Pimco",
+        "link": "https://www.ilsole24ore.com/art/palazzo-esedra-club-deal-roma-sinergia-unicredit-e-pimco-AITt24pD",
+        "date": "2026-06-23T17:53:00.000Z",
+        "summary": "Oltre 100 importanti famiglie clienti dell’istituto bancario hanno co-investito con Allianz e Finaval, per rilevarne la maggioranza. Feltrinelli manterrà una partecipazione di riferimento. Sarà un benchmark nel segmento prime degli uffici nella capitale. Valore non rivelato, ma stimato oltre i 200 milioni"
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "VOIhotels raddoppia a Cervinia e cresce all’estero: nuovo resort a Zanzibar e investimenti per 112 milioni",
+        "link": "https://www.ilsole24ore.com/art/voihotels-raddoppia-cervinia-e-cresce-all-estero-nuovo-resort-zanzibar-e-investimenti-112-milioni-AICH60iD",
+        "date": "2026-06-22T05:00:00.000Z",
+        "summary": "Dalle montagne italiane fino alla Tanzania, VOIhotels si espande e arricchisce il portafoglio di nuove strutture che puntano a rafforzare il suo posizionamento sul segmento leisure e di fascia alta...."
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Hyatt apre tre hotel in Italia da qui al 2028",
+        "link": "https://www.ilsole24ore.com/art/hyatt-apre-tre-hotel-italia-qui-2028-AIZbDpkD",
+        "date": "2026-06-20T09:51:00.000Z",
+        "summary": "Investitori, brand di lusso, family office sono i profili che dominano il mercato alberghiero in Italia. Tra i protagonisti anche il colosso americano Hyatt, che mette il nostro Paese al..."
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Dimora Camille, l’ex masseria diventata hotel-Spa nella Sicilia selvaggia",
+        "link": "https://www.ilsole24ore.com/art/dimora-camille-l-ex-masseria-diventata-hotel-spa-sicilia-selvaggia-AIiyidmD",
+        "date": "2026-06-19T20:45:03.000Z",
+        "summary": "Situata a pochi passi dal barocco monumentale di Scicli, la proprietà ha aperto le sue porte in questo mese di giugno per iniziativa di Sammi Coubeche e dell’architetto Viviana Haddad"
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Case: Istat, +1% i prezzi nel I trimestre, +5,2% sull’anno",
+        "link": "https://www.ilsole24ore.com/art/case-istat-1percento-prezzi-i-trimestre-52percento-sull-anno-AIAMdqlD",
+        "date": "2026-06-19T09:58:19.000Z",
+        "summary": "L’accelerazione su base annua dei valori si accompagna all’aumento del numero di compravendite a livello nazionale: +4,4% la variazione tendenziale nel primo trimestre 2026 secondo l’Osservatorio Omi dell’Agenzia delle Entrate"
+      }
+    ],
     "contenzioso": [],
     "crisi_impresa": []
-  }
+  },
+  "summarizedAt": "2026-06-30T19:30:43.810Z"
 }
