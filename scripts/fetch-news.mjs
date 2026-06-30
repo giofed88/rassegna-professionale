@@ -15,7 +15,8 @@ const CATEGORY_LABELS = {
   crisi_impresa: "Crisi d'Impresa"
 };
 
-const parser = new Parser({ timeout: 15000 });
+const parser = new Parser();
+const FEED_TIMEOUT_MS = 15000;
 
 async function loadSources() {
   const raw = await readFile(path.join(ROOT, 'config', 'sources.json'), 'utf-8');
@@ -40,7 +41,17 @@ async function fetchFeed(source, category) {
   const url = resolveUrl(source.url);
   if (!url) return [];
   try {
-    const feed = await parser.parseURL(url);
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), FEED_TIMEOUT_MS);
+    let xml;
+    try {
+      const res = await fetch(url, { signal: controller.signal, redirect: 'follow' });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      xml = await res.text();
+    } finally {
+      clearTimeout(timeoutId);
+    }
+    const feed = await parser.parseString(xml);
     return (feed.items || []).map((item) => ({
       category,
       source: source.name,

@@ -28,15 +28,18 @@ jobs:
 
       - name: Fetch RSS news
         run: npm run fetch
+        timeout-minutes: 5
 
       - name: Install Playwright browser
         run: npx playwright install --with-deps chromium
 
       - name: Fetch scraped news (fonti pubbliche senza RSS)
         run: npm run fetch:scraped
+        timeout-minutes: 5
 
       - name: Fetch authenticated news (Eutekne, MySolution)
         run: npm run fetch:auth
+        timeout-minutes: 5
         env:
           EUTEKNE_USERNAME: ${{ secrets.EUTEKNE_USERNAME }}
           EUTEKNE_PASSWORD: ${{ secrets.EUTEKNE_PASSWORD }}
