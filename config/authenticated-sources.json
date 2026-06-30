@@ -41,12 +41,12 @@
     "id": "eutekne",
     "name": "Eutekne",
     "category": "fiscale",
-    "loginUrl": "https://www.eutekne.it/Servizi/AreaUtente/Default.aspx",
+    "loginUrl": "https://www.eutekne.it/Public/Login.aspx",
     "usernameEnv": "EUTEKNE_USERNAME",
     "passwordEnv": "EUTEKNE_PASSWORD",
     "usernameSelector": "input[name=username]",
     "passwordSelector": "input[name=password]",
-    "submitSelector": "#PLACEHOLDER_login_button",
+    "submitSelector": "a.o-btn-prosegui",
     "newsUrl": "https://www.eutekne.it/PLACEHOLDER_pagina_notizie",
     "waitForSelector": ".PLACEHOLDER_news_item",
     "itemSelector": ".PLACEHOLDER_news_item",
@@ -54,6 +54,6 @@
     "linkSelector": "a",
     "dateSelector": ".PLACEHOLDER_news_date",
     "summarySelector": ".PLACEHOLDER_news_summary",
-    "_note": "Eutekne usa un login JS complesso (LoginManager, possibile cross-domain con eutekne.info). Campi utente/password confermati (input[name=username], input[name=password]). Mancano ancora: selettore bottone submit, meccanismo di apertura del form di login (loginTrigger), conferma loginUrl, e newsUrl/selettori per la pagina notizie da tracciare. Nel frattempo è stato aggiunto il feed RSS pubblico /rss.ashx in config/sources.json."
+    "_note": "Eutekne: navighiamo direttamente su /Public/Login.aspx (link 'ACCEDI' della home), poi compiliamo i campi e clicchiamo il bottone 'ACCEDI ORA' (a.o-btn-prosegui, è un link <a href=\"javascript:;\">, non un submit di form). Confermati: usernameSelector, passwordSelector, submitSelector, loginUrl. Mancano ancora: newsUrl e selettori della pagina notizie da tracciare (es. Notiziario, Schede di aggiornamento, Settimana in breve). Nel frattempo è stato aggiunto il feed RSS pubblico /rss.ashx in config/sources.json."
   }
 ]
