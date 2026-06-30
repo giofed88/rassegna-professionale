@@ -32,28 +32,27 @@ Le voci con `url` vuoto sono segnaposto da completare:
 
 ### Fonti con abbonamento (Eutekne, MySolution): scraping autenticato
 
-Eutekne e MySolution non offrono feed RSS, quindi `scripts/fetch-authenticated.mjs` usa [Playwright](https://playwright.dev) per: aprire un browser headless, fare login con le tue credenziali, andare sulla pagina delle notizie ed estrarne i contenuti.
+`scripts/fetch-authenticated.mjs` usa [Playwright](https://playwright.dev) per fare login con le tue credenziali e leggere le notizie dall'area riservata.
 
 ⚠️ **Verifica prima i termini di servizio** di questi fornitori riguardo l'accesso automatizzato con le tue credenziali: è una responsabilità tua, non dello script.
 
-**1. Credenziali — mai in chat o nel repository.** Vanno solo in **GitHub Actions Secrets** (Settings → Secrets and variables → Actions → New repository secret):
+**Credenziali — mai in chat o nel repository.** Vanno solo in **GitHub Actions Secrets** (Settings → Secrets and variables → Actions → New repository secret):
 
 | Secret | Valore |
 |---|---|
-| `EUTEKNE_USERNAME` | la tua username/email Eutekne |
-| `EUTEKNE_PASSWORD` | la tua password Eutekne |
 | `MYSOLUTION_USERNAME` | la tua username/email MySolution |
 | `MYSOLUTION_PASSWORD` | la tua password MySolution |
+| `EUTEKNE_USERNAME` | la tua username/email Eutekne (per quando sarà completata, vedi sotto) |
+| `EUTEKNE_PASSWORD` | la tua password Eutekne |
 
 La Action (`daily-update.yml`) le passa già come variabili d'ambiente allo script.
 
-**2. Selettori CSS — da verificare tu, perché queste pagine sono dietro login e non posso ispezionarle.** Il file `config/authenticated-sources.json` contiene, per ciascuna fonte, dei segnaposto tipo `.PLACEHOLDER_news_item` che vanno sostituiti con i selettori reali. Per trovarli:
+**Stato per fonte:**
 
-1. Accedi al portale nel browser normalmente.
-2. Apri gli Strumenti per sviluppatori (F12) → tab "Elements"/"Ispeziona".
-3. Sulla **pagina di login**, clicca sul campo username, password e sul pulsante di accesso: nel pannello a destra trovi l'attributo `id` o `class` di ciascuno → usali per `usernameSelector`, `passwordSelector`, `submitSelector` (es. `#txtUsername` o `.login-btn`). Annota anche l'URL esatto della pagina di login → `loginUrl`.
-4. Sulla **pagina con l'elenco delle notizie** (dopo il login), trova l'URL → `newsUrl`. Poi ispeziona un singolo elemento della lista: il contenitore di ogni notizia → `itemSelector`; al suo interno, il titolo → `titleSelector`; il link (di solito un `<a>`) → `linkSelector`; la data → `dateSelector`; un eventuale sommario → `summarySelector`.
-5. Se preferisci, copia qui in chat l'HTML di queste due pagine (login + elenco notizie, anche solo un frammento con un paio di notizie) e te li compilo io.
+- **MySolution (Fisco + Lavoro)**: configurazione completa in `config/authenticated-sources.json`, basata sull'HTML reale che hai fornito. Il login è una finestra modale (non una pagina separata): lo script la apre via JavaScript, compila utente/password (`#formModalLoginformUsername` / `#formModalLoginformPasswrd`) e clicca "Accedi". Le notizie vengono lette dalle card `.card-news-mini` / `.card-news-main` di `/fisco/` e `/lavoro/`. Da verificare al primo run reale (in GitHub Actions, non in questo sandbox che non ha accesso di rete a questi domini).
+- **Eutekne**: ho aggiunto il suo **feed RSS pubblico** (`https://www.eutekne.it/rss.ashx`) in `config/sources.json` — nessun login richiesto, ma probabilmente copre solo contenuti generali/gratuiti, non l'intero abbonamento. Per lo scraping autenticato completo, Eutekne usa un sistema di login JavaScript più complesso (`LoginManager`, possibile dominio separato `eutekne.info`) di cui non ho ancora la struttura: la pagina che mi hai mandato era già autenticata e non conteneva il form. Se vuoi completarlo, salvami l'HTML della pagina di login **da sloggato** (es. apri il sito in una finestra anonima prima di inserire le credenziali) e aggiorno `config/authenticated-sources.json` di conseguenza.
+
+**Se vuoi correggere/estendere i selettori tu stesso**, ogni voce di `config/authenticated-sources.json` ha: `loginUrl`, `usernameSelector`/`passwordSelector`/`submitSelector` per il form di login, `newsUrl` per la pagina con l'elenco, e `itemSelector`/`titleSelector`/`linkSelector`/`dateSelector`/`summarySelector` per ogni notizia (trovabili ispezionando la pagina con F12 → Elements).
 
 Senza selettori corretti lo script salta semplicemente quella fonte (loggando un avviso), senza bloccare le altre.
 

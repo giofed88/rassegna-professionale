@@ -8,9 +8,49 @@ const ROOT = path.resolve(__dirname, '..');
 const NEWS_PATH = path.join(ROOT, 'data', 'news.json');
 const CHROMIUM_PATH = process.env.PLAYWRIGHT_CHROMIUM_PATH || undefined;
 
+const MESI_IT = {
+  gennaio: 0, febbraio: 1, marzo: 2, aprile: 3, maggio: 4, giugno: 5,
+  luglio: 6, agosto: 7, settembre: 8, ottobre: 9, novembre: 10, dicembre: 11
+};
+
+function parseItalianDate(text) {
+  if (!text) return null;
+  const match = text.toLowerCase().match(/(\d{1,2})\s+([a-zà]+)\s+(\d{4})/);
+  if (!match) return null;
+  const [, day, monthName, year] = match;
+  const month = MESI_IT[monthName];
+  if (month === undefined) return null;
+  return new Date(Date.UTC(Number(year), month, Number(day))).toISOString();
+}
+
 async function loadSources() {
   const raw = await readFile(path.join(ROOT, 'config', 'authenticated-sources.json'), 'utf-8');
   return JSON.parse(raw);
+}
+
+async function login(page, source, username, password) {
+  await page.goto(source.loginUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
+
+  if (source.loginTrigger?.type === 'jsModalShow') {
+    await page.evaluate((sel) => {
+      if (window.jQuery) window.jQuery(sel).modal('show');
+    }, source.loginTrigger.selector);
+    await page.waitForSelector(source.usernameSelector, { state: 'visible', timeout: 15000 });
+    await page.fill(source.usernameSelector, username);
+    await page.fill(source.passwordSelector, password);
+    await page.click(source.submitSelector);
+    await page.waitForTimeout(3000);
+    await page.goto(source.newsUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
+    return;
+  }
+
+  await page.fill(source.usernameSelector, username);
+  await page.fill(source.passwordSelector, password);
+  await Promise.all([
+    page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 30000 }).catch(() => {}),
+    page.click(source.submitSelector)
+  ]);
+  await page.goto(source.newsUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
 }
 
 async function scrapeSource(source, browser) {
@@ -23,15 +63,8 @@ async function scrapeSource(source, browser) {
 
   const page = await browser.newPage();
   try {
-    await page.goto(source.loginUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
-    await page.fill(source.usernameSelector, username);
-    await page.fill(source.passwordSelector, password);
-    await Promise.all([
-      page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 30000 }).catch(() => {}),
-      page.click(source.submitSelector)
-    ]);
+    await login(page, source, username, password);
 
-    await page.goto(source.newsUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
     if (source.waitForSelector) {
       await page.waitForSelector(source.waitForSelector, { timeout: 15000 }).catch(() => {});
     }
@@ -65,7 +98,7 @@ async function scrapeSource(source, browser) {
         source: source.name,
         title: item.title,
         link: item.link,
-        date: item.dateText || null,
+        date: parseItalianDate(item.dateText) || item.dateText || null,
         summary: item.summary.slice(0, 400)
       }));
   } catch (err) {

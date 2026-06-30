@@ -2,11 +2,13 @@
   "fiscale": [
     { "name": "Agenzia delle Entrate - Comunicati", "url": "https://www.agenziaentrate.gov.it/portale/web/guest/rss-comunicati-stampa" },
     { "name": "MEF - Comunicati stampa", "url": "https://www.mef.gov.it/rss/comunicati.xml" },
-    { "name": "Normattiva - Nuovi provvedimenti", "url": "" }
+    { "name": "Normattiva - Nuovi provvedimenti", "url": "" },
+    { "name": "Eutekne - Feed RSS", "url": "https://www.eutekne.it/rss.ashx" }
   ],
   "contabile": [
     { "name": "CNDCEC - Comunicati", "url": "https://www.cndcec.it/rss/comunicati" },
-    { "name": "OIC - Organismo Italiano di Contabilità", "url": "" }
+    { "name": "OIC - Organismo Italiano di Contabilità", "url": "" },
+    { "name": "Eutekne - Feed RSS", "url": "https://www.eutekne.it/rss.ashx" }
   ],
   "lavoro": [
     { "name": "INPS - Comunicati stampa", "url": "https://www.inps.it/it/it/inps-comunica/rss.comunicati-stampa.html" },
