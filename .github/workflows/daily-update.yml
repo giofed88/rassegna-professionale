@@ -28,6 +28,10 @@ jobs:
 
       - name: Fetch news
         run: npm run fetch
+        env:
+          EUTEKNE_RSS_URL: ${{ secrets.EUTEKNE_RSS_URL }}
+          MYSOLUTION_FISCO_RSS_URL: ${{ secrets.MYSOLUTION_FISCO_RSS_URL }}
+          MYSOLUTION_LAVORO_RSS_URL: ${{ secrets.MYSOLUTION_LAVORO_RSS_URL }}
 
       - name: Commit updated data
         run: |

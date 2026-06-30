@@ -22,10 +22,26 @@ Poi apri `index.html` in un browser (o servilo con un server statico) per vedere
 Modifica `config/sources.json`. Ogni categoria è una lista di `{ "name": ..., "url": ... }`.
 Le voci con `url` vuoto sono segnaposto da completare:
 
-- **Eutekne**: richiede un abbonamento. Inserisci l'URL del feed RSS riservato (disponibile nell'area abbonati) nel campo `url` della voce "Eutekne (richiede abbonamento)" per ciascuna categoria di interesse. Se Eutekne richiede autenticazione via cookie/token invece di un RSS pubblico, lo script andrà esteso con un fetch autenticato (fornire le credenziali a parte, mai nel repository).
-- Altri segnaposto (Confedilizia, OIC, Ministero del Lavoro, ecc.) vanno completati con gli URL RSS reali una volta verificati, perché alcuni enti pubblicano comunicati senza un feed RSS standard e potrebbe servire uno scraper dedicato.
+- Alcuni segnaposto (Normattiva, Confedilizia, OIC, Ministero del Lavoro, ecc.) vanno completati con gli URL RSS reali una volta verificati, perché alcuni enti pubblicano comunicati senza un feed RSS standard e potrebbe servire uno scraper dedicato.
 
 **Importante**: gli URL RSS inclusi di default sono indicativi e vanno verificati/aggiornati, perché molti enti pubblici italiani non offrono feed RSS stabili o li cambiano nel tempo.
+
+### Fonti con abbonamento (Eutekne, MySolution): come fornire le credenziali in sicurezza
+
+**Non condividere mai username e password in chat o nel codice del repository.** Lo script supporta fonti autenticate tramite **GitHub Actions Secrets**, variabili cifrate che solo la pipeline può leggere.
+
+In `config/sources.json` queste fonti hanno già un placeholder tipo `"$EUTEKNE_RSS_URL"`: lo script, in fase di esecuzione, sostituisce quel valore con il contenuto della variabile d'ambiente `EUTEKNE_RSS_URL`.
+
+**Passaggi da fare tu (una volta sola):**
+
+1. Accedi alla tua area abbonati su Eutekne / MySolution e cerca una funzione "RSS", "Feed", "Notifiche" o "Esporta feed" — molti portali professionali generano un URL RSS personale che include un token di accesso (es. `https://www.eutekne.it/feed?token=abc123`). Quell'URL, da solo, è equivalente a una password: chi lo possiede può leggere il feed.
+2. Se trovi quell'URL, vai nel repository GitHub → **Settings → Secrets and variables → Actions → New repository secret** e crea:
+   - `EUTEKNE_RSS_URL` con l'URL completo del feed Eutekne
+   - `MYSOLUTION_FISCO_RSS_URL` con l'URL del feed MySolution Fisco
+   - `MYSOLUTION_LAVORO_RSS_URL` con l'URL del feed MySolution Lavoro
+3. La Action (`daily-update.yml`) è già configurata per leggere questi secrets e passarli allo script.
+
+**Se questi servizi non offrono un feed RSS con token**, ma solo un login classico (utente/password) dietro form HTML, l'integrazione richiede un meccanismo diverso (es. uno script di scraping autenticato con Playwright che salva la sessione), più fragile e da valutare anche rispetto ai termini di servizio del fornitore — fammi sapere se è questo il caso e cosa trovi nell'area abbonati, così adatto lo script di conseguenza.
 
 ## Pubblicazione su GitHub Pages
 

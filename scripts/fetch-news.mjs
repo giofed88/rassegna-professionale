@@ -22,10 +22,25 @@ async function loadSources() {
   return JSON.parse(raw);
 }
 
+function resolveUrl(rawUrl) {
+  if (!rawUrl) return '';
+  if (rawUrl.startsWith('$')) {
+    const envVar = rawUrl.slice(1);
+    const resolved = process.env[envVar];
+    if (!resolved) {
+      console.warn(`[INFO] Variabile d'ambiente ${envVar} non impostata: fonte saltata.`);
+      return '';
+    }
+    return resolved;
+  }
+  return rawUrl;
+}
+
 async function fetchFeed(source, category) {
-  if (!source.url) return [];
+  const url = resolveUrl(source.url);
+  if (!url) return [];
   try {
-    const feed = await parser.parseURL(source.url);
+    const feed = await parser.parseURL(url);
     return (feed.items || []).map((item) => ({
       category,
       source: source.name,
@@ -35,7 +50,7 @@ async function fetchFeed(source, category) {
       summary: (item.contentSnippet || item.summary || '').trim().slice(0, 400)
     }));
   } catch (err) {
-    console.error(`[WARN] Errore nel feed "${source.name}" (${source.url}): ${err.message}`);
+    console.error(`[WARN] Errore nel feed "${source.name}" (${url}): ${err.message}`);
     return [];
   }
 }

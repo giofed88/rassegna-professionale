@@ -2,17 +2,20 @@
   "fiscale": [
     { "name": "Agenzia delle Entrate - Comunicati", "url": "https://www.agenziaentrate.gov.it/portale/web/guest/rss-comunicati-stampa" },
     { "name": "MEF - Comunicati stampa", "url": "https://www.mef.gov.it/rss/comunicati.xml" },
-    { "name": "Eutekne (richiede abbonamento)", "url": "" }
+    { "name": "Normattiva - Nuovi provvedimenti", "url": "" },
+    { "name": "Eutekne", "url": "$EUTEKNE_RSS_URL" },
+    { "name": "MySolution Fisco", "url": "$MYSOLUTION_FISCO_RSS_URL" }
   ],
   "contabile": [
     { "name": "CNDCEC - Comunicati", "url": "https://www.cndcec.it/rss/comunicati" },
     { "name": "OIC - Organismo Italiano di Contabilità", "url": "" },
-    { "name": "Eutekne (richiede abbonamento)", "url": "" }
+    { "name": "Eutekne", "url": "$EUTEKNE_RSS_URL" }
   ],
   "lavoro": [
     { "name": "INPS - Comunicati stampa", "url": "https://www.inps.it/it/it/inps-comunica/rss.comunicati-stampa.html" },
     { "name": "INL - Ispettorato Nazionale del Lavoro", "url": "https://www.ispettorato.gov.it/it-it/rss/Pagine/default.aspx" },
-    { "name": "Ministero del Lavoro - Comunicati", "url": "" }
+    { "name": "Ministero del Lavoro - Comunicati", "url": "" },
+    { "name": "MySolution Lavoro", "url": "$MYSOLUTION_LAVORO_RSS_URL" }
   ],
   "condominio": [
     { "name": "Cassazione - Sezioni Civili (condominio)", "url": "" },
@@ -20,10 +23,12 @@
   ],
   "contenzioso": [
     { "name": "Corte di Cassazione - Comunicati", "url": "https://www.cortedicassazione.it/rss/comunicati.xml" },
-    { "name": "Corte Costituzionale - Comunicati", "url": "https://www.cortecostituzionale.it/actionRssFeed.do" }
+    { "name": "Corte Costituzionale - Comunicati", "url": "https://www.cortecostituzionale.it/actionRssFeed.do" },
+    { "name": "Normattiva - Nuovi provvedimenti", "url": "" }
   ],
   "crisi_impresa": [
     { "name": "Gazzetta Ufficiale - Serie Generale", "url": "https://www.gazzettaufficiale.it/rss/serie_generale" },
-    { "name": "CNDCEC - Crisi d'impresa", "url": "" }
+    { "name": "CNDCEC - Crisi d'impresa", "url": "" },
+    { "name": "Normattiva - Nuovi provvedimenti", "url": "" }
   ]
 }
