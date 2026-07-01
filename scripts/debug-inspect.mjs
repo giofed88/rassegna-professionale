@@ -6,74 +6,38 @@ async function inspectDgtRassegnaStructure(browser) {
   const page = await browser.newPage();
   try {
     await page.goto('https://www.dgt.mef.gov.it/gt/rassegna-sentenze-tributarie', {
-      waitUntil: 'networkidle',
+      waitUntil: 'domcontentloaded',
       timeout: 30000
     });
-    await page.waitForTimeout(2000);
 
-    const result = await page.evaluate(() => {
-      const all = Array.from(document.querySelectorAll('*'));
-      const matches = all.filter((el) => {
-        const own = Array.from(el.childNodes)
-          .filter((n) => n.nodeType === 3)
-          .map((n) => n.textContent)
-          .join('');
-        return /Sentenza del|Ordinanza del/.test(own);
-      });
-      return matches.slice(0, 6).map((el) => {
-        const chain = [];
-        let cur = el;
-        for (let i = 0; i < 6 && cur; i++) {
-          chain.push({
-            tag: cur.tagName,
-            class: cur.getAttribute && cur.getAttribute('class'),
-            id: cur.getAttribute && cur.getAttribute('id')
-          });
-          cur = cur.parentElement;
-        }
-        return { text: el.textContent.trim().slice(0, 100), chain };
-      });
-    });
+    try {
+      await page.waitForFunction(
+        () => /Sentenza del|Ordinanza del/.test(document.body.innerText),
+        { timeout: 15000 }
+      );
+    } catch {
+      console.log('[WARN] Testo "Sentenza del" non apparso entro 15s');
+    }
+    await page.waitForTimeout(1500);
 
-    console.log('\n=== DGT SENTENZE - STRUTTURA DOM (v2) ===');
-    console.log('MATCH COUNT (leaf-text):', result.length);
-    console.log(JSON.stringify(result, null, 2));
+    const bodyHtml = await page.evaluate(() => document.body.innerHTML);
+    console.log('BODY HTML LENGTH:', bodyHtml.length);
 
-    const containerHtml = await page.evaluate(() => {
-      const all = Array.from(document.querySelectorAll('*'));
-      const el = all.find((e) => {
-        const own = Array.from(e.childNodes)
-          .filter((n) => n.nodeType === 3)
-          .map((n) => n.textContent)
-          .join('');
-        return /Sentenza del|Ordinanza del/.test(own);
-      });
-      if (!el) return null;
-      let container = el;
-      for (let i = 0; i < 3; i++) container = container.parentElement || container;
-      return container.outerHTML.slice(0, 4000);
-    });
-    console.log('CONTAINER HTML SAMPLE (3 levels up):', containerHtml);
+    const idx = bodyHtml.indexOf('Sentenza del');
+    const idx2 = bodyHtml.indexOf('Ordinanza del');
+    const anchorIdx = idx !== -1 ? idx : idx2;
+    console.log('ANCHOR INDEX:', anchorIdx);
 
-    const linkNear = await page.evaluate(() => {
-      const all = Array.from(document.querySelectorAll('*'));
-      const el = all.find((e) => {
-        const own = Array.from(e.childNodes)
-          .filter((n) => n.nodeType === 3)
-          .map((n) => n.textContent)
-          .join('');
-        return /Sentenza del|Ordinanza del/.test(own);
-      });
-      if (!el) return null;
-      let cur = el;
-      for (let i = 0; i < 6 && cur; i++) {
-        const a = cur.querySelector ? cur.querySelector('a[href]') : null;
-        if (a) return { level: i, href: a.getAttribute('href'), text: a.textContent.trim().slice(0, 80) };
-        cur = cur.parentElement;
-      }
-      return null;
-    });
-    console.log('NEAREST LINK:', JSON.stringify(linkNear));
+    if (anchorIdx !== -1) {
+      const start = Math.max(0, anchorIdx - 3000);
+      const snippet = bodyHtml.slice(start, anchorIdx + 2000);
+      console.log('=== HTML SNIPPET AROUND MATCH ===');
+      console.log(snippet);
+    } else {
+      console.log('=== NO MATCH: full body text ===');
+      const text = await page.evaluate(() => document.body.innerText.slice(0, 3000));
+      console.log(text);
+    }
   } catch (err) {
     console.error('[ERR] DGT structure inspect:', err.message);
   } finally {
