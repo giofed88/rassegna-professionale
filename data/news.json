@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T15:42:23.970Z",
+  "generatedAt": "2026-07-01T15:51:28.807Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -502,26 +502,26 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Partecipazioni detenute tramite una holding statica - Dividendi erogati alla holding - Mancata distribuzione ai soci persone fisiche - Abuso del diritto (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1100519",
-        "date": "30/06/2026",
-        "summary": "Il Quotidiano del Commercialista del 30.6.2026 - \"Distribuire gli utili non è erogarli ai soci se la holding è di direzione e coordinamento\" - Zanetti E."
+        "title": "Imposta di registro - Domicilio fiscale - Esclusione (Cass. 28.6.2026 n. 22158) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109739",
+        "date": "2026-01-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Competente per i controlli l’ufficio che ha registrato l’atto\" - Augello D."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Dazio forfetario per le spedizioni di provenienza extra UE di valore non superiore a 150 euro - Ambito applicativo - Decorrenza dall'1.7.2026 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108766",
-        "date": "30/06/2026",
-        "summary": "Il Quotidiano del Commercialista del 30.6.2026 - \"Da domani dazio forfetario di tre euro sulle piccole spedizioni extra Ue\" - Sbandi E."
+        "title": "Cause di esclusione e cessazione - Professionista e partecipazione ad associazione professionale o società tra professionisti - Cause di esclusione ISA in capo all'ente collettivo - Effetti (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108823",
+        "date": "2026-01-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Se il CPB per l’ente collettivo è escluso, i professionisti sono liberi di aderire\" - Girinelli A. - Rivetti P."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Detrazione IRPEF per gli interventi di recupero edilizio - Costruzione di box auto pertinenziale - Requisiti (risposta interpello Agenzia delle Entrate 8.6.2026 n. 118) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1098340",
-        "date": "30/06/2026",
-        "summary": "Il Quotidiano del Commercialista del 30.6.2026 - \"Detrazione per il box auto quando è pertinenza\" - Zanetti E. - Zeni A."
+        "title": "Rimborsi chilometrici riconosciuti dallo studio professionale ai propri associati - Deducibilità - Condizioni - Inerenza - Orientamenti dell'Amministrazione finanziaria e della giurisprudenza (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108821",
+        "date": "2026-01-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Rimborsi chilometrici alla prova dell’inerenza\" - Augello D."
       },
       {
         "category": "fiscale",
@@ -550,6 +550,14 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
+        "title": "Novità del “decreto lavoro” (DL 30.4.2026 n. 62) convertito (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457492",
+        "date": "2026-01-07T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
         "title": "Proroghe per il 2026 dei termini di versamento (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457661",
         "date": "29/06/2026",
@@ -560,14 +568,6 @@
         "source": "Eutekne - Feed RSS",
         "title": "Gestione separata INPS - Compilazione del quadro RR di REDDITI PF 2026 (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=456830",
-        "date": "19/06/2026",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Artigiani e commercianti - Compilazione del quadro RR di REDDITI PF 2026 (Tratto da Schede di Aggiornamento)",
-        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=456831",
         "date": "19/06/2026",
         "summary": ""
       },
@@ -655,6 +655,206 @@
     "contabile": [
       {
         "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Crypto-asset, debuttano i nuovi intermediari",
+        "link": "https://www.ilsole24ore.com/art/crypto-asset-debuttano-nuovi-intermediari-AIxbCBxD",
+        "date": "2026-07-01T03:10:53.000Z",
+        "summary": "Finito il periodo transitorio: addio ai Vasp, da oggi operativi solo nove Casp"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Pmi, dalla Commissione Ue strumenti fiscali e digitali per favorire il trasferimento",
+        "link": "https://www.ilsole24ore.com/art/pmi-commissione-ue-strumenti-fiscali-e-digitali-favorire-trasferimento-AIg9D8wD",
+        "date": "2026-07-01T03:08:43.000Z",
+        "summary": "Le indicazioni fanno leva anche sulla necessità di modernizzare i sistemi giuridici, fiscali e di successione nazionali e le relative procedure"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Professioni del mare, nascono quattro nuovi titoli abilitanti",
+        "link": "https://www.ilsole24ore.com/art/professioni-mare-nascono-quattro-nuovi-titoli-abilitanti-AITyzSwD",
+        "date": "2026-07-01T03:06:31.000Z",
+        "summary": "Si tratta del comandante per il traffico costiero, il capo motorista, il conduttore motorista delle navi per il pilotaggio e il comandante dei mezzi nautici per l’ormeggio"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Dall’Ue intesa provvisoria sulla direttiva pedaggi. Mezzi pesanti a zero emissioni esenti fino al 2031",
+        "link": "https://www.ilsole24ore.com/art/dall-ue-intesa-provvisoria-direttiva-pedaggi-mezzi-pesanti-zero-emissioni-esenti-fino-2031-AIS5y5wD",
+        "date": "2026-07-01T03:02:01.000Z",
+        "summary": "L’obiettivo è allineare il testo ai nuovi standard legislativi sulle emissioni per i veicoli pesanti e fissare regole univoche e valide su tutto il territorio europeo"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Appalto genuino o somministrazione mascherata i confini secondo la Cassazione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4202-appalto-genuino-o-somministrazione-mascherata-i-confini-secondo-la-cassazione.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "La Cassazione conferma il sequestro delle quote sociali:  se l'appalto cela una somministrazione illecita di manodopera si tratta di operazioni inesistenti"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Sono deducibili le spese per transazioni da responsabilit verso il professionista",
+        "link": "https://www.fiscoetasse.com/domande-e-risposte/12866-sono-deducibili-le-spese-per-transazioni-da-responsabilita-verso-il-professionista.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Focus giurisprudenziale sulla deducibilità delle somme versate per chiudere liti professionali"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Ministero della Giustizia 1500 posti per funzionari   come fare domanda",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17288-ministero-della-giustizia-progressione-1500-posti-per-funzionari-come-fare-domanda.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Pubblicato il bando per la progressione degli Assistenti giudiziari all' Area Funzionari: requisiti, domanda online, prova unica e nuovo inquadramento."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Premi INAIL lavoro  estero 2026 le istruzioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4201-premi-inail-lavoro-estero-2026-le-istruzioni.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "circolare INAIL n. 32: valori e regole operative per il premio assicurativo dei lavoratori extracomunitari sulla base delle retribuzioni convenzionali estero"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Antiriciclaggio e amministratori di condominio nuove regole dal 1 luglio",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4200-antiriciclaggio-e-amministratori-di-condominio-nuove-regole-dal-1-luglio.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Dal 1° luglio anche per gli amministratori di condominio nuove regole antiriciclaggio: vediamo cosa ha previsto lo UIF"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "CPB e associazioni notarili per i Notai non valgono le cause di esclusione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4199-cpb-e-associazioni-notarili-per-i-notai-non-valgono-le-cause-di-esclusione.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Con lo Studio n 23/2026 il Notariato evidenzia che le associazioni notarili con particolari peculiarità sono da escludere dalle nuove cause di blocco del CPB: vediamo il perchè"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Fondi pensione nuove regole dal 1 luglio su capitale e rendite",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4198-fondi-pensione-2026-nuove-regole-dal-1-luglio-su-capitale-e-rendita.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Dal 1° luglio novità sulla previdenza complementare, oltre all'adesione automatica:  tetto del 50% per il capitale. I chiarimenti COVIP  esempi e scheda  scaricabile"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Nuovo dazio forfettario di 3 euro gli ultimi chiarimenti della Commissione europea",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17287-nuovo-dazio-forfettario-di-3-euro-gli-ultimi-chiarimenti-della-commissione-europea.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Le FAQ del 30 giugno chiariscono gli ultimi dubbi applicativi sul nuovo regime"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Concorso MAECI 2026 per 95 funzionari tutto quello che c da sapere",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17286-concorso-maeci-2026-per-95-funzionari-tutto-quello-che-ce-da-sapere.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Il MAECI assume 95 funzionari laureati a tempo indeterminato per amministrazione, settore economico e tecnico: vediiamo requisiti, domanda online, prove e stipendio. Le FAQ"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Metalmeccanici PMI ecco cosa cambia in busta paga da giugno 2026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4194-metalmeccanici-pmi-ecco-quanto-cambia-in-busta-paga-da-giugno-2026.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Firmato verbale Confapi del 17 giugno  aggiornati gli importi in busta paga per trasferta e reperibilità: dal 1° giugno 2026 . Confermato IPCA per i minimi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Attivit acquatiche erogate da societ sportiva NON esenti per la Cassazione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4188-attivita-acquatiche-erogate-da-societa-sportiva-non-esenti-per-la-cassazionehtml",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Società sportiva e esenzione corsi di nuoto: la replica della Cassazione che segna il passo per l'ageviolazione, non sono educative o d'istruzione pur se di interesse generale"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Antiriciclaggio dal 15 luglio il responsabile presso le banche",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4187-antiriciclaggio-dal-15-luglio-il-responsabile-presso-le-banche.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "In GU il provvedimento di Banca d'Italia per il responsabile dell'antiriciclaggio in sede bancaria: ruolo e responsabilità nella compliance antiriciclaggio"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Detraibilit spese asili come fare con il 730 o il PF 2026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4184-detraibilita-spese-asili-come-fare-con-il-730-o-il-pf-2026.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Le Entrate hanno pubblicato le guide per la dichiarazione dei redditi 2026: modello 730 o modello Redditi PF, come si detraggono le spese per l'asilo? Le istruzioni"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Previdenza, al pensionamento scelta tra sei prestazioni per privilegiare durata o flessibilità",
+        "link": "https://www.ilsole24ore.com/art/previdenza-pensionamento-scelta-sei-prestazioni-privilegiare-durata-o-flessibilita-AIIAk8wD",
+        "date": "2026-06-30T19:07:00.000Z",
+        "summary": "Montante maturato fruibile durante il resto della vita o incassato in tempi brevi"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Tabacco grezzo, necessaria una riforma europea",
+        "link": "https://www.ilsole24ore.com/art/tabacco-grezzo-necessaria-riforma-europea-AIONThhD",
+        "date": "2026-06-30T15:06:36.000Z",
+        "summary": "Il Tribunale Ue ha riaperto la questione della «fumabilità» dei cascami, non preparati per la vendita al dettaglio"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Rimborso accise gasolio autotrazione 2 trimestre 2026 istanze a luglio",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17285-rimborso-accise-gasolio-autotrazione-2-trimestre-2026-istanze-a-luglio.html",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": "Dal 1° al 31 luglio invio della dichiarazione per il beneficio sui consumi di gasolio del 2° trimestre: aliquote, importi e novità sull'invio telematico"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Somministrazione di lavoro s alla compensazione delle retribuzioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4186-somministrazione-di-lavoro-si-alla-compensazione-delle-retribuzioni.html",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": "La Cassazione chiarisce quando l’utilizzatore che paga i lavoratori può opporre in compensazione il proprio credito verso il somministratore fallito."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "TFR 2026 e silenzioassenso  regole per contratti a termine e a chiamata",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4185-tfr-2026-e-silenzio-assenso-le-regole-per-i-contratti-a-termine.html",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": "Con la legge 199/2025 l'adesione alla previdenza integrativa  scatta dopo 60 giorni, ma per i rapporti brevi e stagionali restano molte zone grigie"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Antiriciclaggio applicabili dal 1 luglio le nuove istruzioni S0S",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17283-antiriciclaggio-applicabili-dal-1-luglio-le-nuove-istruzioni-s0s.html",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": "Come cambia la collaborazione attiva con le nuove istruzioni della UIF in materia di segnalazioni di operazioni sospette"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Da invalidit a pensione vecchiaia  agevolazione per maternita da richiedere",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4183-da-invalidita-a-pensione-vecchiaia-agevolazione-per-maternita-da-richiedere.html",
+        "date": "2026-06-30T00:00:00.000Z",
+        "summary": "Trasformazione dell'assegno ordinario di invalidità in pensione di vecchiaia nel contributivo: requisiti anagrafici, agevolazione per le lavoratrici madri e scadenza domande"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Lavoro notturno definizione tutele e obblighi  del datore di lavoro",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17284-lavoro-notturno-definizione-tutele-e-obblighi-del-datore-di-lavoro.html",
+        "date": "2026-06-29T00:00:00.000Z",
+        "summary": "Sintesi in 5 punti  della disciplina del   lavoro e lavoratore notturno, nel D.Lgs. n. 66/2003. Retribuzione, divieti,  sorveglianza sanitaria,  attività usuranti"
+      },
+      {
+        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "A Milano nuova tappa del Roadshow sul terzo settore",
         "link": "https://press-magazine.it/a-milano-nuova-tappa-del-roadshow-sul-terzo-settore/",
@@ -732,6 +932,86 @@
         "link": "https://press-magazine.it/soddisfazione-dei-commercialisti-per-la-nuova-disciplina-fiscale-dei-differenziali-positivi/",
         "date": "2026-06-10T15:43:40.000Z",
         "summary": "Palzzo Chigi, sede dedl Governo Il Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili esprime “piena soddisfazione” per la nuova disciplina sul trattamento fiscale dei differenziali positivi derivanti dalla cessione e dalla compensazione di crediti […]"
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Imposta di registro - Domicilio fiscale - Esclusione (Cass. 28.6.2026 n. 22158) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109739",
+        "date": "2026-01-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Competente per i controlli l’ufficio che ha registrato l’atto\" - Augello D."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Cause di esclusione e cessazione - Professionista e partecipazione ad associazione professionale o società tra professionisti - Cause di esclusione ISA in capo all'ente collettivo - Effetti (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108823",
+        "date": "2026-01-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Se il CPB per l’ente collettivo è escluso, i professionisti sono liberi di aderire\" - Girinelli A. - Rivetti P."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Rimborsi chilometrici riconosciuti dallo studio professionale ai propri associati - Deducibilità - Condizioni - Inerenza - Orientamenti dell'Amministrazione finanziaria e della giurisprudenza (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108821",
+        "date": "2026-01-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Rimborsi chilometrici alla prova dell’inerenza\" - Augello D."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Contributo per le spedizioni di provenienza extra UE di valore non superiore a 150 euro - Chiarimenti (circ. Agenzia delle Dogane e monopoli 25.6.2026 n. 17) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109075",
+        "date": "26/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Novità dei modelli REDDITI SC 2026 e IRAP 2026 (circ. Assonime 24.6.2026 n. 17) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109031",
+        "date": "25/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Rinnovi contrattuali - Indennità e maggiorazioni - Imposte sostitutive - Novità della L. 199/2025 (Legge di bilancio 2026) - Chiarimenti (circ. Agenzia delle Entrate 24.6.2026 n. 3) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109007",
+        "date": "25/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Novità del “decreto lavoro” (DL 30.4.2026 n. 62) convertito (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457492",
+        "date": "2026-01-07T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Proroghe per il 2026 dei termini di versamento (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457661",
+        "date": "29/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Gestione separata INPS - Compilazione del quadro RR di REDDITI PF 2026 (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=456830",
+        "date": "19/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Rotazione lavoratori in CIGS quando il datore rischia il risarcimento",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4195-rotazione-lavoratori-in-cigs-quando-il-datore-rischia-il-risarcimento.html",
+        "date": "2026-06-01T00:00:00.000Z",
+        "summary": "La Cassazione  chiarisce i criteri di rotazione in CIGS: decisiva la prova concreta delle mansioni svolte e dell’intercambiabilità tra lavoratori."
       }
     ],
     "lavoro": [
@@ -995,7 +1275,297 @@
       }
     ],
     "contenzioso": [],
-    "crisi_impresa": [],
-    "finanza_agevolata": []
+    "crisi_impresa": [
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Crypto-asset, debuttano i nuovi intermediari",
+        "link": "https://www.ilsole24ore.com/art/crypto-asset-debuttano-nuovi-intermediari-AIxbCBxD",
+        "date": "2026-07-01T03:10:53.000Z",
+        "summary": "Finito il periodo transitorio: addio ai Vasp, da oggi operativi solo nove Casp"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Pmi, dalla Commissione Ue strumenti fiscali e digitali per favorire il trasferimento",
+        "link": "https://www.ilsole24ore.com/art/pmi-commissione-ue-strumenti-fiscali-e-digitali-favorire-trasferimento-AIg9D8wD",
+        "date": "2026-07-01T03:08:43.000Z",
+        "summary": "Le indicazioni fanno leva anche sulla necessità di modernizzare i sistemi giuridici, fiscali e di successione nazionali e le relative procedure"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Professioni del mare, nascono quattro nuovi titoli abilitanti",
+        "link": "https://www.ilsole24ore.com/art/professioni-mare-nascono-quattro-nuovi-titoli-abilitanti-AITyzSwD",
+        "date": "2026-07-01T03:06:31.000Z",
+        "summary": "Si tratta del comandante per il traffico costiero, il capo motorista, il conduttore motorista delle navi per il pilotaggio e il comandante dei mezzi nautici per l’ormeggio"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Dall’Ue intesa provvisoria sulla direttiva pedaggi. Mezzi pesanti a zero emissioni esenti fino al 2031",
+        "link": "https://www.ilsole24ore.com/art/dall-ue-intesa-provvisoria-direttiva-pedaggi-mezzi-pesanti-zero-emissioni-esenti-fino-2031-AIS5y5wD",
+        "date": "2026-07-01T03:02:01.000Z",
+        "summary": "L’obiettivo è allineare il testo ai nuovi standard legislativi sulle emissioni per i veicoli pesanti e fissare regole univoche e valide su tutto il territorio europeo"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Previdenza, al pensionamento scelta tra sei prestazioni per privilegiare durata o flessibilità",
+        "link": "https://www.ilsole24ore.com/art/previdenza-pensionamento-scelta-sei-prestazioni-privilegiare-durata-o-flessibilita-AIIAk8wD",
+        "date": "2026-06-30T19:07:00.000Z",
+        "summary": "Montante maturato fruibile durante il resto della vita o incassato in tempi brevi"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Tabacco grezzo, necessaria una riforma europea",
+        "link": "https://www.ilsole24ore.com/art/tabacco-grezzo-necessaria-riforma-europea-AIONThhD",
+        "date": "2026-06-30T15:06:36.000Z",
+        "summary": "Il Tribunale Ue ha riaperto la questione della «fumabilità» dei cascami, non preparati per la vendita al dettaglio"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "A Milano nuova tappa del Roadshow sul terzo settore",
+        "link": "https://press-magazine.it/a-milano-nuova-tappa-del-roadshow-sul-terzo-settore/",
+        "date": "2026-06-24T10:38:32.000Z",
+        "summary": "Dopo Assisi, Bari e Firenze, il Roadshow “Il nuovo assetto fiscale del terzo settore dopo la circolare 1/e 2026” ha fatto tappa oggi a Milano. Si tratta di un ciclo di eventi promossi da Agenzia delle […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "I Commercialisti pubblicano i “Principi di comportamento dell’Esperto della composizione negoziata”",
+        "link": "https://press-magazine.it/i-commercialisti-pubblicano-i-principi-di-comportamento-dellesperto-della-composizione-negoziata/",
+        "date": "2026-06-22T07:04:53.000Z",
+        "summary": "Il Consiglio e la Fondazione Nazionale di Ricerca dei Commercialisti hanno pubblicato i “Principi di comportamento dell’Esperto della composizione negoziata”, elaborati dalla Commissione di studio “Composizione negoziata”. Il documento, che integra e precisa i contenuti del […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Il Fondo di garanzia per le PMI al centro del webinar dei commercialisti",
+        "link": "https://press-magazine.it/il-fondo-di-garanzia-per-le-pmi-al-centro-del-webinar-dei-commercialisti/",
+        "date": "2026-06-18T15:43:10.000Z",
+        "summary": "L’intervento diretto dello Stato a sostegno delle imprese e l’operatività del Fondo di garanzia per le PMI sono stati i temi al centro del webinar “Fondo di garanzia – MCC. Sviluppo e prospettive” organizzato dal Consiglio […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "I commercialisti a Londra: Italia hub strategico per gli investimenti",
+        "link": "https://press-magazine.it/i-commercialisti-a-londra-italia-hub-strategico-per-gli-investimenti/",
+        "date": "2026-06-18T11:06:46.000Z",
+        "summary": "Il presidente del Consiglio nazionale dei commercialisti, Elbano de Nuccio, ha partecipato oggi presso l’Ambasciata d’Italia a Londra all’“UK-Italy Business & Investment Forum 2026”, organizzato dal dipartimento di Attrazione Investimenti Esteri (AIE) di ITA Londra sulle […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Commercialisti: “Su fisco e IA serve un tavolo tecnico di confronto con l’amministrazione finanziaria”",
+        "link": "https://press-magazine.it/commercialisti-su-fisco-e-ia-serve-un-tavolo-tecnico-di-confronto-con-lamministrazione-finanziaria/",
+        "date": "2026-06-17T07:22:31.000Z",
+        "summary": "Istituire un Tavolo tecnico di confronto all’interno del quale discutere e approfondire con l’Amministrazione finanziaria soluzioni finalizzate a favorire il reciproco dialogo su temi di attualità, come la gestione dei dati tramite sistemi di intelligenza artificiale. […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Da Commercialisti e Sidrea le linee guida per la sostenibilità delle startup",
+        "link": "https://press-magazine.it/da-commercialisti-e-sidrea-le-linee-guida-per-la-sostenibilita-delle-startup/",
+        "date": "2026-06-16T09:30:16.000Z",
+        "summary": "Il Consiglio nazionale dei Dottori commercialisti e degli Esperti contabili (CNDCEC) e la Società Italiana dei Docenti di Ragioneria e di Economia Aziendale (SIDREA) hanno pubblicato le “Linee guida per la sostenibilità delle startup”. Il lavoro, […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Accordo quadro AIDEA-CNDCEC per rafforzare il ponte tra università e professione",
+        "link": "https://press-magazine.it/accordo-quadro-aidea-cndcec-per-rafforzare-il-ponte-tra-universita-e-professione/",
+        "date": "2026-06-12T08:35:22.000Z",
+        "summary": "L’Accademia Italiana di Economia Aziendale (AIDEA) e il Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili (CNDCEC), due realtà che condividono da sempre valori e competenze, hanno sottoscritto un Accordo Quadro di collaborazione scientifica, formativa […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Consiglio nazionale dei Commercialisti, assegnate le deleghe",
+        "link": "https://press-magazine.it/consiglio-nazionale-commercialisti-assegnate-le-deleghe-2/",
+        "date": "2026-06-11T14:31:40.000Z",
+        "summary": "La sede del Consiglio nazionale a Roma Dopo l’elezione del Comitato esecutivo avvenuta nei giorni scorsi, nella seduta di oggi il Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili presieduto da Elbano de Nuccio ha […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Sovraindebitamento, il corso di 40 ore prorogato al 31 dicembre 2026",
+        "link": "https://press-magazine.it/sovraindebitamento-il-corso-di-40-ore-prorogato-al-31-dicembre-2026/",
+        "date": "2026-06-10T18:01:32.000Z",
+        "summary": "Sarà fruibile fino al 31 dicembre 2026 il corso di formazione e aggiornamento e-learning di 40 ore “Procedure di composizione della crisi da sovraindebitamento“, organizzato dal Consiglio Nazionale dei Commercialisti, dalla sua Fondazione ADR e dalla […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Soddisfazione dei Commercialisti per la nuova disciplina fiscale dei differenziali positivi",
+        "link": "https://press-magazine.it/soddisfazione-dei-commercialisti-per-la-nuova-disciplina-fiscale-dei-differenziali-positivi/",
+        "date": "2026-06-10T15:43:40.000Z",
+        "summary": "Palzzo Chigi, sede dedl Governo Il Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili esprime “piena soddisfazione” per la nuova disciplina sul trattamento fiscale dei differenziali positivi derivanti dalla cessione e dalla compensazione di crediti […]"
+      }
+    ],
+    "finanza_agevolata": [
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Codice della crisi d’impresa e dell’insolvenza. In consultazione pubblica la seconda parte della bozza di circolare (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/codice-della-crisi-d-impresa-e-dell-insolvenza.-in-consultazione-pubblica-la-seconda-parte-della-bozza-di-circolare",
+        "date": "2026-06-26T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "“Insieme per le imprese e le università”. È partito oggi a Roma il primo roadshow nazionale Entrate-Inps (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-25-giugno-2026",
+        "date": "2026-06-25T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Perimetro allargato per la sostitutiva Irpef al 5% sugli aumenti dei dipendenti privati. L’imposta agevolata si applica anche alle somme relative alle annualità precedenti (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-24-giugno-2026",
+        "date": "2026-06-24T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Autotrasportatori, deduzione forfetaria 2026. Indicazioni per compilare la dichiarazione dei redditi (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/cs-23-giugno-2026",
+        "date": "2026-06-23T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Agenzia delle entrate e Inps insieme per le imprese e le università. Giovedì 25 giugno a Roma la prima tappa del roadshow nazionale (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/cs-del-22-giugno-2026",
+        "date": "2026-06-22T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Compravendite immobiliari, online i dati del primo trimestre 2026. In crescita gli scambi delle abitazioni: +4,4% rispetto allo scorso anno (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-10-giugno-2026",
+        "date": "2026-06-10T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Colonnine di ricarica per le auto elettriche Pronto il servizio per gli esercenti che devono inviare i corrispettivi (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/colonnine-di-ricarica-per-le-auto-elettriche-pronto-il-servizio-per-gli-esercenti-che-devono-inviare-i-corrispettivi",
+        "date": "2026-06-03T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Mercato non residenziale, online il Rapporto annuale Entrate-Assilea. Scambi in rialzo per uffici, negozi e capannoni (+4,9%). Leasing, stipulati contratti per un valore di 3,2 miliardi di euro (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/cs-28-maggio-2026",
+        "date": "2026-05-28T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Comunicato stampa – Precisazioni",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-precisazioni",
+        "date": "2026-05-27T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "5 per mille 2025, online gli elenchi dei beneficiari e degli esclusi. Oltre 602 milioni di euro destinati a più di 96 mila enti scelti dai contribuenti (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-21-maggio-2026",
+        "date": "2026-05-21T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Mercato immobiliare residenziale in crescita nel 2025. Scambiate 767mila abitazioni (+6,4%) per 124 miliardi di euro (+8,8%). Il 46% degli acquisti di persone fisiche assistiti da mutuo ipotecario (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/mercato-immobiliare-residenziale-in-crescita-nel-2025.-scambiate-767mila-abitazioni-6-4-per-124-miliardi-di-euro-8-8-.%C2%A0-il-46-degli-acquisti-di-persone-fisiche-assistiti-da-mutuo-ipotecario",
+        "date": "2026-05-21T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Precompilata 2026, dal 23 maggio al via l’assistenza straordinaria. Call center attivo anche il sabato per rispondere alle domande dei cittadini (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/precompilata-2026-dal-23-maggio-al-via-l-assistenza-straordinaria.-call-center-attivo-anche-il-sabato-per-rispondere-alle-domande-dei-cittadini",
+        "date": "2026-05-19T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Campagna di phishing a tema rinnovo della tessera sanitaria (avviso)",
+        "link": "https://www.agenziaentrate.gov.it/portale/avviso-del-19-maggio-2026-campagna-di-phishing-a-tema-rinnovo-della-tessera-sanitaria",
+        "date": "2026-05-19T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Precompilata 2026, aperto il canale per l’invio del 730. Nelle prime due settimane oltre 4 milioni di accessi da parte dei cittadini. L’80% ha scelto la modalità semplificata (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/precompilata-2026-aperto-il-canale-per-l-invio-del-730-nelle-prime-due-settimane-oltre-4-milioni-di-accessi-da-parte-dei-cittadini-l-80-ha-scelto-la-modalità-semplificata",
+        "date": "2026-05-14T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Le novità per il Terzo settore: appuntamento il 16 maggio ad Assisi. Al via il roadshow per illustrare agli Enti le regole fiscali post-riforma (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/le-novità-per-il-terzo-settore-appuntamento-il-16-maggio-ad-assisi.-al-via-il-roadshow-per-illustrare-agli-enti-le-regole-fiscali-post-riforma",
+        "date": "2026-05-13T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Assistenza online su comunicazioni e avvisi del Fisco. Civis diventa “canale unico” per offrire ai contribuenti un servizio più smart (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/cs-12-maggio-2026",
+        "date": "2026-05-12T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "730 precompilato, è adesso possibile visualizzare la dichiarazione. Dal pomeriggio del 14 maggio si parte con l’invio (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-30-aprile-730-precompilato-è-adesso-possibile-visualizzare-la-dichiarazione.-dal-pomeriggio-del-14-maggio-si-parte-con-l-invio",
+        "date": "2026-04-30T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "730 precompilato ai nastri di partenza: dal pomeriggio del 30 aprile si può consultare online. Dal 14 maggio ok all’invio; per il click finale c’è tempo fino al 30 settembre 2026 (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-28-aprile-2026-730-precompilato-ai-nastri-di-partenza-dal-pomeriggio-del-30-aprile-si-può-consultare-online",
+        "date": "2026-04-28T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Le nuove regole fiscali per il Terzo Settore. Parte da Assisi il roadshow di Agenzia delle Entrate e Università Salesiana (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/9882844/018_Com.+st.+Roadshow+Terzo+Settore_AE_Univesita%CC%80+Pontificia+22.04.2026/50d2f1de-2acb-0861-33f7-a6c7e5918530",
+        "date": "2026-04-22T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Individuazione delle modalità per l’acquisizione degli ulteriori dati necessari ai fini dell’applicazione degli indici sintetici di affidabilità fiscale a partire dal periodo d’imposta 2025 e della elaborazione della proposta di concordato preventivo biennale a partire dai periodi d’imposta 2026 e 2027 (provvedimento)",
+        "link": "https://www.agenziaentrate.gov.it/portale/provvedimento-del-13-aprile-20261",
+        "date": "2026-04-13T00:00:00.000Z",
+        "summary": ""
+      }
+    ]
   }
 }
