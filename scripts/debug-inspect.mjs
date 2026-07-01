@@ -9,35 +9,59 @@ async function inspectDgtRassegnaStructure(browser) {
       waitUntil: 'domcontentloaded',
       timeout: 30000
     });
+    await page.waitForTimeout(3000);
 
-    try {
-      await page.waitForFunction(
-        () => /Sentenza del|Ordinanza del/.test(document.body.innerText),
-        { timeout: 15000 }
-      );
-    } catch {
-      console.log('[WARN] Testo "Sentenza del" non apparso entro 15s');
-    }
-    await page.waitForTimeout(1500);
+    const result = await page.evaluate(() => {
+      const needles = ['TFM dell', 'Rinuncia all', 'Superbonus', 'Operazioni soggettivamente'];
+      const all = Array.from(document.querySelectorAll('a, h1, h2, h3, h4, h5, p, div, span, li'));
+      const found = [];
+      for (const needle of needles) {
+        const el = all.find((e) => {
+          const own = Array.from(e.childNodes)
+            .filter((n) => n.nodeType === 3)
+            .map((n) => n.textContent)
+            .join('');
+          return own.includes(needle);
+        });
+        if (!el) {
+          found.push({ needle, error: 'not found as own text' });
+          continue;
+        }
+        const chain = [];
+        let cur = el;
+        for (let i = 0; i < 6 && cur; i++) {
+          chain.push({
+            tag: cur.tagName,
+            class: cur.getAttribute && cur.getAttribute('class'),
+            href: cur.tagName === 'A' ? cur.getAttribute('href') : undefined
+          });
+          cur = cur.parentElement;
+        }
+        found.push({ needle, tag: el.tagName, chain });
+      }
+      return found;
+    });
 
-    const bodyHtml = await page.evaluate(() => document.body.innerHTML);
-    console.log('BODY HTML LENGTH:', bodyHtml.length);
+    console.log('\n=== TITLE ELEMENTS CHAIN ===');
+    console.log(JSON.stringify(result, null, 2));
 
-    const idx = bodyHtml.indexOf('Sentenza del');
-    const idx2 = bodyHtml.indexOf('Ordinanza del');
-    const anchorIdx = idx !== -1 ? idx : idx2;
-    console.log('ANCHOR INDEX:', anchorIdx);
-
-    if (anchorIdx !== -1) {
-      const start = Math.max(0, anchorIdx - 3000);
-      const snippet = bodyHtml.slice(start, anchorIdx + 2000);
-      console.log('=== HTML SNIPPET AROUND MATCH ===');
-      console.log(snippet);
-    } else {
-      console.log('=== NO MATCH: full body text ===');
-      const text = await page.evaluate(() => document.body.innerText.slice(0, 3000));
-      console.log(text);
-    }
+    const containerSample = await page.evaluate(() => {
+      const needle = 'TFM dell';
+      const all = Array.from(document.querySelectorAll('*'));
+      const el = all.find((e) => {
+        const own = Array.from(e.childNodes)
+          .filter((n) => n.nodeType === 3)
+          .map((n) => n.textContent)
+          .join('');
+        return own.includes(needle);
+      });
+      if (!el) return null;
+      let container = el;
+      for (let i = 0; i < 3; i++) container = container.parentElement || container;
+      return container.outerHTML;
+    });
+    console.log('=== CONTAINER OUTER HTML (3 levels up from title) ===');
+    console.log(containerSample ? containerSample.slice(0, 3000) : 'NOT FOUND');
   } catch (err) {
     console.error('[ERR] DGT structure inspect:', err.message);
   } finally {
