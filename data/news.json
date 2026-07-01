@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T16:57:28.685Z",
+  "generatedAt": "2026-07-01T17:04:41.694Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -1274,7 +1274,88 @@
         "summary": "L’accelerazione su base annua dei valori si accompagna all’aumento del numero di compravendite a livello nazionale: +4,4% la variazione tendenziale nel primo trimestre 2026 secondo l’Osservatorio Omi dell’Agenzia delle Entrate"
       }
     ],
-    "contenzioso": [],
+    "contenzioso": [
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Limite temporale del divieto di nuove prove in appello",
+        "link": "https://www.dgt.mef.gov.it/gt/-/limite-temporale-del-divieto-di-nuove-prove-in-appello-1?search=true",
+        "date": "2026-05-27T00:00:00.000Z",
+        "summary": "Ordinanza\n\t\t\t\t\t\tdel \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t27/05/2026\n\t\t\t\t\t\n\t\t\t\t\t   n. 16456/Sezione 5 \n\t\t\t\t\t   - Corte di cassazione"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Rinuncia all’eredità e sanzione per omessa dichiarazione di successione",
+        "link": "https://www.dgt.mef.gov.it/gt/-/rinuncia-all-eredit%C3%A0-e-sanzione-per-omessa-dichiarazione-di-successione?search=true",
+        "date": "2026-04-27T00:00:00.000Z",
+        "summary": "Sentenza\n\t\t\t\t\t\tdel \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t27/04/2026\n\t\t\t\t\t\n\t\t\t\t\t   n. 67/Sezione 1 \n\t\t\t\t\t   - Corte di Giustizia Tributaria di primo grado di Pesaro"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "L’attendibilità del PVC non può essere inficiata dalla prova testimoniale scritta",
+        "link": "https://www.dgt.mef.gov.it/gt/-/l-attendibilit%C3%A0-del-pvc-non-pu%C3%B2-essere-inficiata-dalla-prova-testimoniale-scritta?search=true",
+        "date": "2026-04-23T00:00:00.000Z",
+        "summary": "Sentenza\n\t\t\t\t\t\tdel \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t23/04/2026\n\t\t\t\t\t\n\t\t\t\t\t   n. 454/ Sezione 1 \n\t\t\t\t\t   - Corte di Giustizia Tributaria di secondo grado della Toscana"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Deducibilità dei premi assicurativi relativi al TFM dell’amministratore",
+        "link": "https://www.dgt.mef.gov.it/gt/-/deducibilit%C3%A0-dei-premi-assicurativi-relativi-al-tfm-dell-amministratore?search=true",
+        "date": "2026-04-10T00:00:00.000Z",
+        "summary": "Sentenza\n\t\t\t\t\t\tdel \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t10/04/2026\n\t\t\t\t\t\n\t\t\t\t\t   n. 765/Sezione 6 \n\t\t\t\t\t   - Corte di Giustizia Tributaria di secondo grado della Lombardia"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Agevolazioni PPC anche alle società IAP di persone con IAP cd. “itinerante”.",
+        "link": "https://www.dgt.mef.gov.it/gt/-/agevolazioni-ppc-anche-alle-societ%C3%A0-iap-di-persone-con-iap-cd.-itinerante-.?search=true",
+        "date": "2026-04-01T00:00:00.000Z",
+        "summary": "Sentenza\n\t\t\t\t\t\tdel \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t01/04/2026\n\t\t\t\t\t\n\t\t\t\t\t   n. 12/Sezione 1 \n\t\t\t\t\t   - Corte di Giustizia Tributaria di primo grado di Grado Bolzano"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Plusvalenza derivante da cessione di immobili oggetto di \"Superbonus\": ambito di applicazione dell’art. 67, comma 1, lett. b-bis, TUIR",
+        "link": "https://www.dgt.mef.gov.it/gt/-/plusvalenza-derivante-da-cessione-di-immobili-oggetto-di-superbonus-ambito-di-applicazione-dell-art.-67-comma-1-lett.-b-bis-tuir-1?search=true",
+        "date": "2026-04-01T00:00:00.000Z",
+        "summary": "Sentenza\n\t\t\t\t\t\tdel \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t01/04/2026\n\t\t\t\t\t\n\t\t\t\t\t   n. 1368/Sezione 4 \n\t\t\t\t\t   - Corte di Giustizia Tributaria di primo grado di Milano"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Plusvalenza derivante da cessione di immobili oggetto di \"Superbonus\": ambito di applicazione dell’art. 67, comma 1, lett. b-bis, TUIR",
+        "link": "https://www.dgt.mef.gov.it/gt/-/plusvalenza-derivante-da-cessione-di-immobili-oggetto-di-superbonus-ambito-di-applicazione-dell-art.-67-comma-1-lett.-b-bis-tuir?search=true",
+        "date": "2026-04-01T00:00:00.000Z",
+        "summary": "Sentenza\n\t\t\t\t\t\tdel \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t01/04/2026\n\t\t\t\t\t\n\t\t\t\t\t   n. 1368/sezione4 \n\t\t\t\t\t   - Corte di Giustizia Tributaria di primo grado di Milano"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Operazioni soggettivamente inesistenti e buona fede del cessionario nella detrazione IVA",
+        "link": "https://www.dgt.mef.gov.it/gt/-/operazioni-soggettivamente-inesistenti-e-buona-fede-del-cessionario-nella-detrazione-iva?search=true",
+        "date": "2026-03-27T00:00:00.000Z",
+        "summary": "Sentenza\n\t\t\t\t\t\tdel \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t27/03/2026\n\t\t\t\t\t\n\t\t\t\t\t   n. 123/ Sezione 1 \n\t\t\t\t\t   - Corte di Giustizia Tributaria di primo grado di Padova"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Produzione documentale priva di attestazione di conformità e processo tributario telematico",
+        "link": "https://www.dgt.mef.gov.it/gt/-/produzione-documentale-priva-di-attestazione-di-conformit%C3%A0-e-processo-tributario-telematico?search=true",
+        "date": "2026-02-20T00:00:00.000Z",
+        "summary": "Sentenza\n\t\t\t\t\t\tdel \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t20/02/2026\n\t\t\t\t\t\n\t\t\t\t\t   n. 159/ Sezione 3 \n\t\t\t\t\t   - Corte di Giustizia Tributaria di primo grado di Benevento"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Contenzioso tributario: litisconsorzio tra ente impositore e agente della riscossione",
+        "link": "https://www.dgt.mef.gov.it/gt/-/contenzioso-tributario-litisconsorzio-tra-ente-impositore-e-agente-della-riscossione?search=true",
+        "date": "2026-02-12T00:00:00.000Z",
+        "summary": "Sentenza\n\t\t\t\t\t\tdel \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t12/02/2026\n\t\t\t\t\t\n\t\t\t\t\t   n. 1034/Sezione 9 \n\t\t\t\t\t   - Corte di Giustizia Tributaria di primo grado di Reggio Calabria"
+      }
+    ],
     "crisi_impresa": [
       {
         "category": "crisi_impresa",
