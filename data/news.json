@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T16:51:10.977Z",
+  "generatedAt": "2026-07-01T16:57:28.685Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -502,26 +502,26 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Imposta di registro - Domicilio fiscale - Esclusione (Cass. 28.6.2026 n. 22158) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109739",
-        "date": "2026-01-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Competente per i controlli l’ufficio che ha registrato l’atto\" - Augello D."
+        "title": "Partecipazioni detenute tramite una holding statica - Dividendi erogati alla holding - Mancata distribuzione ai soci persone fisiche - Abuso del diritto (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1100519",
+        "date": "30/06/2026",
+        "summary": "Il Quotidiano del Commercialista del 30.6.2026 - \"Distribuire gli utili non è erogarli ai soci se la holding è di direzione e coordinamento\" - Zanetti E."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Cause di esclusione e cessazione - Professionista e partecipazione ad associazione professionale o società tra professionisti - Cause di esclusione ISA in capo all'ente collettivo - Effetti (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108823",
-        "date": "2026-01-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Se il CPB per l’ente collettivo è escluso, i professionisti sono liberi di aderire\" - Girinelli A. - Rivetti P."
+        "title": "Dazio forfetario per le spedizioni di provenienza extra UE di valore non superiore a 150 euro - Ambito applicativo - Decorrenza dall'1.7.2026 (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108766",
+        "date": "30/06/2026",
+        "summary": "Il Quotidiano del Commercialista del 30.6.2026 - \"Da domani dazio forfetario di tre euro sulle piccole spedizioni extra Ue\" - Sbandi E."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Rimborsi chilometrici riconosciuti dallo studio professionale ai propri associati - Deducibilità - Condizioni - Inerenza - Orientamenti dell'Amministrazione finanziaria e della giurisprudenza (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108821",
-        "date": "2026-01-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Rimborsi chilometrici alla prova dell’inerenza\" - Augello D."
+        "title": "Detrazione IRPEF per gli interventi di recupero edilizio - Costruzione di box auto pertinenziale - Requisiti (risposta interpello Agenzia delle Entrate 8.6.2026 n. 118) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1098340",
+        "date": "30/06/2026",
+        "summary": "Il Quotidiano del Commercialista del 30.6.2026 - \"Detrazione per il box auto quando è pertinenza\" - Zanetti E. - Zeni A."
       },
       {
         "category": "fiscale",
@@ -550,14 +550,6 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Novità del “decreto lavoro” (DL 30.4.2026 n. 62) convertito (Tratto da Schede di Aggiornamento)",
-        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457492",
-        "date": "2026-01-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
         "title": "Proroghe per il 2026 dei termini di versamento (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457661",
         "date": "29/06/2026",
@@ -568,6 +560,14 @@
         "source": "Eutekne - Feed RSS",
         "title": "Gestione separata INPS - Compilazione del quadro RR di REDDITI PF 2026 (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=456830",
+        "date": "19/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Artigiani e commercianti - Compilazione del quadro RR di REDDITI PF 2026 (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=456831",
         "date": "19/06/2026",
         "summary": ""
       },
@@ -728,26 +728,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "CPB e associazioni notarili per i Notai non valgono le cause di esclusione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4199-cpb-e-associazioni-notarili-per-i-notai-non-valgono-le-cause-di-esclusione.html",
-        "date": "2026-07-01T00:00:00.000Z",
-        "summary": "Con lo Studio n 23/2026 il Notariato evidenzia che le associazioni notarili con particolari peculiarità sono da escludere dalle nuove cause di blocco del CPB: vediamo il perchè"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Fondi pensione nuove regole dal 1 luglio su capitale e rendite",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4198-fondi-pensione-2026-nuove-regole-dal-1-luglio-su-capitale-e-rendita.html",
         "date": "2026-07-01T00:00:00.000Z",
         "summary": "Dal 1° luglio novità sulla previdenza complementare, oltre all'adesione automatica:  tetto del 50% per il capitale. I chiarimenti COVIP  esempi e scheda  scaricabile"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Nuovo dazio forfettario di 3 euro gli ultimi chiarimenti della Commissione europea",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17287-nuovo-dazio-forfettario-di-3-euro-gli-ultimi-chiarimenti-della-commissione-europea.html",
-        "date": "2026-07-01T00:00:00.000Z",
-        "summary": "Le FAQ del 30 giugno chiariscono gli ultimi dubbi applicativi sul nuovo regime"
       },
       {
         "category": "contabile",
@@ -764,6 +748,22 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4194-metalmeccanici-pmi-ecco-quanto-cambia-in-busta-paga-da-giugno-2026.html",
         "date": "2026-07-01T00:00:00.000Z",
         "summary": "Firmato verbale Confapi del 17 giugno  aggiornati gli importi in busta paga per trasferta e reperibilità: dal 1° giugno 2026 . Confermato IPCA per i minimi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "CPB e associazioni notarili per i Notai non valgono le cause di esclusione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4199-cpb-e-associazioni-notarili-per-i-notai-non-valgono-le-cause-di-esclusione.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Con lo Studio n 23/2026 il Notariato evidenzia che le associazioni notarili con particolari peculiarità sono da escludere dalle nuove cause di blocco del CPB: vediamo il perchè"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Nuovo dazio forfettario di 3 euro gli ultimi chiarimenti della Commissione europea",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17287-nuovo-dazio-forfettario-di-3-euro-gli-ultimi-chiarimenti-della-commissione-europea.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "Le FAQ del 30 giugno chiariscono gli ultimi dubbi applicativi sul nuovo regime"
       },
       {
         "category": "contabile",
@@ -936,26 +936,26 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Imposta di registro - Domicilio fiscale - Esclusione (Cass. 28.6.2026 n. 22158) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109739",
-        "date": "2026-01-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Competente per i controlli l’ufficio che ha registrato l’atto\" - Augello D."
+        "title": "Partecipazioni detenute tramite una holding statica - Dividendi erogati alla holding - Mancata distribuzione ai soci persone fisiche - Abuso del diritto (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1100519",
+        "date": "30/06/2026",
+        "summary": "Il Quotidiano del Commercialista del 30.6.2026 - \"Distribuire gli utili non è erogarli ai soci se la holding è di direzione e coordinamento\" - Zanetti E."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Cause di esclusione e cessazione - Professionista e partecipazione ad associazione professionale o società tra professionisti - Cause di esclusione ISA in capo all'ente collettivo - Effetti (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108823",
-        "date": "2026-01-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Se il CPB per l’ente collettivo è escluso, i professionisti sono liberi di aderire\" - Girinelli A. - Rivetti P."
+        "title": "Dazio forfetario per le spedizioni di provenienza extra UE di valore non superiore a 150 euro - Ambito applicativo - Decorrenza dall'1.7.2026 (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108766",
+        "date": "30/06/2026",
+        "summary": "Il Quotidiano del Commercialista del 30.6.2026 - \"Da domani dazio forfetario di tre euro sulle piccole spedizioni extra Ue\" - Sbandi E."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Rimborsi chilometrici riconosciuti dallo studio professionale ai propri associati - Deducibilità - Condizioni - Inerenza - Orientamenti dell'Amministrazione finanziaria e della giurisprudenza (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108821",
-        "date": "2026-01-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 1.7.2026 - \"Rimborsi chilometrici alla prova dell’inerenza\" - Augello D."
+        "title": "Detrazione IRPEF per gli interventi di recupero edilizio - Costruzione di box auto pertinenziale - Requisiti (risposta interpello Agenzia delle Entrate 8.6.2026 n. 118) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1098340",
+        "date": "30/06/2026",
+        "summary": "Il Quotidiano del Commercialista del 30.6.2026 - \"Detrazione per il box auto quando è pertinenza\" - Zanetti E. - Zeni A."
       },
       {
         "category": "contabile",
@@ -984,14 +984,6 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Novità del “decreto lavoro” (DL 30.4.2026 n. 62) convertito (Tratto da Schede di Aggiornamento)",
-        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457492",
-        "date": "2026-01-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
         "title": "Proroghe per il 2026 dei termini di versamento (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457661",
         "date": "29/06/2026",
@@ -1002,6 +994,14 @@
         "source": "Eutekne - Feed RSS",
         "title": "Gestione separata INPS - Compilazione del quadro RR di REDDITI PF 2026 (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=456830",
+        "date": "19/06/2026",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Artigiani e commercianti - Compilazione del quadro RR di REDDITI PF 2026 (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=456831",
         "date": "19/06/2026",
         "summary": ""
       },
