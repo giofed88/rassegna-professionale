@@ -54,7 +54,7 @@ async function scrapeSource(source, browser) {
           title: titleEl ? titleEl.textContent.trim() : '',
           link: linkEl ? linkEl.href || linkEl.getAttribute('href') || '' : '',
           dateText: dateEl ? dateEl.textContent.trim() : '',
-          summary: summaryEl ? summaryEl.textContent.trim() : ''
+          summary: summaryEl ? summaryEl.textContent.replace(/\s+/g, ' ').trim() : ''
         };
       }),
       {
