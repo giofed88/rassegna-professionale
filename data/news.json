@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-07-01T13:55:03.873Z",
+  "generatedAt": "2026-07-01T15:42:23.970Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
     "lavoro": "Consulenza del Lavoro",
     "condominio": "Condominio",
     "contenzioso": "Contenzioso",
-    "crisi_impresa": "Crisi d'Impresa"
+    "crisi_impresa": "Crisi d'Impresa",
+    "finanza_agevolata": "Finanza Agevolata"
   },
   "items": {
     "fiscale": [
@@ -41,6 +42,14 @@
         "link": "https://www.ilsole24ore.com/art/dall-ue-intesa-provvisoria-direttiva-pedaggi-mezzi-pesanti-zero-emissioni-esenti-fino-2031-AIS5y5wD",
         "date": "2026-07-01T03:02:01.000Z",
         "summary": "L’obiettivo è allineare il testo ai nuovi standard legislativi sulle emissioni per i veicoli pesanti e fissare regole univoche e valide su tutto il territorio europeo"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Appalto genuino o somministrazione mascherata i confini secondo la Cassazione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4202-appalto-genuino-o-somministrazione-mascherata-i-confini-secondo-la-cassazione.html",
+        "date": "2026-07-01T00:00:00.000Z",
+        "summary": "La Cassazione conferma il sequestro delle quote sociali:  se l'appalto cela una somministrazione illecita di manodopera si tratta di operazioni inesistenti"
       },
       {
         "category": "fiscale",
@@ -193,14 +202,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4183-da-invalidita-a-pensione-vecchiaia-agevolazione-per-maternita-da-richiedere.html",
         "date": "2026-06-30T00:00:00.000Z",
         "summary": "Trasformazione dell'assegno ordinario di invalidità in pensione di vecchiaia nel contributivo: requisiti anagrafici, agevolazione per le lavoratrici madri e scadenza domande"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Tassazione nuove attivit agricole",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17281-tassazione-nuove-attivita-agricole.html",
-        "date": "2026-06-30T00:00:00.000Z",
-        "summary": "Le nuove attività agricole: le tarriffe di reddito agrario"
       },
       {
         "category": "fiscale",
@@ -802,6 +803,22 @@
     "condominio": [
       {
         "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Idealista.it – 1.7.2026 – Direttiva europea case green, qual è l’attenzione dell’Italia per la transizione energetica",
+        "link": "https://www.confedilizia.it/idealista-it-1-7-2026-direttiva-europea-case-green-qual-e-lattenzione-dellitalia-per-la-transizione-energetica/",
+        "date": "2026-07-01T14:44:55.000Z",
+        "summary": "L'articolo Idealista.it – 1.7.2026 – Direttiva europea case green, qual è l’attenzione dell’Italia per la transizione energetica sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Radioroma.it – 1.7.2026 – Roma, alla Confedilizia il debutto del libro “Il collezionista di ebrei”",
+        "link": "https://www.confedilizia.it/radioroma-it-1-7-2026-roma-alla-confedilizia-il-debutto-del-libro-il-collezionista-di-ebrei/",
+        "date": "2026-07-01T14:43:51.000Z",
+        "summary": "L'articolo Radioroma.it – 1.7.2026 – Roma, alla Confedilizia il debutto del libro “Il collezionista di ebrei” sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "Hotel, in Europa investimenti oltre 24 miliardi: nell’ultimo anno e mezzo chiuse 430 operazioni",
         "link": "https://www.ilsole24ore.com/art/hotel-europa-investimenti-oltre-24-miliardi-nell-ultimo-anno-e-mezzo-chiuse-430-operazioni-AIfKuTxD",
@@ -914,22 +931,6 @@
       },
       {
         "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Monitorimmobiliare.it – 28.6.2026 – Confedilizia: ristrutturare 60mila alloggi vuoti, Piano Casa da 4,8 miliardi di euro",
-        "link": "https://www.confedilizia.it/monitorimmobiliare-it-28-6-2026-confedilizia-ristrutturare-60mila-alloggi-vuoti-piano-casa-da-48-miliardi-di-euro/",
-        "date": "2026-06-30T06:51:25.000Z",
-        "summary": "L'articolo Monitorimmobiliare.it – 28.6.2026 – Confedilizia: ristrutturare 60mila alloggi vuoti, Piano Casa da 4,8 miliardi di euro sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ladiscussione.com – 28.6.2026 – Piano Casa, Confedilizia: “Priorità alle 60mila case popolari vuote”",
-        "link": "https://www.confedilizia.it/ladiscussione-com-26-6-2026-piano-casa-confedilizia-priorita-alle-60mila-case-popolari-vuote/",
-        "date": "2026-06-30T06:50:47.000Z",
-        "summary": "L'articolo Ladiscussione.com – 28.6.2026 – Piano Casa, Confedilizia: “Priorità alle 60mila case popolari vuote” sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "Capitali privati, oltre 2 miliardi nel real estate commerciale",
         "link": "https://www.ilsole24ore.com/art/capitali-privati-oltre-2-miliardi-real-estate-commerciale-AIYunRtD",
@@ -994,6 +995,7 @@
       }
     ],
     "contenzioso": [],
-    "crisi_impresa": []
+    "crisi_impresa": [],
+    "finanza_agevolata": []
   }
 }
