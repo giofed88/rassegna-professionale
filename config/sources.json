@@ -33,7 +33,7 @@
     { "name": "Confedilizia - Comunicati", "url": "https://www.confedilizia.it/feed" }
   ],
   "contenzioso": [
-    { "name": "Altalex - Fisco e Tributi", "url": "https://www.altalex.com/rss" },
+    { "name": "Altalex - Fisco e Tributi", "url": "" },
     { "name": "Il Sole 24 Ore - Diritto e Giustizia", "url": "" },
     { "name": "Corte Costituzionale - Comunicati", "url": "" },
     { "name": "Ministero della Giustizia - Comunicati", "url": "" },
@@ -52,8 +52,8 @@
   ],
   "finanza_agevolata": [
     { "name": "Agenzia delle Entrate - Novità", "url": "https://www.agenziaentrate.gov.it/portale/c/portal/rss/entrate?idrss=79b071d0-a537-4a3d-86cc-7a7d5a36f2a9" },
-    { "name": "MIMIT - Incentivi", "url": "https://www.mimit.gov.it/it/rss" },
-    { "name": "Confcommercio - Incentivi Imprese", "url": "https://www.confcommercio.it/rss" },
+    { "name": "MIMIT - Incentivi", "url": "" },
+    { "name": "Confcommercio - Incentivi Imprese", "url": "" },
     { "name": "Invitalia - Resto al Sud", "url": "" },
     { "name": "Agevolazioni alle Imprese", "url": "" }
   ]

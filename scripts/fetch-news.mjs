@@ -71,7 +71,7 @@ function dedupe(items) {
   const seen = new Set();
   const result = [];
   for (const item of items) {
-    const key = item.link || `${item.category}|${item.title}`;
+    const key = `${item.category}|${item.link || item.title}`;
     if (seen.has(key)) continue;
     seen.add(key);
     result.push(item);
