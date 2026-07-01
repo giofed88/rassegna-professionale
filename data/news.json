@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T06:50:40.991Z",
+  "generatedAt": "2026-07-01T06:55:16.864Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -651,7 +651,88 @@
         "summary": ""
       }
     ],
-    "contabile": [],
+    "contabile": [
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "A Milano nuova tappa del Roadshow sul terzo settore",
+        "link": "https://press-magazine.it/a-milano-nuova-tappa-del-roadshow-sul-terzo-settore/",
+        "date": "2026-06-24T10:38:32.000Z",
+        "summary": "Dopo Assisi, Bari e Firenze, il Roadshow “Il nuovo assetto fiscale del terzo settore dopo la circolare 1/e 2026” ha fatto tappa oggi a Milano. Si tratta di un ciclo di eventi promossi da Agenzia delle […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "I Commercialisti pubblicano i “Principi di comportamento dell’Esperto della composizione negoziata”",
+        "link": "https://press-magazine.it/i-commercialisti-pubblicano-i-principi-di-comportamento-dellesperto-della-composizione-negoziata/",
+        "date": "2026-06-22T07:04:53.000Z",
+        "summary": "Il Consiglio e la Fondazione Nazionale di Ricerca dei Commercialisti hanno pubblicato i “Principi di comportamento dell’Esperto della composizione negoziata”, elaborati dalla Commissione di studio “Composizione negoziata”. Il documento, che integra e precisa i contenuti del […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Il Fondo di garanzia per le PMI al centro del webinar dei commercialisti",
+        "link": "https://press-magazine.it/il-fondo-di-garanzia-per-le-pmi-al-centro-del-webinar-dei-commercialisti/",
+        "date": "2026-06-18T15:43:10.000Z",
+        "summary": "L’intervento diretto dello Stato a sostegno delle imprese e l’operatività del Fondo di garanzia per le PMI sono stati i temi al centro del webinar “Fondo di garanzia – MCC. Sviluppo e prospettive” organizzato dal Consiglio […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "I commercialisti a Londra: Italia hub strategico per gli investimenti",
+        "link": "https://press-magazine.it/i-commercialisti-a-londra-italia-hub-strategico-per-gli-investimenti/",
+        "date": "2026-06-18T11:06:46.000Z",
+        "summary": "Il presidente del Consiglio nazionale dei commercialisti, Elbano de Nuccio, ha partecipato oggi presso l’Ambasciata d’Italia a Londra all’“UK-Italy Business & Investment Forum 2026”, organizzato dal dipartimento di Attrazione Investimenti Esteri (AIE) di ITA Londra sulle […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Commercialisti: “Su fisco e IA serve un tavolo tecnico di confronto con l’amministrazione finanziaria”",
+        "link": "https://press-magazine.it/commercialisti-su-fisco-e-ia-serve-un-tavolo-tecnico-di-confronto-con-lamministrazione-finanziaria/",
+        "date": "2026-06-17T07:22:31.000Z",
+        "summary": "Istituire un Tavolo tecnico di confronto all’interno del quale discutere e approfondire con l’Amministrazione finanziaria soluzioni finalizzate a favorire il reciproco dialogo su temi di attualità, come la gestione dei dati tramite sistemi di intelligenza artificiale. […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Da Commercialisti e Sidrea le linee guida per la sostenibilità delle startup",
+        "link": "https://press-magazine.it/da-commercialisti-e-sidrea-le-linee-guida-per-la-sostenibilita-delle-startup/",
+        "date": "2026-06-16T09:30:16.000Z",
+        "summary": "Il Consiglio nazionale dei Dottori commercialisti e degli Esperti contabili (CNDCEC) e la Società Italiana dei Docenti di Ragioneria e di Economia Aziendale (SIDREA) hanno pubblicato le “Linee guida per la sostenibilità delle startup”. Il lavoro, […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Accordo quadro AIDEA-CNDCEC per rafforzare il ponte tra università e professione",
+        "link": "https://press-magazine.it/accordo-quadro-aidea-cndcec-per-rafforzare-il-ponte-tra-universita-e-professione/",
+        "date": "2026-06-12T08:35:22.000Z",
+        "summary": "L’Accademia Italiana di Economia Aziendale (AIDEA) e il Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili (CNDCEC), due realtà che condividono da sempre valori e competenze, hanno sottoscritto un Accordo Quadro di collaborazione scientifica, formativa […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Consiglio nazionale dei Commercialisti, assegnate le deleghe",
+        "link": "https://press-magazine.it/consiglio-nazionale-commercialisti-assegnate-le-deleghe-2/",
+        "date": "2026-06-11T14:31:40.000Z",
+        "summary": "La sede del Consiglio nazionale a Roma Dopo l’elezione del Comitato esecutivo avvenuta nei giorni scorsi, nella seduta di oggi il Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili presieduto da Elbano de Nuccio ha […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Sovraindebitamento, il corso di 40 ore prorogato al 31 dicembre 2026",
+        "link": "https://press-magazine.it/sovraindebitamento-il-corso-di-40-ore-prorogato-al-31-dicembre-2026/",
+        "date": "2026-06-10T18:01:32.000Z",
+        "summary": "Sarà fruibile fino al 31 dicembre 2026 il corso di formazione e aggiornamento e-learning di 40 ore “Procedure di composizione della crisi da sovraindebitamento“, organizzato dal Consiglio Nazionale dei Commercialisti, dalla sua Fondazione ADR e dalla […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Soddisfazione dei Commercialisti per la nuova disciplina fiscale dei differenziali positivi",
+        "link": "https://press-magazine.it/soddisfazione-dei-commercialisti-per-la-nuova-disciplina-fiscale-dei-differenziali-positivi/",
+        "date": "2026-06-10T15:43:40.000Z",
+        "summary": "Palzzo Chigi, sede dedl Governo Il Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili esprime “piena soddisfazione” per la nuova disciplina sul trattamento fiscale dei differenziali positivi derivanti dalla cessione e dalla compensazione di crediti […]"
+      }
+    ],
     "lavoro": [
       {
         "category": "lavoro",
@@ -719,6 +800,126 @@
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ilsole24ore.com – 30.6.2026 – Bonus casa, i controlli sui lavori passano anche da Google maps",
+        "link": "https://www.confedilizia.it/ilsole24ore-com-30-6-2026-bonus-casa-i-controlli-sui-lavori-passano-anche-da-google-maps/",
+        "date": "2026-07-01T06:43:57.000Z",
+        "summary": "L'articolo Ilsole24ore.com – 30.6.2026 – Bonus casa, i controlli sui lavori passano anche da Google maps sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Cassaforense.it – 30.6.2026 – La Grande Transizione del mattone: da pilastro della stabilità a trappola per i giovani",
+        "link": "https://www.confedilizia.it/cassaforense-it-30-6-2026-la-grande-transizione-del-mattone-da-pilastro-della-stabilita-a-trappola-per-i-giovani/",
+        "date": "2026-07-01T06:42:32.000Z",
+        "summary": "L'articolo Cassaforense.it – 30.6.2026 – La Grande Transizione del mattone: da pilastro della stabilità a trappola per i giovani sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Askanews.it – 30.6.2026 – Il collezionista di ebrei: presentata a Roma l’ultima fatica di Michele M. Concezzi",
+        "link": "https://www.confedilizia.it/askanews-it-30-6-2026-il-collezionista-di-ebrei-presentata-a-roma-lultima-fatica-di-michele-m-concezzi/",
+        "date": "2026-07-01T06:40:50.000Z",
+        "summary": "L'articolo Askanews.it – 30.6.2026 – Il collezionista di ebrei: presentata a Roma l’ultima fatica di Michele M. Concezzi sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Gazzettadelsud.it – 30.6.2026 – Sport, solidarietà e promozione del territorio: Confedilizia alla Corrinsieme di Santa Caterina dello Ionio",
+        "link": "https://www.confedilizia.it/gazzettadelsud-it-30-6-2026-sport-solidarieta-e-promozione-del-territorio-confedilizia-alla-corrinsieme-di-santa-caterina-dello-ionio/",
+        "date": "2026-07-01T06:39:34.000Z",
+        "summary": "L'articolo Gazzettadelsud.it – 30.6.2026 – Sport, solidarietà e promozione del territorio: Confedilizia alla Corrinsieme di Santa Caterina dello Ionio sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Idealista.it – 30.6.2026 – Piano casa, Confedilizia: importante la ristrutturazione di 60mila case popolari vuote",
+        "link": "https://www.confedilizia.it/idealista-it-30-6-2026-piano-casa-confedilizia-importante-la-ristrutturazione-di-60mila-case-popolari-vuote/",
+        "date": "2026-07-01T06:38:15.000Z",
+        "summary": "L'articolo Idealista.it – 30.6.2026 – Piano casa, Confedilizia: importante la ristrutturazione di 60mila case popolari vuote sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Italia Oggi – Luglio 2026",
+        "link": "https://www.confedilizia.it/italia-oggi-luglio-2026/",
+        "date": "2026-07-01T06:31:01.000Z",
+        "summary": "L'articolo Italia Oggi – Luglio 2026 sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Appuntamenti Luglio 2026",
+        "link": "https://www.confedilizia.it/appuntamenti-luglio-2026/",
+        "date": "2026-06-30T10:40:55.000Z",
+        "summary": "L'articolo Appuntamenti Luglio 2026 sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Cosenzaok.it – 29.6.2026 – Confedilizia alla “Corrinsieme” di Santa Caterina dello Ionio",
+        "link": "https://www.confedilizia.it/cosenzaok-it-29-6-2026-confedilizia-alla-corrinsieme-di-santa-caterina-dello-ionio/",
+        "date": "2026-06-30T07:03:15.000Z",
+        "summary": "L'articolo Cosenzaok.it – 29.6.2026 – Confedilizia alla “Corrinsieme” di Santa Caterina dello Ionio sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Crotoneok.it – 29.6.2026 – Confedilizia alla “Corrinsieme” di Santa Caterina dello Ionio",
+        "link": "https://www.confedilizia.it/crotoneok-it-29-6-2026-confedilizia-alla-corrinsieme-di-santa-caterina-dello-ionio/",
+        "date": "2026-06-30T07:02:46.000Z",
+        "summary": "L'articolo Crotoneok.it – 29.6.2026 – Confedilizia alla “Corrinsieme” di Santa Caterina dello Ionio sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Italpress.com – 29.6.2026 – Confedilizia alla “Corrinsieme” di Santa Caterina dello Ionio",
+        "link": "https://www.confedilizia.it/italpress-com-29-6-2026-confedilizia-alla-corrinsieme-di-santa-caterina-dello-ionio/",
+        "date": "2026-06-30T07:02:20.000Z",
+        "summary": "L'articolo Italpress.com – 29.6.2026 – Confedilizia alla “Corrinsieme” di Santa Caterina dello Ionio sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Lanuovacalabria.it – 29.6.2026 – Confedilizia alla “Corrinsieme” di Santa Caterina dello Ionio",
+        "link": "https://www.confedilizia.it/lanuovacalabria-it-29-6-2026-confedilizia-alla-corrinsieme-di-santa-caterina-dello-ionio/",
+        "date": "2026-06-30T06:59:26.000Z",
+        "summary": "L'articolo Lanuovacalabria.it – 29.6.2026 – Confedilizia alla “Corrinsieme” di Santa Caterina dello Ionio sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Quotidianodelsud.it – 29.6.2026 – Confedilizia alla “Corrinsieme” di Santa Caterina dello Ionio",
+        "link": "https://www.confedilizia.it/quotidianodelsud-it-29-6-2026-confedilizia-alla-corrinsieme-di-santa-caterina-dello-ionio/",
+        "date": "2026-06-30T06:57:35.000Z",
+        "summary": "L'articolo Quotidianodelsud.it – 29.6.2026 – Confedilizia alla “Corrinsieme” di Santa Caterina dello Ionio sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Monitorimmobiliare.it – 28.6.2026 – Confedilizia: ristrutturare 60mila alloggi vuoti, Piano Casa da 4,8 miliardi di euro",
+        "link": "https://www.confedilizia.it/monitorimmobiliare-it-28-6-2026-confedilizia-ristrutturare-60mila-alloggi-vuoti-piano-casa-da-48-miliardi-di-euro/",
+        "date": "2026-06-30T06:51:25.000Z",
+        "summary": "L'articolo Monitorimmobiliare.it – 28.6.2026 – Confedilizia: ristrutturare 60mila alloggi vuoti, Piano Casa da 4,8 miliardi di euro sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ladiscussione.com – 28.6.2026 – Piano Casa, Confedilizia: “Priorità alle 60mila case popolari vuote”",
+        "link": "https://www.confedilizia.it/ladiscussione-com-26-6-2026-piano-casa-confedilizia-priorita-alle-60mila-case-popolari-vuote/",
+        "date": "2026-06-30T06:50:47.000Z",
+        "summary": "L'articolo Ladiscussione.com – 28.6.2026 – Piano Casa, Confedilizia: “Priorità alle 60mila case popolari vuote” sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Tempostretto.it – 28.6.2026 – Confedilizia Messina. Case, immobili e condominio in pillole",
+        "link": "https://www.confedilizia.it/tempostretto-it-26-6-2026-confedilizia-messina-case-immobili-e-condominio-in-pillole/",
+        "date": "2026-06-30T06:50:25.000Z",
+        "summary": "L'articolo Tempostretto.it – 28.6.2026 – Confedilizia Messina. Case, immobili e condominio in pillole sembra essere il primo su Confedilizia."
+      },
       {
         "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
