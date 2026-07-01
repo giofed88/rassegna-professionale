@@ -1,7 +1,11 @@
 {
   "fiscale": [
-    { "name": "Fisco Oggi (Agenzia delle Entrate)", "url": "" },
     { "name": "Il Sole 24 Ore - Norme e Tributi", "url": "https://www.ilsole24ore.com/rss/norme-e-tributi.xml" },
+    { "name": "Agenzia delle Entrate - Novità", "url": "https://www.agenziaentrate.gov.it/portale/c/portal/rss/entrate?idrss=79b071d0-a537-4a3d-86cc-7a7d5a36f2a9" },
+    { "name": "Agenzia delle Entrate - Normativa e prassi", "url": "https://www.agenziaentrate.gov.it/portale/c/portal/rss/entrate?idrss=0753fcb1-1a42-4f8c-f40d-02793c6aefb4" },
+    { "name": "Fisco Oggi (Agenzia delle Entrate)", "url": "https://www.fiscooggi.it/rss.xml" },
+    { "name": "Fisco e Tasse", "url": "https://www.fiscoetasse.com/feed" },
+    { "name": "Ipsoa (Wolters Kluwer)", "url": "https://www.ipsoa.it/rss.xml" },
     { "name": "Gazzetta Ufficiale - Serie Generale", "url": "" },
     { "name": "MEF - Comunicati stampa", "url": "" },
     { "name": "Normattiva - Nuovi provvedimenti", "url": "" },
@@ -9,11 +13,14 @@
   ],
   "contabile": [
     { "name": "Il Sole 24 Ore - Norme e Tributi", "url": "https://www.ilsole24ore.com/rss/norme-e-tributi.xml" },
+    { "name": "Ipsoa (Wolters Kluwer)", "url": "https://www.ipsoa.it/rss.xml" },
+    { "name": "Fisco e Tasse", "url": "https://www.fiscoetasse.com/feed" },
     { "name": "CNDCEC - Comunicati", "url": "" },
     { "name": "OIC - Organismo Italiano di Contabilità", "url": "" },
     { "name": "Eutekne - Feed RSS", "url": "https://www.eutekne.it/rss.ashx" }
   ],
   "lavoro": [
+    { "name": "Ipsoa (Wolters Kluwer)", "url": "https://www.ipsoa.it/rss.xml" },
     { "name": "INPS - Notizie", "url": "" },
     { "name": "Il Sole 24 Ore - Lavoro e Carriere", "url": "" },
     { "name": "INAIL - Comunicati", "url": "" },
@@ -35,6 +42,7 @@
   "crisi_impresa": [
     { "name": "Gazzetta Ufficiale - Serie Generale", "url": "" },
     { "name": "Il Sole 24 Ore - Norme e Tributi", "url": "https://www.ilsole24ore.com/rss/norme-e-tributi.xml" },
+    { "name": "Ipsoa (Wolters Kluwer)", "url": "https://www.ipsoa.it/rss.xml" },
     { "name": "CNDCEC - Crisi d'impresa", "url": "" },
     { "name": "Normattiva - Nuovi provvedimenti", "url": "" }
   ]
