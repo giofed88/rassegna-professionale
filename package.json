@@ -8,11 +8,9 @@
     "fetch": "node scripts/fetch-news.mjs",
     "fetch:scraped": "node scripts/fetch-scraped.mjs",
     "fetch:auth": "node scripts/fetch-authenticated.mjs",
-    "fetch:all": "npm run fetch && npm run fetch:scraped && npm run fetch:auth",
-    "summarize": "node scripts/summarize-news.mjs"
+    "fetch:all": "npm run fetch && npm run fetch:scraped && npm run fetch:auth"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.54.0",
     "playwright": "^1.48.0",
     "rss-parser": "^3.13.0"
   }
