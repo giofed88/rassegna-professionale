@@ -46,13 +46,6 @@ jobs:
           MYSOLUTION_USERNAME: ${{ secrets.MYSOLUTION_USERNAME }}
           MYSOLUTION_PASSWORD: ${{ secrets.MYSOLUTION_PASSWORD }}
 
-      - name: DEBUG - Inspect Eutekne/DGT MEF pages
-        run: node scripts/debug-inspect.mjs
-        timeout-minutes: 5
-        env:
-          EUTEKNE_USERNAME: ${{ secrets.EUTEKNE_USERNAME }}
-          EUTEKNE_PASSWORD: ${{ secrets.EUTEKNE_PASSWORD }}
-
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"

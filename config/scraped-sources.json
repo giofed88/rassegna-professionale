@@ -11,5 +11,18 @@
     "dateSelector": "span.data small",
     "summarySelector": ".card-text p",
     "_note": "Pagina elenco notizie dedotta dal pattern URL dell'articolo (/news/trend-interviste/...). Da verificare al primo run reale, perché non è stato possibile raggiungere il dominio da questo ambiente per confermarla."
+  },
+  {
+    "id": "dgt_sentenze_tributarie",
+    "name": "DGT MEF - Rassegna Sentenze Tributarie",
+    "category": "contenzioso",
+    "newsUrl": "https://www.dgt.mef.gov.it/gt/rassegna-sentenze-tributarie",
+    "waitForSelector": "li.list-group-item",
+    "itemSelector": "li.list-group-item",
+    "titleSelector": "p.par_sent a",
+    "linkSelector": "p.par_sent a",
+    "dateSelector": "p.descr_sent",
+    "summarySelector": "p.descr_sent",
+    "_note": "Banca dati pubblica del Dipartimento della Giustizia Tributaria (MEF), nessun login richiesto. Struttura confermata tramite ispezione diretta su GitHub Actions: li.list-group-item > div.list-group-item-content > div.asset-abstract con p.par_sent (titolo+link) e p.descr_sent (estremi sentenza/corte, contiene anche la data in formato DD/MM/YYYY)."
   }
 ]
