@@ -33,17 +33,28 @@
     { "name": "Confedilizia - Comunicati", "url": "https://www.confedilizia.it/feed" }
   ],
   "contenzioso": [
+    { "name": "Altalex - Fisco e Tributi", "url": "https://www.altalex.com/rss" },
     { "name": "Il Sole 24 Ore - Diritto e Giustizia", "url": "" },
     { "name": "Corte Costituzionale - Comunicati", "url": "" },
     { "name": "Ministero della Giustizia - Comunicati", "url": "" },
     { "name": "Corte di Cassazione - Comunicati", "url": "" },
+    { "name": "DGT MEF - Rassegna Sentenze Tributarie", "url": "" },
+    { "name": "Ipsoa - Contenzioso Tributario", "url": "" },
     { "name": "Normattiva - Nuovi provvedimenti", "url": "" }
   ],
   "crisi_impresa": [
     { "name": "Gazzetta Ufficiale - Serie Generale", "url": "" },
     { "name": "Il Sole 24 Ore - Norme e Tributi", "url": "https://www.ilsole24ore.com/rss/norme-e-tributi.xml" },
-    { "name": "Ipsoa (Wolters Kluwer)", "url": "" },
+    { "name": "Ipsoa - Crisi d'Impresa e Continuità Aziendale", "url": "" },
+    { "name": "Lefebvre Giuffrè - Crisi di Impresa", "url": "" },
     { "name": "CNDCEC - Crisi d'impresa", "url": "https://commercialisti.it/feed" },
     { "name": "Normattiva - Nuovi provvedimenti", "url": "" }
+  ],
+  "finanza_agevolata": [
+    { "name": "Agenzia delle Entrate - Novità", "url": "https://www.agenziaentrate.gov.it/portale/c/portal/rss/entrate?idrss=79b071d0-a537-4a3d-86cc-7a7d5a36f2a9" },
+    { "name": "MIMIT - Incentivi", "url": "https://www.mimit.gov.it/it/rss" },
+    { "name": "Confcommercio - Incentivi Imprese", "url": "https://www.confcommercio.it/rss" },
+    { "name": "Invitalia - Resto al Sud", "url": "" },
+    { "name": "Agevolazioni alle Imprese", "url": "" }
   ]
 }

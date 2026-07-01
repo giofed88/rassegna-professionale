@@ -12,7 +12,8 @@ const CATEGORY_LABELS = {
   lavoro: 'Consulenza del Lavoro',
   condominio: 'Condominio',
   contenzioso: 'Contenzioso',
-  crisi_impresa: "Crisi d'Impresa"
+  crisi_impresa: "Crisi d'Impresa",
+  finanza_agevolata: 'Finanza Agevolata'
 };
 
 const parser = new Parser();
