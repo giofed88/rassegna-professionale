@@ -3,6 +3,12 @@
 /**
  * conta-fino-3.mjs - Simple test script to demonstrate LLM counting
  * Uses ANTHROPIC_BASE_URL, ANTHROPIC_AUTH_TOKEN, and ANTHROPIC_MODEL env vars
+ *
+ * Example with OpenRouter:
+ *   ANTHROPIC_BASE_URL="https://openrouter.ai/api/v1" \
+ *   ANTHROPIC_AUTH_TOKEN="$(cat ~/.glm/openrouter.key)" \
+ *   ANTHROPIC_MODEL="z-ai/glm-4.6" \
+ *   node scripts/conta-fino-3.mjs
  */
 
 const baseUrl = process.env.ANTHROPIC_BASE_URL || 'https://api.anthropic.com/v1';
