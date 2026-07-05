@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T11:08:23.327Z",
+  "generatedAt": "2026-07-05T11:20:07.204Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -11,6 +11,22 @@
   },
   "items": {
     "fiscale": [
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "La Cedu condanna l’Italia per sentenza «sessista e stereotipata»",
+        "link": "https://www.ilsole24ore.com/art/la-cedu-condanna-l-italia-sentenza-sessista-e-stereotipata-AIXYSW1D",
+        "date": "2026-07-05T11:10:33.000Z",
+        "summary": "La Corte Europea dei Diritti dell’Uomo - condannando l’Italia perché la giustizia civile e penale ha impiegato troppo tempo per decidere su un caso di violenza domestica che ha coinvolto..."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Cedolare secca e Modello RLI guida con scadenze 2026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4223-cedolare-secca-e-modello-rli-guida-con-scadenze-2026.html",
+        "date": "2026-07-05T00:00:00.000Z",
+        "summary": "Modello RLI cedolare secca requisiti: scarica gratis check list con la guida passo passo per procedere"
+      },
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -50,14 +66,6 @@
         "link": "https://www.ilsole24ore.com/art/rivela-segreto-d-ufficio-carabiniere-che-avvisa-ispezione-cantiere-AILL79zD",
         "date": "2026-07-04T03:02:00.000Z",
         "summary": "La soffiata unita all'invito a tenere lontani i lavoratori irregolari. Svilita la divisa per una rivelazione su un tema di grande impatto sociale come la sicurezza sul lavoro"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "L’autotutela successiva al ricorso non evita la condanna alle spese",
-        "link": "https://www.ilsole24ore.com/art/l-autotutela-successiva-ricorso-non-evita-condanna-spese-AIWEVA0D",
-        "date": "2026-07-03T13:30:00.000Z",
-        "summary": "Per la Corte di giustizia tributaria di secondo grado della Campania resta applicabile il principio della soccombenza virtuale"
       },
       {
         "category": "fiscale",
@@ -234,14 +242,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4202-appalto-genuino-o-somministrazione-mascherata-i-confini-secondo-la-cassazione.html",
         "date": "2026-07-02T00:00:00.000Z",
         "summary": "La Cassazione conferma il sequestro delle quote sociali:  se l'appalto cela una somministrazione illecita di manodopera si tratta di operazioni inesistenti"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Sono deducibili le spese per transazioni da responsabilit verso il professionista",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12866-sono-deducibili-le-spese-per-transazioni-da-responsabilita-verso-il-professionista.html",
-        "date": "2026-07-01T00:00:00.000Z",
-        "summary": "Focus giurisprudenziale sulla deducibilità delle somme versate per chiudere liti professionali"
       },
       {
         "category": "fiscale",
@@ -688,10 +688,18 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Dal 17 luglio scatta l’obbligo dell’rc auto per i monopattini",
-        "link": "https://www.ilsole24ore.com/art/dal-17-luglio-scatta-l-obbligo-dell-rc-auto-i-monopattini-AISaBz0D",
-        "date": "2026-07-04T11:06:28.000Z",
-        "summary": "Tra due settimane, il 17 luglio, scatta l’obbligo dell’rc auto per chi usa i monopattini. Le società di sharing si sono già adeguate alla nuova normativa ma resta da capire..."
+        "title": "La Cedu condanna l’Italia per sentenza «sessista e stereotipata»",
+        "link": "https://www.ilsole24ore.com/art/la-cedu-condanna-l-italia-sentenza-sessista-e-stereotipata-AIXYSW1D",
+        "date": "2026-07-05T11:10:33.000Z",
+        "summary": "La Corte Europea dei Diritti dell’Uomo - condannando l’Italia perché la giustizia civile e penale ha impiegato troppo tempo per decidere su un caso di violenza domestica che ha coinvolto..."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Cedolare secca e Modello RLI guida con scadenze 2026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4223-cedolare-secca-e-modello-rli-guida-con-scadenze-2026.html",
+        "date": "2026-07-05T00:00:00.000Z",
+        "summary": "Modello RLI cedolare secca requisiti: scarica gratis check list con la guida passo passo per procedere"
       },
       {
         "category": "contabile",
@@ -900,14 +908,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4202-appalto-genuino-o-somministrazione-mascherata-i-confini-secondo-la-cassazione.html",
         "date": "2026-07-02T00:00:00.000Z",
         "summary": "La Cassazione conferma il sequestro delle quote sociali:  se l'appalto cela una somministrazione illecita di manodopera si tratta di operazioni inesistenti"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Sono deducibili le spese per transazioni da responsabilit verso il professionista",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12866-sono-deducibili-le-spese-per-transazioni-da-responsabilita-verso-il-professionista.html",
-        "date": "2026-07-01T00:00:00.000Z",
-        "summary": "Focus giurisprudenziale sulla deducibilità delle somme versate per chiudere liti professionali"
       },
       {
         "category": "contabile",
@@ -1384,10 +1384,10 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Dal 17 luglio scatta l’obbligo dell’rc auto per i monopattini",
-        "link": "https://www.ilsole24ore.com/art/dal-17-luglio-scatta-l-obbligo-dell-rc-auto-i-monopattini-AISaBz0D",
-        "date": "2026-07-04T11:06:28.000Z",
-        "summary": "Tra due settimane, il 17 luglio, scatta l’obbligo dell’rc auto per chi usa i monopattini. Le società di sharing si sono già adeguate alla nuova normativa ma resta da capire..."
+        "title": "La Cedu condanna l’Italia per sentenza «sessista e stereotipata»",
+        "link": "https://www.ilsole24ore.com/art/la-cedu-condanna-l-italia-sentenza-sessista-e-stereotipata-AIXYSW1D",
+        "date": "2026-07-05T11:10:33.000Z",
+        "summary": "La Corte Europea dei Diritti dell’Uomo - condannando l’Italia perché la giustizia civile e penale ha impiegato troppo tempo per decidere su un caso di violenza domestica che ha coinvolto..."
       },
       {
         "category": "crisi_impresa",
