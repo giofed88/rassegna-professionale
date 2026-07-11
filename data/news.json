@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T13:20:00.136Z",
+  "generatedAt": "2026-07-11T10:06:56.702Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -14,26 +14,90 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Credito d'imposta per investimenti in beni materiali 4.0 prenotati nel 2025 ed effettuati entro il 30.6.2026 - Comunicazione di completamento - Termine del 31.7.2026 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109853",
-        "date": "2026-09-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 9.7.2026 - \"Comunicazione di completamento per il tax credit 4.0 entro il 31 luglio\" - Alberti P."
+        "title": "Procedure di accettazione dell'incarico di revisione - Valutazione di tempi e risorse disponibili (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112619",
+        "date": "2026-10-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Dimensioni e settore dell’azienda per valutare le risorse del revisore da impiegare\" - De Rosa S."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Titolarità effettiva - Accesso ai dati - DLgs. 10.6.2026 n 122 - Pubblicazione sulla G.U. 8.7.2026 n. 156 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1110035",
-        "date": "2026-09-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 9.7.2026 - \"Per i dati dei titolari effettivi serve il legittimo interesse\" - Meoli M."
+        "title": "Monitoraggio UEFA della sostenibilità economico-finanziaria dei club -  Applicazione del nuovo sistema fondato sulla football earnings rule (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112888",
+        "date": "2026-10-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Con la sanzione UEFA, per la Juventus settlement triennale e multa fino a 20 milioni\" - Marcello R."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Dazi imposti dagli Stati Uniti d'America - Misura ed effetti - Accordo commerciale con l'UE - Prova dell'origine (regolamento (UE) 25.6.2026 n. 1455) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112725",
-        "date": "2026-09-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 9.7.2026 - \"Prova dell’origine libera per il dazio zero ai beni Usa\" - Sbandi E."
+        "title": "Prodotti provenienti da Paesi terzi - Immissione in libera pratica - Immissione sul mercato - Nozione (circ. Agenzia delle Dogane e dei Monopoli 8.7.2026 n. 18) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112872",
+        "date": "2026-10-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Chiariti i requisiti per l’immissione sul mercato dei prodotti provenienti da Paesi terzi\" - Ugolini L."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Fusione per incorporazione tra enti religiosi civilmente riconosciuti - Rilevanza ai fini IVA, delle imposte di registro, ipotecaria e catastale e delle imposte sui redditi (principio di diritto Agenzia delle Entrate 7.7.2026 n. 1) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1112184",
+        "date": "2026-08-07T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Richieste di asilo, il Csm lancia l’allarme sui carichi di lavoro",
+        "link": "https://www.ilsole24ore.com/art/richieste-asilo-csm-lancia-l-allarme-carichi-lavoro-AJiiMeF",
+        "date": "2026-07-11T03:08:32.000Z",
+        "summary": "Nel parere del plenum tutte le criticità del Patto europeo. L’Italia a regime gestirà il 26% dei fascicoli nell’Ue"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Il condomino che cede gratis l’alloggio al portiere ha diritto a un indennizzo",
+        "link": "https://www.ilsole24ore.com/art/il-condomino-che-cede-gratis-l-alloggio-portiere-ha-diritto-un-indennizzo-AJQDudF",
+        "date": "2026-07-11T03:06:22.000Z",
+        "summary": "Dalla cifra deve essere detratto il risparmio ottenuto sulle spese di portierato"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Frodi, nel 2025 in Italia calano i casi legati all’uso di identità di soggetti deceduti",
+        "link": "https://www.ilsole24ore.com/art/frodi-2025-italia-calano-casi-legati-all-uso-identita-soggetti-deceduti-AJpkDgF",
+        "date": "2026-07-11T03:04:12.000Z",
+        "summary": "La riduzione del 50% è legata all’effetto deterrente dato dal collegamento con la banca dati dell’Anpr, che consente verifiche tempestive sulle identità"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Dichiarazione redditi, in Italia un contribuente su quattro si fa aiutare da un professionista",
+        "link": "https://www.ilsole24ore.com/art/dichiarazione-redditi-italia-contribuente-quattro-si-fa-aiutare-un-professionista-AJht1eF",
+        "date": "2026-07-11T03:02:00.000Z",
+        "summary": "Tra i 27 Stati dell’Ue il nostro Paese detiene il primato: 25% contro la media comunitaria dell’8%. Seguono Slovacchia, Grecia e Repubblica Ceca"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Detrazioni edilizie 20252027 guida a aliquote e tetti di spesa",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4254-detrazioni-edilizie-2025-2027-guida-a-aliquote-e-tetti-di-spesa.html",
+        "date": "2026-07-11T00:00:00.000Z",
+        "summary": "Sisma bonus, ecobonus, ristrutturazioni: le aliquote aggiornate nel nuovo TUIR che entrerà in vigore dal 2027. Scarica la check list con il riepilogo"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Fusione per incorporazione di ente religioso Corretto trattamento tributario",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17306-fusione-per-incorporazione-di-ente-religioso-corretto-trattamento-tributario.html",
+        "date": "2026-07-11T00:00:00.000Z",
+        "summary": "Trattamento tributario di una fusione per incorpporazione di ente religioso: principio di Diritto ADE n 1/2026"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Liquidazione societaria e cessazione CPB  chiarimenti ADE",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4244-liquiadazione-societaria-e-cessazione-cpb-chiarimenti-ade.html",
+        "date": "2026-07-11T00:00:00.000Z",
+        "summary": "L'Ade chiarisce il perimetro della cessazione dal CPB per liquidazione societaria: analisi del caso di specie del socio d'opera superstite"
       },
       {
         "category": "fiscale",
@@ -42,38 +106,6 @@
         "link": "https://www.ilsole24ore.com/art/diritto-sciopero-limitato-logistica-che-muove-beni-essenziali-gomma-AJzBdaE",
         "date": "2026-07-10T03:10:44.000Z",
         "summary": "Spetta ai sindacati verificare se l’attività aziendale rientra tra quelle tutelate"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "America’s Cup, anche Iva e bollo si aggiungono alle agevolazioni",
-        "link": "https://www.ilsole24ore.com/art/america-s-cup-anche-iva-e-bollo-si-aggiungono-agevolazioni-AJ3gjYE",
-        "date": "2026-07-10T03:08:34.000Z",
-        "summary": "Regime speciale applicabile alle richieste di rimborso per le società extra Ue. Esentate dall’imposta anche le autorizzazioni per le frequenze radio"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "America’s Cup, contratti a termine con regole speciali",
-        "link": "https://www.ilsole24ore.com/art/america-s-cup-contratti-termine-regole-speciali-AJHCfYE",
-        "date": "2026-07-10T03:06:23.000Z",
-        "summary": "Fino a dicembre 2027 l’evento giustifica una durata superiore a 12 mesi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Il Diario di Anna Frank gratis online ma nel rispetto del diritto d’autore",
-        "link": "https://www.ilsole24ore.com/art/il-diario-anna-frank-gratis-online-ma-rispetto-diritto-d-autore-AJWLDIE",
-        "date": "2026-07-10T03:04:13.000Z",
-        "summary": "L’accesso digitale deve essere escluso per i Paesi in cui il copyright è ancora in vigore"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Magistrati tributari, per il secondo concorso iscrizioni fino al 6 agosto",
-        "link": "https://www.ilsole24ore.com/art/magistrati-tributari-il-secondo-concorso-iscrizioni-fino-6-agosto-AJSniLE",
-        "date": "2026-07-10T03:02:01.000Z",
-        "summary": "I posti in palio saranno 180. Prevista una preselezione, uno scritto e una prova orale. Domande da inviare sul portale inPA"
       },
       {
         "category": "fiscale",
@@ -189,14 +221,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rifinanziate le attività sportive e ricreative per i minori",
-        "link": "https://www.ilsole24ore.com/art/rifinanziate-attivita-sportive-e-ricreative-i-minori-AJikL3D",
-        "date": "2026-07-09T18:12:00.000Z",
-        "summary": "Il decreto legge 108/2026 stanzia due milioni di euro, ma interviene anche sui grandi eventi come gli Europei di calcio e i Giochi del Mediterraneo"
-      },
-      {
-        "category": "fiscale",
         "source": "Fisco e Tasse",
         "title": "ZES Agricola tutte le regole aggiornate al 2026",
         "link": "https://www.fiscoetasse.com/approfondimenti/17303-zes-agricola-tutte-le-regole-aggiornate-al-2026.html",
@@ -218,14 +242,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17302-agevolazioni-immobiliari-ets-il-quinquennio-e-un-obbligo-di-possesso.html",
         "date": "2026-07-09T00:00:00.000Z",
         "summary": "Immobile istituzionale di ETS: chiarimenti sulla detenzione ed eventuale termine di utilizzo per l''agevolazione ex art. 82 CTS"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Liquidazione societaria e cessazione CPB  chiarimenti ADE",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4244-liquiadazione-societaria-e-cessazione-cpb-chiarimenti-ade.html",
-        "date": "2026-07-09T00:00:00.000Z",
-        "summary": "L'Ade chiarisce il perimetro della cessazione dal CPB per liquidazione societaria: analisi del caso di specie del socio d'opera superstite"
       },
       {
         "category": "fiscale",
@@ -277,22 +293,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Economia sociale il Governo presenta le mosse dellItalia",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17301-economia-sociale-il-governo-presenta-le-mosse-dellitalia.html",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": "Il nuovo Piano d’Azione Nazionale per l’Economia Sociale: inquadramento e prospettive di riforma"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Concorso magistrati tributari 2026 al via  come partecipare",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17300-concorso-magistrati-tributari-2026-180-posti-al-via-come-partecipare.html",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": "Pubblicato l'atteso  bando per 180 posti di magistrato tributario: requisiti, modalità di domanda  prove d'esame  e materie da affrontare per la nomina. Scadenza 6 agosto"
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Novità",
         "title": "Adempimento collaborativo, aggiornate le linee guida sul rischio fiscale. Dal tavolo Entrate-OIC nuove indicazioni per le imprese (comunicato stampa)",
         "link": "https://www.agenziaentrate.gov.it/portale/-/adempimento-collaborativo-aggiornate-le-linee-guida-sul-rischio-fiscale.-dal-tavolo-entrate-oic-nuove-indicazioni-per-le-imprese",
@@ -304,6 +304,22 @@
         "source": "Agenzia delle Entrate - Normativa e prassi",
         "title": "Principio di diritto: Trattamento tributario di operazioni di fusione per incorporazione tra enti religiosi civilmente riconosciuti – Rilevanza ai fini IVA, delle imposte di registro, ipotecaria e catastale, e delle imposte sui redditi – Criteri di trasferimento dei beni tra sfera istituzionale e sfera commerciale. (risposta n. 1)",
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10197114/Risposta+con+principi+di+diritto+n.+1_2026/5f6e9d2d-8f52-7b2f-4908-d46f6dd711b0",
+        "date": "2026-07-07T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Applicazione degli ISA per il periodo d’imposta 2025 - Chiarimenti (circ. Agenzia delle Entrate 6.7.2026 n. 4) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1111390",
+        "date": "2026-07-07T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Agevolazioni per i trasferimenti immobiliari a favore di Enti del Terzo Settore - Condizioni agevolative - Trasferimento nel quinquennio - Decadenza - Esclusione (risposta interpello Agenzia delle Entrate 6.7.2026 n. 134) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1111339",
         "date": "2026-07-07T00:00:00.000Z",
         "summary": ""
       },
@@ -558,30 +574,6 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Credito d'imposta transizione 5.0 - Nuovo credito d'imposta per comunicazioni presentate con esaurimento dei fondi ex DL 38/2026 - Indicazione nel modello REDDITI - Rilevanza della comunicazione del GSE (FAQ Agenzia delle Entrate 30.6.2026) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109775",
-        "date": "2026-02-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Imputazione dell'apporto a patrimonio - Assenza di aumento di capitale sociale - Applicabilità del realizzo controllato (Studio Consiglio nazionale del Notariato n. 37-2026/T) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109844",
-        "date": "2026-02-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Applicabilità sino al 30.6.2026 - Rinnovo della misura di deroga - Proposta della Commissione europea - Continuità applicativa (comunicato stampa Min. Economia e finanze 30.6.2026 n. 77) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109738",
-        "date": "2026-01-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
         "title": "Novità del “decreto lavoro” (DL 30.4.2026 n. 62) convertito (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457492",
         "date": "2026-01-07T00:00:00.000Z",
@@ -696,26 +688,98 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Credito d'imposta per investimenti in beni materiali 4.0 prenotati nel 2025 ed effettuati entro il 30.6.2026 - Comunicazione di completamento - Termine del 31.7.2026 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109853",
-        "date": "2026-09-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 9.7.2026 - \"Comunicazione di completamento per il tax credit 4.0 entro il 31 luglio\" - Alberti P."
+        "title": "Procedure di accettazione dell'incarico di revisione - Valutazione di tempi e risorse disponibili (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112619",
+        "date": "2026-10-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Dimensioni e settore dell’azienda per valutare le risorse del revisore da impiegare\" - De Rosa S."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Titolarità effettiva - Accesso ai dati - DLgs. 10.6.2026 n 122 - Pubblicazione sulla G.U. 8.7.2026 n. 156 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1110035",
-        "date": "2026-09-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 9.7.2026 - \"Per i dati dei titolari effettivi serve il legittimo interesse\" - Meoli M."
+        "title": "Monitoraggio UEFA della sostenibilità economico-finanziaria dei club -  Applicazione del nuovo sistema fondato sulla football earnings rule (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112888",
+        "date": "2026-10-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Con la sanzione UEFA, per la Juventus settlement triennale e multa fino a 20 milioni\" - Marcello R."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Dazi imposti dagli Stati Uniti d'America - Misura ed effetti - Accordo commerciale con l'UE - Prova dell'origine (regolamento (UE) 25.6.2026 n. 1455) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112725",
-        "date": "2026-09-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 9.7.2026 - \"Prova dell’origine libera per il dazio zero ai beni Usa\" - Sbandi E."
+        "title": "Prodotti provenienti da Paesi terzi - Immissione in libera pratica - Immissione sul mercato - Nozione (circ. Agenzia delle Dogane e dei Monopoli 8.7.2026 n. 18) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112872",
+        "date": "2026-10-07T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Chiariti i requisiti per l’immissione sul mercato dei prodotti provenienti da Paesi terzi\" - Ugolini L."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Fusione per incorporazione tra enti religiosi civilmente riconosciuti - Rilevanza ai fini IVA, delle imposte di registro, ipotecaria e catastale e delle imposte sui redditi (principio di diritto Agenzia delle Entrate 7.7.2026 n. 1) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1112184",
+        "date": "2026-08-07T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Richieste di asilo, il Csm lancia l’allarme sui carichi di lavoro",
+        "link": "https://www.ilsole24ore.com/art/richieste-asilo-csm-lancia-l-allarme-carichi-lavoro-AJiiMeF",
+        "date": "2026-07-11T03:08:32.000Z",
+        "summary": "Nel parere del plenum tutte le criticità del Patto europeo. L’Italia a regime gestirà il 26% dei fascicoli nell’Ue"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Il condomino che cede gratis l’alloggio al portiere ha diritto a un indennizzo",
+        "link": "https://www.ilsole24ore.com/art/il-condomino-che-cede-gratis-l-alloggio-portiere-ha-diritto-un-indennizzo-AJQDudF",
+        "date": "2026-07-11T03:06:22.000Z",
+        "summary": "Dalla cifra deve essere detratto il risparmio ottenuto sulle spese di portierato"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Frodi, nel 2025 in Italia calano i casi legati all’uso di identità di soggetti deceduti",
+        "link": "https://www.ilsole24ore.com/art/frodi-2025-italia-calano-casi-legati-all-uso-identita-soggetti-deceduti-AJpkDgF",
+        "date": "2026-07-11T03:04:12.000Z",
+        "summary": "La riduzione del 50% è legata all’effetto deterrente dato dal collegamento con la banca dati dell’Anpr, che consente verifiche tempestive sulle identità"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Dichiarazione redditi, in Italia un contribuente su quattro si fa aiutare da un professionista",
+        "link": "https://www.ilsole24ore.com/art/dichiarazione-redditi-italia-contribuente-quattro-si-fa-aiutare-un-professionista-AJht1eF",
+        "date": "2026-07-11T03:02:00.000Z",
+        "summary": "Tra i 27 Stati dell’Ue il nostro Paese detiene il primato: 25% contro la media comunitaria dell’8%. Seguono Slovacchia, Grecia e Repubblica Ceca"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Detrazioni edilizie 20252027 guida a aliquote e tetti di spesa",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4254-detrazioni-edilizie-2025-2027-guida-a-aliquote-e-tetti-di-spesa.html",
+        "date": "2026-07-11T00:00:00.000Z",
+        "summary": "Sisma bonus, ecobonus, ristrutturazioni: le aliquote aggiornate nel nuovo TUIR che entrerà in vigore dal 2027. Scarica la check list con il riepilogo"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Fusione per incorporazione di ente religioso Corretto trattamento tributario",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17306-fusione-per-incorporazione-di-ente-religioso-corretto-trattamento-tributario.html",
+        "date": "2026-07-11T00:00:00.000Z",
+        "summary": "Trattamento tributario di una fusione per incorpporazione di ente religioso: principio di Diritto ADE n 1/2026"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Liquidazione societaria e cessazione CPB  chiarimenti ADE",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4244-liquiadazione-societaria-e-cessazione-cpb-chiarimenti-ade.html",
+        "date": "2026-07-11T00:00:00.000Z",
+        "summary": "L'Ade chiarisce il perimetro della cessazione dal CPB per liquidazione societaria: analisi del caso di specie del socio d'opera superstite"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Grazie al dialogo con l’Agenzia più tempo per i controlli formali delle dichiarazioni",
+        "link": "https://press-magazine.it/grazie-al-dialogo-con-lagenzia-piu-tempo-per-i-controlli-formali-delle-dichiarazioni/",
+        "date": "2026-07-10T17:18:59.000Z",
+        "summary": "Ci sarà più tempo per trasmettere la documentazione richiesta nell’ambito del controllo formale delle dichiarazioni dei redditi relative al periodo d’imposta 2023, previsto dall’art. 36-ter del D.P.R. 600/1973. Lo rende noto il Consiglio nazionale dei commercialisti, […]"
       },
       {
         "category": "contabile",
@@ -724,38 +788,6 @@
         "link": "https://www.ilsole24ore.com/art/diritto-sciopero-limitato-logistica-che-muove-beni-essenziali-gomma-AJzBdaE",
         "date": "2026-07-10T03:10:44.000Z",
         "summary": "Spetta ai sindacati verificare se l’attività aziendale rientra tra quelle tutelate"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "America’s Cup, anche Iva e bollo si aggiungono alle agevolazioni",
-        "link": "https://www.ilsole24ore.com/art/america-s-cup-anche-iva-e-bollo-si-aggiungono-agevolazioni-AJ3gjYE",
-        "date": "2026-07-10T03:08:34.000Z",
-        "summary": "Regime speciale applicabile alle richieste di rimborso per le società extra Ue. Esentate dall’imposta anche le autorizzazioni per le frequenze radio"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "America’s Cup, contratti a termine con regole speciali",
-        "link": "https://www.ilsole24ore.com/art/america-s-cup-contratti-termine-regole-speciali-AJHCfYE",
-        "date": "2026-07-10T03:06:23.000Z",
-        "summary": "Fino a dicembre 2027 l’evento giustifica una durata superiore a 12 mesi"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Il Diario di Anna Frank gratis online ma nel rispetto del diritto d’autore",
-        "link": "https://www.ilsole24ore.com/art/il-diario-anna-frank-gratis-online-ma-rispetto-diritto-d-autore-AJWLDIE",
-        "date": "2026-07-10T03:04:13.000Z",
-        "summary": "L’accesso digitale deve essere escluso per i Paesi in cui il copyright è ancora in vigore"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Magistrati tributari, per il secondo concorso iscrizioni fino al 6 agosto",
-        "link": "https://www.ilsole24ore.com/art/magistrati-tributari-il-secondo-concorso-iscrizioni-fino-6-agosto-AJSniLE",
-        "date": "2026-07-10T03:02:01.000Z",
-        "summary": "I posti in palio saranno 180. Prevista una preselezione, uno scritto e una prova orale. Domande da inviare sul portale inPA"
       },
       {
         "category": "contabile",
@@ -847,14 +879,6 @@
       },
       {
         "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rifinanziate le attività sportive e ricreative per i minori",
-        "link": "https://www.ilsole24ore.com/art/rifinanziate-attivita-sportive-e-ricreative-i-minori-AJikL3D",
-        "date": "2026-07-09T18:12:00.000Z",
-        "summary": "Il decreto legge 108/2026 stanzia due milioni di euro, ma interviene anche sui grandi eventi come gli Europei di calcio e i Giochi del Mediterraneo"
-      },
-      {
-        "category": "contabile",
         "source": "Fisco e Tasse",
         "title": "ZES Agricola tutte le regole aggiornate al 2026",
         "link": "https://www.fiscoetasse.com/approfondimenti/17303-zes-agricola-tutte-le-regole-aggiornate-al-2026.html",
@@ -876,14 +900,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17302-agevolazioni-immobiliari-ets-il-quinquennio-e-un-obbligo-di-possesso.html",
         "date": "2026-07-09T00:00:00.000Z",
         "summary": "Immobile istituzionale di ETS: chiarimenti sulla detenzione ed eventuale termine di utilizzo per l''agevolazione ex art. 82 CTS"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Liquidazione societaria e cessazione CPB  chiarimenti ADE",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4244-liquiadazione-societaria-e-cessazione-cpb-chiarimenti-ade.html",
-        "date": "2026-07-09T00:00:00.000Z",
-        "summary": "L'Ade chiarisce il perimetro della cessazione dal CPB per liquidazione societaria: analisi del caso di specie del socio d'opera superstite"
       },
       {
         "category": "contabile",
@@ -919,27 +935,27 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Economia sociale il Governo presenta le mosse dellItalia",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17301-economia-sociale-il-governo-presenta-le-mosse-dellitalia.html",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": "Il nuovo Piano d’Azione Nazionale per l’Economia Sociale: inquadramento e prospettive di riforma"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Concorso magistrati tributari 2026 al via  come partecipare",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17300-concorso-magistrati-tributari-2026-180-posti-al-via-come-partecipare.html",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": "Pubblicato l'atteso  bando per 180 posti di magistrato tributario: requisiti, modalità di domanda  prove d'esame  e materie da affrontare per la nomina. Scadenza 6 agosto"
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Le novità del terzo settore al centro di un convegno IGS",
         "link": "https://press-magazine.it/le-novita-del-terzo-settore-al-centro-di-un-convegno-igs/",
         "date": "2026-07-07T12:14:00.000Z",
         "summary": "David Moro “Enti del terzo settore cosa cambia dal 2025 al 2026: bilanci, fiscalità, RUNTS e prospettiva di riforme” è il titolo del convegno di aggiornamento, organizzato dall’ Istituto per il governo societario (IGS), con la […]"
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Applicazione degli ISA per il periodo d’imposta 2025 - Chiarimenti (circ. Agenzia delle Entrate 6.7.2026 n. 4) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1111390",
+        "date": "2026-07-07T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Agevolazioni per i trasferimenti immobiliari a favore di Enti del Terzo Settore - Condizioni agevolative - Trasferimento nel quinquennio - Decadenza - Esclusione (risposta interpello Agenzia delle Entrate 6.7.2026 n. 134) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1111339",
+        "date": "2026-07-07T00:00:00.000Z",
+        "summary": ""
       },
       {
         "category": "contabile",
@@ -996,38 +1012,6 @@
         "link": "https://press-magazine.it/commercialisti-su-fisco-e-ia-serve-un-tavolo-tecnico-di-confronto-con-lamministrazione-finanziaria/",
         "date": "2026-06-17T07:22:31.000Z",
         "summary": "Istituire un Tavolo tecnico di confronto all’interno del quale discutere e approfondire con l’Amministrazione finanziaria soluzioni finalizzate a favorire il reciproco dialogo su temi di attualità, come la gestione dei dati tramite sistemi di intelligenza artificiale. […]"
-      },
-      {
-        "category": "contabile",
-        "source": "CNDCEC - Comunicati",
-        "title": "Da Commercialisti e Sidrea le linee guida per la sostenibilità delle startup",
-        "link": "https://press-magazine.it/da-commercialisti-e-sidrea-le-linee-guida-per-la-sostenibilita-delle-startup/",
-        "date": "2026-06-16T09:30:16.000Z",
-        "summary": "Il Consiglio nazionale dei Dottori commercialisti e degli Esperti contabili (CNDCEC) e la Società Italiana dei Docenti di Ragioneria e di Economia Aziendale (SIDREA) hanno pubblicato le “Linee guida per la sostenibilità delle startup”. Il lavoro, […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Credito d'imposta transizione 5.0 - Nuovo credito d'imposta per comunicazioni presentate con esaurimento dei fondi ex DL 38/2026 - Indicazione nel modello REDDITI - Rilevanza della comunicazione del GSE (FAQ Agenzia delle Entrate 30.6.2026) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109775",
-        "date": "2026-02-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Imputazione dell'apporto a patrimonio - Assenza di aumento di capitale sociale - Applicabilità del realizzo controllato (Studio Consiglio nazionale del Notariato n. 37-2026/T) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109844",
-        "date": "2026-02-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Applicabilità sino al 30.6.2026 - Rinnovo della misura di deroga - Proposta della Commissione europea - Continuità applicativa (comunicato stampa Min. Economia e finanze 30.6.2026 n. 77) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1109738",
-        "date": "2026-01-07T00:00:00.000Z",
-        "summary": ""
       },
       {
         "category": "contabile",
@@ -1137,6 +1121,30 @@
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Case al mare, la Calabria conquista gli acquirenti esteri: sei località tra le più richieste d’Italia",
+        "link": "https://www.ilsole24ore.com/art/case-mare-calabria-conquista-acquirenti-esteri-sei-localita-le-piu-richieste-d-italia-AJua3WF",
+        "date": "2026-07-10T16:10:00.000Z",
+        "summary": "Gli stranieri premiano le aree meno rinomate, ma non meno belle, per comprare casa sul mare. E in questo scenario, la zona più battuta è la Calabria che incassa la..."
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Reply riapre alla città l’ex Caserma De Sonnaz. A Torino la nuova sede tra memoria e AI",
+        "link": "https://www.ilsole24ore.com/art/reply-riapre-citta-l-ex-caserma-de-sonnaz-torino-nuova-sede-memoria-e-ai-AJFATOF",
+        "date": "2026-07-10T14:34:00.000Z",
+        "summary": "Una porzione del muro rinascimentale della Cittadella, legata alla memoria di Pietro Micca, riaffiora nell’auditorium ricavato sotto l’ex Caserma Ettore De Sonnaz. Sopra, negli spazi di un edificio militare di..."
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Invimit Sgr, investimenti per 90 milioni per creare 400 alloggi a canone calmierato",
+        "link": "https://www.ilsole24ore.com/art/invimit-sgr-investimenti-90-milioni-creare-400-alloggi-canone-calmierato-AJLYVJF",
+        "date": "2026-07-10T14:16:12.000Z",
+        "summary": "L’obiettivo è agire nel solco del Piano Casa del Governo, in cui Invimit dovrà inserirmi nel secondo pilastro, quello dedicato all’housing sociale. Ma mentre la Sgr del Mef attende il..."
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1259,14 +1267,6 @@
       },
       {
         "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Yeldo investe 14 milioni in un progetto residenziale in Porta Romana a Milano",
-        "link": "https://www.ilsole24ore.com/art/yeldo-investe-14-milioni-un-progetto-residenziale-porta-romana-milano-AJmucT",
-        "date": "2026-07-06T11:20:36.000Z",
-        "summary": "Nel mercato immobiliare milanese oggi la partita si gioca più sui cambi di destinazioni d’uso e sul portare a termine progetti già avviati, che sul dare vita a nuovi sviluppi...."
-      },
-      {
-        "category": "condominio",
         "source": "Confedilizia - Comunicati",
         "title": "Parliamo di… Regole della successione e trasferimenti immobiliari",
         "link": "https://www.confedilizia.it/parliamo-di-regole-della-successione-e-trasferimenti-immobiliari/",
@@ -1312,22 +1312,6 @@
         "link": "https://www.ilsole24ore.com/art/generali-real-estate-e-colonial-sfl-danno-vita-una-joint-venture-un-portafoglio-immobili-prime-berlino-AIWItJ0D",
         "date": "2026-07-03T16:46:00.000Z",
         "summary": "Nuova operazione in Germania per Generali Real Estate. La società guidata da Aldo Mazzocco ha siglato una joint venture strategica con Colonial Sfl (primario investitore quotato europeo) focalizzata sul Central..."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Fondo Diamante, maggioranza a Bnp. La gestione resterà in capo a Coima",
-        "link": "https://www.ilsole24ore.com/art/fondo-diamante-maggioranza-bnp-gestione-restera-capo-coima-AItSDDzD",
-        "date": "2026-07-02T15:41:10.000Z",
-        "summary": "Stime di mercato valutano la sede dell’istituto oltre 400 milioni di euro. La banca conferma l’Italia come uno dei suoi mercati domestici europei"
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Per Add Capital Gp primo investimento a Milano ma fuori dal Piano Casa",
-        "link": "https://www.ilsole24ore.com/art/per-add-capital-gp-primo-investimento-milano-ma-fuori-piano-casa-AIgBNR0D",
-        "date": "2026-06-30T11:05:00.000Z",
-        "summary": "Add Capital Gp – la società a responsabilità limitata guidata da Mario Abbadessa – sarebbe pronta a siglare la sua prima operazione. La sarl lussemburghese è infatti in..."
       }
     ],
     "contenzioso": [
@@ -1416,50 +1400,50 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Richieste di asilo, il Csm lancia l’allarme sui carichi di lavoro",
+        "link": "https://www.ilsole24ore.com/art/richieste-asilo-csm-lancia-l-allarme-carichi-lavoro-AJiiMeF",
+        "date": "2026-07-11T03:08:32.000Z",
+        "summary": "Nel parere del plenum tutte le criticità del Patto europeo. L’Italia a regime gestirà il 26% dei fascicoli nell’Ue"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Il condomino che cede gratis l’alloggio al portiere ha diritto a un indennizzo",
+        "link": "https://www.ilsole24ore.com/art/il-condomino-che-cede-gratis-l-alloggio-portiere-ha-diritto-un-indennizzo-AJQDudF",
+        "date": "2026-07-11T03:06:22.000Z",
+        "summary": "Dalla cifra deve essere detratto il risparmio ottenuto sulle spese di portierato"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Frodi, nel 2025 in Italia calano i casi legati all’uso di identità di soggetti deceduti",
+        "link": "https://www.ilsole24ore.com/art/frodi-2025-italia-calano-casi-legati-all-uso-identita-soggetti-deceduti-AJpkDgF",
+        "date": "2026-07-11T03:04:12.000Z",
+        "summary": "La riduzione del 50% è legata all’effetto deterrente dato dal collegamento con la banca dati dell’Anpr, che consente verifiche tempestive sulle identità"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Dichiarazione redditi, in Italia un contribuente su quattro si fa aiutare da un professionista",
+        "link": "https://www.ilsole24ore.com/art/dichiarazione-redditi-italia-contribuente-quattro-si-fa-aiutare-un-professionista-AJht1eF",
+        "date": "2026-07-11T03:02:00.000Z",
+        "summary": "Tra i 27 Stati dell’Ue il nostro Paese detiene il primato: 25% contro la media comunitaria dell’8%. Seguono Slovacchia, Grecia e Repubblica Ceca"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Grazie al dialogo con l’Agenzia più tempo per i controlli formali delle dichiarazioni",
+        "link": "https://press-magazine.it/grazie-al-dialogo-con-lagenzia-piu-tempo-per-i-controlli-formali-delle-dichiarazioni/",
+        "date": "2026-07-10T17:18:59.000Z",
+        "summary": "Ci sarà più tempo per trasmettere la documentazione richiesta nell’ambito del controllo formale delle dichiarazioni dei redditi relative al periodo d’imposta 2023, previsto dall’art. 36-ter del D.P.R. 600/1973. Lo rende noto il Consiglio nazionale dei commercialisti, […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Diritto di sciopero limitato nella logistica che muove i beni essenziali su gomma",
         "link": "https://www.ilsole24ore.com/art/diritto-sciopero-limitato-logistica-che-muove-beni-essenziali-gomma-AJzBdaE",
         "date": "2026-07-10T03:10:44.000Z",
         "summary": "Spetta ai sindacati verificare se l’attività aziendale rientra tra quelle tutelate"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "America’s Cup, anche Iva e bollo si aggiungono alle agevolazioni",
-        "link": "https://www.ilsole24ore.com/art/america-s-cup-anche-iva-e-bollo-si-aggiungono-agevolazioni-AJ3gjYE",
-        "date": "2026-07-10T03:08:34.000Z",
-        "summary": "Regime speciale applicabile alle richieste di rimborso per le società extra Ue. Esentate dall’imposta anche le autorizzazioni per le frequenze radio"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "America’s Cup, contratti a termine con regole speciali",
-        "link": "https://www.ilsole24ore.com/art/america-s-cup-contratti-termine-regole-speciali-AJHCfYE",
-        "date": "2026-07-10T03:06:23.000Z",
-        "summary": "Fino a dicembre 2027 l’evento giustifica una durata superiore a 12 mesi"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Il Diario di Anna Frank gratis online ma nel rispetto del diritto d’autore",
-        "link": "https://www.ilsole24ore.com/art/il-diario-anna-frank-gratis-online-ma-rispetto-diritto-d-autore-AJWLDIE",
-        "date": "2026-07-10T03:04:13.000Z",
-        "summary": "L’accesso digitale deve essere escluso per i Paesi in cui il copyright è ancora in vigore"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Magistrati tributari, per il secondo concorso iscrizioni fino al 6 agosto",
-        "link": "https://www.ilsole24ore.com/art/magistrati-tributari-il-secondo-concorso-iscrizioni-fino-6-agosto-AJSniLE",
-        "date": "2026-07-10T03:02:01.000Z",
-        "summary": "I posti in palio saranno 180. Prevista una preselezione, uno scritto e una prova orale. Domande da inviare sul portale inPA"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rifinanziate le attività sportive e ricreative per i minori",
-        "link": "https://www.ilsole24ore.com/art/rifinanziate-attivita-sportive-e-ricreative-i-minori-AJikL3D",
-        "date": "2026-07-09T18:12:00.000Z",
-        "summary": "Il decreto legge 108/2026 stanzia due milioni di euro, ma interviene anche sui grandi eventi come gli Europei di calcio e i Giochi del Mediterraneo"
       },
       {
         "category": "crisi_impresa",
@@ -1532,14 +1516,6 @@
         "link": "https://press-magazine.it/commercialisti-su-fisco-e-ia-serve-un-tavolo-tecnico-di-confronto-con-lamministrazione-finanziaria/",
         "date": "2026-06-17T07:22:31.000Z",
         "summary": "Istituire un Tavolo tecnico di confronto all’interno del quale discutere e approfondire con l’Amministrazione finanziaria soluzioni finalizzate a favorire il reciproco dialogo su temi di attualità, come la gestione dei dati tramite sistemi di intelligenza artificiale. […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "CNDCEC - Crisi d'impresa",
-        "title": "Da Commercialisti e Sidrea le linee guida per la sostenibilità delle startup",
-        "link": "https://press-magazine.it/da-commercialisti-e-sidrea-le-linee-guida-per-la-sostenibilita-delle-startup/",
-        "date": "2026-06-16T09:30:16.000Z",
-        "summary": "Il Consiglio nazionale dei Dottori commercialisti e degli Esperti contabili (CNDCEC) e la Società Italiana dei Docenti di Ragioneria e di Economia Aziendale (SIDREA) hanno pubblicato le “Linee guida per la sostenibilità delle startup”. Il lavoro, […]"
       }
     ],
     "finanza_agevolata": [
