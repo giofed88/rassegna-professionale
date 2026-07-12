@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T10:06:56.702Z",
+  "generatedAt": "2026-07-12T10:28:15.227Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -45,6 +45,22 @@
       },
       {
         "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Infarto sul lavoro risarcimento pieno anche con malattie pregresse",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4258-infarto-sul-lavoro-risarcimento-pieno-anche-con-malattie-pregresse.html",
+        "date": "2026-07-12T00:00:00.000Z",
+        "summary": "Cass. n. 17754/2026: nessuna riduzione del danno per patologie pregresse. See condizioni di lavoro sono causa necessaria dell'evento il datore risponde in pieno (art. 2087 c.c. )"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Misure anti caldo per le sedi centrali dell’agenzia delle Entrate",
+        "link": "https://www.ilsole24ore.com/art/misure-anti-caldo-le-sedi-centrali-dell-agenzia-entrate-AJTVJPG",
+        "date": "2026-07-11T16:14:09.000Z",
+        "summary": "Il direttore delle Entrate scrive agli uffici di via del Giorgione e Largo Leopardi (sedi centrali dell’Agenzia) riconoscendo per questi giorni di temperature elevate, in ufficio dress code meno formale ma sempre rispettoso del ruolo svolto"
+      },
+      {
+        "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Richieste di asilo, il Csm lancia l’allarme sui carichi di lavoro",
         "link": "https://www.ilsole24ore.com/art/richieste-asilo-csm-lancia-l-allarme-carichi-lavoro-AJiiMeF",
@@ -78,6 +94,14 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
+        "title": "Controlli dichiarazione 2023 pi tempo per fornire i documenti allAde",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4257-controlli-dichiarazione-2023-piu-tempo-per-fornire-i-documenti-allade.html",
+        "date": "2026-07-11T00:00:00.000Z",
+        "summary": "Controlli formali: i Commercialisti ottengono maggior tempo per produrre la documentazione in caso di controlli. Il termine di 30 giorni slitta a settembre"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
         "title": "Detrazioni edilizie 20252027 guida a aliquote e tetti di spesa",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4254-detrazioni-edilizie-2025-2027-guida-a-aliquote-e-tetti-di-spesa.html",
         "date": "2026-07-11T00:00:00.000Z",
@@ -98,14 +122,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4244-liquiadazione-societaria-e-cessazione-cpb-chiarimenti-ade.html",
         "date": "2026-07-11T00:00:00.000Z",
         "summary": "L'Ade chiarisce il perimetro della cessazione dal CPB per liquidazione societaria: analisi del caso di specie del socio d'opera superstite"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Diritto di sciopero limitato nella logistica che muove i beni essenziali su gomma",
-        "link": "https://www.ilsole24ore.com/art/diritto-sciopero-limitato-logistica-che-muove-beni-essenziali-gomma-AJzBdaE",
-        "date": "2026-07-10T03:10:44.000Z",
-        "summary": "Spetta ai sindacati verificare se l’attività aziendale rientra tra quelle tutelate"
       },
       {
         "category": "fiscale",
@@ -250,22 +266,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4242-deduzioni-forfettarie-dipendenti-autotrasporto-quando-spettano.html",
         "date": "2026-07-09T00:00:00.000Z",
         "summary": "Deduzioni forfettarie spese trasferte fuori comune ex articolo 95, comma 4, del TUIR: chiarimenti per autisti settore trasporto merci conto terzi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Mancata risposta a visite fiscali quando non basta per  licenziare",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4241-non-risponde-alla-visita-fiscale-quando-non-basta-a-licenziare.html",
-        "date": "2026-07-09T00:00:00.000Z",
-        "summary": "La Cassazione n. 22621/2026 afferma che  con  verbali fiscali poco chiari  il  licenziamento è illegittimo e scatta la  reintegra ex art. 18 legge 300 1970. I dettagli del caso"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Uniemens 2026 permessi 104 e congedi  novit INPS",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4240-uniemens-permessi-104-e-congedi-straordinari-novita-inps.html",
-        "date": "2026-07-09T00:00:00.000Z",
-        "summary": "Per la compilazione dei flussi uniemens del settore privato  nei conguagli dei permessi 104 /92 e congedi 151 2001: nuovo elemento obbligatorio da settembre 2026"
       },
       {
         "category": "fiscale",
@@ -719,6 +719,22 @@
       },
       {
         "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Infarto sul lavoro risarcimento pieno anche con malattie pregresse",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4258-infarto-sul-lavoro-risarcimento-pieno-anche-con-malattie-pregresse.html",
+        "date": "2026-07-12T00:00:00.000Z",
+        "summary": "Cass. n. 17754/2026: nessuna riduzione del danno per patologie pregresse. See condizioni di lavoro sono causa necessaria dell'evento il datore risponde in pieno (art. 2087 c.c. )"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Misure anti caldo per le sedi centrali dell’agenzia delle Entrate",
+        "link": "https://www.ilsole24ore.com/art/misure-anti-caldo-le-sedi-centrali-dell-agenzia-entrate-AJTVJPG",
+        "date": "2026-07-11T16:14:09.000Z",
+        "summary": "Il direttore delle Entrate scrive agli uffici di via del Giorgione e Largo Leopardi (sedi centrali dell’Agenzia) riconoscendo per questi giorni di temperature elevate, in ufficio dress code meno formale ma sempre rispettoso del ruolo svolto"
+      },
+      {
+        "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Richieste di asilo, il Csm lancia l’allarme sui carichi di lavoro",
         "link": "https://www.ilsole24ore.com/art/richieste-asilo-csm-lancia-l-allarme-carichi-lavoro-AJiiMeF",
@@ -752,6 +768,14 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
+        "title": "Controlli dichiarazione 2023 pi tempo per fornire i documenti allAde",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4257-controlli-dichiarazione-2023-piu-tempo-per-fornire-i-documenti-allade.html",
+        "date": "2026-07-11T00:00:00.000Z",
+        "summary": "Controlli formali: i Commercialisti ottengono maggior tempo per produrre la documentazione in caso di controlli. Il termine di 30 giorni slitta a settembre"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
         "title": "Detrazioni edilizie 20252027 guida a aliquote e tetti di spesa",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4254-detrazioni-edilizie-2025-2027-guida-a-aliquote-e-tetti-di-spesa.html",
         "date": "2026-07-11T00:00:00.000Z",
@@ -780,14 +804,6 @@
         "link": "https://press-magazine.it/grazie-al-dialogo-con-lagenzia-piu-tempo-per-i-controlli-formali-delle-dichiarazioni/",
         "date": "2026-07-10T17:18:59.000Z",
         "summary": "Ci sarà più tempo per trasmettere la documentazione richiesta nell’ambito del controllo formale delle dichiarazioni dei redditi relative al periodo d’imposta 2023, previsto dall’art. 36-ter del D.P.R. 600/1973. Lo rende noto il Consiglio nazionale dei commercialisti, […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Diritto di sciopero limitato nella logistica che muove i beni essenziali su gomma",
-        "link": "https://www.ilsole24ore.com/art/diritto-sciopero-limitato-logistica-che-muove-beni-essenziali-gomma-AJzBdaE",
-        "date": "2026-07-10T03:10:44.000Z",
-        "summary": "Spetta ai sindacati verificare se l’attività aziendale rientra tra quelle tutelate"
       },
       {
         "category": "contabile",
@@ -908,22 +924,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4242-deduzioni-forfettarie-dipendenti-autotrasporto-quando-spettano.html",
         "date": "2026-07-09T00:00:00.000Z",
         "summary": "Deduzioni forfettarie spese trasferte fuori comune ex articolo 95, comma 4, del TUIR: chiarimenti per autisti settore trasporto merci conto terzi"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Mancata risposta a visite fiscali quando non basta per  licenziare",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4241-non-risponde-alla-visita-fiscale-quando-non-basta-a-licenziare.html",
-        "date": "2026-07-09T00:00:00.000Z",
-        "summary": "La Cassazione n. 22621/2026 afferma che  con  verbali fiscali poco chiari  il  licenziamento è illegittimo e scatta la  reintegra ex art. 18 legge 300 1970. I dettagli del caso"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Uniemens 2026 permessi 104 e congedi  novit INPS",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4240-uniemens-permessi-104-e-congedi-straordinari-novita-inps.html",
-        "date": "2026-07-09T00:00:00.000Z",
-        "summary": "Per la compilazione dei flussi uniemens del settore privato  nei conguagli dei permessi 104 /92 e congedi 151 2001: nuovo elemento obbligatorio da settembre 2026"
       },
       {
         "category": "contabile",
@@ -1400,6 +1400,14 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Misure anti caldo per le sedi centrali dell’agenzia delle Entrate",
+        "link": "https://www.ilsole24ore.com/art/misure-anti-caldo-le-sedi-centrali-dell-agenzia-entrate-AJTVJPG",
+        "date": "2026-07-11T16:14:09.000Z",
+        "summary": "Il direttore delle Entrate scrive agli uffici di via del Giorgione e Largo Leopardi (sedi centrali dell’Agenzia) riconoscendo per questi giorni di temperature elevate, in ufficio dress code meno formale ma sempre rispettoso del ruolo svolto"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Richieste di asilo, il Csm lancia l’allarme sui carichi di lavoro",
         "link": "https://www.ilsole24ore.com/art/richieste-asilo-csm-lancia-l-allarme-carichi-lavoro-AJiiMeF",
         "date": "2026-07-11T03:08:32.000Z",
@@ -1436,14 +1444,6 @@
         "link": "https://press-magazine.it/grazie-al-dialogo-con-lagenzia-piu-tempo-per-i-controlli-formali-delle-dichiarazioni/",
         "date": "2026-07-10T17:18:59.000Z",
         "summary": "Ci sarà più tempo per trasmettere la documentazione richiesta nell’ambito del controllo formale delle dichiarazioni dei redditi relative al periodo d’imposta 2023, previsto dall’art. 36-ter del D.P.R. 600/1973. Lo rende noto il Consiglio nazionale dei commercialisti, […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Diritto di sciopero limitato nella logistica che muove i beni essenziali su gomma",
-        "link": "https://www.ilsole24ore.com/art/diritto-sciopero-limitato-logistica-che-muove-beni-essenziali-gomma-AJzBdaE",
-        "date": "2026-07-10T03:10:44.000Z",
-        "summary": "Spetta ai sindacati verificare se l’attività aziendale rientra tra quelle tutelate"
       },
       {
         "category": "crisi_impresa",
