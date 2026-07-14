@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T13:33:27.255Z",
+  "generatedAt": "2026-07-14T11:11:43.279Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -14,33 +14,161 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Procedure di accettazione dell'incarico di revisione - Valutazione di tempi e risorse disponibili (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112619",
-        "date": "2026-10-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Dimensioni e settore dell’azienda per valutare le risorse del revisore da impiegare\" - De Rosa S."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Monitoraggio UEFA della sostenibilità economico-finanziaria dei club -  Applicazione del nuovo sistema fondato sulla football earnings rule (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112888",
-        "date": "2026-10-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Con la sanzione UEFA, per la Juventus settlement triennale e multa fino a 20 milioni\" - Marcello R."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Prodotti provenienti da Paesi terzi - Immissione in libera pratica - Immissione sul mercato - Nozione (circ. Agenzia delle Dogane e dei Monopoli 8.7.2026 n. 18) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112872",
-        "date": "2026-10-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Chiariti i requisiti per l’immissione sul mercato dei prodotti provenienti da Paesi terzi\" - Ugolini L."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
         "title": "Fusione per incorporazione tra enti religiosi civilmente riconosciuti - Rilevanza ai fini IVA, delle imposte di registro, ipotecaria e catastale e delle imposte sui redditi (principio di diritto Agenzia delle Entrate 7.7.2026 n. 1) (Tratto da La Settimana in Breve)",
         "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1112184",
         "date": "2026-08-07T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "E-commerce, controlli doganali più stringenti con i Pid",
+        "link": "https://www.ilsole24ore.com/art/e-commerce-controlli-doganali-piu-stringenti-i-pid-AJdBpBG",
+        "date": "2026-07-14T08:39:43.000Z",
+        "summary": "Dal 1° novembre bisognerà fornire in Dogana i codici alfanumerici che compongono gli identificatori di prodotto per le verifiche di conformità e sicurezza"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Un passaporto digitale racconterà la vita e la filiera dei prodotti",
+        "link": "https://www.ilsole24ore.com/art/un-passaporto-digitale-raccontera-vita-e-filiera-prodotti-AJmtvAG",
+        "date": "2026-07-14T08:39:00.000Z",
+        "summary": "Con il Qr code o il codice Rfid si conosceranno informazioni su composizione, impronta di carbonio, riparabilità e filiera produttiva. Previste sanzioni come il divieto d’immissione in commercio"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Ecobonus, svecchiamento del parco auto non completamente raggiunto",
+        "link": "https://www.ilsole24ore.com/art/ecobonus-svecchiamento-parco-auto-non-completamente-raggiunto-AJ1RRHI",
+        "date": "2026-07-14T03:15:02.000Z",
+        "summary": "Per la Corte dei conti occorre rafforzare le iniziative di formazione e sensibilizzazione dei consumatori per ridurre le emissioni del 55% entro il 2030"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Dalla Cassazione nessuna tutela per il conte declassato a “nobile” nel Libro d’oro",
+        "link": "https://www.ilsole24ore.com/art/dalla-cassazione-nessuna-tutela-il-conte-declassato-nobile-libro-d-oro-AJOO7CI",
+        "date": "2026-07-14T03:12:51.000Z",
+        "summary": "I giudici restano ancorati a quanto previsto dalla Costituzione riguardo all’abolizione giuridica dei titoli nobiliari"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Approccio per età e sei principi guida: la tutela dei minori online secondo l’Ue",
+        "link": "https://www.ilsole24ore.com/art/approccio-eta-e-sei-principi-guida-tutela-minori-online-secondo-l-ue-AJFb01H",
+        "date": "2026-07-14T03:02:00.000Z",
+        "summary": "Onere della prova alle piattaforme e maggiore uso supervisionato. Così il Panel speciale di esperti getta le basi per una normativa sui social media"
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Disposizioni di attuazione dell’articolo 1, commi da 634 a 636, della legge 23 dicembre 2014, n. 190 – Comunicazioni per la promozione dell’adempimento spontaneo nei confronti di lavoratori autonomi ed imprese di minori dimensioni per i quali emergono anomalie nei dati dichiarati ai fini dell’applicazione degli indici sintetici di affidabilità fiscale, di cui all’articolo 9-bis del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96 (provvedimento)",
+        "link": "https://www.agenziaentrate.gov.it/portale/provvedimento-del-14-luglio-2026-disposizioni-di-attuazione-dell-articolo-1-commi-da-634-a-636-della-legge-23-dicembre-2014-n.-190",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Accertamento delle medie dei cambi delle valute estere relative al mese di giugno 2026 (provvedimento)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196139/Provvedimento+cambi+valute+estere+giugno+2026_14_07_2026/cf27f627-af12-35fe-8713-8c246c10a3c2",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Cessione  dazienda e crediti lavoratori limiti alla solidarieta cedentecessionario",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4271-trasferimento-dazienda-e-crediti-lavoratori-i-limiti-alla-solidarieta-cedente-cessionario.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Retrocessione d'azienda e crediti dei lavoratori: la Cassazione chiarisce quando cedente e cessionario rispondono in solido e quando no. Guida pratica per datori di lavoro e consul"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Licenze classificazione civilistica trattamento contabile e disciplina fiscale",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17309-licenze-classificazione-civilistica-trattamento-contabile-e-disciplina-fiscale.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Licenze: caratteristiche del contratto e calssificazione civilistica, trattamento contabile e fiscale con analisi del software MIA Summa Bilancio"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Riforma del diritto doganale UE Obbligatoriet dei product identifiers dal 1 novembre",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17308-riforma-del-diritto-doganale-ue-obbligatorieta-dei-product-identifiers-dal-1-novembre.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "L'obbligo dei PID segna un nuovo modello di compliance doganale basato sulla tracciabilità digitale delle merci, con rilevanti effetti operativi e sanzionatori per gli operatori"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Accordo ItaliaMoldova sicurezza sociale istruzioni Inail",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4268-accordo-italia-moldova-sicurezza-sociale-istruzioni-inail.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "La Circolare Inail n. 34/2026 chiarisce distacco, infortuni sul lavoro e malattie professionali, esportabilità delle rendite tra Italia e Moldova"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Libro giornale informatico come si contano le 2500 registrazioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4267-libro-giornale-informatico-come-si-contano-le-2500-registrazioni.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Bollo sul libro giornale informatico: il conteggio delle 2.500 registrazioni riparte ogni anno"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "La pensione dei commercialisti cambia volto ecco la riforma allo studio",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4266-la-pensione-dei-commercialisti-cambia-volto-ecco-la-riforma-allo-studi.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Aliquote su fino al 15% in tre anni, ma con più tutele: cosa cambierebbe per i commercialisti  con il nuovo sistema previdenziale CNPADC - Guida e Infografica scaricabili"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Contributi INPGI ravvedimento e  sanzioni 2026 per i giornalisti",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4264-inpgi-nuovo-regime-sanzionatorio.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Guida alle novità INPGI  in tema di sanzioni per omissione, evasione contributiva e comunicazione redditi  dei giornalisti liberi professionisti e committenti"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Concessioni demaniali la planimetria non paga il bollo",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4255-concessioni-demaniali-la-planimetria-non-paga-il-bollo.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Le Entrate chiariscono quando la planimetria nelle concessioni demaniali non è soggetto a imposta di bollo"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "CCNL Dirigenti Alberghieri aumenti e novit del rinnovo 20262028",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4253-ccnl-dirigenti-alberghieri-aumenti-e-novita-del-rinnovo-2026-2028.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Firmato il 2 luglio 2026 il rinnovo CCNL dirigenti alberghieri Aica-Manageritalia: il testo con  aumenti, nuovi minimi contrattuali, welfare e previdenza fino al 2028."
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Interpello: Agevolazione ''prima casa'' ai fini delle imposte ipotecaria e catastale. Modalità di richiesta dell'agevolazione ''prima casa'', nella dichiarazione di successione, relativamente a un unico fabbricato abitativo con pertinenze, catastalmente suddiviso in due particelle, non riunibili, in quanto insistenti su due comuni diversi. Articolo 69, comma 3, della legge 21 novembre 2000, n. 342 (risposta n. 145)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+145_2026/0f911978-9865-b9a6-76c4-df84161e4dc2",
+        "date": "2026-07-13T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Interpello: Modalità di determinazione dell'imposta di bollo relativamente al libro giornale tenuto in modalità informatica, con particolare riferimento al criterio di computo della soglia delle 2.500 registrazioni o frazioni di esse tra diversi periodi di imposta – articolo 6 del d.m. 17 giugno 2014 (risposta n. 144)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+144_2026/6af4641f-26d6-abf0-fc92-979db53e7315",
+        "date": "2026-07-13T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Interpello: Imposta sulle successioni e donazioni. Inapplicabilità dell'esenzione al trasferimento della nuda proprietà delle quote sociali con annessi diritti di voto per presenza di diritti particolari riservati al donante tali da non consentire l'integrazione effettiva del controllo di diritto in capo al beneficiario – Articolo 3, comma 4–ter, del TUSD (risposta n. 143)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+143_2026/cfa84a87-76af-276c-15cf-08a08789f309",
+        "date": "2026-07-13T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -58,14 +186,6 @@
         "link": "https://www.fiscoetasse.com/domande-e-risposte/12869-rottamazione-quinquies-quando-e-inefficace.html",
         "date": "2026-07-13T00:00:00.000Z",
         "summary": "Quali sono le condizioni che determinano l’inefficacia della Definizione agevolata?"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Contributi INPGI ravvedimento e  sanzioni 2026 per i giornalisti",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4264-inpgi-nuovo-regime-sanzionatorio.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Guida alle novità INPGI  in tema di sanzioni per omissione, evasione contributiva e comunicazione redditi  dei giornalisti liberi professionisti e committenti"
       },
       {
         "category": "fiscale",
@@ -110,26 +230,10 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Concessioni demaniali la planimetria non paga il bollo",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4255-concessioni-demaniali-la-planimetria-non-paga-il-bollo.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Le Entrate chiariscono quando la planimetria nelle concessioni demaniali non è soggetto a imposta di bollo"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Detrazioni edilizie 20252027 guida a aliquote e tetti di spesa",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4254-detrazioni-edilizie-2025-2027-guida-a-aliquote-e-tetti-di-spesa.html",
         "date": "2026-07-13T00:00:00.000Z",
         "summary": "Sisma bonus, ecobonus, ristrutturazioni: le aliquote aggiornate nel nuovo TUIR che entrerà in vigore dal 2027. Scarica la check list con il riepilogo"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "CCNL Dirigenti Alberghieri aumenti e novit del rinnovo 20262028",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4253-ccnl-dirigenti-alberghieri-aumenti-e-novita-del-rinnovo-2026-2028.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Firmato il 2 luglio 2026 il rinnovo CCNL dirigenti alberghieri Aica-Manageritalia: il testo con  aumenti, nuovi minimi contrattuali, welfare e previdenza fino al 2028."
       },
       {
         "category": "fiscale",
@@ -141,59 +245,11 @@
       },
       {
         "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Transizione 4.0 e liquidazione giudiziale: credito d’imposta salvo se l’attività prosegue",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/13/transizione-4.0-e-liquidazione-giudiziale-credito-dimposta-salvo-se-lattivita-prosegue",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
         "source": "Fisco e Tasse",
         "title": "Fusione per incorporazione di ente religioso Corretto trattamento tributario",
         "link": "https://www.fiscoetasse.com/approfondimenti/17306-fusione-per-incorporazione-di-ente-religioso-corretto-trattamento-tributario.html",
         "date": "2026-07-12T00:00:00.000Z",
         "summary": "Trattamento tributario di una fusione per incorpporazione di ente religioso: principio di Diritto ADE n 1/2026"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Misure anti caldo per le sedi centrali dell’agenzia delle Entrate",
-        "link": "https://www.ilsole24ore.com/art/misure-anti-caldo-le-sedi-centrali-dell-agenzia-entrate-AJTVJPG",
-        "date": "2026-07-11T16:14:09.000Z",
-        "summary": "Il direttore delle Entrate scrive agli uffici di via del Giorgione e Largo Leopardi (sedi centrali dell’Agenzia) riconoscendo per questi giorni di temperature elevate, in ufficio dress code meno formale ma sempre rispettoso del ruolo svolto"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Richieste di asilo, il Csm lancia l’allarme sui carichi di lavoro",
-        "link": "https://www.ilsole24ore.com/art/richieste-asilo-csm-lancia-l-allarme-carichi-lavoro-AJiiMeF",
-        "date": "2026-07-11T03:08:32.000Z",
-        "summary": "Nel parere del plenum tutte le criticità del Patto europeo. L’Italia a regime gestirà il 26% dei fascicoli nell’Ue"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Il condomino che cede gratis l’alloggio al portiere ha diritto a un indennizzo",
-        "link": "https://www.ilsole24ore.com/art/il-condomino-che-cede-gratis-l-alloggio-portiere-ha-diritto-un-indennizzo-AJQDudF",
-        "date": "2026-07-11T03:06:22.000Z",
-        "summary": "Dalla cifra deve essere detratto il risparmio ottenuto sulle spese di portierato"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Frodi, nel 2025 in Italia calano i casi legati all’uso di identità di soggetti deceduti",
-        "link": "https://www.ilsole24ore.com/art/frodi-2025-italia-calano-casi-legati-all-uso-identita-soggetti-deceduti-AJpkDgF",
-        "date": "2026-07-11T03:04:12.000Z",
-        "summary": "La riduzione del 50% è legata all’effetto deterrente dato dal collegamento con la banca dati dell’Anpr, che consente verifiche tempestive sulle identità"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Dichiarazione redditi, in Italia un contribuente su quattro si fa aiutare da un professionista",
-        "link": "https://www.ilsole24ore.com/art/dichiarazione-redditi-italia-contribuente-quattro-si-fa-aiutare-un-professionista-AJht1eF",
-        "date": "2026-07-11T03:02:00.000Z",
-        "summary": "Tra i 27 Stati dell’Ue il nostro Paese detiene il primato: 25% contro la media comunitaria dell’8%. Seguono Slovacchia, Grecia e Repubblica Ceca"
       },
       {
         "category": "fiscale",
@@ -237,54 +293,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "ICS2 e spedizioni ecommerce in ambito aereo nuove indicazioni operative ADM",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17305-ics2-e-spedizioni-e-commerce-in-ambito-aereo-nuove-indicazioni-operative-adm.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Indicazioni compilative della Dichiarazione sommaria di Entrata (ENS) per spedizioni e-commerce in ambito aereo"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Immissione sul mercato e sdoganamento i chiarimenti della Circolare ADM 182026",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17304-immissione-sul-mercato-e-sdoganamento-i-chiarimenti-della-circolare-adm-182026.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Tre scenari operativi che incidono sui controlli e sulla product compliance"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Violazioni ostative DURC 2026 elenco aggiornato dal Ministero",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4250-violazioni-ostative-durc-2026-elenco-aggiornato-dal-ministero.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Il nuovo elenco delle violazioni in materia di lavoro e sicurezza che precludono l'accesso ai benefici normativi e contributivi, con relativi periodi di interdizione"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Nuovo TUIR la global minimum tax",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4249-nuovo-tuir-la-global-minimum-tax.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Il 3 luglio è stato pubblicato il Nuovo Testo Unico sulle imposte sui redditi o TUIR: vediamo una introduzione ai suoi contenuti e la minimum tax"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "ZES Agricola tutte le regole aggiornate al 2026",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17303-zes-agricola-tutte-le-regole-aggiornate-al-2026.html",
-        "date": "2026-07-09T00:00:00.000Z",
-        "summary": "ZES Agricola 2026: proroga, nuove aliquote e riduzione degli incentivi occupazionali nella Manovra"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Cos il consumer lending e che rischi comporta",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12867-cose-il-consumer-lending-e-che-rischi-comporta.html",
-        "date": "2026-07-09T00:00:00.000Z",
-        "summary": "È la forma più diffusa in Italia di social lending"
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Normativa e prassi",
         "title": "Interpello: Investimenti in convertendo in start–up innovative – articolo 29–bis decreto–legge n. 179 del 2012 – applicazione ai contratti di Simple Agreement for Future Equity (SAFE). (risposta n. 137)",
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+137_2026/8300b59a-1ff7-45af-f7b8-72d34700db03",
@@ -322,6 +330,30 @@
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10197114/Risposta+con+principi+di+diritto+n.+1_2026/5f6e9d2d-8f52-7b2f-4908-d46f6dd711b0",
         "date": "2026-07-07T00:00:00.000Z",
         "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Partecipazioni in società collegate e joint venture - Esenzione dall’applicazione del metodo del patrimonio netto - Emendamento allo IAS 28 (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109954",
+        "date": "13/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Società collegate e joint venture con valutazione al fair value\" - Malfatti L. - Ossola G."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Bancarotta fraudolenta per distrazione - Concorso dei sindaci - Condizioni (Cass. pen. 15.6.2026 n. 21977) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109119",
+        "date": "13/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Solo una previsione effettiva del possibile illecito condanna i sindaci per bancarotta\" - Meoli M."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Enti locali - Transazioni - Limiti al potere di transigere - Funzionari -Responsabilità erariale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1110091",
+        "date": "13/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Transazioni concluse da enti locali legittime se idonee a ottenere un risparmio di spesa\" - Astegiano G."
       },
       {
         "category": "fiscale",
@@ -389,14 +421,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Assoggettamento ad imposizione di un reddito erogato ad un lavoratore transfrontaliero residente in Francia dalla Banca d'Italia (risposta n. 132)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+132_2026/888b9d22-beec-e051-721f-8aa91e932f83",
-        "date": "2026-07-02T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Novità",
         "title": "Codice della crisi d’impresa e dell’insolvenza. In consultazione pubblica la seconda parte della bozza di circolare (comunicato stampa)",
         "link": "https://www.agenziaentrate.gov.it/portale/-/codice-della-crisi-d-impresa-e-dell-insolvenza.-in-consultazione-pubblica-la-seconda-parte-della-bozza-di-circolare",
@@ -405,41 +429,9 @@
       },
       {
         "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Istituzione delle causali contributo per il versamento, tramite modello F24, dei contributi all’INPS da destinare ad Enti Bilaterali (risoluzione n. 26)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10065077/RIS_n_26_del_26_06_2026/b28e3175-0308-9c75-2f0f-b0214359f5c2",
-        "date": "2026-06-26T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Istituzione dei codici tributo per il versamento, tramite il modello F24 delle somme dovute a seguito di conciliazione di cui al decreto legislativo 31 dicembre 1992, n. 546 su atti di recupero dei crediti indebitamente compensati (risoluzione n. 25)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10065077/RIS_n_25_del_26_06_2026/b515bf1e-d41b-25b6-8698-ac4b2adad695",
-        "date": "2026-06-26T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Novità",
         "title": "“Insieme per le imprese e le università”. È partito oggi a Roma il primo roadshow nazionale Entrate-Inps (comunicato stampa)",
         "link": "https://www.agenziaentrate.gov.it/portale/-/cs-25-giugno-2026",
-        "date": "2026-06-25T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Imposta di successione – Base imponibile dell'attivo ereditario in caso di acquisto di titoli di Stato (BOT) eseguito prima del decesso (data esecuzione), con successivo regolamento contabile sul conto corrente (data valuta) – Articolo 12 del Testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con decreto legislativo 31 ottobre 1990, n. 346 (TUSD) (risposta n. 131)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10065080/Risposta+n.+131_2026/5dc5d7fd-6b2f-a61b-1fdc-37dbaf008cf4",
-        "date": "2026-06-25T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Atto di donazione tramite il quale la donante costituisce il diritto di usufrutto in capo al donatario. Non applicazione delle agevolazioni fiscali previste per il compendio unico. Articolo 5–bis, comma 2, del decreto legislativo 18 maggio 2001, n. 228, e articolo 5–bis, commi 1 e 2, della legge 31 gennaio 1994, n. 97 (risposta n. 130)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10065080/Risposta+n.+130_2026/dfaab80e-f6bf-c829-bf60-d63bd0ed133f",
         "date": "2026-06-25T00:00:00.000Z",
         "summary": ""
       },
@@ -602,113 +594,9 @@
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457661",
         "date": "29/06/2026",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Lo split payment e la proroga al 2029",
-        "link": "https://www.mysolution.it/fisco/informative/circolare-cliente/20262/07/lettera-per-il-cliente---lo-split-payment-e-la-proroga-al-2029/",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Dichiarazioni 2026, ISA e CPB: il 15 luglio la seconda Giornata del Master MySolution Fisco",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/13/dichiarazioni-2026-isa-e-concordato-preventivo-il-15-luglio-la-seconda-giornata-del-master-mysolution-fisco/",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Dichiarazioni 2025 indisponibili fino al 20 luglio per manutenzione sito AdE",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/13/dichiarazioni-2025-non-consultabili-per-manutenzione-straordinaria-fino-al-20-luglio/",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "CPB 2026/2027: online il software MySolution",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/13/concordato-preventivo-biennale-pf-2026-2027-su-mysolution-il-nuovo-software-per-valutare-la-convenienza/",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Controlli formali delle dichiarazioni: più tempo per l’invio dei documenti",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/13/controlli-formali-delle-dichiarazioni-piu-tempo-per-linvio-dei-documenti/",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "ISA e CPB: fedeltà dichiarativa 1° tassello della proposta reddituale",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/13/isa-e-cpb.-fedelta-dichiarativa-1-tassello-della-proposta-reddituale",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Controlli doganali: immissione in libera pratica e immissione sul mercato",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/13/controlli-doganali-chiarita-la-distinzione-tra-immissione-in-libera-pratica-e-immissione-sul-mercato/",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Verbali di aggiudicazione beni mobili non registrati: no all’esenzione dell’imposta di registro",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/13/verbali-di-aggiudicazione-beni-mobili-non-registrati.-no-allesenzione-dellimposta-di-registro",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Concessioni demaniali: basta l’imposta a forfait da 16 euro",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/13/concessioni-demaniali.-basta-limposta-a-forfait-da-16-euro",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Commercialisti esclusi dall’Asse.Co.: conseguenze operative per gli studi",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/10/commercialisti-esclusi-dallasse.co.-cosa-ha-deciso-il-tar-lazio-e-quali-conseguenze-operative-per-gli-studi",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": ""
       }
     ],
     "contabile": [
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Procedure di accettazione dell'incarico di revisione - Valutazione di tempi e risorse disponibili (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112619",
-        "date": "2026-10-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Dimensioni e settore dell’azienda per valutare le risorse del revisore da impiegare\" - De Rosa S."
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Monitoraggio UEFA della sostenibilità economico-finanziaria dei club -  Applicazione del nuovo sistema fondato sulla football earnings rule (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112888",
-        "date": "2026-10-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Con la sanzione UEFA, per la Juventus settlement triennale e multa fino a 20 milioni\" - Marcello R."
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Prodotti provenienti da Paesi terzi - Immissione in libera pratica - Immissione sul mercato - Nozione (circ. Agenzia delle Dogane e dei Monopoli 8.7.2026 n. 18) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112872",
-        "date": "2026-10-07T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 10.7.2026 - \"Chiariti i requisiti per l’immissione sul mercato dei prodotti provenienti da Paesi terzi\" - Ugolini L."
-      },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
@@ -716,6 +604,126 @@
         "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1112184",
         "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "E-commerce, controlli doganali più stringenti con i Pid",
+        "link": "https://www.ilsole24ore.com/art/e-commerce-controlli-doganali-piu-stringenti-i-pid-AJdBpBG",
+        "date": "2026-07-14T08:39:43.000Z",
+        "summary": "Dal 1° novembre bisognerà fornire in Dogana i codici alfanumerici che compongono gli identificatori di prodotto per le verifiche di conformità e sicurezza"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Un passaporto digitale racconterà la vita e la filiera dei prodotti",
+        "link": "https://www.ilsole24ore.com/art/un-passaporto-digitale-raccontera-vita-e-filiera-prodotti-AJmtvAG",
+        "date": "2026-07-14T08:39:00.000Z",
+        "summary": "Con il Qr code o il codice Rfid si conosceranno informazioni su composizione, impronta di carbonio, riparabilità e filiera produttiva. Previste sanzioni come il divieto d’immissione in commercio"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Ecobonus, svecchiamento del parco auto non completamente raggiunto",
+        "link": "https://www.ilsole24ore.com/art/ecobonus-svecchiamento-parco-auto-non-completamente-raggiunto-AJ1RRHI",
+        "date": "2026-07-14T03:15:02.000Z",
+        "summary": "Per la Corte dei conti occorre rafforzare le iniziative di formazione e sensibilizzazione dei consumatori per ridurre le emissioni del 55% entro il 2030"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Dalla Cassazione nessuna tutela per il conte declassato a “nobile” nel Libro d’oro",
+        "link": "https://www.ilsole24ore.com/art/dalla-cassazione-nessuna-tutela-il-conte-declassato-nobile-libro-d-oro-AJOO7CI",
+        "date": "2026-07-14T03:12:51.000Z",
+        "summary": "I giudici restano ancorati a quanto previsto dalla Costituzione riguardo all’abolizione giuridica dei titoli nobiliari"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Approccio per età e sei principi guida: la tutela dei minori online secondo l’Ue",
+        "link": "https://www.ilsole24ore.com/art/approccio-eta-e-sei-principi-guida-tutela-minori-online-secondo-l-ue-AJFb01H",
+        "date": "2026-07-14T03:02:00.000Z",
+        "summary": "Onere della prova alle piattaforme e maggiore uso supervisionato. Così il Panel speciale di esperti getta le basi per una normativa sui social media"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Cessione  dazienda e crediti lavoratori limiti alla solidarieta cedentecessionario",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4271-trasferimento-dazienda-e-crediti-lavoratori-i-limiti-alla-solidarieta-cedente-cessionario.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Retrocessione d'azienda e crediti dei lavoratori: la Cassazione chiarisce quando cedente e cessionario rispondono in solido e quando no. Guida pratica per datori di lavoro e consul"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Licenze classificazione civilistica trattamento contabile e disciplina fiscale",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17309-licenze-classificazione-civilistica-trattamento-contabile-e-disciplina-fiscale.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Licenze: caratteristiche del contratto e calssificazione civilistica, trattamento contabile e fiscale con analisi del software MIA Summa Bilancio"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Riforma del diritto doganale UE Obbligatoriet dei product identifiers dal 1 novembre",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17308-riforma-del-diritto-doganale-ue-obbligatorieta-dei-product-identifiers-dal-1-novembre.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "L'obbligo dei PID segna un nuovo modello di compliance doganale basato sulla tracciabilità digitale delle merci, con rilevanti effetti operativi e sanzionatori per gli operatori"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Accordo ItaliaMoldova sicurezza sociale istruzioni Inail",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4268-accordo-italia-moldova-sicurezza-sociale-istruzioni-inail.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "La Circolare Inail n. 34/2026 chiarisce distacco, infortuni sul lavoro e malattie professionali, esportabilità delle rendite tra Italia e Moldova"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Libro giornale informatico come si contano le 2500 registrazioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4267-libro-giornale-informatico-come-si-contano-le-2500-registrazioni.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Bollo sul libro giornale informatico: il conteggio delle 2.500 registrazioni riparte ogni anno"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "La pensione dei commercialisti cambia volto ecco la riforma allo studio",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4266-la-pensione-dei-commercialisti-cambia-volto-ecco-la-riforma-allo-studi.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Aliquote su fino al 15% in tre anni, ma con più tutele: cosa cambierebbe per i commercialisti  con il nuovo sistema previdenziale CNPADC - Guida e Infografica scaricabili"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Contributi INPGI ravvedimento e  sanzioni 2026 per i giornalisti",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4264-inpgi-nuovo-regime-sanzionatorio.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Guida alle novità INPGI  in tema di sanzioni per omissione, evasione contributiva e comunicazione redditi  dei giornalisti liberi professionisti e committenti"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Concessioni demaniali la planimetria non paga il bollo",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4255-concessioni-demaniali-la-planimetria-non-paga-il-bollo.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Le Entrate chiariscono quando la planimetria nelle concessioni demaniali non è soggetto a imposta di bollo"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "CCNL Dirigenti Alberghieri aumenti e novit del rinnovo 20262028",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4253-ccnl-dirigenti-alberghieri-aumenti-e-novita-del-rinnovo-2026-2028.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Firmato il 2 luglio 2026 il rinnovo CCNL dirigenti alberghieri Aica-Manageritalia: il testo con  aumenti, nuovi minimi contrattuali, welfare e previdenza fino al 2028."
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Commercialisti: “Falcone e la sua scorta esempio di coraggio civile e dedizione alle istituzioni”",
+        "link": "https://press-magazine.it/commercialisti-falcone-e-la-sua-scorta-esempio-di-coraggio-civile-e-dedizione-alle-istituzioni/",
+        "date": "2026-07-13T13:57:23.000Z",
+        "summary": "Il vicepresidente del Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili, Vincenzo Moretta, ha partecipato oggi a Palermo alla cerimonia di consegna al Museo del Presente Giovanni Falcone e Paolo Borsellino della Fiat Croma sulla […]"
       },
       {
         "category": "contabile",
@@ -732,14 +740,6 @@
         "link": "https://www.fiscoetasse.com/domande-e-risposte/12869-rottamazione-quinquies-quando-e-inefficace.html",
         "date": "2026-07-13T00:00:00.000Z",
         "summary": "Quali sono le condizioni che determinano l’inefficacia della Definizione agevolata?"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Contributi INPGI ravvedimento e  sanzioni 2026 per i giornalisti",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4264-inpgi-nuovo-regime-sanzionatorio.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Guida alle novità INPGI  in tema di sanzioni per omissione, evasione contributiva e comunicazione redditi  dei giornalisti liberi professionisti e committenti"
       },
       {
         "category": "contabile",
@@ -784,26 +784,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Concessioni demaniali la planimetria non paga il bollo",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4255-concessioni-demaniali-la-planimetria-non-paga-il-bollo.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Le Entrate chiariscono quando la planimetria nelle concessioni demaniali non è soggetto a imposta di bollo"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Detrazioni edilizie 20252027 guida a aliquote e tetti di spesa",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4254-detrazioni-edilizie-2025-2027-guida-a-aliquote-e-tetti-di-spesa.html",
         "date": "2026-07-13T00:00:00.000Z",
         "summary": "Sisma bonus, ecobonus, ristrutturazioni: le aliquote aggiornate nel nuovo TUIR che entrerà in vigore dal 2027. Scarica la check list con il riepilogo"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "CCNL Dirigenti Alberghieri aumenti e novit del rinnovo 20262028",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4253-ccnl-dirigenti-alberghieri-aumenti-e-novita-del-rinnovo-2026-2028.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Firmato il 2 luglio 2026 il rinnovo CCNL dirigenti alberghieri Aica-Manageritalia: il testo con  aumenti, nuovi minimi contrattuali, welfare e previdenza fino al 2028."
       },
       {
         "category": "contabile",
@@ -820,46 +804,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17306-fusione-per-incorporazione-di-ente-religioso-corretto-trattamento-tributario.html",
         "date": "2026-07-12T00:00:00.000Z",
         "summary": "Trattamento tributario di una fusione per incorpporazione di ente religioso: principio di Diritto ADE n 1/2026"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Misure anti caldo per le sedi centrali dell’agenzia delle Entrate",
-        "link": "https://www.ilsole24ore.com/art/misure-anti-caldo-le-sedi-centrali-dell-agenzia-entrate-AJTVJPG",
-        "date": "2026-07-11T16:14:09.000Z",
-        "summary": "Il direttore delle Entrate scrive agli uffici di via del Giorgione e Largo Leopardi (sedi centrali dell’Agenzia) riconoscendo per questi giorni di temperature elevate, in ufficio dress code meno formale ma sempre rispettoso del ruolo svolto"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Richieste di asilo, il Csm lancia l’allarme sui carichi di lavoro",
-        "link": "https://www.ilsole24ore.com/art/richieste-asilo-csm-lancia-l-allarme-carichi-lavoro-AJiiMeF",
-        "date": "2026-07-11T03:08:32.000Z",
-        "summary": "Nel parere del plenum tutte le criticità del Patto europeo. L’Italia a regime gestirà il 26% dei fascicoli nell’Ue"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Il condomino che cede gratis l’alloggio al portiere ha diritto a un indennizzo",
-        "link": "https://www.ilsole24ore.com/art/il-condomino-che-cede-gratis-l-alloggio-portiere-ha-diritto-un-indennizzo-AJQDudF",
-        "date": "2026-07-11T03:06:22.000Z",
-        "summary": "Dalla cifra deve essere detratto il risparmio ottenuto sulle spese di portierato"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Frodi, nel 2025 in Italia calano i casi legati all’uso di identità di soggetti deceduti",
-        "link": "https://www.ilsole24ore.com/art/frodi-2025-italia-calano-casi-legati-all-uso-identita-soggetti-deceduti-AJpkDgF",
-        "date": "2026-07-11T03:04:12.000Z",
-        "summary": "La riduzione del 50% è legata all’effetto deterrente dato dal collegamento con la banca dati dell’Anpr, che consente verifiche tempestive sulle identità"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Dichiarazione redditi, in Italia un contribuente su quattro si fa aiutare da un professionista",
-        "link": "https://www.ilsole24ore.com/art/dichiarazione-redditi-italia-contribuente-quattro-si-fa-aiutare-un-professionista-AJht1eF",
-        "date": "2026-07-11T03:02:00.000Z",
-        "summary": "Tra i 27 Stati dell’Ue il nostro Paese detiene il primato: 25% contro la media comunitaria dell’8%. Seguono Slovacchia, Grecia e Repubblica Ceca"
       },
       {
         "category": "contabile",
@@ -884,54 +828,6 @@
         "link": "https://www.fiscoetasse.com/domande-e-risposte/12868-il-nuovo-regime-forfettario-degli-ets-esonera-dalliva.html",
         "date": "2026-07-10T00:00:00.000Z",
         "summary": "Lo spiega la Circolare 1/E/2026 dell’Agenzia delle Entrate"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "ICS2 e spedizioni ecommerce in ambito aereo nuove indicazioni operative ADM",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17305-ics2-e-spedizioni-e-commerce-in-ambito-aereo-nuove-indicazioni-operative-adm.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Indicazioni compilative della Dichiarazione sommaria di Entrata (ENS) per spedizioni e-commerce in ambito aereo"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Immissione sul mercato e sdoganamento i chiarimenti della Circolare ADM 182026",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17304-immissione-sul-mercato-e-sdoganamento-i-chiarimenti-della-circolare-adm-182026.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Tre scenari operativi che incidono sui controlli e sulla product compliance"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Violazioni ostative DURC 2026 elenco aggiornato dal Ministero",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4250-violazioni-ostative-durc-2026-elenco-aggiornato-dal-ministero.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Il nuovo elenco delle violazioni in materia di lavoro e sicurezza che precludono l'accesso ai benefici normativi e contributivi, con relativi periodi di interdizione"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Nuovo TUIR la global minimum tax",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4249-nuovo-tuir-la-global-minimum-tax.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Il 3 luglio è stato pubblicato il Nuovo Testo Unico sulle imposte sui redditi o TUIR: vediamo una introduzione ai suoi contenuti e la minimum tax"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "ZES Agricola tutte le regole aggiornate al 2026",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17303-zes-agricola-tutte-le-regole-aggiornate-al-2026.html",
-        "date": "2026-07-09T00:00:00.000Z",
-        "summary": "ZES Agricola 2026: proroga, nuove aliquote e riduzione degli incentivi occupazionali nella Manovra"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Cos il consumer lending e che rischi comporta",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12867-cose-il-consumer-lending-e-che-rischi-comporta.html",
-        "date": "2026-07-09T00:00:00.000Z",
-        "summary": "È la forma più diffusa in Italia di social lending"
       },
       {
         "category": "contabile",
@@ -1007,11 +903,27 @@
       },
       {
         "category": "contabile",
-        "source": "CNDCEC - Comunicati",
-        "title": "I commercialisti a Londra: Italia hub strategico per gli investimenti",
-        "link": "https://press-magazine.it/i-commercialisti-a-londra-italia-hub-strategico-per-gli-investimenti/",
-        "date": "2026-06-18T11:06:46.000Z",
-        "summary": "Il presidente del Consiglio nazionale dei commercialisti, Elbano de Nuccio, ha partecipato oggi presso l’Ambasciata d’Italia a Londra all’“UK-Italy Business & Investment Forum 2026”, organizzato dal dipartimento di Attrazione Investimenti Esteri (AIE) di ITA Londra sulle […]"
+        "source": "Eutekne - Feed RSS",
+        "title": "Partecipazioni in società collegate e joint venture - Esenzione dall’applicazione del metodo del patrimonio netto - Emendamento allo IAS 28 (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109954",
+        "date": "13/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Società collegate e joint venture con valutazione al fair value\" - Malfatti L. - Ossola G."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Bancarotta fraudolenta per distrazione - Concorso dei sindaci - Condizioni (Cass. pen. 15.6.2026 n. 21977) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109119",
+        "date": "13/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Solo una previsione effettiva del possibile illecito condanna i sindaci per bancarotta\" - Meoli M."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Enti locali - Transazioni - Limiti al potere di transigere - Funzionari -Responsabilità erariale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1110091",
+        "date": "13/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Transazioni concluse da enti locali legittime se idonee a ottenere un risparmio di spesa\" - Astegiano G."
       },
       {
         "category": "contabile",
@@ -1042,69 +954,93 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Lavoratori di prima assunzione: gestione del TFR tesoreria dal 1° luglio 2026",
-        "link": "https://www.mysolution.it/lavoro/approfondimenti/prima-lettura/2026/07/lavoratori-di-prima-assunzione-gestione-del-tfr-tesoreria-dal-1-luglio-2026/",
-        "date": "2026-07-13T00:00:00.000Z",
+        "title": "Stabilizzazione dei giovani under 35: primi chiarimenti INPS",
+        "link": "https://www.mysolution.it/lavoro/approfondimenti/circolare-monografica/2026/07/stabilizzazione-dei-giovani-under-35-primi-chiarimenti-inps/",
+        "date": "2026-07-14T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Beneficiari di indennità di disoccupazione e di CIG: nuove risorse per formazione e interventi di politica attiva del lavoro",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/13/le-nuove-risorse-per-realizzare-percorsi-formativi-e-interventi-di-politica-attiva-del-lavoro-a-favore-di-beneficiari-di-indennita-di-disoccupazione-e-di-cassa-integrazione/",
-        "date": "2026-07-13T00:00:00.000Z",
+        "title": "CCNL Metalmeccanica (Cooperativa): definiti i nuovi minimi tabellari",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/ccnl-metalmeccanica-cooperativa-definiti-i-nuovi-minimi-tabellari/",
+        "date": "2026-07-14T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Conferimento delle quote di TFR al Fondo di Tesoreria: chiarimenti INPS",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/13/inps-i-chiarimenti-in-materia-di-conferimento-delle-quote-di-tfr-al-fondo-di-tesoreria/",
-        "date": "2026-07-13T00:00:00.000Z",
+        "title": "CCNL Autostrade: siglato l’Accordo di rinnovo",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/siglato-laccordo-di-rinnovo-del-ccnl-autostrade/",
+        "date": "2026-07-14T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "In GU il nuovo tasso per le operazioni di attualizzazione e rivalutazione ai fini della concessione ed erogazione delle agevolazioni a favore delle imprese",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/13/in-gu-il-nuovo-tasso-per-le-operazioni-di-attualizzazione-e-rivalutazione-ai-fini-della-concessione-ed-erogazione-delle-agevolazioni-a-favore-delle-imprese/",
-        "date": "2026-07-13T00:00:00.000Z",
+        "title": "INPS: online il “Portale TFR Esattoriali”",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/inps-online-il-portale-tfr-esattoriali/",
+        "date": "2026-07-14T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Presentato il XXV Rapporto annuale dell'INPS su occupazione, salari e effetti dell'inflazione",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/13/presentato-il-xxv-rapporto-annuale-dellinps/",
-        "date": "2026-07-13T00:00:00.000Z",
+        "title": "Persone con disabilità: in GU il riparto delle risorse del Fondo per il diritto al lavoro",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/in-gu-il-riparto-delle-risorse-del-fondo-per-il-diritto-al-lavoro-delle-persone-con-disabilita/",
+        "date": "2026-07-14T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "INAIL: firmato protocollo d'intesa con ABI per favorire l'accesso ai contributi ISI",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/13/inail-firmato-protocollo-dintesa-con-abi-per-favorire-laccesso-ai-contributi-isi/",
-        "date": "2026-07-13T00:00:00.000Z",
+        "title": "Accordo tra la Repubblica italiana e la Repubblica di Moldova in materia di sicurezza sociale: chiarimenti Inail",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/inail-i-chiarimenti-sullaccordo-tra-la-repubblica-italiana-e-la-repubblica-di-moldova-in-materia-di-sicurezza-sociale/",
+        "date": "2026-07-14T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Illegittimo il licenziamento per giusta causa se non sono chiari i motivi di assenza del lavoratore malato alle visite fiscali dell’INPS",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/13/illegittimo-il-licenziamento-per-giusta-causa-se-non-sono-chiari-i-motivi-di-assenza-del-lavoratore-malato-alle-visite-fiscali-dellinps2/",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Commercialisti esclusi dall’Asse.Co., prerogativa esclusiva per i CdL: conseguenze operative per gli studi",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/10/commercialisti-esclusi-dallasse.co.-conseguenze-operative-per-gli-studi",
-        "date": "2026-07-10T00:00:00.000Z",
+        "title": "Immediatezza della contestazione disciplinare del fatto addebitato che ha rilievo anche penale",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/immediatezza-della-contestazione-disciplinare-del-fatto-addebitato-che-ha-rilievo-anche-penale/",
+        "date": "2026-07-14T00:00:00.000Z",
         "summary": ""
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Confedilizia: mercato immobiliare, boom dei piccoli centri",
+        "link": "https://www.confedilizia.it/confedilizia-mercato-immobiliare-boom-dei-piccoli-centri/",
+        "date": "2026-07-14T08:15:54.000Z",
+        "summary": "Tra il 2019 e il 2025 i comuni minori crescono oltre sette volte più di Milano e Roma Non sono più le grandi città il motore del mercato immobiliare italiano. A trainare la crescita delle compravendite sono invece la provincia e i piccoli comuni, che negli ultimi anni hanno registrato un’accelerazione ben superiore a quella […]\nL'articolo Confedilizia: mercato immobiliare, boom dei piccoli centri "
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ilsole24ore.com – 14.7.2026 – Casa, la domanda si sposta fuori dalle metropoli: nei piccoli comuni compravendite +42% in sei anni",
+        "link": "https://www.confedilizia.it/ilsole24ore-com-14-7-2026-casa-la-domanda-si-sposta-fuori-dalle-metropoli-nei-piccoli-comuni-compravendite-42-in-sei-anni/",
+        "date": "2026-07-14T06:36:31.000Z",
+        "summary": "L'articolo Ilsole24ore.com – 14.7.2026 – Casa, la domanda si sposta fuori dalle metropoli: nei piccoli comuni compravendite +42% in sei anni sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Emiliaromagnanews24.it – 13.7.2026 – Piacenza Talenti apre la nuova bacheca affitti gratuita, dove pubblicare annunci dedicati agli studenti universitari",
+        "link": "https://www.confedilizia.it/emiliaromagnanews24-it-13-7-2026-piacenza-talenti-apre-la-nuova-bacheca-affitti-gratuita-dove-pubblicare-annunci-dedicati-agli-studenti-universitari/",
+        "date": "2026-07-14T06:36:12.000Z",
+        "summary": "L'articolo Emiliaromagnanews24.it – 13.7.2026 – Piacenza Talenti apre la nuova bacheca affitti gratuita, dove pubblicare annunci dedicati agli studenti universitari sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Presentazione del libro “Ritratto di giovane fascista – Il caso Mauro De Mauro”",
+        "link": "https://www.confedilizia.it/presentazione-del-libro-ritratto-di-giovane-fascista-il-caso-mauro-de-mauro/",
+        "date": "2026-07-13T14:28:33.000Z",
+        "summary": "L'articolo Presentazione del libro “Ritratto di giovane fascista – Il caso Mauro De Mauro” sembra essere il primo su Confedilizia."
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1200,38 +1136,6 @@
         "link": "https://www.confedilizia.it/quotidianopiacenza-online-11-7-2026-piacenza-talenti-lancia-la-bacheca-affitti-appello-ai-proprietari-per-aumentare-le-case-dedicate-agli-studenti/",
         "date": "2026-07-13T06:47:49.000Z",
         "summary": "L'articolo Quotidianopiacenza.online – 11.7.2026 – Piacenza Talenti lancia la bacheca affitti: appello ai proprietari per aumentare le case dedicate agli studenti sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Piacenzasera.it – 11.7.2026 – Piacenza Talenti apre la nuova bacheca affitti: invito ai proprietari di casa",
-        "link": "https://www.confedilizia.it/piacenzasera-it-11-7-2026-piacenza-talenti-apre-la-nuova-bacheca-affitti-invito-ai-proprietari-di-casa/",
-        "date": "2026-07-13T06:47:13.000Z",
-        "summary": "L'articolo Piacenzasera.it – 11.7.2026 – Piacenza Talenti apre la nuova bacheca affitti: invito ai proprietari di casa sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Agenpress.it – 10.7.2026 – Giorgio Spaziani Testa Presidente Confedilizia all’Italia che Abiteremo by Remind",
-        "link": "https://www.confedilizia.it/agenpress-it-10-7-2026-giorgio-spaziani-testa-presidente-confedilizia-allitalia-che-abiteremo-by-remind/",
-        "date": "2026-07-13T06:46:30.000Z",
-        "summary": "L'articolo Agenpress.it – 10.7.2026 – Giorgio Spaziani Testa Presidente Confedilizia all’Italia che Abiteremo by Remind sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ntacalabria.it – 10.7.2026 – Catanzaro: seminario Confedilizia su regole condominio e sentenze",
-        "link": "https://www.confedilizia.it/ntacalabria-it-10-7-2026-catanzaro-seminario-confedilizia-su-regole-condominio-e-sentenze/",
-        "date": "2026-07-13T06:45:41.000Z",
-        "summary": "L'articolo Ntacalabria.it – 10.7.2026 – Catanzaro: seminario Confedilizia su regole condominio e sentenze sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Gazzettadelsud.it – 10.7.2026 – Condominio tra regole e sentenze: interesse per il seminario promosso da Confedilizia Catanzaro",
-        "link": "https://www.confedilizia.it/gazzettadelsud-it-10-7-2026-condominio-tra-regole-e-sentenze-interesse-per-il-seminario-promosso-da-confedilizia-catanzaro/",
-        "date": "2026-07-13T06:45:00.000Z",
-        "summary": "L'articolo Gazzettadelsud.it – 10.7.2026 – Condominio tra regole e sentenze: interesse per il seminario promosso da Confedilizia Catanzaro sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
@@ -1383,51 +1287,59 @@
     "crisi_impresa": [
       {
         "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "E-commerce, controlli doganali più stringenti con i Pid",
+        "link": "https://www.ilsole24ore.com/art/e-commerce-controlli-doganali-piu-stringenti-i-pid-AJdBpBG",
+        "date": "2026-07-14T08:39:43.000Z",
+        "summary": "Dal 1° novembre bisognerà fornire in Dogana i codici alfanumerici che compongono gli identificatori di prodotto per le verifiche di conformità e sicurezza"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Un passaporto digitale racconterà la vita e la filiera dei prodotti",
+        "link": "https://www.ilsole24ore.com/art/un-passaporto-digitale-raccontera-vita-e-filiera-prodotti-AJmtvAG",
+        "date": "2026-07-14T08:39:00.000Z",
+        "summary": "Con il Qr code o il codice Rfid si conosceranno informazioni su composizione, impronta di carbonio, riparabilità e filiera produttiva. Previste sanzioni come il divieto d’immissione in commercio"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Ecobonus, svecchiamento del parco auto non completamente raggiunto",
+        "link": "https://www.ilsole24ore.com/art/ecobonus-svecchiamento-parco-auto-non-completamente-raggiunto-AJ1RRHI",
+        "date": "2026-07-14T03:15:02.000Z",
+        "summary": "Per la Corte dei conti occorre rafforzare le iniziative di formazione e sensibilizzazione dei consumatori per ridurre le emissioni del 55% entro il 2030"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Dalla Cassazione nessuna tutela per il conte declassato a “nobile” nel Libro d’oro",
+        "link": "https://www.ilsole24ore.com/art/dalla-cassazione-nessuna-tutela-il-conte-declassato-nobile-libro-d-oro-AJOO7CI",
+        "date": "2026-07-14T03:12:51.000Z",
+        "summary": "I giudici restano ancorati a quanto previsto dalla Costituzione riguardo all’abolizione giuridica dei titoli nobiliari"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Approccio per età e sei principi guida: la tutela dei minori online secondo l’Ue",
+        "link": "https://www.ilsole24ore.com/art/approccio-eta-e-sei-principi-guida-tutela-minori-online-secondo-l-ue-AJFb01H",
+        "date": "2026-07-14T03:02:00.000Z",
+        "summary": "Onere della prova alle piattaforme e maggiore uso supervisionato. Così il Panel speciale di esperti getta le basi per una normativa sui social media"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Commercialisti: “Falcone e la sua scorta esempio di coraggio civile e dedizione alle istituzioni”",
+        "link": "https://press-magazine.it/commercialisti-falcone-e-la-sua-scorta-esempio-di-coraggio-civile-e-dedizione-alle-istituzioni/",
+        "date": "2026-07-13T13:57:23.000Z",
+        "summary": "Il vicepresidente del Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili, Vincenzo Moretta, ha partecipato oggi a Palermo alla cerimonia di consegna al Museo del Presente Giovanni Falcone e Paolo Borsellino della Fiat Croma sulla […]"
+      },
+      {
+        "category": "crisi_impresa",
         "source": "CNDCEC - Crisi d'impresa",
         "title": "Il Valore delle imprese, convegno nazionale a Porto Rotondo l’11 e il 12 settembre",
         "link": "https://press-magazine.it/il-valore-delle-imprese-convegno-nazionale-a-porto-rotondo-l11-e-12-settembre/",
         "date": "2026-07-13T12:46:31.000Z",
         "summary": "Si svolgerà l’11 e il 12 settembre a Porto Rotondo – Olbia (OT), il Convegno Nazionale “Il Valore delle imprese. Fiscalità, incentivi, strategie per la crescita e ZES Unica“, organizzato dal Consiglio Nazionale dei Commercialisti come […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Misure anti caldo per le sedi centrali dell’agenzia delle Entrate",
-        "link": "https://www.ilsole24ore.com/art/misure-anti-caldo-le-sedi-centrali-dell-agenzia-entrate-AJTVJPG",
-        "date": "2026-07-11T16:14:09.000Z",
-        "summary": "Il direttore delle Entrate scrive agli uffici di via del Giorgione e Largo Leopardi (sedi centrali dell’Agenzia) riconoscendo per questi giorni di temperature elevate, in ufficio dress code meno formale ma sempre rispettoso del ruolo svolto"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Richieste di asilo, il Csm lancia l’allarme sui carichi di lavoro",
-        "link": "https://www.ilsole24ore.com/art/richieste-asilo-csm-lancia-l-allarme-carichi-lavoro-AJiiMeF",
-        "date": "2026-07-11T03:08:32.000Z",
-        "summary": "Nel parere del plenum tutte le criticità del Patto europeo. L’Italia a regime gestirà il 26% dei fascicoli nell’Ue"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Il condomino che cede gratis l’alloggio al portiere ha diritto a un indennizzo",
-        "link": "https://www.ilsole24ore.com/art/il-condomino-che-cede-gratis-l-alloggio-portiere-ha-diritto-un-indennizzo-AJQDudF",
-        "date": "2026-07-11T03:06:22.000Z",
-        "summary": "Dalla cifra deve essere detratto il risparmio ottenuto sulle spese di portierato"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Frodi, nel 2025 in Italia calano i casi legati all’uso di identità di soggetti deceduti",
-        "link": "https://www.ilsole24ore.com/art/frodi-2025-italia-calano-casi-legati-all-uso-identita-soggetti-deceduti-AJpkDgF",
-        "date": "2026-07-11T03:04:12.000Z",
-        "summary": "La riduzione del 50% è legata all’effetto deterrente dato dal collegamento con la banca dati dell’Anpr, che consente verifiche tempestive sulle identità"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Dichiarazione redditi, in Italia un contribuente su quattro si fa aiutare da un professionista",
-        "link": "https://www.ilsole24ore.com/art/dichiarazione-redditi-italia-contribuente-quattro-si-fa-aiutare-un-professionista-AJht1eF",
-        "date": "2026-07-11T03:02:00.000Z",
-        "summary": "Tra i 27 Stati dell’Ue il nostro Paese detiene il primato: 25% contro la media comunitaria dell’8%. Seguono Slovacchia, Grecia e Repubblica Ceca"
       },
       {
         "category": "crisi_impresa",
@@ -1492,14 +1404,6 @@
         "link": "https://press-magazine.it/il-fondo-di-garanzia-per-le-pmi-al-centro-del-webinar-dei-commercialisti/",
         "date": "2026-06-18T15:43:10.000Z",
         "summary": "L’intervento diretto dello Stato a sostegno delle imprese e l’operatività del Fondo di garanzia per le PMI sono stati i temi al centro del webinar “Fondo di garanzia – MCC. Sviluppo e prospettive” organizzato dal Consiglio […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "CNDCEC - Crisi d'impresa",
-        "title": "I commercialisti a Londra: Italia hub strategico per gli investimenti",
-        "link": "https://press-magazine.it/i-commercialisti-a-londra-italia-hub-strategico-per-gli-investimenti/",
-        "date": "2026-06-18T11:06:46.000Z",
-        "summary": "Il presidente del Consiglio nazionale dei commercialisti, Elbano de Nuccio, ha partecipato oggi presso l’Ambasciata d’Italia a Londra all’“UK-Italy Business & Investment Forum 2026”, organizzato dal dipartimento di Attrazione Investimenti Esteri (AIE) di ITA Londra sulle […]"
       }
     ],
     "finanza_agevolata": [
