@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T11:11:43.279Z",
+  "generatedAt": "2026-07-15T11:14:52.931Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -22,42 +22,130 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Marchio biologico per i prodotti realizzati con materie prime italiane",
+        "link": "https://www.ilsole24ore.com/art/marchio-biologico-i-prodotti-realizzati-materie-prime-italiane-AJN3EbJ",
+        "date": "2026-07-15T03:08:34.000Z",
+        "summary": "Per utilizzare il contrassegno occorrerà rispettare una serie di requisiti e darne comunicazione al ministero dell’Agricoltura"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Entro il 2100 la popolazione europea tornerà ai livelli degli anni Settanta",
+        "link": "https://www.ilsole24ore.com/art/entro-2100-popolazione-europea-tornera-livelli-anni-settanta-AJKraZJ",
+        "date": "2026-07-15T03:02:00.000Z",
+        "summary": "Invecchiamento della popolazione e aumento delle disuguaglianze fra i rischi e le conseguenze della contrazione demografica"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "ASD e SDD  in arrivo modelli semplificati per  MOCAS",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4279-asd-e-sdd-in-arrivo-modelli-semplificati-per-mocas.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "CONI e CNDCEC hanno presentato le proposte della Commissione paritetica  in materia di modelli organizzativi e safeguarding previsti dalla recente riforma dello sport ."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Responsabilit 231 e infortuni serve prova rigorosa non presunta",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4278-responsabilita-231-e-infortuni-serve-prova-rigorosa-non-presunta.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Come la Cassazione n. 24402/2026 ridefinisce l'onere della prova su interesse, vantaggio dell'ente e colpa di organizzazione negli infortuni sul lavoro. Check list scaricabile"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Casellario Pensioni INPS obblighi e scadenze per gli enti previdenziali",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4276-casellario-pensioni-inps-obblighi-e-scadenze-per-gli-enti-previdenziali.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Messaggio INPS n. 2354/2026: termini annuali e trimestrali per  l'invio dei dati da  Casse e Fondi pensione anche ai fini dell'accesso delle prestazioni collegate al reddito"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Rappresentante sicurezza lavoratori  e ispettore di vigilanza si pu fare",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4274-responsabile-sicurezza-e-ufficiale-di-polizia-si-puo-fare-finire.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Il Ministero del Lavoro con l'interpello n. 2/2026 chiarisce la compatibilità tra il ruolo di RLS e quello di ufficiale dell'organo di vigilanza per la sicurezza negli enti ."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "CCNL Autostrade e Trafori rinnovo 20262028 aumenti 250 euro",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4273-ccnl-autostrade-e-trafori-rinnovo-2026-2028-novita-e-minimi.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Rinnovato il CCNL Autostrade e Trafori: novità su lavoro agile e previdenza, aumenti dei minimi tabellari 2026-2028 e Una Tantum a luglio 2026 ."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Anomalie ISA 2024 come approfondire e correggere gli errori",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4272-anomalie-isa-2024-come-approfondire-e-correggere-gli-errori.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Anomalie ISA 2024: dove vedere le comunicazioni e come regolarizzare gli errori"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Cessione  dazienda e crediti lavoratori limiti alla solidarieta cedentecessionario",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4271-trasferimento-dazienda-e-crediti-lavoratori-i-limiti-alla-solidarieta-cedente-cessionario.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Retrocessione d'azienda e crediti dei lavoratori: la Cassazione chiarisce quando cedente e cessionario rispondono in solido e quando no. Guida pratica per datori di lavoro e consul"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Prima casa immobile sito in due comuni chiarimenti sulla spettanza",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4269-prima-casa-immobile-sito-in-due-comuni-chiarimenti-sulla-spettanza.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Bonus prima casa in successione anche per immobili in due Comuni: condizioni e modello da utilizzare"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Polizza rischi calamit sulla prima casa come si detrae nel 7302026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4265-polizza-rischi-calamita-sulla-prima-casa-come-si-detrae-nel-7302026.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Il 730 tra gli oneri detraibili contiene quelli per le polizze su rischi di eventi calamitosi che colpiscano la prima casa"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Redditi PF 2026 precompilato come scegliere e a cosa fare attenzione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4263-redditi-pf-2026-precompilato-come-scegliere-e-a-cosa-fare-attenzione.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Le Entrate hanno pubblicato la Guida al Redditi PF precompilato 2026: anche per le PIVA, istruzioni generali"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Assolta per aver soffocato la madre malata di Alzheimer: stress per l'assistenza",
+        "link": "https://www.ilsole24ore.com/art/assolta-aver-soffocato-madre-malata-alzheimer-stress-l-assistenza-AJSOHQJ",
+        "date": "2026-07-14T16:37:02.000Z",
+        "summary": "Per i periti al momento dei fatti, dopo un lungo periodo di accudimento, era incapace di intendere e volere. Le motivazioni tra 90 giorni"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Morto in carcere per deperimento, cure non adeguate: la Cedu condanna l’Italia",
+        "link": "https://www.ilsole24ore.com/art/morto-carcere-deperimento-cure-non-adeguate-cedu-condanna-l-italia-AJD0XIJ",
+        "date": "2026-07-14T15:24:00.000Z",
+        "summary": "Antonio Raddi è morto dopo aver perso 30 chili. Lo Stato dovrà versare 26mila euro ai familiari"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Un codice di condotta europeo per gli influencer: la richiesta del Parlamento Ue",
+        "link": "https://www.ilsole24ore.com/art/un-codice-condotta-europeo-gli-influencer-richiesta-parlamento-ue-AJA7JHJ",
+        "date": "2026-07-14T15:05:10.000Z",
+        "summary": "Trasparenza algoritmica e standard etici per gli Ai companions alla base della tutela dei minori online secondo la Commissione cultura e istruzione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "E-commerce, controlli doganali più stringenti con i Pid",
         "link": "https://www.ilsole24ore.com/art/e-commerce-controlli-doganali-piu-stringenti-i-pid-AJdBpBG",
         "date": "2026-07-14T08:39:43.000Z",
         "summary": "Dal 1° novembre bisognerà fornire in Dogana i codici alfanumerici che compongono gli identificatori di prodotto per le verifiche di conformità e sicurezza"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Un passaporto digitale racconterà la vita e la filiera dei prodotti",
-        "link": "https://www.ilsole24ore.com/art/un-passaporto-digitale-raccontera-vita-e-filiera-prodotti-AJmtvAG",
-        "date": "2026-07-14T08:39:00.000Z",
-        "summary": "Con il Qr code o il codice Rfid si conosceranno informazioni su composizione, impronta di carbonio, riparabilità e filiera produttiva. Previste sanzioni come il divieto d’immissione in commercio"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Ecobonus, svecchiamento del parco auto non completamente raggiunto",
-        "link": "https://www.ilsole24ore.com/art/ecobonus-svecchiamento-parco-auto-non-completamente-raggiunto-AJ1RRHI",
-        "date": "2026-07-14T03:15:02.000Z",
-        "summary": "Per la Corte dei conti occorre rafforzare le iniziative di formazione e sensibilizzazione dei consumatori per ridurre le emissioni del 55% entro il 2030"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Dalla Cassazione nessuna tutela per il conte declassato a “nobile” nel Libro d’oro",
-        "link": "https://www.ilsole24ore.com/art/dalla-cassazione-nessuna-tutela-il-conte-declassato-nobile-libro-d-oro-AJOO7CI",
-        "date": "2026-07-14T03:12:51.000Z",
-        "summary": "I giudici restano ancorati a quanto previsto dalla Costituzione riguardo all’abolizione giuridica dei titoli nobiliari"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Approccio per età e sei principi guida: la tutela dei minori online secondo l’Ue",
-        "link": "https://www.ilsole24ore.com/art/approccio-eta-e-sei-principi-guida-tutela-minori-online-secondo-l-ue-AJFb01H",
-        "date": "2026-07-14T03:02:00.000Z",
-        "summary": "Onere della prova alle piattaforme e maggiore uso supervisionato. Così il Panel speciale di esperti getta le basi per una normativa sui social media"
       },
       {
         "category": "fiscale",
@@ -78,10 +166,18 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Cessione  dazienda e crediti lavoratori limiti alla solidarieta cedentecessionario",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4271-trasferimento-dazienda-e-crediti-lavoratori-i-limiti-alla-solidarieta-cedente-cessionario.html",
+        "title": "Concessioni posteggio ambulanti le nuove linee guida MIMIT",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13591-concessioni-posteggio-ambulanti-le-nuove-linee-guida-mimit.html",
         "date": "2026-07-14T00:00:00.000Z",
-        "summary": "Retrocessione d'azienda e crediti dei lavoratori: la Cassazione chiarisce quando cedente e cessionario rispondono in solido e quando no. Guida pratica per datori di lavoro e consul"
+        "summary": "Il decreto MIMIT 5 giugno 2026 detta i criteri obbligatori e integrativi per l'assegnazione decennale delle concessioni di posteggio su aree pubbliche"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Saldo e acconto imposte nelle societ quando si paga",
+        "link": "https://www.fiscoetasse.com/domande-e-risposte/12870-saldo-e-acconto-imposte-nelle-societa-quando-si-paga.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Versamenti Ires e Irap 2026: le scadenze cambiano in base all’approvazione del bilancio"
       },
       {
         "category": "fiscale",
@@ -134,18 +230,42 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Concessioni demaniali la planimetria non paga il bollo",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4255-concessioni-demaniali-la-planimetria-non-paga-il-bollo.html",
-        "date": "2026-07-14T00:00:00.000Z",
-        "summary": "Le Entrate chiariscono quando la planimetria nelle concessioni demaniali non è soggetto a imposta di bollo"
+        "title": "Rottamazione quinquies quando  inefficace",
+        "link": "https://www.fiscoetasse.com/domande-e-risposte/12869-rottamazione-quinquies-quando-e-inefficace.html",
+        "date": "2026-07-13T00:00:00.000Z",
+        "summary": "Quali sono le condizioni che determinano l’inefficacia della Definizione agevolata?"
       },
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "CCNL Dirigenti Alberghieri aumenti e novit del rinnovo 20262028",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4253-ccnl-dirigenti-alberghieri-aumenti-e-novita-del-rinnovo-2026-2028.html",
-        "date": "2026-07-14T00:00:00.000Z",
-        "summary": "Firmato il 2 luglio 2026 il rinnovo CCNL dirigenti alberghieri Aica-Manageritalia: il testo con  aumenti, nuovi minimi contrattuali, welfare e previdenza fino al 2028."
+        "title": "Rendicontazione ESG la Commissione europea adotta la razionalizzazione degli ESRS",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17307-rendicontazione-esg-la-commissione-europea-adotta-la-razionalizzazione-degli-esrs.html",
+        "date": "2026-07-13T00:00:00.000Z",
+        "summary": "Semplificazione dai bilanci 2027, con applicazione anticipata dal 2026"
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Cartella di pagamento emessa da Agente della riscossione incompetente - Obbligato solidale (Cass. 13.7.2026 n. 23090) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113386",
+        "date": "14/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 14.7.2026 - \"Per la notifica della cartella conta l’obbligato principale\" - Augello D."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Holding “statica” in forma di società di capitali - Scelta di non distribuire ai soci persone fisiche o al socio unico persona fisica gli utili di una società - Valide ragioni economiche extrafiscali (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1100521",
+        "date": "14/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 14.7.2026 - \"Riqualificate le riserve della holding statica se scatta l’abuso sui dividendi trattenuti\" - Zanetti E."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Tenuta di libri e registri contabili con sistemi informatici - Soglia di 2.500 registrazioni - Computo annuale (risposta interpello Agenzia delle Entrate 13.7.2026 n. 144) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113382",
+        "date": "14/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 14.7.2026 - \"Bollo dovuto ogni anno sul libro giornale informatico\" - Rivetti P."
       },
       {
         "category": "fiscale",
@@ -181,78 +301,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Rottamazione quinquies quando  inefficace",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12869-rottamazione-quinquies-quando-e-inefficace.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Quali sono le condizioni che determinano l’inefficacia della Definizione agevolata?"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Rendicontazione ESG la Commissione europea adotta la razionalizzazione degli ESRS",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17307-rendicontazione-esg-la-commissione-europea-adotta-la-razionalizzazione-degli-esrs.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Semplificazione dai bilanci 2027, con applicazione anticipata dal 2026"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "TFR e adesione automatica neoassunti regole INPS sugli arretrati",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4262-tfr-e-adesione-automatica-neoassunti-le-regole-inps-su-arretrati.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Inps chiarisce i codici causale Uniemens per regolarizzare le quote di TFR che maturano nei  60 giorni riservati alla scelta del lavoratore"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Infarto sul lavoro risarcimento pieno anche con malattie pregresse",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4258-infarto-sul-lavoro-risarcimento-pieno-anche-con-malattie-pregresse.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Cass. n. 17754/2026: nessuna riduzione del danno per patologie pregresse. See condizioni di lavoro sono causa necessaria dell'evento il datore risponde in pieno (art. 2087 c.c. )"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Controlli dichiarazione 2023 pi tempo per fornire i documenti allAde",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4257-controlli-dichiarazione-2023-piu-tempo-per-fornire-i-documenti-allade.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Controlli formali: i Commercialisti ottengono maggior tempo per produrre la documentazione in caso di controlli. Il termine di 30 giorni slitta a settembre"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Vendita immobili oggetto di reato il trattamento fiscale",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4256-vendita-immobili-oggetto-di-reato-il-trattamento-fiscale.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Non spetta l'esenzione  per l'imposta di registro per i beni sequestrati e messi all'asta: tali corpi di reato non hanno il beneficio fiscale, vediamo perchè"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Detrazioni edilizie 20252027 guida a aliquote e tetti di spesa",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4254-detrazioni-edilizie-2025-2027-guida-a-aliquote-e-tetti-di-spesa.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Sisma bonus, ecobonus, ristrutturazioni: le aliquote aggiornate nel nuovo TUIR che entrerà in vigore dal 2027. Scarica la check list con il riepilogo"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "CCNL scuole FISM 20262027 aumenti e novit contrattuali",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4252-ccnl-scuole-fism-2026-2027-aumenti-e-novita-contrattuali.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Firmato il rinnovo del secondo biennio: aumento medio 80 euro, nuove regole sui contratti a termine, welfare e assistenza sanitaria per il personale FISM."
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Fusione per incorporazione di ente religioso Corretto trattamento tributario",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17306-fusione-per-incorporazione-di-ente-religioso-corretto-trattamento-tributario.html",
-        "date": "2026-07-12T00:00:00.000Z",
-        "summary": "Trattamento tributario di una fusione per incorpporazione di ente religioso: principio di Diritto ADE n 1/2026"
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Normativa e prassi",
         "title": "Interpello: Imposta di registro – applicabilità dell'esenzione dall'imposta di registro ai verbali di aggiudicazione relativi alla vendita di beni mobili non registrati costituenti corpo di reato, quando il prezzo di aggiudicazione sia pari o inferiore a euro 1.033,00 – articolo 46 della legge 21 novembre 1991, n. 374 (risposta n. 141)",
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+141_2026/7b3bf9d5-a1c2-2962-bac3-c188ebd275cd",
@@ -274,22 +322,6 @@
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+139_2026/c993b2b0-45f9-1155-846b-5dddf8778846",
         "date": "2026-07-10T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "ISA periodo dimposta 2025 le istruzioni dellAgenzia delle Entrate",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13590-isa-2025-aggiornati-tutti-i-173-indici-sintetici-di-affidabilita-fiscale.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Aggiornati tutti i 173 indici sintetici di affidabilità fiscale: revisione straordinaria, modulistica semplificata e chiarimenti su CPB e regime premiale."
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Il nuovo regime forfettario degli ETS esonera dallIVA",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12868-il-nuovo-regime-forfettario-degli-ets-esonera-dalliva.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Lo spiega la Circolare 1/E/2026 dell’Agenzia delle Entrate"
       },
       {
         "category": "fiscale",
@@ -330,30 +362,6 @@
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10197114/Risposta+con+principi+di+diritto+n.+1_2026/5f6e9d2d-8f52-7b2f-4908-d46f6dd711b0",
         "date": "2026-07-07T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Partecipazioni in società collegate e joint venture - Esenzione dall’applicazione del metodo del patrimonio netto - Emendamento allo IAS 28 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109954",
-        "date": "13/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Società collegate e joint venture con valutazione al fair value\" - Malfatti L. - Ossola G."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Bancarotta fraudolenta per distrazione - Concorso dei sindaci - Condizioni (Cass. pen. 15.6.2026 n. 21977) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109119",
-        "date": "13/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Solo una previsione effettiva del possibile illecito condanna i sindaci per bancarotta\" - Meoli M."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Enti locali - Transazioni - Limiti al potere di transigere - Funzionari -Responsabilità erariale (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1110091",
-        "date": "13/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Transazioni concluse da enti locali legittime se idonee a ottenere un risparmio di spesa\" - Astegiano G."
       },
       {
         "category": "fiscale",
@@ -574,6 +582,14 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
+        "title": "Nuovo accesso ai dati dei titolari effettivi (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=459205",
+        "date": "14/07/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
         "title": "Novità del “decreto lavoro” (DL 30.4.2026 n. 62) convertito (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457492",
         "date": "2026-01-07T00:00:00.000Z",
@@ -582,17 +598,9 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Novità del decreto “Carburanti-ter” convertito (L. 25.6.2026 n. 113) (Tratto da Schede di Aggiornamento)",
+        "title": "Novità del DL 63/2026 (c.d. decreto ”Carburanti-ter”) convertito (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457600",
         "date": "2026-01-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Proroghe per il 2026 dei termini di versamento (Tratto da Schede di Aggiornamento)",
-        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457661",
-        "date": "29/06/2026",
         "summary": ""
       }
     ],
@@ -608,6 +616,134 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Marchio biologico per i prodotti realizzati con materie prime italiane",
+        "link": "https://www.ilsole24ore.com/art/marchio-biologico-i-prodotti-realizzati-materie-prime-italiane-AJN3EbJ",
+        "date": "2026-07-15T03:08:34.000Z",
+        "summary": "Per utilizzare il contrassegno occorrerà rispettare una serie di requisiti e darne comunicazione al ministero dell’Agricoltura"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Entro il 2100 la popolazione europea tornerà ai livelli degli anni Settanta",
+        "link": "https://www.ilsole24ore.com/art/entro-2100-popolazione-europea-tornera-livelli-anni-settanta-AJKraZJ",
+        "date": "2026-07-15T03:02:00.000Z",
+        "summary": "Invecchiamento della popolazione e aumento delle disuguaglianze fra i rischi e le conseguenze della contrazione demografica"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "ASD e SDD  in arrivo modelli semplificati per  MOCAS",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4279-asd-e-sdd-in-arrivo-modelli-semplificati-per-mocas.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "CONI e CNDCEC hanno presentato le proposte della Commissione paritetica  in materia di modelli organizzativi e safeguarding previsti dalla recente riforma dello sport ."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Responsabilit 231 e infortuni serve prova rigorosa non presunta",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4278-responsabilita-231-e-infortuni-serve-prova-rigorosa-non-presunta.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Come la Cassazione n. 24402/2026 ridefinisce l'onere della prova su interesse, vantaggio dell'ente e colpa di organizzazione negli infortuni sul lavoro. Check list scaricabile"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Casellario Pensioni INPS obblighi e scadenze per gli enti previdenziali",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4276-casellario-pensioni-inps-obblighi-e-scadenze-per-gli-enti-previdenziali.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Messaggio INPS n. 2354/2026: termini annuali e trimestrali per  l'invio dei dati da  Casse e Fondi pensione anche ai fini dell'accesso delle prestazioni collegate al reddito"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Rappresentante sicurezza lavoratori  e ispettore di vigilanza si pu fare",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4274-responsabile-sicurezza-e-ufficiale-di-polizia-si-puo-fare-finire.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Il Ministero del Lavoro con l'interpello n. 2/2026 chiarisce la compatibilità tra il ruolo di RLS e quello di ufficiale dell'organo di vigilanza per la sicurezza negli enti ."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "CCNL Autostrade e Trafori rinnovo 20262028 aumenti 250 euro",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4273-ccnl-autostrade-e-trafori-rinnovo-2026-2028-novita-e-minimi.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Rinnovato il CCNL Autostrade e Trafori: novità su lavoro agile e previdenza, aumenti dei minimi tabellari 2026-2028 e Una Tantum a luglio 2026 ."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Anomalie ISA 2024 come approfondire e correggere gli errori",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4272-anomalie-isa-2024-come-approfondire-e-correggere-gli-errori.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Anomalie ISA 2024: dove vedere le comunicazioni e come regolarizzare gli errori"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Cessione  dazienda e crediti lavoratori limiti alla solidarieta cedentecessionario",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4271-trasferimento-dazienda-e-crediti-lavoratori-i-limiti-alla-solidarieta-cedente-cessionario.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Retrocessione d'azienda e crediti dei lavoratori: la Cassazione chiarisce quando cedente e cessionario rispondono in solido e quando no. Guida pratica per datori di lavoro e consul"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Prima casa immobile sito in due comuni chiarimenti sulla spettanza",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4269-prima-casa-immobile-sito-in-due-comuni-chiarimenti-sulla-spettanza.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Bonus prima casa in successione anche per immobili in due Comuni: condizioni e modello da utilizzare"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Polizza rischi calamit sulla prima casa come si detrae nel 7302026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4265-polizza-rischi-calamita-sulla-prima-casa-come-si-detrae-nel-7302026.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Il 730 tra gli oneri detraibili contiene quelli per le polizze su rischi di eventi calamitosi che colpiscano la prima casa"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Redditi PF 2026 precompilato come scegliere e a cosa fare attenzione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4263-redditi-pf-2026-precompilato-come-scegliere-e-a-cosa-fare-attenzione.html",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": "Le Entrate hanno pubblicato la Guida al Redditi PF precompilato 2026: anche per le PIVA, istruzioni generali"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Assolta per aver soffocato la madre malata di Alzheimer: stress per l'assistenza",
+        "link": "https://www.ilsole24ore.com/art/assolta-aver-soffocato-madre-malata-alzheimer-stress-l-assistenza-AJSOHQJ",
+        "date": "2026-07-14T16:37:02.000Z",
+        "summary": "Per i periti al momento dei fatti, dopo un lungo periodo di accudimento, era incapace di intendere e volere. Le motivazioni tra 90 giorni"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "CONI e CNDCEC: modelli semplificati per ASD e SSD",
+        "link": "https://press-magazine.it/coni-e-cndcec-modelli-semplificati-per-asd-e-ssd-2/",
+        "date": "2026-07-14T15:42:11.000Z",
+        "summary": "Si è svolta oggi, presso il Salone d’Onore del CONI, la presentazione della relazione conclusiva della Commissione Paritetica CONI – Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili (CNDCEC), istituita per approfondire le principali questioni applicative della riforma […]"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Morto in carcere per deperimento, cure non adeguate: la Cedu condanna l’Italia",
+        "link": "https://www.ilsole24ore.com/art/morto-carcere-deperimento-cure-non-adeguate-cedu-condanna-l-italia-AJD0XIJ",
+        "date": "2026-07-14T15:24:00.000Z",
+        "summary": "Antonio Raddi è morto dopo aver perso 30 chili. Lo Stato dovrà versare 26mila euro ai familiari"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Un codice di condotta europeo per gli influencer: la richiesta del Parlamento Ue",
+        "link": "https://www.ilsole24ore.com/art/un-codice-condotta-europeo-gli-influencer-richiesta-parlamento-ue-AJA7JHJ",
+        "date": "2026-07-14T15:05:10.000Z",
+        "summary": "Trasparenza algoritmica e standard etici per gli Ai companions alla base della tutela dei minori online secondo la Commissione cultura e istruzione"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "E-commerce, controlli doganali più stringenti con i Pid",
         "link": "https://www.ilsole24ore.com/art/e-commerce-controlli-doganali-piu-stringenti-i-pid-AJdBpBG",
         "date": "2026-07-14T08:39:43.000Z",
@@ -615,43 +751,19 @@
       },
       {
         "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Un passaporto digitale racconterà la vita e la filiera dei prodotti",
-        "link": "https://www.ilsole24ore.com/art/un-passaporto-digitale-raccontera-vita-e-filiera-prodotti-AJmtvAG",
-        "date": "2026-07-14T08:39:00.000Z",
-        "summary": "Con il Qr code o il codice Rfid si conosceranno informazioni su composizione, impronta di carbonio, riparabilità e filiera produttiva. Previste sanzioni come il divieto d’immissione in commercio"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Ecobonus, svecchiamento del parco auto non completamente raggiunto",
-        "link": "https://www.ilsole24ore.com/art/ecobonus-svecchiamento-parco-auto-non-completamente-raggiunto-AJ1RRHI",
-        "date": "2026-07-14T03:15:02.000Z",
-        "summary": "Per la Corte dei conti occorre rafforzare le iniziative di formazione e sensibilizzazione dei consumatori per ridurre le emissioni del 55% entro il 2030"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Dalla Cassazione nessuna tutela per il conte declassato a “nobile” nel Libro d’oro",
-        "link": "https://www.ilsole24ore.com/art/dalla-cassazione-nessuna-tutela-il-conte-declassato-nobile-libro-d-oro-AJOO7CI",
-        "date": "2026-07-14T03:12:51.000Z",
-        "summary": "I giudici restano ancorati a quanto previsto dalla Costituzione riguardo all’abolizione giuridica dei titoli nobiliari"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Approccio per età e sei principi guida: la tutela dei minori online secondo l’Ue",
-        "link": "https://www.ilsole24ore.com/art/approccio-eta-e-sei-principi-guida-tutela-minori-online-secondo-l-ue-AJFb01H",
-        "date": "2026-07-14T03:02:00.000Z",
-        "summary": "Onere della prova alle piattaforme e maggiore uso supervisionato. Così il Panel speciale di esperti getta le basi per una normativa sui social media"
+        "source": "Fisco e Tasse",
+        "title": "Concessioni posteggio ambulanti le nuove linee guida MIMIT",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13591-concessioni-posteggio-ambulanti-le-nuove-linee-guida-mimit.html",
+        "date": "2026-07-14T00:00:00.000Z",
+        "summary": "Il decreto MIMIT 5 giugno 2026 detta i criteri obbligatori e integrativi per l'assegnazione decennale delle concessioni di posteggio su aree pubbliche"
       },
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Cessione  dazienda e crediti lavoratori limiti alla solidarieta cedentecessionario",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4271-trasferimento-dazienda-e-crediti-lavoratori-i-limiti-alla-solidarieta-cedente-cessionario.html",
+        "title": "Saldo e acconto imposte nelle societ quando si paga",
+        "link": "https://www.fiscoetasse.com/domande-e-risposte/12870-saldo-e-acconto-imposte-nelle-societa-quando-si-paga.html",
         "date": "2026-07-14T00:00:00.000Z",
-        "summary": "Retrocessione d'azienda e crediti dei lavoratori: la Cassazione chiarisce quando cedente e cessionario rispondono in solido e quando no. Guida pratica per datori di lavoro e consul"
+        "summary": "Versamenti Ires e Irap 2026: le scadenze cambiano in base all’approvazione del bilancio"
       },
       {
         "category": "contabile",
@@ -703,22 +815,6 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Concessioni demaniali la planimetria non paga il bollo",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4255-concessioni-demaniali-la-planimetria-non-paga-il-bollo.html",
-        "date": "2026-07-14T00:00:00.000Z",
-        "summary": "Le Entrate chiariscono quando la planimetria nelle concessioni demaniali non è soggetto a imposta di bollo"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "CCNL Dirigenti Alberghieri aumenti e novit del rinnovo 20262028",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4253-ccnl-dirigenti-alberghieri-aumenti-e-novita-del-rinnovo-2026-2028.html",
-        "date": "2026-07-14T00:00:00.000Z",
-        "summary": "Firmato il 2 luglio 2026 il rinnovo CCNL dirigenti alberghieri Aica-Manageritalia: il testo con  aumenti, nuovi minimi contrattuali, welfare e previdenza fino al 2028."
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Commercialisti: “Falcone e la sua scorta esempio di coraggio civile e dedizione alle istituzioni”",
         "link": "https://press-magazine.it/commercialisti-falcone-e-la-sua-scorta-esempio-di-coraggio-civile-e-dedizione-alle-istituzioni/",
@@ -751,83 +847,11 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "TFR e adesione automatica neoassunti regole INPS sugli arretrati",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4262-tfr-e-adesione-automatica-neoassunti-le-regole-inps-su-arretrati.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Inps chiarisce i codici causale Uniemens per regolarizzare le quote di TFR che maturano nei  60 giorni riservati alla scelta del lavoratore"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Infarto sul lavoro risarcimento pieno anche con malattie pregresse",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4258-infarto-sul-lavoro-risarcimento-pieno-anche-con-malattie-pregresse.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Cass. n. 17754/2026: nessuna riduzione del danno per patologie pregresse. See condizioni di lavoro sono causa necessaria dell'evento il datore risponde in pieno (art. 2087 c.c. )"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Controlli dichiarazione 2023 pi tempo per fornire i documenti allAde",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4257-controlli-dichiarazione-2023-piu-tempo-per-fornire-i-documenti-allade.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Controlli formali: i Commercialisti ottengono maggior tempo per produrre la documentazione in caso di controlli. Il termine di 30 giorni slitta a settembre"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Vendita immobili oggetto di reato il trattamento fiscale",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4256-vendita-immobili-oggetto-di-reato-il-trattamento-fiscale.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Non spetta l'esenzione  per l'imposta di registro per i beni sequestrati e messi all'asta: tali corpi di reato non hanno il beneficio fiscale, vediamo perchè"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Detrazioni edilizie 20252027 guida a aliquote e tetti di spesa",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4254-detrazioni-edilizie-2025-2027-guida-a-aliquote-e-tetti-di-spesa.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Sisma bonus, ecobonus, ristrutturazioni: le aliquote aggiornate nel nuovo TUIR che entrerà in vigore dal 2027. Scarica la check list con il riepilogo"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "CCNL scuole FISM 20262027 aumenti e novit contrattuali",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4252-ccnl-scuole-fism-2026-2027-aumenti-e-novita-contrattuali.html",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": "Firmato il rinnovo del secondo biennio: aumento medio 80 euro, nuove regole sui contratti a termine, welfare e assistenza sanitaria per il personale FISM."
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Fusione per incorporazione di ente religioso Corretto trattamento tributario",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17306-fusione-per-incorporazione-di-ente-religioso-corretto-trattamento-tributario.html",
-        "date": "2026-07-12T00:00:00.000Z",
-        "summary": "Trattamento tributario di una fusione per incorpporazione di ente religioso: principio di Diritto ADE n 1/2026"
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Grazie al dialogo con l’Agenzia più tempo per i controlli formali delle dichiarazioni",
         "link": "https://press-magazine.it/grazie-al-dialogo-con-lagenzia-piu-tempo-per-i-controlli-formali-delle-dichiarazioni/",
         "date": "2026-07-10T17:18:59.000Z",
         "summary": "Ci sarà più tempo per trasmettere la documentazione richiesta nell’ambito del controllo formale delle dichiarazioni dei redditi relative al periodo d’imposta 2023, previsto dall’art. 36-ter del D.P.R. 600/1973. Lo rende noto il Consiglio nazionale dei commercialisti, […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "ISA periodo dimposta 2025 le istruzioni dellAgenzia delle Entrate",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13590-isa-2025-aggiornati-tutti-i-173-indici-sintetici-di-affidabilita-fiscale.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Aggiornati tutti i 173 indici sintetici di affidabilità fiscale: revisione straordinaria, modulistica semplificata e chiarimenti su CPB e regime premiale."
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Il nuovo regime forfettario degli ETS esonera dallIVA",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12868-il-nuovo-regime-forfettario-degli-ets-esonera-dalliva.html",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": "Lo spiega la Circolare 1/E/2026 dell’Agenzia delle Entrate"
       },
       {
         "category": "contabile",
@@ -895,35 +919,35 @@
       },
       {
         "category": "contabile",
-        "source": "CNDCEC - Comunicati",
-        "title": "Il Fondo di garanzia per le PMI al centro del webinar dei commercialisti",
-        "link": "https://press-magazine.it/il-fondo-di-garanzia-per-le-pmi-al-centro-del-webinar-dei-commercialisti/",
-        "date": "2026-06-18T15:43:10.000Z",
-        "summary": "L’intervento diretto dello Stato a sostegno delle imprese e l’operatività del Fondo di garanzia per le PMI sono stati i temi al centro del webinar “Fondo di garanzia – MCC. Sviluppo e prospettive” organizzato dal Consiglio […]"
+        "source": "Eutekne - Feed RSS",
+        "title": "Cartella di pagamento emessa da Agente della riscossione incompetente - Obbligato solidale (Cass. 13.7.2026 n. 23090) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113386",
+        "date": "14/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 14.7.2026 - \"Per la notifica della cartella conta l’obbligato principale\" - Augello D."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Partecipazioni in società collegate e joint venture - Esenzione dall’applicazione del metodo del patrimonio netto - Emendamento allo IAS 28 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109954",
-        "date": "13/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Società collegate e joint venture con valutazione al fair value\" - Malfatti L. - Ossola G."
+        "title": "Holding “statica” in forma di società di capitali - Scelta di non distribuire ai soci persone fisiche o al socio unico persona fisica gli utili di una società - Valide ragioni economiche extrafiscali (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1100521",
+        "date": "14/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 14.7.2026 - \"Riqualificate le riserve della holding statica se scatta l’abuso sui dividendi trattenuti\" - Zanetti E."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Bancarotta fraudolenta per distrazione - Concorso dei sindaci - Condizioni (Cass. pen. 15.6.2026 n. 21977) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1109119",
-        "date": "13/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Solo una previsione effettiva del possibile illecito condanna i sindaci per bancarotta\" - Meoli M."
+        "title": "Tenuta di libri e registri contabili con sistemi informatici - Soglia di 2.500 registrazioni - Computo annuale (risposta interpello Agenzia delle Entrate 13.7.2026 n. 144) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113382",
+        "date": "14/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 14.7.2026 - \"Bollo dovuto ogni anno sul libro giornale informatico\" - Rivetti P."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Enti locali - Transazioni - Limiti al potere di transigere - Funzionari -Responsabilità erariale (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1110091",
-        "date": "13/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 13.7.2026 - \"Transazioni concluse da enti locali legittime se idonee a ottenere un risparmio di spesa\" - Astegiano G."
+        "title": "Nuovo accesso ai dati dei titolari effettivi (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=459205",
+        "date": "14/07/2026",
+        "summary": ""
       },
       {
         "category": "contabile",
@@ -936,17 +960,9 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Novità del decreto “Carburanti-ter” convertito (L. 25.6.2026 n. 113) (Tratto da Schede di Aggiornamento)",
+        "title": "Novità del DL 63/2026 (c.d. decreto ”Carburanti-ter”) convertito (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457600",
         "date": "2026-01-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Proroghe per il 2026 dei termini di versamento (Tratto da Schede di Aggiornamento)",
-        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457661",
-        "date": "29/06/2026",
         "summary": ""
       }
     ],
@@ -954,132 +970,212 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Stabilizzazione dei giovani under 35: primi chiarimenti INPS",
-        "link": "https://www.mysolution.it/lavoro/approfondimenti/circolare-monografica/2026/07/stabilizzazione-dei-giovani-under-35-primi-chiarimenti-inps/",
-        "date": "2026-07-14T00:00:00.000Z",
+        "title": "Pensione ENPAM a “doppio binario” convenzionale: novità e criticità della Risposta ad interpello dell'Agenzia delle Entrate",
+        "link": "https://www.mysolution.it/lavoro/approfondimenti/circolare-monografica/2026/07/pensione-enpam-a-doppio-binario-convenzionale-novita-e-criticita-della-risposta-ad-interpello-n.-1122026",
+        "date": "2026-07-15T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "CCNL Metalmeccanica (Cooperativa): definiti i nuovi minimi tabellari",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/ccnl-metalmeccanica-cooperativa-definiti-i-nuovi-minimi-tabellari/",
-        "date": "2026-07-14T00:00:00.000Z",
+        "title": "Accordo su rappresentanza e contrattazione firmato da 14 sigle datoriali",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/15/accordo-su-rappresentanza-e-contrattazione-firmato-da-14-sigle-datoriali/",
+        "date": "2026-07-15T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "CCNL Autostrade: siglato l’Accordo di rinnovo",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/siglato-laccordo-di-rinnovo-del-ccnl-autostrade/",
-        "date": "2026-07-14T00:00:00.000Z",
+        "title": "Salario giusto, siglato accordo interconfederale: più peso ai contratti e trasparenza retributiva",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/15/siglato-accordo-interconfederale-tra-unimpresa-uniap-assidal-e-aifecs-e-le-organizzazioni-sindacali-dei-lavoratori-confail-e-ciu-unionquadri-su-salario-giusto-e-trasparenza-retributiva/",
+        "date": "2026-07-15T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "INPS: online il “Portale TFR Esattoriali”",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/inps-online-il-portale-tfr-esattoriali/",
-        "date": "2026-07-14T00:00:00.000Z",
+        "title": "Oggi, ore 9.30, \"Dichiarazioni fiscali, regimi agevolati e punteggi ISA: controlli e aggiornamenti sui versamenti\" - Master MySolution Fisco 2026/2027",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/15/dichiarazioni-fiscali-regimi-agevolati-e-punteggi-isa-controlli-ed-aggiornamenti-sui-versamenti/",
+        "date": "2026-07-15T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Persone con disabilità: in GU il riparto delle risorse del Fondo per il diritto al lavoro",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/in-gu-il-riparto-delle-risorse-del-fondo-per-il-diritto-al-lavoro-delle-persone-con-disabilita/",
-        "date": "2026-07-14T00:00:00.000Z",
+        "title": "Previndai: le nuove regole sull’adesione automatica alla previdenza complementare per i lavoratori neoassunti",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/15/previndai-le-nuove-regole-sulladesione-automatica-alla-previdenza-complementare-per-i-lavoratori-neoassunti/",
+        "date": "2026-07-15T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Accordo tra la Repubblica italiana e la Repubblica di Moldova in materia di sicurezza sociale: chiarimenti Inail",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/inail-i-chiarimenti-sullaccordo-tra-la-repubblica-italiana-e-la-repubblica-di-moldova-in-materia-di-sicurezza-sociale/",
-        "date": "2026-07-14T00:00:00.000Z",
+        "title": "Casellario Centrale delle Pensioni: le novità operative",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/15/inps-le-novita-operative-sul-casellario-centrale-delle-pensioni/",
+        "date": "2026-07-15T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Immediatezza della contestazione disciplinare del fatto addebitato che ha rilievo anche penale",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/14/immediatezza-della-contestazione-disciplinare-del-fatto-addebitato-che-ha-rilievo-anche-penale/",
-        "date": "2026-07-14T00:00:00.000Z",
+        "title": "Incompatibilità tra RLS e Ufficiale di Polizia Giudiziaria: Interpello MLPS",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/15/linterpello-mlps-sullincompatibilita-tra-rls-e-ufficiale-di-polizia-giudiziaria/",
+        "date": "2026-07-15T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "La Convenzione con la Regione Abruzzo per il finanziamento di azioni di politica attiva del lavoro",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/15/inps-la-convenzione-con-la-regione-abruzzo-per-il-finanziamento-di-azioni-di-politica-attiva-del-lavoro/",
+        "date": "2026-07-15T00:00:00.000Z",
         "summary": ""
       }
     ],
     "condominio": [
       {
         "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Confedilizia: mercato immobiliare, boom dei piccoli centri",
-        "link": "https://www.confedilizia.it/confedilizia-mercato-immobiliare-boom-dei-piccoli-centri/",
-        "date": "2026-07-14T08:15:54.000Z",
-        "summary": "Tra il 2019 e il 2025 i comuni minori crescono oltre sette volte più di Milano e Roma Non sono più le grandi città il motore del mercato immobiliare italiano. A trainare la crescita delle compravendite sono invece la provincia e i piccoli comuni, che negli ultimi anni hanno registrato un’accelerazione ben superiore a quella […]\nL'articolo Confedilizia: mercato immobiliare, boom dei piccoli centri "
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Kryalos Sgr investe 35 milioni e acquisisce due hotel a Roma",
+        "link": "https://www.ilsole24ore.com/art/kryalos-sgr-investe-35-milioni-e-acquisisce-due-hotel-roma-AJzf0TK",
+        "date": "2026-07-15T09:45:23.000Z",
+        "summary": "Kryalos Sgr si rafforza nell’hospitality. La Sgr guidata da Paola Bottelli ha investito 35 milioni per acquisire due hotel in centro a Roma per conto del Fondo Kryalos Room00. Le..."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Ilsole24ore.com – 14.7.2026 – Casa, la domanda si sposta fuori dalle metropoli: nei piccoli comuni compravendite +42% in sei anni",
-        "link": "https://www.confedilizia.it/ilsole24ore-com-14-7-2026-casa-la-domanda-si-sposta-fuori-dalle-metropoli-nei-piccoli-comuni-compravendite-42-in-sei-anni/",
-        "date": "2026-07-14T06:36:31.000Z",
-        "summary": "L'articolo Ilsole24ore.com – 14.7.2026 – Casa, la domanda si sposta fuori dalle metropoli: nei piccoli comuni compravendite +42% in sei anni sembra essere il primo su Confedilizia."
+        "title": "Italiaoggi.it – 15.7.2026 – La strana evoluzione del settore immobiliare",
+        "link": "https://www.confedilizia.it/italiaoggi-it-15-7-2026-la-strana-evoluzione-del-settore-immobiliare/",
+        "date": "2026-07-15T07:25:36.000Z",
+        "summary": "L'articolo Italiaoggi.it – 15.7.2026 – La strana evoluzione del settore immobiliare sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Emiliaromagnanews24.it – 13.7.2026 – Piacenza Talenti apre la nuova bacheca affitti gratuita, dove pubblicare annunci dedicati agli studenti universitari",
-        "link": "https://www.confedilizia.it/emiliaromagnanews24-it-13-7-2026-piacenza-talenti-apre-la-nuova-bacheca-affitti-gratuita-dove-pubblicare-annunci-dedicati-agli-studenti-universitari/",
-        "date": "2026-07-14T06:36:12.000Z",
-        "summary": "L'articolo Emiliaromagnanews24.it – 13.7.2026 – Piacenza Talenti apre la nuova bacheca affitti gratuita, dove pubblicare annunci dedicati agli studenti universitari sembra essere il primo su Confedilizia."
+        "title": "Lavocedeltrentino.it – 15.7.2026 – Mercato immobiliare, la crescita arriva dai piccoli centri",
+        "link": "https://www.confedilizia.it/lavocedeltrentino-it-15-7-2026-mercato-immobiliare-la-crescita-arriva-dai-piccoli-centri/",
+        "date": "2026-07-15T07:25:18.000Z",
+        "summary": "L'articolo Lavocedeltrentino.it – 15.7.2026 – Mercato immobiliare, la crescita arriva dai piccoli centri sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Presentazione del libro “Ritratto di giovane fascista – Il caso Mauro De Mauro”",
-        "link": "https://www.confedilizia.it/presentazione-del-libro-ritratto-di-giovane-fascista-il-caso-mauro-de-mauro/",
-        "date": "2026-07-13T14:28:33.000Z",
-        "summary": "L'articolo Presentazione del libro “Ritratto di giovane fascista – Il caso Mauro De Mauro” sembra essere il primo su Confedilizia."
+        "title": "Poteri dell’assemblea",
+        "link": "https://www.confedilizia.it/poteri-dellassemblea/",
+        "date": "2026-07-15T07:19:34.000Z",
+        "summary": "L'articolo Poteri dell’assemblea sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Il Piano Casa è legge",
-        "link": "https://www.confedilizia.it/il-piano-casa-e-legge/",
-        "date": "2026-07-13T11:22:42.000Z",
-        "summary": "È stato convertito in legge il d.l. n. 66 del 7.5.2026, recante “Disposizioni urgenti per il Piano Casa”. Poche le modifiche apportate in sede di conversione. La finalità del provvedimento resta quella di fornire una risposta ai fabbisogni abitativi dei giovani e degli studenti universitari, dei lavoratori fuori sede, delle giovani coppie e dei […]\nL'articolo Il Piano Casa è legge sembra essere il"
+        "title": "Radiogold.it – 15.7.2026 – Mercato immobiliare, provincia di Alessandria 2° in Italia: “La casa nei piccoli centri non è più un ripiego”",
+        "link": "https://www.confedilizia.it/radiogold-it-15-7-2026-mercato-immobiliare-provincia-di-alessandria-2-in-italia-la-casa-nei-piccoli-centri-non-e-piu-un-ripiego/",
+        "date": "2026-07-15T07:08:54.000Z",
+        "summary": "L'articolo Radiogold.it – 15.7.2026 – Mercato immobiliare, provincia di Alessandria 2° in Italia: “La casa nei piccoli centri non è più un ripiego” sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Controversie condominiali al giudice di pace: rinvio di un anno",
-        "link": "https://www.confedilizia.it/controversie-condominiali-al-giudice-di-pace-rinvio-di-un-anno/",
-        "date": "2026-07-13T11:22:35.000Z",
-        "summary": "È stato pubblicato sulla Gazzetta Ufficiale n. 134 del 12.6.2026, il d.l. n. 100 di pari data in materia di giustizia. Il provvedimento ha rinviato di un anno, dal 31.10.2026 al 31.10.2027, l’entrata in vigore delle nuove competenze attribuite ai giudici di pace, tra le quali – si ricorda – è ricompresa l’assegnazione in via […]\nL'articolo Controversie condominiali al giudice di pace: rinvio di un"
+        "title": "Bresciaoggi.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42%",
+        "link": "https://www.confedilizia.it/bresciaoggi-it-14-7-2026-confedilizia-piccoli-centri-trainano-il-mercato-immobiliare-dal-2019-42/",
+        "date": "2026-07-15T07:08:30.000Z",
+        "summary": "L'articolo Bresciaoggi.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42% sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Cedolare secca in caso di conduttore che esercita attività di impresa, arte o professione",
-        "link": "https://www.confedilizia.it/cedolare-secca-in-caso-di-conduttore-che-esercita-attivita-di-impresa-arte-o-professione/",
-        "date": "2026-07-13T10:59:30.000Z",
-        "summary": "La Corte di giustizia tributaria del Veneto, con sentenza n. 462, depositata il 26 maggio scorso, ha annullato un avviso di liquidazione dell’imposta di registro relativo a un contratto di locazione abitativa, stipulato con un istituto di credito per far fronte alle esigenze abitative di un funzionario e della sua famiglia, per il quale il […]\nL'articolo Cedolare secca in caso di conduttore che es"
+        "title": "Gazzettadimantova.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42%",
+        "link": "https://www.confedilizia.it/gazzettadimantova-it-14-7-2026-confedilizia-piccoli-centri-trainano-il-mercato-immobiliare-dal-2019-42/",
+        "date": "2026-07-15T07:08:11.000Z",
+        "summary": "L'articolo Gazzettadimantova.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42% sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Dalle Associazioni terrotoriali",
-        "link": "https://www.confedilizia.it/dalle-associazioni-terrotoriali/",
-        "date": "2026-07-13T10:46:38.000Z",
-        "summary": "Bologna Il 18 giugno, presso la Sala Europa del Grand Hotel Majestic, si è tenuta la presentazione di alcuni progetti culturali della Fondazione Morandi, tra cui la pubblicazione dedicata all’orto-giardino di via Fondazza dell’artista e le iniziative legate al dialogo tra la pittura di Morandi e il cinema di Valerio Zurlini, nel centenario della sua […]\nL'articolo Dalle Associazioni terrotoriali s"
+        "title": "Ilgiornaledivicenza.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42%",
+        "link": "https://www.confedilizia.it/ilgiornaledivicenza-it-14-7-2026-confedilizia-piccoli-centri-trainano-il-mercato-immobiliare-dal-2019-42/",
+        "date": "2026-07-15T07:07:48.000Z",
+        "summary": "L'articolo Ilgiornaledivicenza.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42% sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Le riforme che servono",
-        "link": "https://www.confedilizia.it/le-riforme-che-servono/",
-        "date": "2026-07-13T10:29:40.000Z",
-        "summary": "L’approvazione alla Camera del decreto-legge sul Piano Casa e le indicazioni fornite dal commissario straordinario Felice Squitieri nella sua prima intervista (rilasciata a Tobia De Stefano per il quotidiano La Verità e pubblicata a pag. 3), consentono di guardare con maggiore concretezza ai passaggi che ci aspettano. Importante, anzitutto, è l’accento posto dal commissario sull’urgenza […]\nL'arti"
+        "title": "Ilgiorno.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42%",
+        "link": "https://www.confedilizia.it/ilgiorno-it-14-7-2026-confedilizia-piccoli-centri-trainano-il-mercato-immobiliare-dal-2019-42/",
+        "date": "2026-07-15T07:05:59.000Z",
+        "summary": "L'articolo Ilgiorno.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42% sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ilrestodelcarlino.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42%",
+        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-14-7-2026-confedilizia-piccoli-centri-trainano-il-mercato-immobiliare-dal-2019-42/",
+        "date": "2026-07-15T07:05:16.000Z",
+        "summary": "L'articolo Ilrestodelcarlino.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42% sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Italiaoggi.it – 14.7.2026 – Casa, fuga dalle grandi città: nei borghi le compravendite volano (+42%), Milano e Roma frenano",
+        "link": "https://www.confedilizia.it/italiaoggi-it-14-7-2026-casa-fuga-dalle-grandi-citta-nei-borghi-le-compravendite-volano-42-milano-e-roma-frenano/",
+        "date": "2026-07-15T07:04:45.000Z",
+        "summary": "L'articolo Italiaoggi.it – 14.7.2026 – Casa, fuga dalle grandi città: nei borghi le compravendite volano (+42%), Milano e Roma frenano sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ladiscussione.com – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42%",
+        "link": "https://www.confedilizia.it/ladiscussione-com-14-7-2026-confedilizia-piccoli-centri-trainano-il-mercato-immobiliare-dal-2019-42/",
+        "date": "2026-07-15T07:04:23.000Z",
+        "summary": "L'articolo Ladiscussione.com – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42% sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Lanazione.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42%",
+        "link": "https://www.confedilizia.it/lanazione-it-14-7-2026-confedilizia-piccoli-centri-trainano-il-mercato-immobiliare-dal-2019-42/",
+        "date": "2026-07-15T07:04:00.000Z",
+        "summary": "L'articolo Lanazione.it – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare, dal 2019 +42% sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Soldionline.it – 14.7.2026 – Case nei piccoli centri, boom di compravendite: dal 2019 è +42,3%",
+        "link": "https://www.confedilizia.it/soldionline-it-14-7-2026-case-nei-piccoli-centri-boom-di-compravendite-dal-2019-e-423-2/",
+        "date": "2026-07-15T07:03:40.000Z",
+        "summary": "L'articolo Soldionline.it – 14.7.2026 – Case nei piccoli centri, boom di compravendite: dal 2019 è +42,3% sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "L’arena.it – 14.7.2026 – Mercato immobiliare, la crescita arriva dai piccoli centri",
+        "link": "https://www.confedilizia.it/larena-it-14-7-2026-mercato-immobiliare-la-crescita-arriva-dai-piccoli-centri/",
+        "date": "2026-07-15T07:02:29.000Z",
+        "summary": "L'articolo L’arena.it – 14.7.2026 – Mercato immobiliare, la crescita arriva dai piccoli centri sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Lospiffero.com – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare",
+        "link": "https://www.confedilizia.it/lospiffero-com-14-7-2026-confedilizia-piccoli-centri-trainano-il-mercato-immobiliare/",
+        "date": "2026-07-15T07:01:52.000Z",
+        "summary": "L'articolo Lospiffero.com – 14.7.2026 – Confedilizia, piccoli centri trainano il mercato immobiliare sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Ryze acquisisce Krata ed entra nel mercato spagnolo",
+        "link": "https://www.ilsole24ore.com/art/ryze-acquisisce-krata-ed-entra-mercato-spagnolo-AJVsWzI",
+        "date": "2026-07-14T11:56:00.000Z",
+        "summary": "Ryze compie un altro passo nel suo percorso di internazionalizzazione. La società di consulenza e gestione di servizi immobiliari (ex Yard Reaas) ha siglato un accordo per l’acquisizione di Krata..."
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Casa, la domanda si sposta fuori dalle metropoli: nei piccoli comuni compravendite +42% in sei anni",
+        "link": "https://www.ilsole24ore.com/art/casa-domanda-si-sposta-fuori-metropoli-piccoli-comuni-compravendite-42percento-sei-anni-AJVhxYH",
+        "date": "2026-07-14T04:00:00.000Z",
+        "summary": "L’acquisto della casa, da sempre uno degli obiettivi più ambiti dagli italiani, non si concentra più soltanto nelle grandi città e nei centri più dinamici. La domanda si sta infatti..."
       },
       {
         "category": "condominio",
@@ -1088,54 +1184,6 @@
         "link": "https://www.ilsole24ore.com/art/sina-hotels-cresce-i-soft-brand-identita-italiana-e-reti-globali-sfidare-grandi-gruppi-AJD7xZF",
         "date": "2026-07-13T08:52:29.000Z",
         "summary": "Coniugare l’indipendenza e il legame con il territorio alla necessità di competere su scala globale. È la mission di Sina Hotels, il gruppo alberghiero ancora oggi guidato dalla famiglia fondatrice..."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ilrestodelcarlino.it – 12.7.2026 – Tari, salassi e polemiche: “Inflazione? Certo esiste. Ma il servizio resta scarso”",
-        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-12-7-2026-tari-salassi-e-polemiche-inflazione-certo-esiste-ma-il-servizio-resta-scarso/",
-        "date": "2026-07-13T06:59:48.000Z",
-        "summary": "L'articolo Ilrestodelcarlino.it – 12.7.2026 – Tari, salassi e polemiche: “Inflazione? Certo esiste. Ma il servizio resta scarso” sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ilpiacenza.it – 11.7.2026 – Apre la nuova bacheca affitti gratuita per annunci dedicati agli studenti universitari",
-        "link": "https://www.confedilizia.it/ilpiacenza-it-11-7-2026-apre-la-nuova-bacheca-affitti-gratuita-per-annunci-dedicati-agli-studenti-universitari/",
-        "date": "2026-07-13T06:59:02.000Z",
-        "summary": "L'articolo Ilpiacenza.it – 11.7.2026 – Apre la nuova bacheca affitti gratuita per annunci dedicati agli studenti universitari sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Lanovitaonline.it – 11.7.2026 – Catanzaro | Condominio e nuove sentenze: esperti a confronto sulle regole che cambiano la gestione degli immobili",
-        "link": "https://www.confedilizia.it/lanovitaonline-it-11-7-2026-catanzaro-condominio-e-nuove-sentenze-esperti-a-confronto-sulle-regole-che-cambiano-la-gestione-degli-immobili/",
-        "date": "2026-07-13T06:57:26.000Z",
-        "summary": "L'articolo Lanovitaonline.it – 11.7.2026 – Catanzaro | Condominio e nuove sentenze: esperti a confronto sulle regole che cambiano la gestione degli immobili sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Liberta.it – 11.7.2026 – Studenti fuorisede, apre la bacheca affitti. Bando e vademecum",
-        "link": "https://www.confedilizia.it/liberta-it-11-7-2026-studenti-fuorisede-apre-la-bacheca-affitti-bando-e-vademecum/",
-        "date": "2026-07-13T06:55:40.000Z",
-        "summary": "L'articolo Liberta.it – 11.7.2026 – Studenti fuorisede, apre la bacheca affitti. Bando e vademecum sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Nicolaporro.it – 11.7.2026 – La libertà a fumetti, contro i dogmi del potere",
-        "link": "https://www.confedilizia.it/nicolaporro-it-11-7-2026-la-liberta-a-fumetti-contro-i-dogmi-del-potere/",
-        "date": "2026-07-13T06:53:17.000Z",
-        "summary": "L'articolo Nicolaporro.it – 11.7.2026 – La libertà a fumetti, contro i dogmi del potere sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Quotidianopiacenza.online – 11.7.2026 – Piacenza Talenti lancia la bacheca affitti: appello ai proprietari per aumentare le case dedicate agli studenti",
-        "link": "https://www.confedilizia.it/quotidianopiacenza-online-11-7-2026-piacenza-talenti-lancia-la-bacheca-affitti-appello-ai-proprietari-per-aumentare-le-case-dedicate-agli-studenti/",
-        "date": "2026-07-13T06:47:49.000Z",
-        "summary": "L'articolo Quotidianopiacenza.online – 11.7.2026 – Piacenza Talenti lancia la bacheca affitti: appello ai proprietari per aumentare le case dedicate agli studenti sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
@@ -1164,14 +1212,6 @@
       {
         "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Casa, compravendite stabili e prezzi in salita. Milano frena, Roma sopra la media delle grandi città",
-        "link": "https://www.ilsole24ore.com/art/casa-compravendite-viste-rallentare-2026-milano-frena-roma-sopra-media-grandi-citta-AJVBF3C",
-        "date": "2026-07-09T09:54:00.000Z",
-        "summary": "Il mercato residenziale italiano nel primo semestre del 2026 segna una crescita moderata, una dinamica che, prevedibilmente, continuerà a caratterizzare anche la seconda metà dell’anno in corso. Se le compravendite..."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "UniCamillus raddoppia in Veneto: accordo con Central Sicaf per il nuovo campus universitario di Mestre",
         "link": "https://www.ilsole24ore.com/art/unicamillus-raddoppia-veneto-accordo-covivio-il-nuovo-campus-universitario-mestre-AJ7KkcC",
         "date": "2026-07-08T11:04:00.000Z",
@@ -1180,26 +1220,10 @@
       {
         "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Minor Hotels accelera in Italia: 100 hotel entro il 2030 e debutto del Tivoli President Milano",
-        "link": "https://www.ilsole24ore.com/art/minor-hotels-accelera-italia-100-hotel-entro-2030-e-debutto-tivoli-president-milano-AJXxTSC",
-        "date": "2026-07-08T07:21:59.000Z",
-        "summary": "Minor Hotels, gruppo globale con oltre 640 strutture in 63 Paesi, punta sull’Italia delineando una precisa strategia di espansione. L’obiettivo dichiarato è ambizioso, come dichiara Marco Gilardi, senior vice president..."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "A Piacenza al via la riqualificazione dell’ex convento di Santa Chiara per 330 posti letto",
-        "link": "https://www.ilsole24ore.com/art/a-piacenza-via-riqualificazione-dell-ex-convento-santa-chiara-330-posti-letto-AJd1lo",
-        "date": "2026-07-06T16:30:30.000Z",
-        "summary": "Student housing, social housing e servizi socioassistenziali in un’unica struttura. È il progetto che prende il via a Piacenza, dove oggi è stata posata la prima pietra per la riconversione..."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Generali Real Estate e Colonial Sfl danno vita a una joint venture per un portafoglio di immobili prime a Berlino",
-        "link": "https://www.ilsole24ore.com/art/generali-real-estate-e-colonial-sfl-danno-vita-una-joint-venture-un-portafoglio-immobili-prime-berlino-AIWItJ0D",
-        "date": "2026-07-03T16:46:00.000Z",
-        "summary": "Nuova operazione in Germania per Generali Real Estate. La società guidata da Aldo Mazzocco ha siglato una joint venture strategica con Colonial Sfl (primario investitore quotato europeo) focalizzata sul Central..."
+        "title": "Per l’immobiliare primo semestre 2026 da record: in Italia 7 miliardi di investimenti",
+        "link": "https://www.ilsole24ore.com/art/per-l-immobiliare-primo-semestre-2026-record-italia-7-miliardi-investimenti-AJ7GLQ",
+        "date": "2026-07-06T10:24:00.000Z",
+        "summary": "Il mercato immobiliare italiano chiude il primo semestre del 2026 con un nuovo massimo storico. Secondo la fotografia scattata dal Team Research di Dils, gli investimenti raggiungono i 7 miliardi..."
       }
     ],
     "contenzioso": [
@@ -1210,6 +1234,38 @@
         "link": "https://www.dgt.mef.gov.it/gt/-/limite-temporale-del-divieto-di-nuove-prove-in-appello-1?search=true",
         "date": "2026-05-27T00:00:00.000Z",
         "summary": "Ordinanza del 27/05/2026 n. 16456/Sezione 5 - Corte di cassazione"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Ricorso nativo digitale e mancanza di firma digitale",
+        "link": "https://www.dgt.mef.gov.it/gt/-/ricorso-nativo-digitale-e-mancanza-di-firma-digitale?search=true",
+        "date": "2026-05-25T00:00:00.000Z",
+        "summary": "Sentenza del 25/05/2026 n. 1205/Sezione 14 - Corte di Giustizia Tributaria di secondo grado della Lombardia"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Rimborso IVA e (difetto) di legittimazione del cessionario",
+        "link": "https://www.dgt.mef.gov.it/gt/-/rimborso-iva-e-difetto-di-legittimazione-del-cessionario?search=true",
+        "date": "2026-05-12T00:00:00.000Z",
+        "summary": "Sentenza del 12/05/2026 n. 1489/Sezione 3 - Corte di Giustizia Tributaria di secondo grado della Puglia"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Illegittima la notifica dell’accertamento IMU a ciascun erede in solidarietà passiva",
+        "link": "https://www.dgt.mef.gov.it/gt/-/illegittima-la-notifica-dell-accertamento-imu-a-ciascun-erede-in-solidariet%C3%A0-passiva?search=true",
+        "date": "2026-05-04T00:00:00.000Z",
+        "summary": "Sentenza del 04/05/2026 n. 2686/sezione 15 - Corte di Giustizia Tributaria di secondo grado del Lazio"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Tassazione per trasparenza e beneficiario individuato di trust",
+        "link": "https://www.dgt.mef.gov.it/gt/-/tassazione-per-trasparenza-e-beneficiario-individuato-di-trust?search=true",
+        "date": "2026-05-03T00:00:00.000Z",
+        "summary": "Ordinanza del 03/05/2026 n. 12381/Sezione 5 - Corte di cassazione"
       },
       {
         "category": "contenzioso",
@@ -1238,22 +1294,6 @@
       {
         "category": "contenzioso",
         "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Agevolazioni PPC anche alle società IAP di persone con IAP cd. “itinerante”.",
-        "link": "https://www.dgt.mef.gov.it/gt/-/agevolazioni-ppc-anche-alle-societ%C3%A0-iap-di-persone-con-iap-cd.-itinerante-.?search=true",
-        "date": "2026-04-01T00:00:00.000Z",
-        "summary": "Sentenza del 01/04/2026 n. 12/Sezione 1 - Corte di Giustizia Tributaria di primo grado di Grado Bolzano"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Plusvalenza derivante da cessione di immobili oggetto di \"Superbonus\": ambito di applicazione dell’art. 67, comma 1, lett. b-bis, TUIR",
-        "link": "https://www.dgt.mef.gov.it/gt/-/plusvalenza-derivante-da-cessione-di-immobili-oggetto-di-superbonus-ambito-di-applicazione-dell-art.-67-comma-1-lett.-b-bis-tuir-1?search=true",
-        "date": "2026-04-01T00:00:00.000Z",
-        "summary": "Sentenza del 01/04/2026 n. 1368/Sezione 4 - Corte di Giustizia Tributaria di primo grado di Milano"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
         "title": "Plusvalenza derivante da cessione di immobili oggetto di \"Superbonus\": ambito di applicazione dell’art. 67, comma 1, lett. b-bis, TUIR",
         "link": "https://www.dgt.mef.gov.it/gt/-/plusvalenza-derivante-da-cessione-di-immobili-oggetto-di-superbonus-ambito-di-applicazione-dell-art.-67-comma-1-lett.-b-bis-tuir?search=true",
         "date": "2026-04-01T00:00:00.000Z",
@@ -1262,29 +1302,61 @@
       {
         "category": "contenzioso",
         "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Operazioni soggettivamente inesistenti e buona fede del cessionario nella detrazione IVA",
-        "link": "https://www.dgt.mef.gov.it/gt/-/operazioni-soggettivamente-inesistenti-e-buona-fede-del-cessionario-nella-detrazione-iva?search=true",
-        "date": "2026-03-27T00:00:00.000Z",
-        "summary": "Sentenza del 27/03/2026 n. 123/ Sezione 1 - Corte di Giustizia Tributaria di primo grado di Padova"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Produzione documentale priva di attestazione di conformità e processo tributario telematico",
-        "link": "https://www.dgt.mef.gov.it/gt/-/produzione-documentale-priva-di-attestazione-di-conformit%C3%A0-e-processo-tributario-telematico?search=true",
-        "date": "2026-02-20T00:00:00.000Z",
-        "summary": "Sentenza del 20/02/2026 n. 159/ Sezione 3 - Corte di Giustizia Tributaria di primo grado di Benevento"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Contenzioso tributario: litisconsorzio tra ente impositore e agente della riscossione",
-        "link": "https://www.dgt.mef.gov.it/gt/-/contenzioso-tributario-litisconsorzio-tra-ente-impositore-e-agente-della-riscossione?search=true",
-        "date": "2026-02-12T00:00:00.000Z",
-        "summary": "Sentenza del 12/02/2026 n. 1034/Sezione 9 - Corte di Giustizia Tributaria di primo grado di Reggio Calabria"
+        "title": "Tari e limiti all’autonomia del Comune nella determinazione delle tariffe",
+        "link": "https://www.dgt.mef.gov.it/gt/-/tari-e-limiti-all-autonomia-del-comune-nella-determinazione-delle-tariffe?search=true",
+        "date": "2026-03-05T00:00:00.000Z",
+        "summary": "Sentenza del 05/03/2026 n. 228/Sezione 2 - Corte di Giustizia Tributaria di secondo grado del Piemonte"
       }
     ],
     "crisi_impresa": [
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Marchio biologico per i prodotti realizzati con materie prime italiane",
+        "link": "https://www.ilsole24ore.com/art/marchio-biologico-i-prodotti-realizzati-materie-prime-italiane-AJN3EbJ",
+        "date": "2026-07-15T03:08:34.000Z",
+        "summary": "Per utilizzare il contrassegno occorrerà rispettare una serie di requisiti e darne comunicazione al ministero dell’Agricoltura"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Entro il 2100 la popolazione europea tornerà ai livelli degli anni Settanta",
+        "link": "https://www.ilsole24ore.com/art/entro-2100-popolazione-europea-tornera-livelli-anni-settanta-AJKraZJ",
+        "date": "2026-07-15T03:02:00.000Z",
+        "summary": "Invecchiamento della popolazione e aumento delle disuguaglianze fra i rischi e le conseguenze della contrazione demografica"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Assolta per aver soffocato la madre malata di Alzheimer: stress per l'assistenza",
+        "link": "https://www.ilsole24ore.com/art/assolta-aver-soffocato-madre-malata-alzheimer-stress-l-assistenza-AJSOHQJ",
+        "date": "2026-07-14T16:37:02.000Z",
+        "summary": "Per i periti al momento dei fatti, dopo un lungo periodo di accudimento, era incapace di intendere e volere. Le motivazioni tra 90 giorni"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "CONI e CNDCEC: modelli semplificati per ASD e SSD",
+        "link": "https://press-magazine.it/coni-e-cndcec-modelli-semplificati-per-asd-e-ssd-2/",
+        "date": "2026-07-14T15:42:11.000Z",
+        "summary": "Si è svolta oggi, presso il Salone d’Onore del CONI, la presentazione della relazione conclusiva della Commissione Paritetica CONI – Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili (CNDCEC), istituita per approfondire le principali questioni applicative della riforma […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Morto in carcere per deperimento, cure non adeguate: la Cedu condanna l’Italia",
+        "link": "https://www.ilsole24ore.com/art/morto-carcere-deperimento-cure-non-adeguate-cedu-condanna-l-italia-AJD0XIJ",
+        "date": "2026-07-14T15:24:00.000Z",
+        "summary": "Antonio Raddi è morto dopo aver perso 30 chili. Lo Stato dovrà versare 26mila euro ai familiari"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Un codice di condotta europeo per gli influencer: la richiesta del Parlamento Ue",
+        "link": "https://www.ilsole24ore.com/art/un-codice-condotta-europeo-gli-influencer-richiesta-parlamento-ue-AJA7JHJ",
+        "date": "2026-07-14T15:05:10.000Z",
+        "summary": "Trasparenza algoritmica e standard etici per gli Ai companions alla base della tutela dei minori online secondo la Commissione cultura e istruzione"
+      },
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -1292,38 +1364,6 @@
         "link": "https://www.ilsole24ore.com/art/e-commerce-controlli-doganali-piu-stringenti-i-pid-AJdBpBG",
         "date": "2026-07-14T08:39:43.000Z",
         "summary": "Dal 1° novembre bisognerà fornire in Dogana i codici alfanumerici che compongono gli identificatori di prodotto per le verifiche di conformità e sicurezza"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Un passaporto digitale racconterà la vita e la filiera dei prodotti",
-        "link": "https://www.ilsole24ore.com/art/un-passaporto-digitale-raccontera-vita-e-filiera-prodotti-AJmtvAG",
-        "date": "2026-07-14T08:39:00.000Z",
-        "summary": "Con il Qr code o il codice Rfid si conosceranno informazioni su composizione, impronta di carbonio, riparabilità e filiera produttiva. Previste sanzioni come il divieto d’immissione in commercio"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Ecobonus, svecchiamento del parco auto non completamente raggiunto",
-        "link": "https://www.ilsole24ore.com/art/ecobonus-svecchiamento-parco-auto-non-completamente-raggiunto-AJ1RRHI",
-        "date": "2026-07-14T03:15:02.000Z",
-        "summary": "Per la Corte dei conti occorre rafforzare le iniziative di formazione e sensibilizzazione dei consumatori per ridurre le emissioni del 55% entro il 2030"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Dalla Cassazione nessuna tutela per il conte declassato a “nobile” nel Libro d’oro",
-        "link": "https://www.ilsole24ore.com/art/dalla-cassazione-nessuna-tutela-il-conte-declassato-nobile-libro-d-oro-AJOO7CI",
-        "date": "2026-07-14T03:12:51.000Z",
-        "summary": "I giudici restano ancorati a quanto previsto dalla Costituzione riguardo all’abolizione giuridica dei titoli nobiliari"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Approccio per età e sei principi guida: la tutela dei minori online secondo l’Ue",
-        "link": "https://www.ilsole24ore.com/art/approccio-eta-e-sei-principi-guida-tutela-minori-online-secondo-l-ue-AJFb01H",
-        "date": "2026-07-14T03:02:00.000Z",
-        "summary": "Onere della prova alle piattaforme e maggiore uso supervisionato. Così il Panel speciale di esperti getta le basi per una normativa sui social media"
       },
       {
         "category": "crisi_impresa",
@@ -1396,14 +1436,6 @@
         "link": "https://press-magazine.it/i-commercialisti-pubblicano-i-principi-di-comportamento-dellesperto-della-composizione-negoziata/",
         "date": "2026-06-22T07:04:53.000Z",
         "summary": "Il Consiglio e la Fondazione Nazionale di Ricerca dei Commercialisti hanno pubblicato i “Principi di comportamento dell’Esperto della composizione negoziata”, elaborati dalla Commissione di studio “Composizione negoziata”. Il documento, che integra e precisa i contenuti del […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "CNDCEC - Crisi d'impresa",
-        "title": "Il Fondo di garanzia per le PMI al centro del webinar dei commercialisti",
-        "link": "https://press-magazine.it/il-fondo-di-garanzia-per-le-pmi-al-centro-del-webinar-dei-commercialisti/",
-        "date": "2026-06-18T15:43:10.000Z",
-        "summary": "L’intervento diretto dello Stato a sostegno delle imprese e l’operatività del Fondo di garanzia per le PMI sono stati i temi al centro del webinar “Fondo di garanzia – MCC. Sviluppo e prospettive” organizzato dal Consiglio […]"
       }
     ],
     "finanza_agevolata": [
