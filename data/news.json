@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T11:07:40.850Z",
+  "generatedAt": "2026-07-18T10:05:43.944Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -13,11 +13,43 @@
     "fiscale": [
       {
         "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Fusione per incorporazione tra enti religiosi civilmente riconosciuti - Rilevanza ai fini IVA, delle imposte di registro, ipotecaria e catastale e delle imposte sui redditi (principio di diritto Agenzia delle Entrate 7.7.2026 n. 1) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1112184",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": ""
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Gattare, non c’è reato ma una sanzione se il sindaco vieta il cibo ai randagi",
+        "link": "https://www.ilsole24ore.com/art/gattare-non-c-e-reato-ma-sanzione-se-sindaco-vieta-cibo-randagi-AJmKULN",
+        "date": "2026-07-18T03:10:45.000Z",
+        "summary": "Chi alimenta la colonia felina «non è tenuto ad agire per impedire le condotte moleste da parte degli animali randagi perché privo del potere giuridico»"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Servizio clienti, sì all’accesso all’audio delle conversazioni  tramite trascrizione",
+        "link": "https://www.ilsole24ore.com/art/servizio-clienti-si-all-accesso-all-audio-conversazioni-tramite-trascrizione-AJTUlaN",
+        "date": "2026-07-18T03:08:33.000Z",
+        "summary": "I dati personali possono essere forniti all’utente che ne fa richiesta, se vengono oscurati gli elementi che consentono di identificare l’operatore"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sì al sequestro dello smartphone dell’Ad con parole chiave generiche",
+        "link": "https://www.ilsole24ore.com/art/si-sequestro-smartphone-dell-ad-parole-chiave-generiche-AJaH1aN",
+        "date": "2026-07-18T03:06:24.000Z",
+        "summary": "Confermata la misura sul cellulare di Milleri, no al ricorso Luxottica. Negata la scarsa selettività di criteri come il cognome o il numero telefonico"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Alunni disabili, discriminatoria l’uscita anticipata",
+        "link": "https://www.ilsole24ore.com/art/alunni-disabili-discriminatoria-l-uscita-anticipata-AJjHXdN",
+        "date": "2026-07-18T03:04:13.000Z",
+        "summary": "Ininfluente l’insufficiente presenza a scuola dell’insegnante di sostegno"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "L’atto notarile è titolo esecutivo anche all’estero",
+        "link": "https://www.ilsole24ore.com/art/l-atto-notarile-e-titolo-esecutivo-anche-all-estero-AJGAUON",
+        "date": "2026-07-18T03:02:02.000Z",
+        "summary": "Il provvedimento non può essere oggetto del riesame in uno Stato membro diverso da quello in cui è stato emesso"
       },
       {
         "category": "fiscale",
@@ -30,18 +62,34 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Youtube, la Corte Ue: Google può rispondere dei video dei creator partner",
-        "link": "https://www.ilsole24ore.com/art/youtube-corte-ue-google-puo-rispondere-video-creator-partner-AJOZERM",
-        "date": "2026-07-17T03:04:12.000Z",
-        "summary": "Con partnership commerciale e condivisione dei ricavi no a scudo per hosting provider neutrali. Google: «Delusi, sosterremo le nostre argomentazioni»"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Fotovoltaico con pannelli a terra, legittimo il divieto di installazione in aree agricole",
         "link": "https://www.ilsole24ore.com/art/fotovoltaico-pannelli-terra-legittimo-divieto-installazione-aree-agricole-AJ4lZyL",
         "date": "2026-07-17T03:02:01.000Z",
         "summary": "Si allinea ai valori costituzionali e ai principi comunitari, ribadendo la necessità di tutelare quanto possibile il suolo destinato a coltivazioni e allevamento"
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Sospensione della notifica degli atti ad agosto: nessun aumento nei mesi precedenti e successivi. A luglio forte riduzione per lettere di compliance, cartelle e altre comunicazioni (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/sospensione-della-notifica-degli-atti-ad-agosto-nessun-aumento-nei-mesi-precedenti-e-successivi.-a-luglio-forte-riduzione-per-lettere-di-compliance-cartelle-e-altre-comunicazioni",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Disposizioni di attuazione degli articoli 119 e 121 del decreto-legge 19 maggio 2020, n. 34, per l’esercizio delle opzioni relative alle detrazioni spettanti per gli interventi edilizi (provvedimento)",
+        "link": "https://www.agenziaentrate.gov.it/portale/provvedimento-del-17-luglio-2026-disposizioni-di-attuazione-degli-articoli-119-e-121-del-decreto-legge-19-maggio-2020-n.-34-per-l-esercizio-delle-opzioni-relative-alle-detrazioni-spettanti-per-gli-interventi-edilizi",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Contratti di prossimit cosa cambia per i datori di lavoro con il Dl 622026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4296-contratti-di-prossimita-cosa-cambia-per-i-datori-di-lavoro-con-il-dl-622026.html",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": "Il Dl 62/2026 introduce novita  per le deroghe ai CCNL nei contratti integrativi: deposito al Cnel, sottoscrizione in ITL per microimprese  e informativa scritta-  FAQ"
       },
       {
         "category": "fiscale",
@@ -125,22 +173,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Transizione green, iperammortamento da perfezionare",
-        "link": "https://www.ilsole24ore.com/art/transizione-green-iperammortamento-perfezionare-AJa300L",
-        "date": "2026-07-16T19:23:00.000Z",
-        "summary": "Servirebbe una differenziaziona qualitativa degli investimenti con un iperammortamento dedicato agli investimenti green oriented"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Influencer marketing, dal 27 settembre scattano le nuove regole Ue",
-        "link": "https://www.ilsole24ore.com/art/influencer-marketing-27-settembre-scattano-nuove-regole-ue-AJgrLlK",
-        "date": "2026-07-16T03:13:03.000Z",
-        "summary": "La direttiva comunitaria, recepita in Italia dal Dlgs 30/2026, mira a contrastare il greenwashing e le asserzioni generiche e non supportate dai fatti"
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Normativa e prassi",
         "title": "Attuazione delle disposizioni in materia di rafforzamento del contenuto conoscitivo del cassetto fiscale, ai sensi dell’articolo 23 del decreto legislativo 8 gennaio 2024, n. 1. Disponibilità nell’area riservata della funzione di consultazione degli avvisi di liquidazione emessi ai sensi degli articoli 15 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, e della nota II-bis dell’articolo 1 della Tariffa, parte prima, del decreto del Presidente della Repubblica 26 aprile 1986, n. 131, nonché degli avvisi di accertamento parziale cosiddetti “automatizzati” emessi ai sensi dell’articolo 41-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600 e dei relativi provvedimenti di autotutela parziale o totale (provvedimento)",
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196139/Provvedimento+Cassetto+fiscale_16+luglio+2026/e8027afe-0015-f44a-5da3-523a061b61ef",
@@ -218,14 +250,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4278-responsabilita-231-e-infortuni-serve-prova-rigorosa-non-presunta.html",
         "date": "2026-07-16T00:00:00.000Z",
         "summary": "Come la Cassazione n. 24402/2026 ridefinisce l'onere della prova su interesse, vantaggio dell'ente e colpa di organizzazione negli infortuni sul lavoro. Check list scaricabile"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Casellario Pensioni INPS obblighi e scadenze per gli enti previdenziali",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4276-casellario-pensioni-inps-obblighi-e-scadenze-per-gli-enti-previdenziali.html",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": "Messaggio INPS n. 2354/2026: termini annuali e trimestrali per  l'invio dei dati da  Casse e Fondi pensione anche ai fini dell'accesso delle prestazioni collegate al reddito"
       },
       {
         "category": "fiscale",
@@ -365,57 +389,9 @@
       },
       {
         "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Conto termico 3.0 - Fatturazione (consulenza giuridica Agenzia delle Entrate 18.12.2025 n. 956-3/2026) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113581",
-        "date": "16/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 16.7.2026 - \"Importi incentivati per l’efficienza energetica di case popolari da fatturare con IVA\" - Bertelli N. - Zanetti E."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Prescrizione – Autonomia della responsabilità della persona giuridica (Cass. pen. 14.7.2026 n. 26378) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113573",
-        "date": "16/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 16.7.2026 - \"Prescrizione “231” autonoma da quella della persona fisica\" - Artusi M. F."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Azione di responsabilità nelle procedure concorsuali - Termine di decadenza biennale - Applicabilità alle procedure aperte - Decorrenza (Trib. Bari 4.6.2026) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113551",
-        "date": "16/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 16.7.2026 - \"Anche per le procedure pendenti nuova decadenza per l’azione di responsabilità del curatore\" - Valinotti M."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Applicazione degli ISA per il periodo d’imposta 2025 - Chiarimenti (circ. Agenzia delle Entrate 6.7.2026 n. 4) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1111390",
-        "date": "2026-07-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Agevolazioni per i trasferimenti immobiliari a favore di Enti del Terzo Settore - Condizioni agevolative - Trasferimento nel quinquennio - Decadenza - Esclusione (risposta interpello Agenzia delle Entrate 6.7.2026 n. 134) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1111339",
-        "date": "2026-07-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Normativa e prassi",
         "title": "Indici sintetici di affidabilità fiscale – periodo d’imposta 2025 (circolare n.4)",
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196831/Circolare+n.+4_ISA_2026_06.07.2026/b218b332-1791-ff9c-629f-4d3b241764d5",
-        "date": "2026-07-06T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Attuazione delle disposizioni in materia di rafforzamento del contenuto conoscitivo del cassetto fiscale, ai sensi dell’articolo 23 del decreto legislativo 8 gennaio 2024, n. 1. Modalità di acquisizione di dati, atti e comunicazioni mediante servizi di interoperabilità (provvedimento)",
-        "link": "https://www.agenziaentrate.gov.it/portale/provvedimento-del-6-luglio-2026-attuazione-delle-disposizioni-in-materia-di-rafforzamento-del-contenuto-conoscitivo-del-cassetto-fiscale",
         "date": "2026-07-06T00:00:00.000Z",
         "summary": ""
       },
@@ -565,10 +541,50 @@
       },
       {
         "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Le nuove regole fiscali per il Terzo Settore. Parte da Assisi il roadshow di Agenzia delle Entrate e Università Salesiana (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/9882844/018_Com.+st.+Roadshow+Terzo+Settore_AE_Univesita%CC%80+Pontificia+22.04.2026/50d2f1de-2acb-0861-33f7-a6c7e5918530",
-        "date": "2026-04-22T00:00:00.000Z",
+        "source": "Eutekne - Feed RSS",
+        "title": "Social bonus - Spese di gestione dei beni - Istruzioni operative (nota Min. Lavoro e politiche sociali 16.7.2026) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113673",
+        "date": "17/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.7.2026 - \"Per il social bonus spese di gestione dei beni con regole ad hoc\" - Redazione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Credito d'imposta ricerca e sviluppo - Certificazione attestante la qualificazione degli investimenti nelle attività di ricerca, sviluppo e innovazione - Linee guida - Manuale di Frascati - Applicabilità (Consiglio di Stato 14.7.2026 n. 5627) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113566",
+        "date": "17/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.7.2026 - \"Linee guida del MIMIT sul credito R&S da rivedere\" - Infranca G. - Semeraro P."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "OIC 5 \"Bilanci di liquidazione\" - Pubblicazione della nuova versione da parte dell'OIC (16.7.2026) - Decorrenza (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113682",
+        "date": "17/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.7.2026 - \"Nuovo OIC 5 applicabile dai bilanci 2027\" - De Rosa S."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Nuovo OIC 5 - Pubblicazione da parte dell’Organismo italiano di contabilità (16.7.2026) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113682",
+        "date": "17/07/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Cassetto fiscale - Consultazione degli avvisi di liquidazione e degli avvisi di accertamento parziale \"automatizzati\" (provv. Agenzia delle Entrate 16.7.2026 n. 210791) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113681",
+        "date": "17/07/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Chiarimenti (circ. Agenzia delle Entrate 16.7.2026 n. 5 Parte I) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113685",
+        "date": "17/07/2026",
         "summary": ""
       },
       {
@@ -594,16 +610,128 @@
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=459205",
         "date": "14/07/2026",
         "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Split payment confermato fino al 30 giugno 2029: proroga UE e quadro operativo della disciplina",
+        "link": "https://www.mysolution.it/fisco/approfondimenti/commenti/2026/07/split-payment-confermato-fino-al-30-giugno-2029-proroga-ue-e-quadro-operativo-della-disciplina-setti/",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Nuova circolare n. 5/E sul Codice della crisi d’impresa e dell’insolvenza",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/17/nuova-circolare-n.-5e-del-16-luglio-2026-sul-codice-della-crisi-dimpresa-e-dellinsolvenza-principi-generali-e-nuovi-strumenti-per-la-gestione-tempestiva-della-crisi",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Cassetto fiscale: consultabili avvisi e stato del procedimento",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/17/cassetto-fiscale-consultabili-avvisi-e-stato-del-procedimento/",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Oggi, ore 9.30, 2ª Giornata del Mini Master Revisione Legale Ed. 1/2026",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/17/mini-master-revisione-legale-ed.-12026",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Bilanci di liquidazione: il nuovo OIC 5",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/17/regime-sanzionatorio-pre-riforma-e-dichiarazione-integrativa-ante-verifica-profili-critici-e-impatti-difensivi-nel-pvc-2023/",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Credito d’imposta R&S: Manuale Frascati senza effetti retroattivi",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/17/credito-dimposta-rs.-manuale-frascati-senza-effetti-retroattivi",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Dichiarazioni integrative e crediti IRES nel consolidato: limiti alla variazione della destinazione da rimborso a cessione",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/17/dichiarazioni-integrative-e-crediti-ires-nel-consolidato-limiti-alla-variazione-della-destinazione-da-rimborso-a-cessione-ex-art.-43-ter-d.p.r.-6021973",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Dichiarazione precompilata: la delega alla persona di fiducia",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/17/dichiarazione-precompilata.-la-delega-alla-persona-di-fiducia",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Retrocessione al disponente della nuda proprietà di partecipazioni in trust",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/17/retrocessione-al-disponente-della-nuda-proprieta-di-partecipazioni-in-trust-chiarimenti-dellagenzia-delle-entrate-sulla-tassazione-ai-fini-imposte-indirette-e-dirette/",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "CNDCEC: redditi in crescita dell’8,3% per gli iscritti",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/17/cndcec.-redditi-in-crescita-dell83-per-gli-iscritti",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
       }
     ],
     "contabile": [
       {
         "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Fusione per incorporazione tra enti religiosi civilmente riconosciuti - Rilevanza ai fini IVA, delle imposte di registro, ipotecaria e catastale e delle imposte sui redditi (principio di diritto Agenzia delle Entrate 7.7.2026 n. 1) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1112184",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": ""
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Gattare, non c’è reato ma una sanzione se il sindaco vieta il cibo ai randagi",
+        "link": "https://www.ilsole24ore.com/art/gattare-non-c-e-reato-ma-sanzione-se-sindaco-vieta-cibo-randagi-AJmKULN",
+        "date": "2026-07-18T03:10:45.000Z",
+        "summary": "Chi alimenta la colonia felina «non è tenuto ad agire per impedire le condotte moleste da parte degli animali randagi perché privo del potere giuridico»"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Servizio clienti, sì all’accesso all’audio delle conversazioni  tramite trascrizione",
+        "link": "https://www.ilsole24ore.com/art/servizio-clienti-si-all-accesso-all-audio-conversazioni-tramite-trascrizione-AJTUlaN",
+        "date": "2026-07-18T03:08:33.000Z",
+        "summary": "I dati personali possono essere forniti all’utente che ne fa richiesta, se vengono oscurati gli elementi che consentono di identificare l’operatore"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sì al sequestro dello smartphone dell’Ad con parole chiave generiche",
+        "link": "https://www.ilsole24ore.com/art/si-sequestro-smartphone-dell-ad-parole-chiave-generiche-AJaH1aN",
+        "date": "2026-07-18T03:06:24.000Z",
+        "summary": "Confermata la misura sul cellulare di Milleri, no al ricorso Luxottica. Negata la scarsa selettività di criteri come il cognome o il numero telefonico"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Alunni disabili, discriminatoria l’uscita anticipata",
+        "link": "https://www.ilsole24ore.com/art/alunni-disabili-discriminatoria-l-uscita-anticipata-AJjHXdN",
+        "date": "2026-07-18T03:04:13.000Z",
+        "summary": "Ininfluente l’insufficiente presenza a scuola dell’insegnante di sostegno"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "L’atto notarile è titolo esecutivo anche all’estero",
+        "link": "https://www.ilsole24ore.com/art/l-atto-notarile-e-titolo-esecutivo-anche-all-estero-AJGAUON",
+        "date": "2026-07-18T03:02:02.000Z",
+        "summary": "Il provvedimento non può essere oggetto del riesame in uno Stato membro diverso da quello in cui è stato emesso"
       },
       {
         "category": "contabile",
@@ -624,14 +752,6 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Youtube, la Corte Ue: Google può rispondere dei video dei creator partner",
-        "link": "https://www.ilsole24ore.com/art/youtube-corte-ue-google-puo-rispondere-video-creator-partner-AJOZERM",
-        "date": "2026-07-17T03:04:12.000Z",
-        "summary": "Con partnership commerciale e condivisione dei ricavi no a scudo per hosting provider neutrali. Google: «Delusi, sosterremo le nostre argomentazioni»"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Fotovoltaico con pannelli a terra, legittimo il divieto di installazione in aree agricole",
         "link": "https://www.ilsole24ore.com/art/fotovoltaico-pannelli-terra-legittimo-divieto-installazione-aree-agricole-AJ4lZyL",
         "date": "2026-07-17T03:02:01.000Z",
@@ -640,10 +760,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "NASpI anche ai detenuti lavoratori nuove istruzioni INPS",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4295-naspi-ai-detenuti-lavoratori-istruzioni-inps.html",
+        "title": "Contratti di prossimit cosa cambia per i datori di lavoro con il Dl 622026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4296-contratti-di-prossimita-cosa-cambia-per-i-datori-di-lavoro-con-il-dl-622026.html",
         "date": "2026-07-17T00:00:00.000Z",
-        "summary": "Inps si adegua alla Cassazione e  modifica le istruzioni  sull'erogabilità della NASpI ai detenuti che hanno svolto attività lavorativa  per l'Amministrazione penitenziaria."
+        "summary": "Il Dl 62/2026 introduce novita  per le deroghe ai CCNL nei contratti integrativi: deposito al Cnel, sottoscrizione in ITL per microimprese  e informativa scritta-  FAQ"
       },
       {
         "category": "contabile",
@@ -664,26 +784,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Avvisi di liquidazione e accertamento parziale nel cassetto fiscale",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4292-avvisi-di-liquidazione-e-accertamento-parziale-nel-cassetto-fiscale.html",
-        "date": "2026-07-17T00:00:00.000Z",
-        "summary": "I contribuenti troveranno novità nel cassetto fiscael: la propria posizione debitoria con implementazione del servizio i dettagli dalle Entrate"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Contratto di lavoro internazionale i criteri per la legge applicabile",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4291-legge-applicabile-al-contratto-di-lavoro-internazionale.html",
         "date": "2026-07-17T00:00:00.000Z",
         "summary": "La Corte di Giustizia chiarisce  quale legge prevale  nel contratto di lavoro internazionale e come valutare il collegamento più stretto."
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Nuovo archivio CNEL dei contratti territoriali al via",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4290-nuovo-archivio-contratti-territoriali-al-via.html",
-        "date": "2026-07-17T00:00:00.000Z",
-        "summary": "Istituito l'archivio dei contratti di prossimità presso il CNEL  si amplia l'archivio dei CCNL   ad accesso libero sia del settore pubblico che privato"
       },
       {
         "category": "contabile",
@@ -719,11 +823,27 @@
       },
       {
         "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Transizione green, iperammortamento da perfezionare",
-        "link": "https://www.ilsole24ore.com/art/transizione-green-iperammortamento-perfezionare-AJa300L",
-        "date": "2026-07-16T19:23:00.000Z",
-        "summary": "Servirebbe una differenziaziona qualitativa degli investimenti con un iperammortamento dedicato agli investimenti green oriented"
+        "source": "Fisco e Tasse",
+        "title": "NASpI anche ai detenuti lavoratori nuove istruzioni INPS",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4295-naspi-ai-detenuti-lavoratori-istruzioni-inps.html",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": "Inps si adegua alla Cassazione e  modifica le istruzioni  sull'erogabilità della NASpI ai detenuti che hanno svolto attività lavorativa  per l'Amministrazione penitenziaria."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Avvisi di liquidazione e accertamento parziale nel cassetto fiscale",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4292-avvisi-di-liquidazione-e-accertamento-parziale-nel-cassetto-fiscale.html",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": "I contribuenti troveranno novità nel cassetto fiscael: la propria posizione debitoria con implementazione del servizio i dettagli dalle Entrate"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Nuovo archivio CNEL dei contratti territoriali al via",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4290-nuovo-archivio-contratti-territoriali-al-via.html",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": "Istituito l'archivio dei contratti di prossimità presso il CNEL  si amplia l'archivio dei CCNL   ad accesso libero sia del settore pubblico che privato"
       },
       {
         "category": "contabile",
@@ -740,30 +860,6 @@
         "link": "https://press-magazine.it/commercialisti-redditi-in-crescita-dell83-tornano-a-salire-i-praticanti-42/",
         "date": "2026-07-16T12:52:10.000Z",
         "summary": "I commercialisti italiani rafforzano il proprio ruolo nell’economia del Paese. Nel 2025 il reddito medio professionale è cresciuto dell’8,3%, raggiungendo 87.376 euro. Al netto dell’inflazione, l’incremento reale è stato pari al 7,3%, consentendo alla categoria di […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Influencer marketing, dal 27 settembre scattano le nuove regole Ue",
-        "link": "https://www.ilsole24ore.com/art/influencer-marketing-27-settembre-scattano-nuove-regole-ue-AJgrLlK",
-        "date": "2026-07-16T03:13:03.000Z",
-        "summary": "La direttiva comunitaria, recepita in Italia dal Dlgs 30/2026, mira a contrastare il greenwashing e le asserzioni generiche e non supportate dai fatti"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Codice della crisi la Circolare dellAgenzia con i chiarimenti sui nuovi istituti",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13594-codice-della-crisi-i-chiarimenti-dellagenzia-sui-nuovi-istituti.html",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": "Al via la prima circolare dell'Agenzia delle Entrate sul Codice della crisi: misure premiali, rateazioni e segnalazioni dei creditori pubblici qualificati"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Split payment prorogato al 30 giugno 2029 Decisione UE 20261728",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13593-split-payment-prorogato-al-30-giugno-2029-decisione-ue-20261728.html",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": "La Decisione di esecuzione (UE) 2026/1728 proroga la scissione dei pagamenti fino al 30 giugno 2029 e fissa al 30 settembre 2027 la relazione dell'Italia."
       },
       {
         "category": "contabile",
@@ -800,10 +896,18 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Casellario Pensioni INPS obblighi e scadenze per gli enti previdenziali",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4276-casellario-pensioni-inps-obblighi-e-scadenze-per-gli-enti-previdenziali.html",
+        "title": "Codice della crisi la Circolare dellAgenzia con i chiarimenti sui nuovi istituti",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13594-codice-della-crisi-i-chiarimenti-dellagenzia-sui-nuovi-istituti.html",
         "date": "2026-07-16T00:00:00.000Z",
-        "summary": "Messaggio INPS n. 2354/2026: termini annuali e trimestrali per  l'invio dei dati da  Casse e Fondi pensione anche ai fini dell'accesso delle prestazioni collegate al reddito"
+        "summary": "Al via la prima circolare dell'Agenzia delle Entrate sul Codice della crisi: misure premiali, rateazioni e segnalazioni dei creditori pubblici qualificati"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Split payment prorogato al 30 giugno 2029 Decisione UE 20261728",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13593-split-payment-prorogato-al-30-giugno-2029-decisione-ue-20261728.html",
+        "date": "2026-07-16T00:00:00.000Z",
+        "summary": "La Decisione di esecuzione (UE) 2026/1728 proroga la scissione dei pagamenti fino al 30 giugno 2029 e fissa al 30 settembre 2027 la relazione dell'Italia."
       },
       {
         "category": "contabile",
@@ -879,14 +983,6 @@
       },
       {
         "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Agevolazioni per i trasferimenti immobiliari a favore di Enti del Terzo Settore - Condizioni agevolative - Trasferimento nel quinquennio - Decadenza - Esclusione (risposta interpello Agenzia delle Entrate 6.7.2026 n. 134) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1111339",
-        "date": "2026-07-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Terzo settore, concluso a Napoli il roadshow sul nuovo assetto fiscale",
         "link": "https://press-magazine.it/terzo-settore-concluso-a-napoli-il-roadshow-sul-nuovo-assetto-fiscale/",
@@ -896,33 +992,49 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Conto termico 3.0 - Fatturazione (consulenza giuridica Agenzia delle Entrate 18.12.2025 n. 956-3/2026) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113581",
-        "date": "16/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 16.7.2026 - \"Importi incentivati per l’efficienza energetica di case popolari da fatturare con IVA\" - Bertelli N. - Zanetti E."
+        "title": "Social bonus - Spese di gestione dei beni - Istruzioni operative (nota Min. Lavoro e politiche sociali 16.7.2026) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113673",
+        "date": "17/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.7.2026 - \"Per il social bonus spese di gestione dei beni con regole ad hoc\" - Redazione"
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Prescrizione – Autonomia della responsabilità della persona giuridica (Cass. pen. 14.7.2026 n. 26378) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113573",
-        "date": "16/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 16.7.2026 - \"Prescrizione “231” autonoma da quella della persona fisica\" - Artusi M. F."
+        "title": "Credito d'imposta ricerca e sviluppo - Certificazione attestante la qualificazione degli investimenti nelle attività di ricerca, sviluppo e innovazione - Linee guida - Manuale di Frascati - Applicabilità (Consiglio di Stato 14.7.2026 n. 5627) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113566",
+        "date": "17/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.7.2026 - \"Linee guida del MIMIT sul credito R&S da rivedere\" - Infranca G. - Semeraro P."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Azione di responsabilità nelle procedure concorsuali - Termine di decadenza biennale - Applicabilità alle procedure aperte - Decorrenza (Trib. Bari 4.6.2026) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113551",
-        "date": "16/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 16.7.2026 - \"Anche per le procedure pendenti nuova decadenza per l’azione di responsabilità del curatore\" - Valinotti M."
+        "title": "OIC 5 \"Bilanci di liquidazione\" - Pubblicazione della nuova versione da parte dell'OIC (16.7.2026) - Decorrenza (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113682",
+        "date": "17/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.7.2026 - \"Nuovo OIC 5 applicabile dai bilanci 2027\" - De Rosa S."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Applicazione degli ISA per il periodo d’imposta 2025 - Chiarimenti (circ. Agenzia delle Entrate 6.7.2026 n. 4) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1111390",
-        "date": "2026-07-07T00:00:00.000Z",
+        "title": "Nuovo OIC 5 - Pubblicazione da parte dell’Organismo italiano di contabilità (16.7.2026) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113682",
+        "date": "17/07/2026",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Cassetto fiscale - Consultazione degli avvisi di liquidazione e degli avvisi di accertamento parziale \"automatizzati\" (provv. Agenzia delle Entrate 16.7.2026 n. 210791) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113681",
+        "date": "17/07/2026",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Chiarimenti (circ. Agenzia delle Entrate 16.7.2026 n. 5 Parte I) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113685",
+        "date": "17/07/2026",
         "summary": ""
       },
       {
@@ -1017,6 +1129,14 @@
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "E’ disponibile il numero 13/26 della NEWSLETTER Confedilizia",
+        "link": "https://www.confedilizia.it/e-disponibile-il-numero-13-26-della-newsletter-confedilizia/",
+        "date": "2026-07-17T13:01:19.000Z",
+        "summary": "È disponibile il nuovo numero della NEWSLETTER Confedilizia, con pillole e approfondimenti dedicati all’immobiliare. La NEWSLETTER – diffusa in modo gratuito e con periodicità quindicinale – è un valido aiuto per i proprietari anche della sola casa di abitazione, per i condominii e i condòmini, per gli amministratori di condominio, per gli agenti immobiliari […]\nL'articolo E’ disponibile il numero"
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1144,14 +1264,6 @@
         "link": "https://www.confedilizia.it/ilgiornale-it-15-7-2026-case-green-la-prova-del-fallimento-tutti-gli-stati-finiscono-sotto-infrazione/",
         "date": "2026-07-16T06:47:37.000Z",
         "summary": "L'articolo Ilgiornale.it – 15.7.2026 – Case green, la prova del fallimento: tutti gli Stati finiscono sotto infrazione sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Monitorimmobiliare.it – 15.7.2026 – Confedilizia critica la procedura Ue sulla direttiva case green e chiede revisione",
-        "link": "https://www.confedilizia.it/monitorimmobiliare-it-15-7-2026-confedilizia-critica-la-procedura-ue-sulla-direttiva-case-green-e-chiede-revisione/",
-        "date": "2026-07-16T06:47:34.000Z",
-        "summary": "L'articolo Monitorimmobiliare.it – 15.7.2026 – Confedilizia critica la procedura Ue sulla direttiva case green e chiede revisione sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
@@ -1295,6 +1407,46 @@
     "crisi_impresa": [
       {
         "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Gattare, non c’è reato ma una sanzione se il sindaco vieta il cibo ai randagi",
+        "link": "https://www.ilsole24ore.com/art/gattare-non-c-e-reato-ma-sanzione-se-sindaco-vieta-cibo-randagi-AJmKULN",
+        "date": "2026-07-18T03:10:45.000Z",
+        "summary": "Chi alimenta la colonia felina «non è tenuto ad agire per impedire le condotte moleste da parte degli animali randagi perché privo del potere giuridico»"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Servizio clienti, sì all’accesso all’audio delle conversazioni  tramite trascrizione",
+        "link": "https://www.ilsole24ore.com/art/servizio-clienti-si-all-accesso-all-audio-conversazioni-tramite-trascrizione-AJTUlaN",
+        "date": "2026-07-18T03:08:33.000Z",
+        "summary": "I dati personali possono essere forniti all’utente che ne fa richiesta, se vengono oscurati gli elementi che consentono di identificare l’operatore"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sì al sequestro dello smartphone dell’Ad con parole chiave generiche",
+        "link": "https://www.ilsole24ore.com/art/si-sequestro-smartphone-dell-ad-parole-chiave-generiche-AJaH1aN",
+        "date": "2026-07-18T03:06:24.000Z",
+        "summary": "Confermata la misura sul cellulare di Milleri, no al ricorso Luxottica. Negata la scarsa selettività di criteri come il cognome o il numero telefonico"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Alunni disabili, discriminatoria l’uscita anticipata",
+        "link": "https://www.ilsole24ore.com/art/alunni-disabili-discriminatoria-l-uscita-anticipata-AJjHXdN",
+        "date": "2026-07-18T03:04:13.000Z",
+        "summary": "Ininfluente l’insufficiente presenza a scuola dell’insegnante di sostegno"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "L’atto notarile è titolo esecutivo anche all’estero",
+        "link": "https://www.ilsole24ore.com/art/l-atto-notarile-e-titolo-esecutivo-anche-all-estero-AJGAUON",
+        "date": "2026-07-18T03:02:02.000Z",
+        "summary": "Il provvedimento non può essere oggetto del riesame in uno Stato membro diverso da quello in cui è stato emesso"
+      },
+      {
+        "category": "crisi_impresa",
         "source": "CNDCEC - Crisi d'impresa",
         "title": "Assicurazioni, al via il questionario per rilevare bisogni e aspettative degli iscritti",
         "link": "https://press-magazine.it/assicurazioni-al-via-il-questionario-per-rilevare-bisogni-e-aspettative-degli-iscritti/",
@@ -1312,26 +1464,10 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Youtube, la Corte Ue: Google può rispondere dei video dei creator partner",
-        "link": "https://www.ilsole24ore.com/art/youtube-corte-ue-google-puo-rispondere-video-creator-partner-AJOZERM",
-        "date": "2026-07-17T03:04:12.000Z",
-        "summary": "Con partnership commerciale e condivisione dei ricavi no a scudo per hosting provider neutrali. Google: «Delusi, sosterremo le nostre argomentazioni»"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Fotovoltaico con pannelli a terra, legittimo il divieto di installazione in aree agricole",
         "link": "https://www.ilsole24ore.com/art/fotovoltaico-pannelli-terra-legittimo-divieto-installazione-aree-agricole-AJ4lZyL",
         "date": "2026-07-17T03:02:01.000Z",
         "summary": "Si allinea ai valori costituzionali e ai principi comunitari, ribadendo la necessità di tutelare quanto possibile il suolo destinato a coltivazioni e allevamento"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Transizione green, iperammortamento da perfezionare",
-        "link": "https://www.ilsole24ore.com/art/transizione-green-iperammortamento-perfezionare-AJa300L",
-        "date": "2026-07-16T19:23:00.000Z",
-        "summary": "Servirebbe una differenziaziona qualitativa degli investimenti con un iperammortamento dedicato agli investimenti green oriented"
       },
       {
         "category": "crisi_impresa",
@@ -1348,14 +1484,6 @@
         "link": "https://press-magazine.it/commercialisti-redditi-in-crescita-dell83-tornano-a-salire-i-praticanti-42/",
         "date": "2026-07-16T12:52:10.000Z",
         "summary": "I commercialisti italiani rafforzano il proprio ruolo nell’economia del Paese. Nel 2025 il reddito medio professionale è cresciuto dell’8,3%, raggiungendo 87.376 euro. Al netto dell’inflazione, l’incremento reale è stato pari al 7,3%, consentendo alla categoria di […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Influencer marketing, dal 27 settembre scattano le nuove regole Ue",
-        "link": "https://www.ilsole24ore.com/art/influencer-marketing-27-settembre-scattano-nuove-regole-ue-AJgrLlK",
-        "date": "2026-07-16T03:13:03.000Z",
-        "summary": "La direttiva comunitaria, recepita in Italia dal Dlgs 30/2026, mira a contrastare il greenwashing e le asserzioni generiche e non supportate dai fatti"
       },
       {
         "category": "crisi_impresa",
@@ -1415,6 +1543,14 @@
       }
     ],
     "finanza_agevolata": [
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Sospensione della notifica degli atti ad agosto: nessun aumento nei mesi precedenti e successivi. A luglio forte riduzione per lettere di compliance, cartelle e altre comunicazioni (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/-/sospensione-della-notifica-degli-atti-ad-agosto-nessun-aumento-nei-mesi-precedenti-e-successivi.-a-luglio-forte-riduzione-per-lettere-di-compliance-cartelle-e-altre-comunicazioni",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "category": "finanza_agevolata",
         "source": "Agenzia delle Entrate - Novità",
@@ -1565,14 +1701,6 @@
         "title": "730 precompilato ai nastri di partenza: dal pomeriggio del 30 aprile si può consultare online. Dal 14 maggio ok all’invio; per il click finale c’è tempo fino al 30 settembre 2026 (comunicato stampa)",
         "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-28-aprile-2026-730-precompilato-ai-nastri-di-partenza-dal-pomeriggio-del-30-aprile-si-può-consultare-online",
         "date": "2026-04-28T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Le nuove regole fiscali per il Terzo Settore. Parte da Assisi il roadshow di Agenzia delle Entrate e Università Salesiana (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/9882844/018_Com.+st.+Roadshow+Terzo+Settore_AE_Univesita%CC%80+Pontificia+22.04.2026/50d2f1de-2acb-0861-33f7-a6c7e5918530",
-        "date": "2026-04-22T00:00:00.000Z",
         "summary": ""
       }
     ]
