@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T10:05:43.944Z",
+  "generatedAt": "2026-07-19T10:18:44.156Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -11,6 +11,38 @@
   },
   "items": {
     "fiscale": [
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "App Osservaprezzi Carburanti dal 20 luglio per i prezzi della benzina",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4300-app-osservaprezzi-carburanti-dal-20-luglio-per-i-prezzi-della-benzina.html",
+        "date": "2026-07-19T00:00:00.000Z",
+        "summary": "Il MIMIT annuncia l'avvio dal 29 luglio dell'app Osservaprezzi carburanti: come funziona e dove accedere per verificare le tariffe in vigore"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "OIC 5 Bilanci di liquidazione ecco il definitivo",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4299-oic-5-bilanci-di-liquidazione-ecco-il-definitivo.html",
+        "date": "2026-07-19T00:00:00.000Z",
+        "summary": "OIC 5 Bilanci di liquidazione: nuovi schemi dal 2027 e falcoltà di continuità"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Superbonus 2026 nuovo modello dal 23 luglio",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4298-superbonus-2026-nuovo-modello-dal-23-luglio.html",
+        "date": "2026-07-19T00:00:00.000Z",
+        "summary": "Superbonus 2026: seppur in modo residuale è ancora vigente la detrazione per le spese di ristrutturazione a certe condizioni e con stringenti adempimenti. Nuovo Modello ADE"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Alunni disabili, discriminatoria l’uscita anticipata",
+        "link": "https://www.ilsole24ore.com/art/alunni-disabili-discriminatoria-l-uscita-anticipata-AJjHXdN",
+        "date": "2026-07-18T14:58:00.000Z",
+        "summary": "Ininfluente l’insufficiente presenza a scuola dell’insegnante di sostegno"
+      },
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -38,14 +70,6 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Alunni disabili, discriminatoria l’uscita anticipata",
-        "link": "https://www.ilsole24ore.com/art/alunni-disabili-discriminatoria-l-uscita-anticipata-AJjHXdN",
-        "date": "2026-07-18T03:04:13.000Z",
-        "summary": "Ininfluente l’insufficiente presenza a scuola dell’insegnante di sostegno"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "L’atto notarile è titolo esecutivo anche all’estero",
         "link": "https://www.ilsole24ore.com/art/l-atto-notarile-e-titolo-esecutivo-anche-all-estero-AJGAUON",
         "date": "2026-07-18T03:02:02.000Z",
@@ -66,22 +90,6 @@
         "link": "https://www.ilsole24ore.com/art/fotovoltaico-pannelli-terra-legittimo-divieto-installazione-aree-agricole-AJ4lZyL",
         "date": "2026-07-17T03:02:01.000Z",
         "summary": "Si allinea ai valori costituzionali e ai principi comunitari, ribadendo la necessità di tutelare quanto possibile il suolo destinato a coltivazioni e allevamento"
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Sospensione della notifica degli atti ad agosto: nessun aumento nei mesi precedenti e successivi. A luglio forte riduzione per lettere di compliance, cartelle e altre comunicazioni (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/sospensione-della-notifica-degli-atti-ad-agosto-nessun-aumento-nei-mesi-precedenti-e-successivi.-a-luglio-forte-riduzione-per-lettere-di-compliance-cartelle-e-altre-comunicazioni",
-        "date": "2026-07-17T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Disposizioni di attuazione degli articoli 119 e 121 del decreto-legge 19 maggio 2020, n. 34, per l’esercizio delle opzioni relative alle detrazioni spettanti per gli interventi edilizi (provvedimento)",
-        "link": "https://www.agenziaentrate.gov.it/portale/provvedimento-del-17-luglio-2026-disposizioni-di-attuazione-degli-articoli-119-e-121-del-decreto-legge-19-maggio-2020-n.-34-per-l-esercizio-delle-opzioni-relative-alle-detrazioni-spettanti-per-gli-interventi-edilizi",
-        "date": "2026-07-17T00:00:00.000Z",
-        "summary": ""
       },
       {
         "category": "fiscale",
@@ -173,38 +181,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Attuazione delle disposizioni in materia di rafforzamento del contenuto conoscitivo del cassetto fiscale, ai sensi dell’articolo 23 del decreto legislativo 8 gennaio 2024, n. 1. Disponibilità nell’area riservata della funzione di consultazione degli avvisi di liquidazione emessi ai sensi degli articoli 15 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, e della nota II-bis dell’articolo 1 della Tariffa, parte prima, del decreto del Presidente della Repubblica 26 aprile 1986, n. 131, nonché degli avvisi di accertamento parziale cosiddetti “automatizzati” emessi ai sensi dell’articolo 41-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600 e dei relativi provvedimenti di autotutela parziale o totale (provvedimento)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196139/Provvedimento+Cassetto+fiscale_16+luglio+2026/e8027afe-0015-f44a-5da3-523a061b61ef",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Decreto legislativo 12 gennaio 2019, n. 14 e successive modificazioni e integrazioni, recante il “Codice della crisi di impresa e dell’insolvenza”. Inquadramento e approfondimento degli istituti. I nuovi istituti del Codice della crisi e dell’insolvenza (Parte I) (circolare n. 5)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196831/CIRCOLARE+CCII+PARTE+I+n.+5+del+16+luglio+2026/08d28148-2119-b181-b4f2-4d9d01f33de4",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Possibilità di presentare una dichiarazione integrativa al solo fine di variare la destinazione di un credito da rimborso a cessione – Esclusione – Articolo 2, commi 8 e 8–ter, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322 (risposta n. 147)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+147_2026/9099b8db-a3e1-b004-54f1-8131204b7d78",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Imposta sulle successioni e donazioni e imposte sui redditi – Tassazione della retrocessione al disponente della nuda proprietà delle quote sociali di una società segregata in un trust, nell'ipotesi in cui la suddetta società sia il risultato della fusione, con la contestuale modifica della forma giuridica, delle due società originariamente segregate nel trust – Articolo 1 del decreto legislativo 31 ottobre 1990, n. 346, articolo 9, comma 5, del TUIR e articolo 67, comma 1, lettere c) e c–bis), del TUIR (risposta n. 146)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+146_2026/98b0d8fa-5cd7-b976-54ff-a3d3c3865438",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
         "source": "Fisco e Tasse",
         "title": "Codice della crisi la Circolare dellAgenzia con i chiarimenti sui nuovi istituti",
         "link": "https://www.fiscoetasse.com/normativa-prassi/13594-codice-della-crisi-i-chiarimenti-dellagenzia-sui-nuovi-istituti.html",
@@ -238,22 +214,6 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "ASD e SDD  in arrivo modelli semplificati per  MOCAS",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4279-asd-e-sdd-in-arrivo-modelli-semplificati-per-mocas.html",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": "CONI e CNDCEC hanno presentato le proposte della Commissione paritetica  in materia di modelli organizzativi e safeguarding previsti dalla recente riforma dello sport ."
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Responsabilit 231 e infortuni serve prova rigorosa non presunta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4278-responsabilita-231-e-infortuni-serve-prova-rigorosa-non-presunta.html",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": "Come la Cassazione n. 24402/2026 ridefinisce l'onere della prova su interesse, vantaggio dell'ente e colpa di organizzazione negli infortuni sul lavoro. Check list scaricabile"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Dichiarazione dei redditi in agricoltura attenzione alle variazioni delle colture",
         "link": "https://www.fiscoetasse.com/approfondimenti/17312-dichiarazione-dei-redditi-in-agricoltura-attenzione-alle-variazioni-delle-colture.html",
         "date": "2026-07-15T00:00:00.000Z",
@@ -262,282 +222,10 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Concorso MASE 2026 50 funzionari requisiti prove come fare domanda",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17311-Concorso_MASE_%202026:_50_funzionari",
-        "date": "2026-07-15T00:00:00.000Z",
-        "summary": "Il Ministero dell'Ambiente e sicurezza energetica assume 50 funzionari laureati: 36 profili giuridici e 14 economico-contabili. Domanda entro il 12.8. La guida per partecipare"
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Disposizioni di attuazione dell’articolo 1, commi da 634 a 636, della legge 23 dicembre 2014, n. 190 – Comunicazioni per la promozione dell’adempimento spontaneo nei confronti di lavoratori autonomi ed imprese di minori dimensioni per i quali emergono anomalie nei dati dichiarati ai fini dell’applicazione degli indici sintetici di affidabilità fiscale, di cui all’articolo 9-bis del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96 (provvedimento)",
-        "link": "https://www.agenziaentrate.gov.it/portale/provvedimento-del-14-luglio-2026-disposizioni-di-attuazione-dell-articolo-1-commi-da-634-a-636-della-legge-23-dicembre-2014-n.-190",
-        "date": "2026-07-14T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Accertamento delle medie dei cambi delle valute estere relative al mese di giugno 2026 (provvedimento)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196139/Provvedimento+cambi+valute+estere+giugno+2026_14_07_2026/cf27f627-af12-35fe-8713-8c246c10a3c2",
-        "date": "2026-07-14T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Decreto florovivaismo nuove regole per imprese e garden center",
         "link": "https://www.fiscoetasse.com/normativa-prassi/13592-decreto-florovivaismo-nuove-regole-per-imprese-e-garden-center.html",
         "date": "2026-07-14T00:00:00.000Z",
         "summary": "Decreto florovivaismo in attuazione della legge n. 102/2024 approvato definitivamente: qualifica agricola dei garden center, regime IVA e reddito agrario, contratto di coltivazione"
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Agevolazione ''prima casa'' ai fini delle imposte ipotecaria e catastale. Modalità di richiesta dell'agevolazione ''prima casa'', nella dichiarazione di successione, relativamente a un unico fabbricato abitativo con pertinenze, catastalmente suddiviso in due particelle, non riunibili, in quanto insistenti su due comuni diversi. Articolo 69, comma 3, della legge 21 novembre 2000, n. 342 (risposta n. 145)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+145_2026/0f911978-9865-b9a6-76c4-df84161e4dc2",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Modalità di determinazione dell'imposta di bollo relativamente al libro giornale tenuto in modalità informatica, con particolare riferimento al criterio di computo della soglia delle 2.500 registrazioni o frazioni di esse tra diversi periodi di imposta – articolo 6 del d.m. 17 giugno 2014 (risposta n. 144)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+144_2026/6af4641f-26d6-abf0-fc92-979db53e7315",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Imposta sulle successioni e donazioni. Inapplicabilità dell'esenzione al trasferimento della nuda proprietà delle quote sociali con annessi diritti di voto per presenza di diritti particolari riservati al donante tali da non consentire l'integrazione effettiva del controllo di diritto in capo al beneficiario – Articolo 3, comma 4–ter, del TUSD (risposta n. 143)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+143_2026/cfa84a87-76af-276c-15cf-08a08789f309",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Trattamento IVA delle somme erogate da una struttura commissariale a una società a titolo di rimborso degli emolumenti sostenuti per il personale posto in posizione di comando (risposta n. 142)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+142_2026/a4acf7b7-988e-9c0c-086a-f8dcaa454d3f",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Imposta di registro – applicabilità dell'esenzione dall'imposta di registro ai verbali di aggiudicazione relativi alla vendita di beni mobili non registrati costituenti corpo di reato, quando il prezzo di aggiudicazione sia pari o inferiore a euro 1.033,00 – articolo 46 della legge 21 novembre 1991, n. 374 (risposta n. 141)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+141_2026/7b3bf9d5-a1c2-2962-bac3-c188ebd275cd",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Imposta di bollo sulla planimetria identificativa dell'area oggetto di concessione demaniale. Imposta assorbita dalla misura forfettaria di euro 16 dovuta per il provvedimento, emesso in formato digitale, del quale la planimetria costituisce parte integrante. Articolo 4, comma 1–quater, della Tariffa, Parte I, di cui al d.P.R. 26 ottobre 1972, n. 642 (risposta n. 140)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+140_2026/d5e067b6-c2fe-58a2-0e61-07542703d1de",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Credito d'imposta per investimenti in beni strumentali ''transizione 4.0'' – liquidazione giudiziale – affitto di ramo d'azienda – Scissione (risposta n. 139)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+139_2026/c993b2b0-45f9-1155-846b-5dddf8778846",
-        "date": "2026-07-10T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Investimenti in convertendo in start–up innovative – articolo 29–bis decreto–legge n. 179 del 2012 – applicazione ai contratti di Simple Agreement for Future Equity (SAFE). (risposta n. 137)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+137_2026/8300b59a-1ff7-45af-f7b8-72d34700db03",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Deduzione spese forfettarie in relazione a trasferte fuori dal territorio comunale ex articolo 95, comma 4, del TUIR (risposta n. 136)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+136_2026/f86566b1-fde4-9e9d-7a1a-ca5265633d1b",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Articolo 87, comma 1, lett. c), del TUIR – Regimi a fiscalità privilegiato – Regimi speciali – Articolo 50a della legge sulla tassazione dell'utile delle persone giuridiche della Repubblica di Serbia (risposta n. 135)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+135_2026/bef2aa38-c60c-d71f-3714-4b447654d1d1",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Adempimento collaborativo, aggiornate le linee guida sul rischio fiscale. Dal tavolo Entrate-OIC nuove indicazioni per le imprese (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/adempimento-collaborativo-aggiornate-le-linee-guida-sul-rischio-fiscale.-dal-tavolo-entrate-oic-nuove-indicazioni-per-le-imprese",
-        "date": "2026-07-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Principio di diritto: Trattamento tributario di operazioni di fusione per incorporazione tra enti religiosi civilmente riconosciuti – Rilevanza ai fini IVA, delle imposte di registro, ipotecaria e catastale, e delle imposte sui redditi – Criteri di trasferimento dei beni tra sfera istituzionale e sfera commerciale. (risposta n. 1)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10197114/Risposta+con+principi+di+diritto+n.+1_2026/5f6e9d2d-8f52-7b2f-4908-d46f6dd711b0",
-        "date": "2026-07-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Indici sintetici di affidabilità fiscale – periodo d’imposta 2025 (circolare n.4)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196831/Circolare+n.+4_ISA_2026_06.07.2026/b218b332-1791-ff9c-629f-4d3b241764d5",
-        "date": "2026-07-06T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Codice della crisi d’impresa e dell’insolvenza. In consultazione pubblica la seconda parte della bozza di circolare (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/codice-della-crisi-d-impresa-e-dell-insolvenza.-in-consultazione-pubblica-la-seconda-parte-della-bozza-di-circolare",
-        "date": "2026-06-26T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "“Insieme per le imprese e le università”. È partito oggi a Roma il primo roadshow nazionale Entrate-Inps (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-25-giugno-2026",
-        "date": "2026-06-25T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Perimetro allargato per la sostitutiva Irpef al 5% sugli aumenti dei dipendenti privati. L’imposta agevolata si applica anche alle somme relative alle annualità precedenti (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-24-giugno-2026",
-        "date": "2026-06-24T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Autotrasportatori, deduzione forfetaria 2026. Indicazioni per compilare la dichiarazione dei redditi (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/cs-23-giugno-2026",
-        "date": "2026-06-23T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Agenzia delle entrate e Inps insieme per le imprese e le università. Giovedì 25 giugno a Roma la prima tappa del roadshow nazionale (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/cs-del-22-giugno-2026",
-        "date": "2026-06-22T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Compravendite immobiliari, online i dati del primo trimestre 2026. In crescita gli scambi delle abitazioni: +4,4% rispetto allo scorso anno (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-10-giugno-2026",
-        "date": "2026-06-10T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Colonnine di ricarica per le auto elettriche Pronto il servizio per gli esercenti che devono inviare i corrispettivi (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/colonnine-di-ricarica-per-le-auto-elettriche-pronto-il-servizio-per-gli-esercenti-che-devono-inviare-i-corrispettivi",
-        "date": "2026-06-03T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Mercato non residenziale, online il Rapporto annuale Entrate-Assilea. Scambi in rialzo per uffici, negozi e capannoni (+4,9%). Leasing, stipulati contratti per un valore di 3,2 miliardi di euro (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/cs-28-maggio-2026",
-        "date": "2026-05-28T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Comunicato stampa – Precisazioni",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-precisazioni",
-        "date": "2026-05-27T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "5 per mille 2025, online gli elenchi dei beneficiari e degli esclusi. Oltre 602 milioni di euro destinati a più di 96 mila enti scelti dai contribuenti (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-21-maggio-2026",
-        "date": "2026-05-21T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Mercato immobiliare residenziale in crescita nel 2025. Scambiate 767mila abitazioni (+6,4%) per 124 miliardi di euro (+8,8%). Il 46% degli acquisti di persone fisiche assistiti da mutuo ipotecario (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/mercato-immobiliare-residenziale-in-crescita-nel-2025.-scambiate-767mila-abitazioni-6-4-per-124-miliardi-di-euro-8-8-.%C2%A0-il-46-degli-acquisti-di-persone-fisiche-assistiti-da-mutuo-ipotecario",
-        "date": "2026-05-21T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Precompilata 2026, dal 23 maggio al via l’assistenza straordinaria. Call center attivo anche il sabato per rispondere alle domande dei cittadini (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/precompilata-2026-dal-23-maggio-al-via-l-assistenza-straordinaria.-call-center-attivo-anche-il-sabato-per-rispondere-alle-domande-dei-cittadini",
-        "date": "2026-05-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Campagna di phishing a tema rinnovo della tessera sanitaria (avviso)",
-        "link": "https://www.agenziaentrate.gov.it/portale/avviso-del-19-maggio-2026-campagna-di-phishing-a-tema-rinnovo-della-tessera-sanitaria",
-        "date": "2026-05-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Precompilata 2026, aperto il canale per l’invio del 730. Nelle prime due settimane oltre 4 milioni di accessi da parte dei cittadini. L’80% ha scelto la modalità semplificata (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/precompilata-2026-aperto-il-canale-per-l-invio-del-730-nelle-prime-due-settimane-oltre-4-milioni-di-accessi-da-parte-dei-cittadini-l-80-ha-scelto-la-modalità-semplificata",
-        "date": "2026-05-14T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Le novità per il Terzo settore: appuntamento il 16 maggio ad Assisi. Al via il roadshow per illustrare agli Enti le regole fiscali post-riforma (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/le-novità-per-il-terzo-settore-appuntamento-il-16-maggio-ad-assisi.-al-via-il-roadshow-per-illustrare-agli-enti-le-regole-fiscali-post-riforma",
-        "date": "2026-05-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Assistenza online su comunicazioni e avvisi del Fisco. Civis diventa “canale unico” per offrire ai contribuenti un servizio più smart (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/cs-12-maggio-2026",
-        "date": "2026-05-12T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "730 precompilato, è adesso possibile visualizzare la dichiarazione. Dal pomeriggio del 14 maggio si parte con l’invio (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-30-aprile-730-precompilato-è-adesso-possibile-visualizzare-la-dichiarazione.-dal-pomeriggio-del-14-maggio-si-parte-con-l-invio",
-        "date": "2026-04-30T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "730 precompilato ai nastri di partenza: dal pomeriggio del 30 aprile si può consultare online. Dal 14 maggio ok all’invio; per il click finale c’è tempo fino al 30 settembre 2026 (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-28-aprile-2026-730-precompilato-ai-nastri-di-partenza-dal-pomeriggio-del-30-aprile-si-può-consultare-online",
-        "date": "2026-04-28T00:00:00.000Z",
-        "summary": ""
       },
       {
         "category": "fiscale",
@@ -695,6 +383,38 @@
     "contabile": [
       {
         "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "App Osservaprezzi Carburanti dal 20 luglio per i prezzi della benzina",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4300-app-osservaprezzi-carburanti-dal-20-luglio-per-i-prezzi-della-benzina.html",
+        "date": "2026-07-19T00:00:00.000Z",
+        "summary": "Il MIMIT annuncia l'avvio dal 29 luglio dell'app Osservaprezzi carburanti: come funziona e dove accedere per verificare le tariffe in vigore"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "OIC 5 Bilanci di liquidazione ecco il definitivo",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4299-oic-5-bilanci-di-liquidazione-ecco-il-definitivo.html",
+        "date": "2026-07-19T00:00:00.000Z",
+        "summary": "OIC 5 Bilanci di liquidazione: nuovi schemi dal 2027 e falcoltà di continuità"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Superbonus 2026 nuovo modello dal 23 luglio",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4298-superbonus-2026-nuovo-modello-dal-23-luglio.html",
+        "date": "2026-07-19T00:00:00.000Z",
+        "summary": "Superbonus 2026: seppur in modo residuale è ancora vigente la detrazione per le spese di ristrutturazione a certe condizioni e con stringenti adempimenti. Nuovo Modello ADE"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Alunni disabili, discriminatoria l’uscita anticipata",
+        "link": "https://www.ilsole24ore.com/art/alunni-disabili-discriminatoria-l-uscita-anticipata-AJjHXdN",
+        "date": "2026-07-18T14:58:00.000Z",
+        "summary": "Ininfluente l’insufficiente presenza a scuola dell’insegnante di sostegno"
+      },
+      {
+        "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Gattare, non c’è reato ma una sanzione se il sindaco vieta il cibo ai randagi",
         "link": "https://www.ilsole24ore.com/art/gattare-non-c-e-reato-ma-sanzione-se-sindaco-vieta-cibo-randagi-AJmKULN",
@@ -716,14 +436,6 @@
         "link": "https://www.ilsole24ore.com/art/si-sequestro-smartphone-dell-ad-parole-chiave-generiche-AJaH1aN",
         "date": "2026-07-18T03:06:24.000Z",
         "summary": "Confermata la misura sul cellulare di Milleri, no al ricorso Luxottica. Negata la scarsa selettività di criteri come il cognome o il numero telefonico"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Alunni disabili, discriminatoria l’uscita anticipata",
-        "link": "https://www.ilsole24ore.com/art/alunni-disabili-discriminatoria-l-uscita-anticipata-AJjHXdN",
-        "date": "2026-07-18T03:04:13.000Z",
-        "summary": "Ininfluente l’insufficiente presenza a scuola dell’insegnante di sostegno"
       },
       {
         "category": "contabile",
@@ -768,6 +480,14 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
+        "title": "NASpI anche ai detenuti lavoratori nuove istruzioni INPS",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4295-naspi-ai-detenuti-lavoratori-istruzioni-inps.html",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": "Inps si adegua alla Cassazione e  modifica le istruzioni  sull'erogabilità della NASpI ai detenuti che hanno svolto attività lavorativa  per l'Amministrazione penitenziaria."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
         "title": "8 x mille novit per Assemblee di Dio    i dati  aggiornati",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4294-8-x-mille-novita-per-assemblee-di-dio-e-dati-riparto-2022.html",
         "date": "2026-07-17T00:00:00.000Z",
@@ -784,10 +504,26 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
+        "title": "Avvisi di liquidazione e accertamento parziale nel cassetto fiscale",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4292-avvisi-di-liquidazione-e-accertamento-parziale-nel-cassetto-fiscale.html",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": "I contribuenti troveranno novità nel cassetto fiscael: la propria posizione debitoria con implementazione del servizio i dettagli dalle Entrate"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
         "title": "Contratto di lavoro internazionale i criteri per la legge applicabile",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4291-legge-applicabile-al-contratto-di-lavoro-internazionale.html",
         "date": "2026-07-17T00:00:00.000Z",
         "summary": "La Corte di Giustizia chiarisce  quale legge prevale  nel contratto di lavoro internazionale e come valutare il collegamento più stretto."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Nuovo archivio CNEL dei contratti territoriali al via",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4290-nuovo-archivio-contratti-territoriali-al-via.html",
+        "date": "2026-07-17T00:00:00.000Z",
+        "summary": "Istituito l'archivio dei contratti di prossimità presso il CNEL  si amplia l'archivio dei CCNL   ad accesso libero sia del settore pubblico che privato"
       },
       {
         "category": "contabile",
@@ -823,30 +559,6 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "NASpI anche ai detenuti lavoratori nuove istruzioni INPS",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4295-naspi-ai-detenuti-lavoratori-istruzioni-inps.html",
-        "date": "2026-07-17T00:00:00.000Z",
-        "summary": "Inps si adegua alla Cassazione e  modifica le istruzioni  sull'erogabilità della NASpI ai detenuti che hanno svolto attività lavorativa  per l'Amministrazione penitenziaria."
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Avvisi di liquidazione e accertamento parziale nel cassetto fiscale",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4292-avvisi-di-liquidazione-e-accertamento-parziale-nel-cassetto-fiscale.html",
-        "date": "2026-07-17T00:00:00.000Z",
-        "summary": "I contribuenti troveranno novità nel cassetto fiscael: la propria posizione debitoria con implementazione del servizio i dettagli dalle Entrate"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Nuovo archivio CNEL dei contratti territoriali al via",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4290-nuovo-archivio-contratti-territoriali-al-via.html",
-        "date": "2026-07-17T00:00:00.000Z",
-        "summary": "Istituito l'archivio dei contratti di prossimità presso il CNEL  si amplia l'archivio dei CCNL   ad accesso libero sia del settore pubblico che privato"
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "De Nuccio: “Siamo una comunità professionale vitale”",
         "link": "https://press-magazine.it/de-nuccio-siamo-una-comunita-professionale-vitale/",
@@ -864,34 +576,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "INPS sospese le notifiche degli atti fino al 31 agosto",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4284-inps-sospese-le-notifiche-degli-atti-fino-al-31-agosto.html",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": "Stop a diffide, verbali e avvisi di addebito: cosa prevede la sospensione estiva degli atti dell'istituto di previdenza  su contributi pensioni. Le possibili eccezioni"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Confisca beni della criminalit novit anche per le criptoattivit",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4281-confisca-beni-della-criminalita-novita-anche-per-le-cripto-attivita.html",
         "date": "2026-07-16T00:00:00.000Z",
         "summary": "Decreto preliminare sui beni oggetto di confisca alla crinimalità organizzata: cosa cambia per le cripto attività"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "ASD e SDD  in arrivo modelli semplificati per  MOCAS",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4279-asd-e-sdd-in-arrivo-modelli-semplificati-per-mocas.html",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": "CONI e CNDCEC hanno presentato le proposte della Commissione paritetica  in materia di modelli organizzativi e safeguarding previsti dalla recente riforma dello sport ."
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Responsabilit 231 e infortuni serve prova rigorosa non presunta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4278-responsabilita-231-e-infortuni-serve-prova-rigorosa-non-presunta.html",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": "Come la Cassazione n. 24402/2026 ridefinisce l'onere della prova su interesse, vantaggio dell'ente e colpa di organizzazione negli infortuni sul lavoro. Check list scaricabile"
       },
       {
         "category": "contabile",
@@ -912,18 +600,18 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Dichiarazione dei redditi in agricoltura attenzione alle variazioni delle colture",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17312-dichiarazione-dei-redditi-in-agricoltura-attenzione-alle-variazioni-delle-colture.html",
-        "date": "2026-07-15T00:00:00.000Z",
-        "summary": "Dichiarazione dei redditi 2026 e la variazione delle colture: a cosa prestare attenzione"
+        "title": "INPS sospese le notifiche degli atti fino al 31 agosto",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4284-inps-sospese-le-notifiche-degli-atti-fino-al-31-agosto.html",
+        "date": "2026-07-16T00:00:00.000Z",
+        "summary": "Stop a diffide, verbali e avvisi di addebito: cosa prevede la sospensione estiva degli atti dell'istituto di previdenza  su contributi pensioni. Le possibili eccezioni"
       },
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Concorso MASE 2026 50 funzionari requisiti prove come fare domanda",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17311-Concorso_MASE_%202026:_50_funzionari",
+        "title": "Dichiarazione dei redditi in agricoltura attenzione alle variazioni delle colture",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17312-dichiarazione-dei-redditi-in-agricoltura-attenzione-alle-variazioni-delle-colture.html",
         "date": "2026-07-15T00:00:00.000Z",
-        "summary": "Il Ministero dell'Ambiente e sicurezza energetica assume 50 funzionari laureati: 36 profili giuridici e 14 economico-contabili. Domanda entro il 12.8. La guida per partecipare"
+        "summary": "Dichiarazione dei redditi 2026 e la variazione delle colture: a cosa prestare attenzione"
       },
       {
         "category": "contabile",
@@ -1322,89 +1010,16 @@
         "summary": "Il mercato immobiliare italiano chiude il primo semestre del 2026 con un nuovo massimo storico. Secondo la fotografia scattata dal Team Research di Dils, gli investimenti raggiungono i 7 miliardi..."
       }
     ],
-    "contenzioso": [
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Limite temporale del divieto di nuove prove in appello",
-        "link": "https://www.dgt.mef.gov.it/gt/-/limite-temporale-del-divieto-di-nuove-prove-in-appello-1?search=true",
-        "date": "2026-05-27T00:00:00.000Z",
-        "summary": "Ordinanza del 27/05/2026 n. 16456/Sezione 5 - Corte di cassazione"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Ricorso nativo digitale e mancanza di firma digitale",
-        "link": "https://www.dgt.mef.gov.it/gt/-/ricorso-nativo-digitale-e-mancanza-di-firma-digitale?search=true",
-        "date": "2026-05-25T00:00:00.000Z",
-        "summary": "Sentenza del 25/05/2026 n. 1205/Sezione 14 - Corte di Giustizia Tributaria di secondo grado della Lombardia"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Rimborso IVA e (difetto) di legittimazione del cessionario",
-        "link": "https://www.dgt.mef.gov.it/gt/-/rimborso-iva-e-difetto-di-legittimazione-del-cessionario?search=true",
-        "date": "2026-05-12T00:00:00.000Z",
-        "summary": "Sentenza del 12/05/2026 n. 1489/Sezione 3 - Corte di Giustizia Tributaria di secondo grado della Puglia"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Illegittima la notifica dell’accertamento IMU a ciascun erede in solidarietà passiva",
-        "link": "https://www.dgt.mef.gov.it/gt/-/illegittima-la-notifica-dell-accertamento-imu-a-ciascun-erede-in-solidariet%C3%A0-passiva?search=true",
-        "date": "2026-05-04T00:00:00.000Z",
-        "summary": "Sentenza del 04/05/2026 n. 2686/sezione 15 - Corte di Giustizia Tributaria di secondo grado del Lazio"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Tassazione per trasparenza e beneficiario individuato di trust",
-        "link": "https://www.dgt.mef.gov.it/gt/-/tassazione-per-trasparenza-e-beneficiario-individuato-di-trust?search=true",
-        "date": "2026-05-03T00:00:00.000Z",
-        "summary": "Ordinanza del 03/05/2026 n. 12381/Sezione 5 - Corte di cassazione"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Rinuncia all’eredità e sanzione per omessa dichiarazione di successione",
-        "link": "https://www.dgt.mef.gov.it/gt/-/rinuncia-all-eredit%C3%A0-e-sanzione-per-omessa-dichiarazione-di-successione?search=true",
-        "date": "2026-04-27T00:00:00.000Z",
-        "summary": "Sentenza del 27/04/2026 n. 67/Sezione 1 - Corte di Giustizia Tributaria di primo grado di Pesaro"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "L’attendibilità del PVC non può essere inficiata dalla prova testimoniale scritta",
-        "link": "https://www.dgt.mef.gov.it/gt/-/l-attendibilit%C3%A0-del-pvc-non-pu%C3%B2-essere-inficiata-dalla-prova-testimoniale-scritta?search=true",
-        "date": "2026-04-23T00:00:00.000Z",
-        "summary": "Sentenza del 23/04/2026 n. 454/ Sezione 1 - Corte di Giustizia Tributaria di secondo grado della Toscana"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Deducibilità dei premi assicurativi relativi al TFM dell’amministratore",
-        "link": "https://www.dgt.mef.gov.it/gt/-/deducibilit%C3%A0-dei-premi-assicurativi-relativi-al-tfm-dell-amministratore?search=true",
-        "date": "2026-04-10T00:00:00.000Z",
-        "summary": "Sentenza del 10/04/2026 n. 765/Sezione 6 - Corte di Giustizia Tributaria di secondo grado della Lombardia"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Plusvalenza derivante da cessione di immobili oggetto di \"Superbonus\": ambito di applicazione dell’art. 67, comma 1, lett. b-bis, TUIR",
-        "link": "https://www.dgt.mef.gov.it/gt/-/plusvalenza-derivante-da-cessione-di-immobili-oggetto-di-superbonus-ambito-di-applicazione-dell-art.-67-comma-1-lett.-b-bis-tuir?search=true",
-        "date": "2026-04-01T00:00:00.000Z",
-        "summary": "Sentenza del 01/04/2026 n. 1368/sezione4 - Corte di Giustizia Tributaria di primo grado di Milano"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Tari e limiti all’autonomia del Comune nella determinazione delle tariffe",
-        "link": "https://www.dgt.mef.gov.it/gt/-/tari-e-limiti-all-autonomia-del-comune-nella-determinazione-delle-tariffe?search=true",
-        "date": "2026-03-05T00:00:00.000Z",
-        "summary": "Sentenza del 05/03/2026 n. 228/Sezione 2 - Corte di Giustizia Tributaria di secondo grado del Piemonte"
-      }
-    ],
+    "contenzioso": [],
     "crisi_impresa": [
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Alunni disabili, discriminatoria l’uscita anticipata",
+        "link": "https://www.ilsole24ore.com/art/alunni-disabili-discriminatoria-l-uscita-anticipata-AJjHXdN",
+        "date": "2026-07-18T14:58:00.000Z",
+        "summary": "Ininfluente l’insufficiente presenza a scuola dell’insegnante di sostegno"
+      },
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -1428,14 +1043,6 @@
         "link": "https://www.ilsole24ore.com/art/si-sequestro-smartphone-dell-ad-parole-chiave-generiche-AJaH1aN",
         "date": "2026-07-18T03:06:24.000Z",
         "summary": "Confermata la misura sul cellulare di Milleri, no al ricorso Luxottica. Negata la scarsa selettività di criteri come il cognome o il numero telefonico"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Alunni disabili, discriminatoria l’uscita anticipata",
-        "link": "https://www.ilsole24ore.com/art/alunni-disabili-discriminatoria-l-uscita-anticipata-AJjHXdN",
-        "date": "2026-07-18T03:04:13.000Z",
-        "summary": "Ininfluente l’insufficiente presenza a scuola dell’insegnante di sostegno"
       },
       {
         "category": "crisi_impresa",
@@ -1542,167 +1149,6 @@
         "summary": "Un momento dei lavori del convegno Si è concluso oggi a Napoli il roadshow dedicato all’analisi del nuovo assetto fiscale del terzo settore dopo la circolare 1/e 2026. Organizzato da Agenzia delle Entrate e Università Pontificia […]"
       }
     ],
-    "finanza_agevolata": [
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Sospensione della notifica degli atti ad agosto: nessun aumento nei mesi precedenti e successivi. A luglio forte riduzione per lettere di compliance, cartelle e altre comunicazioni (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/sospensione-della-notifica-degli-atti-ad-agosto-nessun-aumento-nei-mesi-precedenti-e-successivi.-a-luglio-forte-riduzione-per-lettere-di-compliance-cartelle-e-altre-comunicazioni",
-        "date": "2026-07-17T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Adempimento collaborativo, aggiornate le linee guida sul rischio fiscale. Dal tavolo Entrate-OIC nuove indicazioni per le imprese (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/adempimento-collaborativo-aggiornate-le-linee-guida-sul-rischio-fiscale.-dal-tavolo-entrate-oic-nuove-indicazioni-per-le-imprese",
-        "date": "2026-07-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Codice della crisi d’impresa e dell’insolvenza. In consultazione pubblica la seconda parte della bozza di circolare (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/codice-della-crisi-d-impresa-e-dell-insolvenza.-in-consultazione-pubblica-la-seconda-parte-della-bozza-di-circolare",
-        "date": "2026-06-26T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "“Insieme per le imprese e le università”. È partito oggi a Roma il primo roadshow nazionale Entrate-Inps (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-25-giugno-2026",
-        "date": "2026-06-25T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Perimetro allargato per la sostitutiva Irpef al 5% sugli aumenti dei dipendenti privati. L’imposta agevolata si applica anche alle somme relative alle annualità precedenti (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-24-giugno-2026",
-        "date": "2026-06-24T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Autotrasportatori, deduzione forfetaria 2026. Indicazioni per compilare la dichiarazione dei redditi (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/cs-23-giugno-2026",
-        "date": "2026-06-23T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Agenzia delle entrate e Inps insieme per le imprese e le università. Giovedì 25 giugno a Roma la prima tappa del roadshow nazionale (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/cs-del-22-giugno-2026",
-        "date": "2026-06-22T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Compravendite immobiliari, online i dati del primo trimestre 2026. In crescita gli scambi delle abitazioni: +4,4% rispetto allo scorso anno (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-10-giugno-2026",
-        "date": "2026-06-10T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Colonnine di ricarica per le auto elettriche Pronto il servizio per gli esercenti che devono inviare i corrispettivi (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/colonnine-di-ricarica-per-le-auto-elettriche-pronto-il-servizio-per-gli-esercenti-che-devono-inviare-i-corrispettivi",
-        "date": "2026-06-03T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Mercato non residenziale, online il Rapporto annuale Entrate-Assilea. Scambi in rialzo per uffici, negozi e capannoni (+4,9%). Leasing, stipulati contratti per un valore di 3,2 miliardi di euro (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/cs-28-maggio-2026",
-        "date": "2026-05-28T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Comunicato stampa – Precisazioni",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-precisazioni",
-        "date": "2026-05-27T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "5 per mille 2025, online gli elenchi dei beneficiari e degli esclusi. Oltre 602 milioni di euro destinati a più di 96 mila enti scelti dai contribuenti (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/cs-21-maggio-2026",
-        "date": "2026-05-21T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Mercato immobiliare residenziale in crescita nel 2025. Scambiate 767mila abitazioni (+6,4%) per 124 miliardi di euro (+8,8%). Il 46% degli acquisti di persone fisiche assistiti da mutuo ipotecario (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/mercato-immobiliare-residenziale-in-crescita-nel-2025.-scambiate-767mila-abitazioni-6-4-per-124-miliardi-di-euro-8-8-.%C2%A0-il-46-degli-acquisti-di-persone-fisiche-assistiti-da-mutuo-ipotecario",
-        "date": "2026-05-21T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Precompilata 2026, dal 23 maggio al via l’assistenza straordinaria. Call center attivo anche il sabato per rispondere alle domande dei cittadini (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/precompilata-2026-dal-23-maggio-al-via-l-assistenza-straordinaria.-call-center-attivo-anche-il-sabato-per-rispondere-alle-domande-dei-cittadini",
-        "date": "2026-05-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Campagna di phishing a tema rinnovo della tessera sanitaria (avviso)",
-        "link": "https://www.agenziaentrate.gov.it/portale/avviso-del-19-maggio-2026-campagna-di-phishing-a-tema-rinnovo-della-tessera-sanitaria",
-        "date": "2026-05-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Precompilata 2026, aperto il canale per l’invio del 730. Nelle prime due settimane oltre 4 milioni di accessi da parte dei cittadini. L’80% ha scelto la modalità semplificata (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/precompilata-2026-aperto-il-canale-per-l-invio-del-730-nelle-prime-due-settimane-oltre-4-milioni-di-accessi-da-parte-dei-cittadini-l-80-ha-scelto-la-modalità-semplificata",
-        "date": "2026-05-14T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Le novità per il Terzo settore: appuntamento il 16 maggio ad Assisi. Al via il roadshow per illustrare agli Enti le regole fiscali post-riforma (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/le-novità-per-il-terzo-settore-appuntamento-il-16-maggio-ad-assisi.-al-via-il-roadshow-per-illustrare-agli-enti-le-regole-fiscali-post-riforma",
-        "date": "2026-05-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "Assistenza online su comunicazioni e avvisi del Fisco. Civis diventa “canale unico” per offrire ai contribuenti un servizio più smart (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/cs-12-maggio-2026",
-        "date": "2026-05-12T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "730 precompilato, è adesso possibile visualizzare la dichiarazione. Dal pomeriggio del 14 maggio si parte con l’invio (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-30-aprile-730-precompilato-è-adesso-possibile-visualizzare-la-dichiarazione.-dal-pomeriggio-del-14-maggio-si-parte-con-l-invio",
-        "date": "2026-04-30T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "730 precompilato ai nastri di partenza: dal pomeriggio del 30 aprile si può consultare online. Dal 14 maggio ok all’invio; per il click finale c’è tempo fino al 30 settembre 2026 (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-28-aprile-2026-730-precompilato-ai-nastri-di-partenza-dal-pomeriggio-del-30-aprile-si-può-consultare-online",
-        "date": "2026-04-28T00:00:00.000Z",
-        "summary": ""
-      }
-    ]
+    "finanza_agevolata": []
   }
 }
