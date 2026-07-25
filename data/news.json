@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T11:26:16.450Z",
+  "generatedAt": "2026-07-25T10:19:55.974Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -14,64 +14,80 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Caso Almasri, ministro della Giustizia più vincolato sui tempi",
-        "link": "https://www.ilsole24ore.com/art/caso-almasri-ministro-giustizia-piu-vincolato-tempi-AJlAftT",
-        "date": "2026-07-24T03:15:02.000Z",
-        "summary": "La Consulta boccia la disciplina sulle richieste della Corte penale de L’Aja. Norme in contrasto con la leale collaborazione per i rischi di inerzia"
+        "title": "Giustizia, il Csm apre a Copilot sugli atti giudiziari",
+        "link": "https://www.ilsole24ore.com/art/giustizia-csm-apre-copilot-atti-giudiziari-AJiKU7U",
+        "date": "2026-07-25T03:10:41.000Z",
+        "summary": "Ma le criticità evidenziate devono essere corrette. Magistratura svantaggiata"
       },
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rinnovabili, le Regioni non possono bloccare le nuove autorizzazioni",
-        "link": "https://www.ilsole24ore.com/art/rinnovabili-regioni-non-possono-bloccare-nuove-autorizzazioni-AJWt8oT",
-        "date": "2026-07-24T03:12:52.000Z",
-        "summary": "I principi europei puntano a promuovere la diffusione massiccia di questi impianti. Gli obiettivi comunitari vincolano tutti i territori"
+        "title": "Criptovalute, nel Regno Unito recuperati otto milioni di sterline di tasse evase in tre anni",
+        "link": "https://www.ilsole24ore.com/art/criptovalute-regno-unito-recuperati-otto-milioni-sterline-tasse-evase-tre-anni-AJazhBV",
+        "date": "2026-07-25T03:08:31.000Z",
+        "summary": "A rivelarlo il Financial Times: nell’anno fiscale 2024/2025 sono stati 280 gli investitori a transare con il Fisco"
       },
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Incidente stradale con fuga, patente sospesa senza sconti",
-        "link": "https://www.ilsole24ore.com/art/incidente-stradale-fuga-patente-sospesa-senza-sconti-AJ1EaxT",
-        "date": "2026-07-24T03:10:42.000Z",
-        "summary": "Ininfluente l’estinzione del reato per il buon esito della messa alla prova"
+        "title": "Nel primo semestre 2026 calano del 10% le adozioni internazionali",
+        "link": "https://www.ilsole24ore.com/art/nel-primo-semestre-2026-calano-10percento-adozioni-internazionali-AJa4x9U",
+        "date": "2026-07-25T03:06:21.000Z",
+        "summary": "I Paesi da cui proviene la maggior parte delle adozioni, Ungheria e India, sono anche quelli che hanno registrano i cali più significativi"
       },
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rischia il carcere il vetturino che sfrutta il cavallo fino alla morte",
-        "link": "https://www.ilsole24ore.com/art/rischia-carcere-vetturino-che-sfrutta-cavallo-fino-morte-AJo5ZvT",
-        "date": "2026-07-24T03:08:32.000Z",
-        "summary": "I giudici confermano la condanna per il reato di uccisione dell’animale. A spingere l’imputata sarebbero stati forti interessi economici"
+        "title": "Affitti brevi, la stretta parte anche a Roma",
+        "link": "https://www.ilsole24ore.com/art/affitti-brevi-stretta-parte-anche-roma-AJio5kU",
+        "date": "2026-07-25T03:04:11.000Z",
+        "summary": "Il Campidoglio approva le nuove norme di attuazione del Prg e introduce le prime restrizioni alle locazioni turistiche"
       },
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Qualità dell’aria, per attuare le norme Ue le Regioni non possono chiedere più fondi",
-        "link": "https://www.ilsole24ore.com/art/qualita-dell-aria-attuare-norme-ue-regioni-non-possono-chiedere-piu-fondi-AJ1qXtT",
-        "date": "2026-07-24T03:06:22.000Z",
-        "summary": "La Corte costituzionale boccia il ricorso presentato da Lombardia, Piemonte e Veneto"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Eredità, l’aspettativa fa aumentare i consumi e calare la propensione al risparmio",
-        "link": "https://www.ilsole24ore.com/art/eredita-l-aspettativa-fa-aumentare-consumi-e-calare-propensione-risparmio-AJEKLyT",
-        "date": "2026-07-24T03:04:12.000Z",
-        "summary": "A confermarlo Banca d’Italia, nello studio «La ricchezza deve ancora arrivare: attese di eredità e decisioni economiche delle famiglie»"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Più i tribunali sono lenti meno le aziende avviano procedure fallimentari",
-        "link": "https://www.ilsole24ore.com/art/piu-tribunali-sono-lenti-meno-aziende-avviano-procedure-fallimentari-AJHaayT",
-        "date": "2026-07-24T03:02:01.000Z",
-        "summary": "Le imprese di grandi dimensioni, più indebitate e produttive hanno più probabilità di rivolgersi a un tribunale rispetto a quelle a controllo familiare"
+        "title": "Pa, meno di un provvedimento su tre contiene un elenco sulle modifiche introdotte",
+        "link": "https://www.ilsole24ore.com/art/pa-meno-un-provvedimento-tre-contiene-elenco-modifiche-introdotte-AJMV6AV",
+        "date": "2026-07-25T03:02:01.000Z",
+        "summary": "Tra i dicasteri è il Mimit ad aver adottato il numero più alto di misure che menzionano oneri introdotti o aboliti: su 27 solo 14 hanno fornito la documentazione sulle variazioni"
       },
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "F24 cinque nuovi codici tributo cosa cambia per IVA disabili intrattenimenti e aerotaxi",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4329-f24-cinque-nuovi-codici-tributo-cosa-cambia-per-iva-disabili-intrattenimenti-e-aerotaxi.html",
+        "title": "Studi associati lIRAP non  sempre dovuta la nuova regola della Consulta",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4330-studi-associati-lirap-non-e-sempre-dovuta-la-nuova-regola-della-consulta.html",
+        "date": "2026-07-25T00:00:00.000Z",
+        "summary": "La Corte costituzionale estende l’esclusione anche a chi opera in un’associazione professionale, se l’attività resta personale e autonoma. La prova del lavoro comune all'Ade"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Distribuzione utili perimetro dazione",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17326-distribuzione-utili-perimetro-dazione.html",
+        "date": "2026-07-25T00:00:00.000Z",
+        "summary": "Distribuzione degli utili 2025: dalla riserva legale alle perdite COVID, tutti i vincoli da verificare prima dell’assemblea"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Fine vita, necessario il sostegno vitale per rendere legittimo l’aiuto al suicidio",
+        "link": "https://www.ilsole24ore.com/art/fine-vita-necessario-sostegno-vitale-rendere-legittimo-l-aiuto-suicidio-AJ5c0gU",
+        "date": "2026-07-24T12:28:00.000Z",
+        "summary": "No alla possibilità di estendere la non punibilità anche per l’aiuto a morire a chi non è sottoposto a trattamenti di sostegno vitale. Ok alla legge Sardegna ma alcune norme sono in contrasto con la Carta"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Adempimento spontaneo e sanzioni doganali le novit della Circolare n 192026",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17339-adempimento-spontaneo-e-sanzioni-doganali-le-novita-della-circolare-n-192026.html",
+        "date": "2026-07-24T00:00:00.000Z",
+        "summary": "La Circolare ADM n. 19/2026 chiarisce revisione dell'accertamento, ravvedimento operoso, cause di non punibilità e cumulo giuridico"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Cosa cambia per IVA disabili intrattenimenti e aerotaxi 5 nuovi codici tributo",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4329-cosa-cambia-per-iva-disabili-intrattenimenti-e-aerotaxi-5-nuovi-codici-tributo.html",
         "date": "2026-07-24T00:00:00.000Z",
         "summary": "L'Ade istituisce cinque codici per versare le somme richieste con atti di recupero relativi all’IVA agevolata per disabili, imposta intrattenimenti e imposta sui voli aerotaxi"
       },
@@ -189,14 +205,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Le novit che cambiano i conti del concordato nel DL 382026",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17316-le-novita-che-cambiano-i-conti-del-concordato-nel-dl-382026.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Nuove regole per il concordato 2026/2027 a partire dalla scadenza per l'adesione"
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Normativa e prassi",
         "title": "Interpello: IVA – numeri 127–quinquies), 127–septies) e 127–quaterdecies), della Tabella A, parte III, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633 – Prestazioni di servizi rese nell'ambito di un intervento di ricostruzione della sede di un'associazione di promozione sociale (risposta n. 150)",
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+150_2026/169e5e2e-1a04-95e3-202c-360e901504d4",
@@ -242,22 +250,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4316-referente-antiriciclaggio-come-si-nomina-nelle-stp.html",
         "date": "2026-07-22T00:00:00.000Z",
         "summary": "I commercialisti alla luce del Regolamento UIF in vigore dal 1° luglio chiariscono come va gestita la nomina del referente per l'antiriciclaggio negli studi associati o nelle STP"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Utili SRL la distribuzione non proporzionale",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17325-utili-srl-la-distribuzione-non-proporzionale.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Distribuzione non proporzionale degli utili nelle SRL: i paletti dell’Agenzia e le aperture di Assonime"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Coadiutore agricolo e contributi omessi niente automatismo per la pensione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4313-coadiutore-agricolo-niente-automatismo-pensione-inps.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Cassazione n. 22600/2026 l'automaticita delle prestazioni previdenziali  non si applica al coadiutore familiare agricolo, neppure con rottamazione del debito del titolare"
       },
       {
         "category": "fiscale",
@@ -550,49 +542,49 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Registro dei titolari effettivi - Entrata in vigore del DLgs. 122/2026 - Necessità dei provvedimenti attuativi (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114318",
-        "date": "23/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 23.7.2026 - \"In vigore da oggi il nuovo Registro dei titolari effettivi\" - Meoli M."
+        "title": "OIC 5 \"Bilanci di liquidazione\" - Pubblicazione della nuova versione da parte dell'OIC (16.7.2026) - Criteri di valutazione (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114419",
+        "date": "24/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Con l’impresa in liquidazione cambia la logica del bilancio\" - De Rosa S. - Devalle A."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Bancarotta fraudolenta per distrazione – Società in nome collettivo – Cancellazione dal registro delle imprese – Successivo fallimento – Divieto di estensione della responsabilità (Cass. pen. 22.7.2026 n. 27586) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114367",
-        "date": "23/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 23.7.2026 - \"Niente responsabilità penale per la bancarotta “surrogata”\" - Artusi M. F."
+        "title": "Detrazioni \"edilizie\" - Società di persone - Trattamento contabile (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113626",
+        "date": "24/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Nelle società di persone detrazioni edilizie con contabilizzazione da valutare\" - Spina S."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Opere d’arte - Nozione di “speculatore occasionale” - Riflessi penali (Cass. pen. 21.7.2026 n. 27479) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114377",
-        "date": "23/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 23.7.2026 - \"Possibile la dichiarazione infedele per lo speculatore occasionale di opere d’arte\" - Comellini S."
+        "title": "Contributi corrisposti a fronte di costi per studi e ricerche - Novità dello schema di DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114312",
+        "date": "24/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Contributi per studi e ricerche da tassare per competenza\" - Latorraca S."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Nuovo OIC 5 - Pubblicazione da parte dell’Organismo italiano di contabilità (16.7.2026) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113682",
-        "date": "17/07/2026",
+        "title": "Assegno di inclusione (Adi) - Domande di rinnovo - Regole di gestione della Carta Adi (messaggio INPS 22.7.2026 n. 2437) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1114354",
+        "date": "23/07/2026",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Cassetto fiscale - Consultazione degli avvisi di liquidazione e degli avvisi di accertamento parziale \"automatizzati\" (provv. Agenzia delle Entrate 16.7.2026 n. 210791) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113681",
-        "date": "17/07/2026",
+        "title": "Minimale e massimale di rendita - Rivalutazione a decorrere dall'1.7.2026 - Limiti di retribuzione imponibile per il calcolo dei premi assicurativi (circ. INAIL  22.7.2026 n. 35) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1114343",
+        "date": "23/07/2026",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Chiarimenti (circ. Agenzia delle Entrate 16.7.2026 n. 5 Parte I) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113685",
-        "date": "17/07/2026",
+        "title": "Misure a tutela dei lavoratori per le emergenze climatiche - Agevolazioni contributive - Novità del DL 107/2026 - Istruzioni (messaggio INPS 20.7.2026 n. 2418) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1114167",
+        "date": "22/07/2026",
         "summary": ""
       },
       {
@@ -703,6 +695,70 @@
     "contabile": [
       {
         "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Giustizia, il Csm apre a Copilot sugli atti giudiziari",
+        "link": "https://www.ilsole24ore.com/art/giustizia-csm-apre-copilot-atti-giudiziari-AJiKU7U",
+        "date": "2026-07-25T03:10:41.000Z",
+        "summary": "Ma le criticità evidenziate devono essere corrette. Magistratura svantaggiata"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Criptovalute, nel Regno Unito recuperati otto milioni di sterline di tasse evase in tre anni",
+        "link": "https://www.ilsole24ore.com/art/criptovalute-regno-unito-recuperati-otto-milioni-sterline-tasse-evase-tre-anni-AJazhBV",
+        "date": "2026-07-25T03:08:31.000Z",
+        "summary": "A rivelarlo il Financial Times: nell’anno fiscale 2024/2025 sono stati 280 gli investitori a transare con il Fisco"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Nel primo semestre 2026 calano del 10% le adozioni internazionali",
+        "link": "https://www.ilsole24ore.com/art/nel-primo-semestre-2026-calano-10percento-adozioni-internazionali-AJa4x9U",
+        "date": "2026-07-25T03:06:21.000Z",
+        "summary": "I Paesi da cui proviene la maggior parte delle adozioni, Ungheria e India, sono anche quelli che hanno registrano i cali più significativi"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Affitti brevi, la stretta parte anche a Roma",
+        "link": "https://www.ilsole24ore.com/art/affitti-brevi-stretta-parte-anche-roma-AJio5kU",
+        "date": "2026-07-25T03:04:11.000Z",
+        "summary": "Il Campidoglio approva le nuove norme di attuazione del Prg e introduce le prime restrizioni alle locazioni turistiche"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Pa, meno di un provvedimento su tre contiene un elenco sulle modifiche introdotte",
+        "link": "https://www.ilsole24ore.com/art/pa-meno-un-provvedimento-tre-contiene-elenco-modifiche-introdotte-AJMV6AV",
+        "date": "2026-07-25T03:02:01.000Z",
+        "summary": "Tra i dicasteri è il Mimit ad aver adottato il numero più alto di misure che menzionano oneri introdotti o aboliti: su 27 solo 14 hanno fornito la documentazione sulle variazioni"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Studi associati lIRAP non  sempre dovuta la nuova regola della Consulta",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4330-studi-associati-lirap-non-e-sempre-dovuta-la-nuova-regola-della-consulta.html",
+        "date": "2026-07-25T00:00:00.000Z",
+        "summary": "La Corte costituzionale estende l’esclusione anche a chi opera in un’associazione professionale, se l’attività resta personale e autonoma. La prova del lavoro comune all'Ade"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Distribuzione utili perimetro dazione",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17326-distribuzione-utili-perimetro-dazione.html",
+        "date": "2026-07-25T00:00:00.000Z",
+        "summary": "Distribuzione degli utili 2025: dalla riserva legale alle perdite COVID, tutti i vincoli da verificare prima dell’assemblea"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Fine vita, necessario il sostegno vitale per rendere legittimo l’aiuto al suicidio",
+        "link": "https://www.ilsole24ore.com/art/fine-vita-necessario-sostegno-vitale-rendere-legittimo-l-aiuto-suicidio-AJ5c0gU",
+        "date": "2026-07-24T12:28:00.000Z",
+        "summary": "No alla possibilità di estendere la non punibilità anche per l’aiuto a morire a chi non è sottoposto a trattamenti di sostegno vitale. Ok alla legge Sardegna ma alcune norme sono in contrasto con la Carta"
+      },
+      {
+        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Cooperative compliance: prorogare a fine anno il termine per la certificazione del TCF da parte dei richiedenti l’ammissione nel 2024/2025",
         "link": "https://press-magazine.it/cooperative-compliance-prorogare-a-fine-anno-il-termine-per-la-certificazione-del-tcf-da-parte-dei-richiedenti-lammissione-nel-2024-2025/",
@@ -711,65 +767,17 @@
       },
       {
         "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Caso Almasri, ministro della Giustizia più vincolato sui tempi",
-        "link": "https://www.ilsole24ore.com/art/caso-almasri-ministro-giustizia-piu-vincolato-tempi-AJlAftT",
-        "date": "2026-07-24T03:15:02.000Z",
-        "summary": "La Consulta boccia la disciplina sulle richieste della Corte penale de L’Aja. Norme in contrasto con la leale collaborazione per i rischi di inerzia"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rinnovabili, le Regioni non possono bloccare le nuove autorizzazioni",
-        "link": "https://www.ilsole24ore.com/art/rinnovabili-regioni-non-possono-bloccare-nuove-autorizzazioni-AJWt8oT",
-        "date": "2026-07-24T03:12:52.000Z",
-        "summary": "I principi europei puntano a promuovere la diffusione massiccia di questi impianti. Gli obiettivi comunitari vincolano tutti i territori"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Incidente stradale con fuga, patente sospesa senza sconti",
-        "link": "https://www.ilsole24ore.com/art/incidente-stradale-fuga-patente-sospesa-senza-sconti-AJ1EaxT",
-        "date": "2026-07-24T03:10:42.000Z",
-        "summary": "Ininfluente l’estinzione del reato per il buon esito della messa alla prova"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rischia il carcere il vetturino che sfrutta il cavallo fino alla morte",
-        "link": "https://www.ilsole24ore.com/art/rischia-carcere-vetturino-che-sfrutta-cavallo-fino-morte-AJo5ZvT",
-        "date": "2026-07-24T03:08:32.000Z",
-        "summary": "I giudici confermano la condanna per il reato di uccisione dell’animale. A spingere l’imputata sarebbero stati forti interessi economici"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Qualità dell’aria, per attuare le norme Ue le Regioni non possono chiedere più fondi",
-        "link": "https://www.ilsole24ore.com/art/qualita-dell-aria-attuare-norme-ue-regioni-non-possono-chiedere-piu-fondi-AJ1qXtT",
-        "date": "2026-07-24T03:06:22.000Z",
-        "summary": "La Corte costituzionale boccia il ricorso presentato da Lombardia, Piemonte e Veneto"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Eredità, l’aspettativa fa aumentare i consumi e calare la propensione al risparmio",
-        "link": "https://www.ilsole24ore.com/art/eredita-l-aspettativa-fa-aumentare-consumi-e-calare-propensione-risparmio-AJEKLyT",
-        "date": "2026-07-24T03:04:12.000Z",
-        "summary": "A confermarlo Banca d’Italia, nello studio «La ricchezza deve ancora arrivare: attese di eredità e decisioni economiche delle famiglie»"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Più i tribunali sono lenti meno le aziende avviano procedure fallimentari",
-        "link": "https://www.ilsole24ore.com/art/piu-tribunali-sono-lenti-meno-aziende-avviano-procedure-fallimentari-AJHaayT",
-        "date": "2026-07-24T03:02:01.000Z",
-        "summary": "Le imprese di grandi dimensioni, più indebitate e produttive hanno più probabilità di rivolgersi a un tribunale rispetto a quelle a controllo familiare"
+        "source": "Fisco e Tasse",
+        "title": "Adempimento spontaneo e sanzioni doganali le novit della Circolare n 192026",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17339-adempimento-spontaneo-e-sanzioni-doganali-le-novita-della-circolare-n-192026.html",
+        "date": "2026-07-24T00:00:00.000Z",
+        "summary": "La Circolare ADM n. 19/2026 chiarisce revisione dell'accertamento, ravvedimento operoso, cause di non punibilità e cumulo giuridico"
       },
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "F24 cinque nuovi codici tributo cosa cambia per IVA disabili intrattenimenti e aerotaxi",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4329-f24-cinque-nuovi-codici-tributo-cosa-cambia-per-iva-disabili-intrattenimenti-e-aerotaxi.html",
+        "title": "Cosa cambia per IVA disabili intrattenimenti e aerotaxi 5 nuovi codici tributo",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4329-cosa-cambia-per-iva-disabili-intrattenimenti-e-aerotaxi-5-nuovi-codici-tributo.html",
         "date": "2026-07-24T00:00:00.000Z",
         "summary": "L'Ade istituisce cinque codici per versare le somme richieste con atti di recupero relativi all’IVA agevolata per disabili, imposta intrattenimenti e imposta sui voli aerotaxi"
       },
@@ -880,14 +888,6 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Le novit che cambiano i conti del concordato nel DL 382026",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17316-le-novita-che-cambiano-i-conti-del-concordato-nel-dl-382026.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Nuove regole per il concordato 2026/2027 a partire dalla scadenza per l'adesione"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Iperammortamento 2026 via alla conferma come inviarla al GSE entro 60 giorni",
         "link": "https://www.fiscoetasse.com/domande-e-risposte/12873-iperammortamento-2026-via-alla-conferma-come-inviarla-al-gse-entro-60-giorni.html",
         "date": "2026-07-22T00:00:00.000Z",
@@ -924,22 +924,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4316-referente-antiriciclaggio-come-si-nomina-nelle-stp.html",
         "date": "2026-07-22T00:00:00.000Z",
         "summary": "I commercialisti alla luce del Regolamento UIF in vigore dal 1° luglio chiariscono come va gestita la nomina del referente per l'antiriciclaggio negli studi associati o nelle STP"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Utili SRL la distribuzione non proporzionale",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17325-utili-srl-la-distribuzione-non-proporzionale.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Distribuzione non proporzionale degli utili nelle SRL: i paletti dell’Agenzia e le aperture di Assonime"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Coadiutore agricolo e contributi omessi niente automatismo per la pensione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4313-coadiutore-agricolo-niente-automatismo-pensione-inps.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Cassazione n. 22600/2026 l'automaticita delle prestazioni previdenziali  non si applica al coadiutore familiare agricolo, neppure con rottamazione del debito del titolare"
       },
       {
         "category": "contabile",
@@ -1000,49 +984,49 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Registro dei titolari effettivi - Entrata in vigore del DLgs. 122/2026 - Necessità dei provvedimenti attuativi (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114318",
-        "date": "23/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 23.7.2026 - \"In vigore da oggi il nuovo Registro dei titolari effettivi\" - Meoli M."
+        "title": "OIC 5 \"Bilanci di liquidazione\" - Pubblicazione della nuova versione da parte dell'OIC (16.7.2026) - Criteri di valutazione (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114419",
+        "date": "24/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Con l’impresa in liquidazione cambia la logica del bilancio\" - De Rosa S. - Devalle A."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Bancarotta fraudolenta per distrazione – Società in nome collettivo – Cancellazione dal registro delle imprese – Successivo fallimento – Divieto di estensione della responsabilità (Cass. pen. 22.7.2026 n. 27586) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114367",
-        "date": "23/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 23.7.2026 - \"Niente responsabilità penale per la bancarotta “surrogata”\" - Artusi M. F."
+        "title": "Detrazioni \"edilizie\" - Società di persone - Trattamento contabile (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113626",
+        "date": "24/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Nelle società di persone detrazioni edilizie con contabilizzazione da valutare\" - Spina S."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Opere d’arte - Nozione di “speculatore occasionale” - Riflessi penali (Cass. pen. 21.7.2026 n. 27479) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114377",
-        "date": "23/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 23.7.2026 - \"Possibile la dichiarazione infedele per lo speculatore occasionale di opere d’arte\" - Comellini S."
+        "title": "Contributi corrisposti a fronte di costi per studi e ricerche - Novità dello schema di DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114312",
+        "date": "24/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Contributi per studi e ricerche da tassare per competenza\" - Latorraca S."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Nuovo OIC 5 - Pubblicazione da parte dell’Organismo italiano di contabilità (16.7.2026) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113682",
-        "date": "17/07/2026",
+        "title": "Assegno di inclusione (Adi) - Domande di rinnovo - Regole di gestione della Carta Adi (messaggio INPS 22.7.2026 n. 2437) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1114354",
+        "date": "23/07/2026",
         "summary": ""
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Cassetto fiscale - Consultazione degli avvisi di liquidazione e degli avvisi di accertamento parziale \"automatizzati\" (provv. Agenzia delle Entrate 16.7.2026 n. 210791) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113681",
-        "date": "17/07/2026",
+        "title": "Minimale e massimale di rendita - Rivalutazione a decorrere dall'1.7.2026 - Limiti di retribuzione imponibile per il calcolo dei premi assicurativi (circ. INAIL  22.7.2026 n. 35) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1114343",
+        "date": "23/07/2026",
         "summary": ""
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Chiarimenti (circ. Agenzia delle Entrate 16.7.2026 n. 5 Parte I) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1113685",
-        "date": "17/07/2026",
+        "title": "Misure a tutela dei lavoratori per le emergenze climatiche - Agevolazioni contributive - Novità del DL 107/2026 - Istruzioni (messaggio INPS 20.7.2026 n. 2418) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1114167",
+        "date": "22/07/2026",
         "summary": ""
       },
       {
@@ -1129,6 +1113,14 @@
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Nasce WorldHotels Backdrop, il nuovo brand di Bwh Hotels nell’outdoor di lusso",
+        "link": "https://www.ilsole24ore.com/art/nasce-worldhotels-backdrop-nuovo-brand-bwh-hotels-nell-outdoor-lusso-AJGWEYU",
+        "date": "2026-07-24T11:46:00.000Z",
+        "summary": "Bwh Hotels sbarca nell’outdoor di lusso. Il gruppo alberghiero internazionale accelera sull’ospitalità outdoor di alta gamma con il lancio di WorldHotels Backdrop, la nuova collezione dedicata al segmento del glamping...."
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1308,14 +1300,6 @@
       {
         "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Ryze acquisisce Krata ed entra nel mercato spagnolo",
-        "link": "https://www.ilsole24ore.com/art/ryze-acquisisce-krata-ed-entra-mercato-spagnolo-AJVsWzI",
-        "date": "2026-07-14T11:56:00.000Z",
-        "summary": "Ryze compie un altro passo nel suo percorso di internazionalizzazione. La società di consulenza e gestione di servizi immobiliari (ex Yard Reaas) ha siglato un accordo per l’acquisizione di Krata..."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "Casa, la domanda si sposta fuori dalle metropoli: nei piccoli comuni compravendite +42% in sei anni",
         "link": "https://www.ilsole24ore.com/art/casa-domanda-si-sposta-fuori-metropoli-piccoli-comuni-compravendite-42percento-sei-anni-AJVhxYH",
         "date": "2026-07-14T04:00:00.000Z",
@@ -1407,67 +1391,59 @@
     "crisi_impresa": [
       {
         "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Giustizia, il Csm apre a Copilot sugli atti giudiziari",
+        "link": "https://www.ilsole24ore.com/art/giustizia-csm-apre-copilot-atti-giudiziari-AJiKU7U",
+        "date": "2026-07-25T03:10:41.000Z",
+        "summary": "Ma le criticità evidenziate devono essere corrette. Magistratura svantaggiata"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Criptovalute, nel Regno Unito recuperati otto milioni di sterline di tasse evase in tre anni",
+        "link": "https://www.ilsole24ore.com/art/criptovalute-regno-unito-recuperati-otto-milioni-sterline-tasse-evase-tre-anni-AJazhBV",
+        "date": "2026-07-25T03:08:31.000Z",
+        "summary": "A rivelarlo il Financial Times: nell’anno fiscale 2024/2025 sono stati 280 gli investitori a transare con il Fisco"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Nel primo semestre 2026 calano del 10% le adozioni internazionali",
+        "link": "https://www.ilsole24ore.com/art/nel-primo-semestre-2026-calano-10percento-adozioni-internazionali-AJa4x9U",
+        "date": "2026-07-25T03:06:21.000Z",
+        "summary": "I Paesi da cui proviene la maggior parte delle adozioni, Ungheria e India, sono anche quelli che hanno registrano i cali più significativi"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Affitti brevi, la stretta parte anche a Roma",
+        "link": "https://www.ilsole24ore.com/art/affitti-brevi-stretta-parte-anche-roma-AJio5kU",
+        "date": "2026-07-25T03:04:11.000Z",
+        "summary": "Il Campidoglio approva le nuove norme di attuazione del Prg e introduce le prime restrizioni alle locazioni turistiche"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Pa, meno di un provvedimento su tre contiene un elenco sulle modifiche introdotte",
+        "link": "https://www.ilsole24ore.com/art/pa-meno-un-provvedimento-tre-contiene-elenco-modifiche-introdotte-AJMV6AV",
+        "date": "2026-07-25T03:02:01.000Z",
+        "summary": "Tra i dicasteri è il Mimit ad aver adottato il numero più alto di misure che menzionano oneri introdotti o aboliti: su 27 solo 14 hanno fornito la documentazione sulle variazioni"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Fine vita, necessario il sostegno vitale per rendere legittimo l’aiuto al suicidio",
+        "link": "https://www.ilsole24ore.com/art/fine-vita-necessario-sostegno-vitale-rendere-legittimo-l-aiuto-suicidio-AJ5c0gU",
+        "date": "2026-07-24T12:28:00.000Z",
+        "summary": "No alla possibilità di estendere la non punibilità anche per l’aiuto a morire a chi non è sottoposto a trattamenti di sostegno vitale. Ok alla legge Sardegna ma alcune norme sono in contrasto con la Carta"
+      },
+      {
+        "category": "crisi_impresa",
         "source": "CNDCEC - Crisi d'impresa",
         "title": "Cooperative compliance: prorogare a fine anno il termine per la certificazione del TCF da parte dei richiedenti l’ammissione nel 2024/2025",
         "link": "https://press-magazine.it/cooperative-compliance-prorogare-a-fine-anno-il-termine-per-la-certificazione-del-tcf-da-parte-dei-richiedenti-lammissione-nel-2024-2025/",
         "date": "2026-07-24T08:04:10.000Z",
         "summary": "Concedere un maggior termine per la presentazione della certificazione del Tax Control Framework, da parte delle imprese che hanno trasmesso la domanda di ammissione al regime di adempimento collaborativo nel 2024 e nel 2025. È la richiesta […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Caso Almasri, ministro della Giustizia più vincolato sui tempi",
-        "link": "https://www.ilsole24ore.com/art/caso-almasri-ministro-giustizia-piu-vincolato-tempi-AJlAftT",
-        "date": "2026-07-24T03:15:02.000Z",
-        "summary": "La Consulta boccia la disciplina sulle richieste della Corte penale de L’Aja. Norme in contrasto con la leale collaborazione per i rischi di inerzia"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rinnovabili, le Regioni non possono bloccare le nuove autorizzazioni",
-        "link": "https://www.ilsole24ore.com/art/rinnovabili-regioni-non-possono-bloccare-nuove-autorizzazioni-AJWt8oT",
-        "date": "2026-07-24T03:12:52.000Z",
-        "summary": "I principi europei puntano a promuovere la diffusione massiccia di questi impianti. Gli obiettivi comunitari vincolano tutti i territori"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Incidente stradale con fuga, patente sospesa senza sconti",
-        "link": "https://www.ilsole24ore.com/art/incidente-stradale-fuga-patente-sospesa-senza-sconti-AJ1EaxT",
-        "date": "2026-07-24T03:10:42.000Z",
-        "summary": "Ininfluente l’estinzione del reato per il buon esito della messa alla prova"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rischia il carcere il vetturino che sfrutta il cavallo fino alla morte",
-        "link": "https://www.ilsole24ore.com/art/rischia-carcere-vetturino-che-sfrutta-cavallo-fino-morte-AJo5ZvT",
-        "date": "2026-07-24T03:08:32.000Z",
-        "summary": "I giudici confermano la condanna per il reato di uccisione dell’animale. A spingere l’imputata sarebbero stati forti interessi economici"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Qualità dell’aria, per attuare le norme Ue le Regioni non possono chiedere più fondi",
-        "link": "https://www.ilsole24ore.com/art/qualita-dell-aria-attuare-norme-ue-regioni-non-possono-chiedere-piu-fondi-AJ1qXtT",
-        "date": "2026-07-24T03:06:22.000Z",
-        "summary": "La Corte costituzionale boccia il ricorso presentato da Lombardia, Piemonte e Veneto"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Eredità, l’aspettativa fa aumentare i consumi e calare la propensione al risparmio",
-        "link": "https://www.ilsole24ore.com/art/eredita-l-aspettativa-fa-aumentare-consumi-e-calare-propensione-risparmio-AJEKLyT",
-        "date": "2026-07-24T03:04:12.000Z",
-        "summary": "A confermarlo Banca d’Italia, nello studio «La ricchezza deve ancora arrivare: attese di eredità e decisioni economiche delle famiglie»"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Più i tribunali sono lenti meno le aziende avviano procedure fallimentari",
-        "link": "https://www.ilsole24ore.com/art/piu-tribunali-sono-lenti-meno-aziende-avviano-procedure-fallimentari-AJHaayT",
-        "date": "2026-07-24T03:02:01.000Z",
-        "summary": "Le imprese di grandi dimensioni, più indebitate e produttive hanno più probabilità di rivolgersi a un tribunale rispetto a quelle a controllo familiare"
       },
       {
         "category": "crisi_impresa",
