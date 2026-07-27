@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T10:57:15.124Z",
+  "generatedAt": "2026-07-27T13:57:44.962Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -11,6 +11,86 @@
   },
   "items": {
     "fiscale": [
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Modello OT23 2027 guida a novit interventi percentuali",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17348-modello-ot23-2027-novita-interventi-percentuali.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Come ridurre il tasso medio di tariffa INAIL. Pubblicati Modello e Guida. Ecco i 65 interventi, percentuali riduzione, requisiti. Domanda. Infografica di sintesi scaricabile."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Bonus colonnine 2026 contributo dell80 domande in attesa",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4335-bonus-colonnine-2026-contributo-dell80-domande-in-attesa.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Colonnine: fino a 1.500 euro di bonus per i privati e 8.000 per i condomìni, cosa prevede il nuovo decreto"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Magistrati onorari cumulabilit tra pensione e compensi le regole",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4334-magistrati-onorari-cumulabilita-pensione-compensi-cosa-cambia.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "La Circolare INPS n. 79/2026 chiarisce quando pensione e compenso dei giudici di pace, onorari e vice,  sono cumulabili dopo  la legge 51 2025. Norme e tabella soglie di reddito"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Assegno Unico ecco chi ha diritto se i figli vivono allestero",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4333-assegno-unico-ecco-chi-ha-diritto-se-i-figli-vivono-allestero.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Circolare INPS n. 81/2026:  regole e istruzioni sull' estensione ai figli residenti in altro Stato UE e per lavoratori comunitari non residenti in Italia"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Contributo benzinai fino a 60000 euro per colonnine e biocarburanti",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4332-contributo-benzinai-fino-a-60000-euro-per-le-colonnine-e-biocarburanti.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Fino a 60.000 euro per trasformare i distributori in stazioni di ricarica: cosa prevede il nuovo incentivo"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Studi associati lIRAP non  sempre dovuta la nuova regola della Consulta",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4330-studi-associati-lirap-non-e-sempre-dovuta-la-nuova-regola-della-consulta.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "La Corte costituzionale estende l’esclusione anche a chi opera in un’associazione professionale, se l’attività resta personale e autonoma. La prova del lavoro comune all'Ade"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Fisco e contributi ad agosto scatta la sospensione cosa si ferma e cosa no",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17342-fisco-e-contributi-ad-agosto-scatta-la-sospensione-cosa-si-ferma-e-cosa-no.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Nel mese estivo l’attività dell’Amministrazione finanziaria rallenta, ma non tutto si blocca: ecco le eccezioni e le scadenze da conoscere."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Cosa cambia per IVA disabili intrattenimenti e aerotaxi 5 nuovi codici tributo",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4329-cosa-cambia-per-iva-disabili-intrattenimenti-e-aerotaxi-5-nuovi-codici-tributo.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "L'Ade istituisce cinque codici per versare le somme richieste con atti di recupero relativi all’IVA agevolata per disabili, imposta intrattenimenti e imposta sui voli aerotaxi"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Holding sotto verifica trattenimento dividendi tra abuso del diritto e legittima attivita",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17335-holding-sotto-verifica-trattenimento-dividendi-tra-abuso-del-diritto-e-legittima-attivita.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Le verifiche  dell’Agenzia  sulle holding non finanziarie “statiche” impongono  una riflessione approfondita su presupposti e limiti  del trattenimento dei dividendi..."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Contributi per ricerca e sviluppo stop alla tassazione per cassa dal 2026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4328-contributi-per-ricerca-e-sviluppo-stop-alla-tassazione-per-cassa-dal-2026.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Contributi pubblici per studi e ricerche: le nuove regole fiscali dell’Omnibus"
+      },
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -53,22 +133,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Studi associati lIRAP non  sempre dovuta la nuova regola della Consulta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4330-studi-associati-lirap-non-e-sempre-dovuta-la-nuova-regola-della-consulta.html",
-        "date": "2026-07-25T00:00:00.000Z",
-        "summary": "La Corte costituzionale estende l’esclusione anche a chi opera in un’associazione professionale, se l’attività resta personale e autonoma. La prova del lavoro comune all'Ade"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Distribuzione utili perimetro dazione",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17326-distribuzione-utili-perimetro-dazione.html",
-        "date": "2026-07-25T00:00:00.000Z",
-        "summary": "Distribuzione degli utili 2025: dalla riserva legale alle perdite COVID, tutti i vincoli da verificare prima dell’assemblea"
-      },
-      {
-        "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Fine vita, necessario il sostegno vitale per rendere legittimo l’aiuto al suicidio",
         "link": "https://www.ilsole24ore.com/art/fine-vita-necessario-sostegno-vitale-rendere-legittimo-l-aiuto-suicidio-AJ5c0gU",
@@ -82,22 +146,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17339-adempimento-spontaneo-e-sanzioni-doganali-le-novita-della-circolare-n-192026.html",
         "date": "2026-07-24T00:00:00.000Z",
         "summary": "La Circolare ADM n. 19/2026 chiarisce revisione dell'accertamento, ravvedimento operoso, cause di non punibilità e cumulo giuridico"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Cosa cambia per IVA disabili intrattenimenti e aerotaxi 5 nuovi codici tributo",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4329-cosa-cambia-per-iva-disabili-intrattenimenti-e-aerotaxi-5-nuovi-codici-tributo.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "L'Ade istituisce cinque codici per versare le somme richieste con atti di recupero relativi all’IVA agevolata per disabili, imposta intrattenimenti e imposta sui voli aerotaxi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Contributi per ricerca e sviluppo stop alla tassazione per cassa dal 2026",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4328-contributi-per-ricerca-e-sviluppo-stop-alla-tassazione-per-cassa-dal-2026.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Contributi pubblici per studi e ricerche: le nuove regole fiscali dell’Omnibus"
       },
       {
         "category": "fiscale",
@@ -197,59 +245,11 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Stalking in condominio quali danni deve risarcire il condomino persecutore",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17327-stalking-in-condominio-quali-danni-deve-risarcire-il-condomino-persecutorehtml",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Condominio: analisi dello stalking ad opera di un condomino"
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Normativa e prassi",
         "title": "Interpello: IVA – numeri 127–quinquies), 127–septies) e 127–quaterdecies), della Tabella A, parte III, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633 – Prestazioni di servizi rese nell'ambito di un intervento di ricostruzione della sede di un'associazione di promozione sociale (risposta n. 150)",
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+150_2026/169e5e2e-1a04-95e3-202c-360e901504d4",
         "date": "2026-07-22T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Iperammortamento 2026 via alla conferma come inviarla al GSE entro 60 giorni",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12873-iperammortamento-2026-via-alla-conferma-come-inviarla-al-gse-entro-60-giorni.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Il GSE dopo la pubblicazione del Decreto Mimit con l'avvio dal 21 luglio alle comunicazioni di conferma pubblica modello utile e regole per inviarle"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Dazi IEEPA rimborsi sulle entries definitive solo ai ricorrenti",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17331-dazi-ieepa-rimborsi-sulle-entries-definitive-solo-ai-ricorrenti.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Gli ordini del giudice Eaton limitano i rimborsi agli importatori che hanno presentato ricorso alla CIT"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Come si valutano gli immobili ai fini della successione o della donazione",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12872-come-si-valutano-gli-immobili-ai-fini-della-successione-o-della-donazione.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Come valutare gli immobili nelle successioni e nelle donazioni, tra rendite catastali, documenti e rischi di errori fiscali"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Ravvedimento operoso per la dichiarazione IVA come provvedere entro il 2907",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17328-ravvedimento-operoso-per-la-dichiarazione-iva-come-provvedere-entro-il-2907.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Come procedere per il ravvedimento operoso nella dichiarazione IVA: scadenza 29 luglio per non incappare nella dichiarazione omessa"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Referente Antiriciclaggio come si nomina nelle STP",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4316-referente-antiriciclaggio-come-si-nomina-nelle-stp.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "I commercialisti alla luce del Regolamento UIF in vigore dal 1° luglio chiariscono come va gestita la nomina del referente per l'antiriciclaggio negli studi associati o nelle STP"
       },
       {
         "category": "fiscale",
@@ -614,85 +614,181 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "L’Approfondimento: Immobili in categoria “F”: il Notariato ridisegna il regime IVA delle cessioni",
-        "link": "https://www.mysolution.it/fisco/approfondimenti/circolare-monografica/2026/07/lapprofondimento-immobili-classificati-nelle-categorie-catastali-f-il-notariato-ridisegna-il-regime-iva-delle-cessioni-tra-imponibilita-esenzione-e-contrasti-interpretativi-setti/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Prima casa in successione: sì all’unione di fatto fiscale",
+        "link": "https://www.mysolution.it/fisco/approfondimenti/commenti/2026/07/prima-casa-in-successione-anche-se-limmobile-insiste-su-due-comuni-catastali-lagenzia-apre-allunione-di-fatto-ai-fini-fiscali-setti/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Riforma ordinamento Commercialisti: approvato il testo in Commissione, restano nodi aperti",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/24/riforma-dellordinamento-dei-commercialisti-via-libera-della-commissione-ma-anc-segnala-le-questioni-ancora-aperte/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Anomalie ISA: per le risposte escluse e-mail e PEC",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/anomalie-isa.-per-le-risposte-escluse-e-mail-e-pec",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Giornalisti autonomi: data di presentazione della dichiarazione obbligatoria dei redditi",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/24/giornalisti-autonomi-data-di-presentazione-della-dichiarazione-obbligatoria-dei-redditi/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Crediti acquistati dai professionisti: tassazione agevolata al 26% ma sfera “privata” non considerata",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/crediti-acquistati-dai-professionisti-tassazione-agevolata-al-26-ma-sfera-privata-non-considerata/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Attività agricole connesse: chiariti i limiti del reddito agrario",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/24/attivita-agricole-connesse-lagenzia-chiarisce-quando-si-applica-il-reddito-agrario-e-quando-scatta-il-reddito-dimpresa/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Percorso specialistico \"IVA 2026. Tutti i mesi le novità di periodo, l’approfondimento monografico e i casi pratici\"",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/percorso-iva-2026/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "ADM: rilascio in esercizio applicativo Intr@web disponibile dal 14 ottobre",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/24/adm-rilascio-in-esercizio-applicativo-intrweb-disponibile-dal-14-ottobre/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Holding che non distribuisce dividendi: è abuso del diritto?",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/holding-che-non-distribuisce-dividendi-e-abuso-del-diritto-/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Dogane: chiarimenti su revisione della dichiarazione e ravvedimento operoso",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/24/dogane-chiarimenti-su-revisione-della-dichiarazione-e-ravvedimento-operoso/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Assegno unico e universale per i figli a carico: le novità",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/assegno-unico-e-universale-per-i-figli-a-carico-le-novita/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Recupero IVA agevolata disabili, ISI e imposta voli passeggeri: pronti i codici tributo per il versamento",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/24/recupero-iva-agevolata-disabili-isi-e-imposta-voli-passeggeri-pronti-i-codici-tributo-per-il-versamento/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "IMU, l’assenza di utenze attive non esclude l’esenzione per il personale delle Forze Armate",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/imu-lassenza-di-utenze-attive-non-esclude-lesenzione-per-il-personale-delle-forze-armate/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Global minimum tax: ecco i codici tributo per il ravvedimento",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/24/global-minimum-tax-ecco-i-codici-tributo-per-il-ravvedimento/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Splafonamento dell’esportatore abituale: regole per il ravvedimento",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/splafonamento-dellesportatore-abituale-come-regolarizzare-la-violazione-con-il-ravvedimento/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Riforma delle sanzioni TUF: pubblicato il decreto attuativo",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/24/riforma-delle-sanzioni-nel-tuf-in-gazzetta-il-decreto-che-rinnova-i-procedimenti-di-consob-e-banca-ditalia/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Contributi per studi e ricerche: nel Decreto Omnibus tassazione per competenza",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/contributi-per-studi-e-ricerche.-nel-dl-omnibus-tassazione-per-competenza-ma-con-regime-transitorio",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Dal Testo unico tributario alla legge annuale sulla concorrenza 2026: i provvedimenti approvati dal CDM",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/24/dal-testo-unico-tributario-alla-legge-annuale-sulla-concorrenza-2026-i-provvedimenti-approvati-dal-consiglio-dei-ministri/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "TCF e adempimento collaborativo: richiesta la proroga al 31 dicembre 2026",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/tcf-e-adempimento-collaborativo-richiesta-la-proroga-al-31-dicembre-2026/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       }
     ],
     "contabile": [
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Patto di famiglia, dai Commercialisti un documento a venti anni dalla riforma",
+        "link": "https://press-magazine.it/patto-di-famiglia-dai-commercialisti-un-documento-a-venti-anni-dalla-riforma/",
+        "date": "2026-07-27T13:32:14.000Z",
+        "summary": "“Il Patto di famiglia a vent’anni dalla riforma” è il titolo del documento pubblicato oggi dal Consiglio e dalla Fondazione nazionali dei commercialisti. Il documento rientra tra le attività delle aree “Fiscalità” e “Diritto societario”, alle […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Il 23 settembre le elezioni per il Comitato Nazionale Pari Opportunità",
+        "link": "https://press-magazine.it/il-23-settembre-le-elezioni-per-il-comitato-nazionale-pari-opportunita/",
+        "date": "2026-07-27T11:25:42.000Z",
+        "summary": "Si svolgeranno il prossimo 23 settembre le elezioni dei 20 rappresentanti regionali del Comitato Nazionale Pari Opportunità (CNPO) dei commercialisti. Lo comunica agli Ordini locali della categoria il Consiglio nazionale presieduto da Elbano de Nuccio attraverso […]"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Modello OT23 2027 guida a novit interventi percentuali",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17348-modello-ot23-2027-novita-interventi-percentuali.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Come ridurre il tasso medio di tariffa INAIL. Pubblicati Modello e Guida. Ecco i 65 interventi, percentuali riduzione, requisiti. Domanda. Infografica di sintesi scaricabile."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Bonus colonnine 2026 contributo dell80 domande in attesa",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4335-bonus-colonnine-2026-contributo-dell80-domande-in-attesa.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Colonnine: fino a 1.500 euro di bonus per i privati e 8.000 per i condomìni, cosa prevede il nuovo decreto"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Magistrati onorari cumulabilit tra pensione e compensi le regole",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4334-magistrati-onorari-cumulabilita-pensione-compensi-cosa-cambia.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "La Circolare INPS n. 79/2026 chiarisce quando pensione e compenso dei giudici di pace, onorari e vice,  sono cumulabili dopo  la legge 51 2025. Norme e tabella soglie di reddito"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Assegno Unico ecco chi ha diritto se i figli vivono allestero",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4333-assegno-unico-ecco-chi-ha-diritto-se-i-figli-vivono-allestero.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Circolare INPS n. 81/2026:  regole e istruzioni sull' estensione ai figli residenti in altro Stato UE e per lavoratori comunitari non residenti in Italia"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Contributo benzinai fino a 60000 euro per colonnine e biocarburanti",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4332-contributo-benzinai-fino-a-60000-euro-per-le-colonnine-e-biocarburanti.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Fino a 60.000 euro per trasformare i distributori in stazioni di ricarica: cosa prevede il nuovo incentivo"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Studi associati lIRAP non  sempre dovuta la nuova regola della Consulta",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4330-studi-associati-lirap-non-e-sempre-dovuta-la-nuova-regola-della-consulta.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "La Corte costituzionale estende l’esclusione anche a chi opera in un’associazione professionale, se l’attività resta personale e autonoma. La prova del lavoro comune all'Ade"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Fisco e contributi ad agosto scatta la sospensione cosa si ferma e cosa no",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17342-fisco-e-contributi-ad-agosto-scatta-la-sospensione-cosa-si-ferma-e-cosa-no.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Nel mese estivo l’attività dell’Amministrazione finanziaria rallenta, ma non tutto si blocca: ecco le eccezioni e le scadenze da conoscere."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Cosa cambia per IVA disabili intrattenimenti e aerotaxi 5 nuovi codici tributo",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4329-cosa-cambia-per-iva-disabili-intrattenimenti-e-aerotaxi-5-nuovi-codici-tributo.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "L'Ade istituisce cinque codici per versare le somme richieste con atti di recupero relativi all’IVA agevolata per disabili, imposta intrattenimenti e imposta sui voli aerotaxi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Holding sotto verifica trattenimento dividendi tra abuso del diritto e legittima attivita",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17335-holding-sotto-verifica-trattenimento-dividendi-tra-abuso-del-diritto-e-legittima-attivita.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Le verifiche  dell’Agenzia  sulle holding non finanziarie “statiche” impongono  una riflessione approfondita su presupposti e limiti  del trattenimento dei dividendi..."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Contributi per ricerca e sviluppo stop alla tassazione per cassa dal 2026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4328-contributi-per-ricerca-e-sviluppo-stop-alla-tassazione-per-cassa-dal-2026.html",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": "Contributi pubblici per studi e ricerche: le nuove regole fiscali dell’Omnibus"
+      },
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -735,22 +831,6 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Studi associati lIRAP non  sempre dovuta la nuova regola della Consulta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4330-studi-associati-lirap-non-e-sempre-dovuta-la-nuova-regola-della-consulta.html",
-        "date": "2026-07-25T00:00:00.000Z",
-        "summary": "La Corte costituzionale estende l’esclusione anche a chi opera in un’associazione professionale, se l’attività resta personale e autonoma. La prova del lavoro comune all'Ade"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Distribuzione utili perimetro dazione",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17326-distribuzione-utili-perimetro-dazione.html",
-        "date": "2026-07-25T00:00:00.000Z",
-        "summary": "Distribuzione degli utili 2025: dalla riserva legale alle perdite COVID, tutti i vincoli da verificare prima dell’assemblea"
-      },
-      {
-        "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Fine vita, necessario il sostegno vitale per rendere legittimo l’aiuto al suicidio",
         "link": "https://www.ilsole24ore.com/art/fine-vita-necessario-sostegno-vitale-rendere-legittimo-l-aiuto-suicidio-AJ5c0gU",
@@ -772,22 +852,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17339-adempimento-spontaneo-e-sanzioni-doganali-le-novita-della-circolare-n-192026.html",
         "date": "2026-07-24T00:00:00.000Z",
         "summary": "La Circolare ADM n. 19/2026 chiarisce revisione dell'accertamento, ravvedimento operoso, cause di non punibilità e cumulo giuridico"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Cosa cambia per IVA disabili intrattenimenti e aerotaxi 5 nuovi codici tributo",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4329-cosa-cambia-per-iva-disabili-intrattenimenti-e-aerotaxi-5-nuovi-codici-tributo.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "L'Ade istituisce cinque codici per versare le somme richieste con atti di recupero relativi all’IVA agevolata per disabili, imposta intrattenimenti e imposta sui voli aerotaxi"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Contributi per ricerca e sviluppo stop alla tassazione per cassa dal 2026",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4328-contributi-per-ricerca-e-sviluppo-stop-alla-tassazione-per-cassa-dal-2026.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Contributi pubblici per studi e ricerche: le nuove regole fiscali dell’Omnibus"
       },
       {
         "category": "contabile",
@@ -879,54 +943,6 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Stalking in condominio quali danni deve risarcire il condomino persecutore",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17327-stalking-in-condominio-quali-danni-deve-risarcire-il-condomino-persecutorehtml",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Condominio: analisi dello stalking ad opera di un condomino"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Iperammortamento 2026 via alla conferma come inviarla al GSE entro 60 giorni",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12873-iperammortamento-2026-via-alla-conferma-come-inviarla-al-gse-entro-60-giorni.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Il GSE dopo la pubblicazione del Decreto Mimit con l'avvio dal 21 luglio alle comunicazioni di conferma pubblica modello utile e regole per inviarle"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Dazi IEEPA rimborsi sulle entries definitive solo ai ricorrenti",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17331-dazi-ieepa-rimborsi-sulle-entries-definitive-solo-ai-ricorrenti.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Gli ordini del giudice Eaton limitano i rimborsi agli importatori che hanno presentato ricorso alla CIT"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Come si valutano gli immobili ai fini della successione o della donazione",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12872-come-si-valutano-gli-immobili-ai-fini-della-successione-o-della-donazione.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Come valutare gli immobili nelle successioni e nelle donazioni, tra rendite catastali, documenti e rischi di errori fiscali"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Ravvedimento operoso per la dichiarazione IVA come provvedere entro il 2907",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17328-ravvedimento-operoso-per-la-dichiarazione-iva-come-provvedere-entro-il-2907.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "Come procedere per il ravvedimento operoso nella dichiarazione IVA: scadenza 29 luglio per non incappare nella dichiarazione omessa"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Referente Antiriciclaggio come si nomina nelle STP",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4316-referente-antiriciclaggio-come-si-nomina-nelle-stp.html",
-        "date": "2026-07-22T00:00:00.000Z",
-        "summary": "I commercialisti alla luce del Regolamento UIF in vigore dal 1° luglio chiariscono come va gestita la nomina del referente per l'antiriciclaggio negli studi associati o nelle STP"
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Referente SOS negli studi associati e nelle Stp: i chiarimenti del CNDCEC",
         "link": "https://press-magazine.it/referente-sos-negli-studi-associati-e-nelle-stp-i-chiarimenti-del-cndcec/",
@@ -964,22 +980,6 @@
         "link": "https://press-magazine.it/commercialisti-redditi-in-crescita-dell83-tornano-a-salire-i-praticanti-42/",
         "date": "2026-07-16T12:52:10.000Z",
         "summary": "I commercialisti italiani rafforzano il proprio ruolo nell’economia del Paese. Nel 2025 il reddito medio professionale è cresciuto dell’8,3%, raggiungendo 87.376 euro. Al netto dell’inflazione, l’incremento reale è stato pari al 7,3%, consentendo alla categoria di […]"
-      },
-      {
-        "category": "contabile",
-        "source": "CNDCEC - Comunicati",
-        "title": "CONI e CNDCEC: modelli semplificati per ASD e SSD",
-        "link": "https://press-magazine.it/coni-e-cndcec-modelli-semplificati-per-asd-e-ssd-2/",
-        "date": "2026-07-14T15:42:11.000Z",
-        "summary": "Si è svolta oggi, presso il Salone d’Onore del CONI, la presentazione della relazione conclusiva della Commissione Paritetica CONI – Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili (CNDCEC), istituita per approfondire le principali questioni applicative della riforma […]"
-      },
-      {
-        "category": "contabile",
-        "source": "CNDCEC - Comunicati",
-        "title": "Commercialisti: “Falcone e la sua scorta esempio di coraggio civile e dedizione alle istituzioni”",
-        "link": "https://press-magazine.it/commercialisti-falcone-e-la-sua-scorta-esempio-di-coraggio-civile-e-dedizione-alle-istituzioni/",
-        "date": "2026-07-13T13:57:23.000Z",
-        "summary": "Il vicepresidente del Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili, Vincenzo Moretta, ha partecipato oggi a Palermo alla cerimonia di consegna al Museo del Presente Giovanni Falcone e Paolo Borsellino della Fiat Croma sulla […]"
       },
       {
         "category": "contabile",
@@ -1058,61 +1058,141 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Decreto Coesione: termine al 30 settembre per le domande di esonero",
-        "link": "https://www.mysolution.it/lavoro/approfondimenti/prima-lettura/2026/07/decreto-coesione-termine-al-30-settembre-per-le-domande-di-esonero/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Incentivi Italia: attivi due nuovi servizi sul Registro aiuti di Stato",
+        "link": "https://www.mysolution.it/lavoro/approfondimenti/commenti/2026/07/incentivi-italia-attivi-due-nuovi-servizi-sul-registro-aiuti-di-stato/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Lavoro mediante piattaforme digitali: approvato in CdM il decreto relativo al miglioramento delle condizioni di lavoro",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/24/approvato-in-cdm-il-provvedimento-relativo-al-miglioramento-delle-condizioni-di-lavoro-nel-lavoro-mediante-piattaforme-digitali/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Riduzione del tasso medio per prevenzione: pubblicato dall’INAIL il mod. OT23 per l’anno 2027",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/riduzione-del-tasso-medio-per-prevenzione-pubblicato-dallinail-il-mod.-ot23-per-lanno-2027",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Giornalisti autonomi: data di presentazione della dichiarazione obbligatoria dei redditi",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/24/inpgi-data-di-presentazione-della-dichiarazione-obbligatoria-dei-redditi-per-i-giornalisti-autonomi/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Bonus giovani e Decontribuzione Sud per Intermediari assicurativi: recupero arretrati",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/inps-recupero-arretrati-bonus-giovani-e-decontribuzione-sud-per-intermediari-assicurativi/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Bonus Giovani, Donne e Zes del DL Coesione: presentazione delle istanze fino al 30 settembre",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/24/inps-presentazione-delle-istanze-di-riconoscimento-dei-bonus-giovani-donne-e-zes-del-dl-coesione/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Assegno unico e universale per i figli a carico: le novità",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/inps-le-novita-su-assegno-unico-e-universale-per-i-figli-a-carico/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Pubblicato il report sul deposito dei CCNL di II livello",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/24/pubblicato-dal-mlps-il-report-sul-deposito-dei-ccnl-di-ii-livello/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Fondo di previdenza per le persone che svolgono lavori di cura: chiusura del conto corrente postale utilizzato per il versamento dei contributi",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/inps-chiusura-del-conto-corrente-postale-utilizzato-per-il-versamento-dei-contributi-al-fondo-di-previdenza-per-le-persone-che-svolgono-lavori-di-cura/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Pubblicati dal MLPS i dati del Programma GOL",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/24/pubblicati-dal-mlps-i-dati-del-programma-gol/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Disciplina del cumulo delle pensioni con il compenso spettante ai magistrati onorari",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/inps-disciplina-del-cumulo-delle-pensioni-con-il-compenso-spettante-ai-magistrati-onorari/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Pubblicati i dati dell’Osservatorio sul monitoraggio dei flussi di pensionamento",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/24/inps-pubblicati-i-dati-dellosservatorio-sul-monitoraggio-dei-flussi-di-pensionamento/",
-        "date": "2026-07-24T00:00:00.000Z",
+        "title": "Dinamica dei salari reali in Italia: analisi dell’Ufficio parlamentare di bilancio",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/lanalisi-dellufficio-parlamentare-di-bilancio-sulla-dinamica-dei-salari-reali-in-italia/",
+        "date": "2026-07-27T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "CCNL Agenzia delle Entrate: la nuova polizza sanitaria",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/la-nuova-polizza-sanitaria-prevista-dal-ccnl-agenzia-delle-entrate/",
+        "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Telebelluno – 25.7.2026 – Speciale Confedilizia – Ore 19",
+        "link": "https://www.confedilizia.it/telebelluno-25-7-2026-speciale-confedilizia-ore-19/",
+        "date": "2026-07-27T13:41:41.000Z",
+        "summary": "L'articolo Telebelluno – 25.7.2026 – Speciale Confedilizia – Ore 19 sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ddl sfratti: articolo su Il Tempo",
+        "link": "https://www.confedilizia.it/ddl-sfratti-articolo-su-il-tempo/",
+        "date": "2026-07-27T12:31:12.000Z",
+        "summary": "È iniziato, in Commissione Giustizia al Senato, l’iter parlamentare del disegno di legge del Governo sul rilascio degli immobili, approvato dal Consiglio dei ministri insieme con il decreto-legge sul Piano Casa, poi convertito in legge. Si tratta di un provvedimento importante, che risponde a un’esigenza diffusamente avvertita e più volte segnalata dalla Confedilizia, della […]\nL'articolo Ddl sfra"
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Direttiva Ue “case green”: articolo sul Sole 24 Ore",
+        "link": "https://www.confedilizia.it/direttiva-ue-case-green-articolo-sul-sole-24-ore/",
+        "date": "2026-07-27T11:20:37.000Z",
+        "summary": "L’apertura, da parte della Commissione europea, di procedure di infrazione nei confronti di tutti i 27 Stati dell’Unione per il mancato completo recepimento della direttiva sulla prestazione energetica nell’edilizia (la cosiddetta direttiva “case green”) dovrebbe indurre la politica – e, di conseguenza, la stessa Commissione – a ripensare profondamente quel provvedimento. È difficile rintracciare "
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Confedilizia su Radio1 Rai",
+        "link": "https://www.confedilizia.it/confedilizia-su-radio-rai-1-27-7-26/",
+        "date": "2026-07-27T10:22:50.000Z",
+        "summary": "L'articolo Confedilizia su Radio1 Rai sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Msn.com – 26.7.2026 – Confedilizia Messina. Case, immobili e condominio in pillole",
+        "link": "https://www.confedilizia.it/msn-com-26-7-2026-confedilizia-messina-case-immobili-e-condominio-in-pillole/",
+        "date": "2026-07-27T06:39:12.000Z",
+        "summary": "L'articolo Msn.com – 26.7.2026 – Confedilizia Messina. Case, immobili e condominio in pillole sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Monitorimmobiliare.it – 25.7.2026 – Direttiva case green, Confedilizia chiede una revisione dopo le infrazioni UE",
+        "link": "https://www.confedilizia.it/monitorimmobiliare-it-25-7-2026-direttiva-case-green-confedilizia-chiede-una-revisione-dopo-le-infrazioni-ue/",
+        "date": "2026-07-27T06:38:48.000Z",
+        "summary": "L'articolo Monitorimmobiliare.it – 25.7.2026 – Direttiva case green, Confedilizia chiede una revisione dopo le infrazioni UE sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Corriere.it – 24.7.2026 – Morte di Fakir, i commercianti: «Ora abbassare i toni». Il caso dei turisti austriaci che hanno annullato il viaggio dopo gli scontri",
+        "link": "https://www.confedilizia.it/corriere-it-24-7-2026-morte-di-fakir-i-commercianti-ora-abbassare-i-toni-il-caso-dei-turisti-austriaci-che-hanno-annullato-il-viaggio-dopo-gli-scontri/",
+        "date": "2026-07-27T06:37:38.000Z",
+        "summary": "L'articolo Corriere.it – 24.7.2026 – Morte di Fakir, i commercianti: «Ora abbassare i toni». Il caso dei turisti austriaci che hanno annullato il viaggio dopo gli scontri sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ilgiornaledelpiemonteedellaliguria.it – 24.7.2026 – Tari: fronte unico di imprese e sindacati",
+        "link": "https://www.confedilizia.it/ilgiornaledelpiemonteedellaliguria-it-24-7-2026-tari-fronte-unico-di-imprese-e-sindacati/",
+        "date": "2026-07-27T06:37:08.000Z",
+        "summary": "L'articolo Ilgiornaledelpiemonteedellaliguria.it – 24.7.2026 – Tari: fronte unico di imprese e sindacati sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Iltelegrafolivorno.it – 24.7.2026 – “I mercatini reggono, ma mancano i giovani”",
+        "link": "https://www.confedilizia.it/iltelegrafolivorno-it-24-7-2026-i-mercatini-reggono-ma-mancano-i-giovani/",
+        "date": "2026-07-27T06:36:45.000Z",
+        "summary": "L'articolo Iltelegrafolivorno.it – 24.7.2026 – “I mercatini reggono, ma mancano i giovani” sembra essere il primo su Confedilizia."
+      },
       {
         "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
@@ -1179,22 +1259,6 @@
       },
       {
         "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Strettoweb.com – 21.7.2026 – Abitare a Bova conviene: storia, cultura, natura e, oggi, anche vantaggi economici per inquilini e proprietari",
-        "link": "https://www.confedilizia.it/strettoweb-com-21-7-2026-abitare-a-bova-conviene-storia-cultura-natura-e-oggi-anche-vantaggi-economici-per-inquilini-e-proprietari/",
-        "date": "2026-07-22T06:19:35.000Z",
-        "summary": "L'articolo Strettoweb.com – 21.7.2026 – Abitare a Bova conviene: storia, cultura, natura e, oggi, anche vantaggi economici per inquilini e proprietari sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Libertimedia – 20.7.2026 – Case green: Bruxelles boccia tutti, Italia compresa. Qual è il futuro dei nostri immobili?",
-        "link": "https://www.confedilizia.it/libertimedia-20-7-2026-case-green-bruxelles-boccia-tutti-italia-compresa-qual-e-il-futuro-dei-nostri-immobili/",
-        "date": "2026-07-21T10:55:56.000Z",
-        "summary": "L'articolo Libertimedia – 20.7.2026 – Case green: Bruxelles boccia tutti, Italia compresa. Qual è il futuro dei nostri immobili? sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "Covivio, per gli eredi di Delfin risultati positivi dall’immobiliare",
         "link": "https://www.ilsole24ore.com/art/covivio-gli-eredi-delfin-risultati-positivi-dall-immobiliare-AJTLhMQ",
@@ -1216,62 +1280,6 @@
         "link": "https://www.ilsole24ore.com/art/dea-capital-re-green-loan-300-milioni-il-four-seasons-AJyCz7P",
         "date": "2026-07-20T14:02:00.000Z",
         "summary": "A sottoscrivere l’operazione, Crédit Agricole CIB. Rifinanziamento in favore del fondo Millennium Luxury, di cui Fort Partners è il primo investitore."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Idealista.it – 20.7.2026 – L’Ue apre l’infrazione sulle case green, Mit: “Fuori dalla realtà”",
-        "link": "https://www.confedilizia.it/idealista-it-20-7-2026-lue-apre-linfrazione-sulle-case-green-mit-fuori-dalla-realta/",
-        "date": "2026-07-20T13:25:05.000Z",
-        "summary": "L'articolo Idealista.it – 20.7.2026 – L’Ue apre l’infrazione sulle case green, Mit: “Fuori dalla realtà” sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Nicolaporro.it – 20.7.2026 – “Tassare le case sfitte”. Arriva l’imposta comunista",
-        "link": "https://www.confedilizia.it/nicolaporro-it-20-7-2026-tassare-le-case-sfitte-arriva-limposta-comunista/",
-        "date": "2026-07-20T13:24:08.000Z",
-        "summary": "L'articolo Nicolaporro.it – 20.7.2026 – “Tassare le case sfitte”. Arriva l’imposta comunista sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Thewatcherpost.it – 20.7.2026 – Case green, procedura d’infrazione Ue contro l’Italia e tutti gli Stati membri",
-        "link": "https://www.confedilizia.it/thewatcherpost-it-20-7-2026-case-green-procedura-dinfrazione-ue-contro-litalia-e-tutti-gli-stati-membri/",
-        "date": "2026-07-20T13:22:41.000Z",
-        "summary": "L'articolo Thewatcherpost.it – 20.7.2026 – Case green, procedura d’infrazione Ue contro l’Italia e tutti gli Stati membri sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "LA7 – 19.7.2026 – TG LA7 – Ore 13.40",
-        "link": "https://www.confedilizia.it/la7-19-7-2026-tg-la7-ore-13-40/",
-        "date": "2026-07-20T06:57:46.000Z",
-        "summary": "L'articolo LA7 – 19.7.2026 – TG LA7 – Ore 13.40 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ilrestodelcarlino.it – 20.7.2026 – Terenziani (Confedilizia): “L’amministrazione prenda le distanze da Avs e Pd di Firenze”",
-        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-20-7-2026-terenziani-confedilizia-lamministrazione-prenda-le-distanze-da-avs-e-pd-di-firenze/",
-        "date": "2026-07-20T06:26:51.000Z",
-        "summary": "L'articolo Ilrestodelcarlino.it – 20.7.2026 – Terenziani (Confedilizia): “L’amministrazione prenda le distanze da Avs e Pd di Firenze” sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Blitzquotidiano.it – 19.7.2026 – Immobiliare, la fuga dalle metropoli spinge i piccoli centri: Milano e Roma rallentano",
-        "link": "https://www.confedilizia.it/blitzquotidiano-it-19-7-2026-immobiliare-la-fuga-dalle-metropoli-spinge-i-piccoli-centri-milano-e-roma-rallentano/",
-        "date": "2026-07-20T06:25:06.000Z",
-        "summary": "L'articolo Blitzquotidiano.it – 19.7.2026 – Immobiliare, la fuga dalle metropoli spinge i piccoli centri: Milano e Roma rallentano sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Laleggepertutti.it – 18.7.2026 – Affitti: il finto canone sociale arricchisce solo i proprietari",
-        "link": "https://www.confedilizia.it/laleggepertutti-it-18-7-2026-affitti-il-finto-canone-sociale-arricchisce-solo-i-proprietari/",
-        "date": "2026-07-20T06:23:29.000Z",
-        "summary": "L'articolo Laleggepertutti.it – 18.7.2026 – Affitti: il finto canone sociale arricchisce solo i proprietari sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
@@ -1391,6 +1399,22 @@
     "crisi_impresa": [
       {
         "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Patto di famiglia, dai Commercialisti un documento a venti anni dalla riforma",
+        "link": "https://press-magazine.it/patto-di-famiglia-dai-commercialisti-un-documento-a-venti-anni-dalla-riforma/",
+        "date": "2026-07-27T13:32:14.000Z",
+        "summary": "“Il Patto di famiglia a vent’anni dalla riforma” è il titolo del documento pubblicato oggi dal Consiglio e dalla Fondazione nazionali dei commercialisti. Il documento rientra tra le attività delle aree “Fiscalità” e “Diritto societario”, alle […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Il 23 settembre le elezioni per il Comitato Nazionale Pari Opportunità",
+        "link": "https://press-magazine.it/il-23-settembre-le-elezioni-per-il-comitato-nazionale-pari-opportunita/",
+        "date": "2026-07-27T11:25:42.000Z",
+        "summary": "Si svolgeranno il prossimo 23 settembre le elezioni dei 20 rappresentanti regionali del Comitato Nazionale Pari Opportunità (CNPO) dei commercialisti. Lo comunica agli Ordini locali della categoria il Consiglio nazionale presieduto da Elbano de Nuccio attraverso […]"
+      },
+      {
+        "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Giustizia, il Csm apre a Copilot sugli atti giudiziari",
         "link": "https://www.ilsole24ore.com/art/giustizia-csm-apre-copilot-atti-giudiziari-AJiKU7U",
@@ -1500,22 +1524,6 @@
         "link": "https://press-magazine.it/commercialisti-redditi-in-crescita-dell83-tornano-a-salire-i-praticanti-42/",
         "date": "2026-07-16T12:52:10.000Z",
         "summary": "I commercialisti italiani rafforzano il proprio ruolo nell’economia del Paese. Nel 2025 il reddito medio professionale è cresciuto dell’8,3%, raggiungendo 87.376 euro. Al netto dell’inflazione, l’incremento reale è stato pari al 7,3%, consentendo alla categoria di […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "CNDCEC - Crisi d'impresa",
-        "title": "CONI e CNDCEC: modelli semplificati per ASD e SSD",
-        "link": "https://press-magazine.it/coni-e-cndcec-modelli-semplificati-per-asd-e-ssd-2/",
-        "date": "2026-07-14T15:42:11.000Z",
-        "summary": "Si è svolta oggi, presso il Salone d’Onore del CONI, la presentazione della relazione conclusiva della Commissione Paritetica CONI – Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili (CNDCEC), istituita per approfondire le principali questioni applicative della riforma […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "CNDCEC - Crisi d'impresa",
-        "title": "Commercialisti: “Falcone e la sua scorta esempio di coraggio civile e dedizione alle istituzioni”",
-        "link": "https://press-magazine.it/commercialisti-falcone-e-la-sua-scorta-esempio-di-coraggio-civile-e-dedizione-alle-istituzioni/",
-        "date": "2026-07-13T13:57:23.000Z",
-        "summary": "Il vicepresidente del Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili, Vincenzo Moretta, ha partecipato oggi a Palermo alla cerimonia di consegna al Museo del Presente Giovanni Falcone e Paolo Borsellino della Fiat Croma sulla […]"
       }
     ],
     "finanza_agevolata": [
