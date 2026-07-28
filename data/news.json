@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T13:57:44.962Z",
+  "generatedAt": "2026-07-28T12:18:34.095Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -13,6 +13,134 @@
     "fiscale": [
       {
         "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Casa, nel 730 calano i locatori con due alloggi in affitto breve",
+        "link": "https://www.ilsole24ore.com/art/casa-730-calano-locatori-due-alloggi-affitto-breve-AJ3HARQ",
+        "date": "2026-07-28T05:56:02.000Z",
+        "summary": "Nei modelli presentati quest’anno si riducono di quasi il 2% i contribuenti che dichiarano canoni da contratti fino a 30 giorni da più immobili"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Rottamazione quinquies: dall’addebito diretto a ContiTu, canali diversificati",
+        "link": "https://www.ilsole24ore.com/art/rottamazione-quinquies-dall-addebito-diretto-contitu-canali-diversificati-AJYTGVX",
+        "date": "2026-07-28T03:04:12.000Z",
+        "summary": "La domiciliazione prevede la conferma preventiva 10 giorni prima"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Rottamazione quinquies, alla cassa entro venerdì",
+        "link": "https://www.ilsole24ore.com/art/rottamazione-quinquies-cassa-entro-venerdi-AJzP0UX",
+        "date": "2026-07-28T03:02:01.000Z",
+        "summary": "La tolleranza di cinque giorni sui pagamenti è limitata a due casi specifici. Nella stessa data versamenti per i riammessi dalle precedenti sanatorie"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Il compenso del Curatore nella Liquidazione giudiziale",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17351-il-compenso-del-curatore-nella-liquidazione-giudiziale.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Modalità e tempistiche di corresponsione del compenso del Curatore nell'ambito delle Liquidazione giudiziale"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Ddl Agricoltura via libera della Commissione ecco le misure per le imprese",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13600-ddl-agricoltura-via-libera-della-commissione-ecco-le-misure-per-le-imprese.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Ddl Agricoltura: crediti d'imposta, terreni abbandonati e regole UE su deforestazione per le imprese agricole"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "CPB altri premi per le PIVA che aderiscono vediamo quali",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4339-cpb-altri-premi-per-le-piva-che-aderiscono-vediamo-quali.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Il Decreto Omnibus atteso in CdM il 4 agosto, ora al vaglio tecnico delle commissioni, potrebbe portare altri sconti per chi rinnova il CPB, vediamo le ipotesi"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Concorsi ricercatori e docenti addio abilitazione nazionale cosa cambia",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4338-concorsi-universita-addio-abilitazione-scientifica-nuovi-requisiti.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "La riforma del reclutamento universitario sostituisce l'abilitazione scientifica nazionale con nuovi requisiti e commissioni per fasce. Il testo della legge e tabella di riepilogo"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Terreni agricoli ISMEA 2026 pagamenti fino a 30 anni requisiti e domanda",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4337-terreni-agricoli-ISMEA-2026-pagamenti-fino-30-anni-requisiti-e-domanda.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Banca nazionale delle Terre Agricole: tutte le regole e istruzioni per presentare la domada"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Agenti assicurativi arriva lo sgravio INPS  retroattivo per assunzioni 202224",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4336-agenti-sgravio-contributivo-retroattivo",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Le istruzioni INPS  sull'ampliamento retroattivo degli sgravi contributivi ai codici ATECO 66.22,  da far valere entro il 31 dicembre 2026"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Bonus colonnine 2026 contributo dell80 domande in attesa",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4335-bonus-colonnine-2026-contributo-dell80-domande-in-attesa.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Colonnine: fino a 1.500 euro di bonus per i privati e 8.000 per i condomìni, cosa prevede il nuovo decreto"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Magistrati onorari cumulabilit tra pensione e compensi le regole",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4334-magistrati-onorari-cumulabilita-pensione-compensi-cosa-cambia.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "La Circolare INPS n. 79/2026 chiarisce quando pensione e compenso dei giudici di pace, onorari e vice,  sono cumulabili dopo  la legge 51 2025. Norme e tabella soglie di reddito"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "ETS beneficiari di Social Bonus chiarimenti MLPS su spese di gestione del bene",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17344-ets-beneficiari-di-social-bonus-chiarimenti-mlps-su-spese-di-gestione-del-bene.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Social Bonus: tutte le regole da sapere con anche i chiarimenti recenti del Ministero"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "IAS 28 e fair value option parere positivo EFRAG novit dal 2027",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17343-ias-28-e-fair-value-option-parere-positivo-efrag-novita-dal-2027.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "IAS 28 e fair value option verso il recepimento europeo degli emendamenti dal 1° gennaio 2027: il parere di omologazione dell’EFRAG del 23 luglio 2026"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Contributo benzinai fino a 60000 euro per colonnine e biocarburanti",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4332-contributo-benzinai-fino-a-60000-euro-per-le-colonnine-e-biocarburanti.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Fino a 60.000 euro per trasformare i distributori in stazioni di ricarica: cosa prevede il nuovo incentivo"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Il Quadro RU nel Modello Redditi 2026 architettura funzione e riconciliazione",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17340-il-quadro-ru-nel-modello-redditi-2026-architettura-funzione-e-riconciliazione.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "La logica di riconciliazione  del Quadro RU con il fascicolo documentale, le deleghe F24 e il cassetto fiscale  e le  conseguenze dell'omessa o errata compilazione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "iPhone, la scarsa informazione sui rischi legati all’uso prolungato è risarcibile",
+        "link": "https://www.ilsole24ore.com/art/iphone-scarsa-informazione-rischi-legati-all-uso-prolungato-e-risarcibile-AJS7YBX",
+        "date": "2026-07-27T17:49:11.000Z",
+        "summary": "L'incertezza scientifica non esclude l'obbligo del produttore di dare informazioni esaurienti,"
+      },
+      {
+        "category": "fiscale",
         "source": "Fisco e Tasse",
         "title": "Modello OT23 2027 guida a novit interventi percentuali",
         "link": "https://www.fiscoetasse.com/approfondimenti/17348-modello-ot23-2027-novita-interventi-percentuali.html",
@@ -22,34 +150,10 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Bonus colonnine 2026 contributo dell80 domande in attesa",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4335-bonus-colonnine-2026-contributo-dell80-domande-in-attesa.html",
-        "date": "2026-07-27T00:00:00.000Z",
-        "summary": "Colonnine: fino a 1.500 euro di bonus per i privati e 8.000 per i condomìni, cosa prevede il nuovo decreto"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Magistrati onorari cumulabilit tra pensione e compensi le regole",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4334-magistrati-onorari-cumulabilita-pensione-compensi-cosa-cambia.html",
-        "date": "2026-07-27T00:00:00.000Z",
-        "summary": "La Circolare INPS n. 79/2026 chiarisce quando pensione e compenso dei giudici di pace, onorari e vice,  sono cumulabili dopo  la legge 51 2025. Norme e tabella soglie di reddito"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Assegno Unico ecco chi ha diritto se i figli vivono allestero",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4333-assegno-unico-ecco-chi-ha-diritto-se-i-figli-vivono-allestero.html",
         "date": "2026-07-27T00:00:00.000Z",
         "summary": "Circolare INPS n. 81/2026:  regole e istruzioni sull' estensione ai figli residenti in altro Stato UE e per lavoratori comunitari non residenti in Italia"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Contributo benzinai fino a 60000 euro per colonnine e biocarburanti",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4332-contributo-benzinai-fino-a-60000-euro-per-le-colonnine-e-biocarburanti.html",
-        "date": "2026-07-27T00:00:00.000Z",
-        "summary": "Fino a 60.000 euro per trasformare i distributori in stazioni di ricarica: cosa prevede il nuovo incentivo"
       },
       {
         "category": "fiscale",
@@ -102,42 +206,10 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Criptovalute, nel Regno Unito recuperati otto milioni di sterline di tasse evase in tre anni",
-        "link": "https://www.ilsole24ore.com/art/criptovalute-regno-unito-recuperati-otto-milioni-sterline-tasse-evase-tre-anni-AJazhBV",
-        "date": "2026-07-25T03:08:31.000Z",
-        "summary": "A rivelarlo il Financial Times: nell’anno fiscale 2024/2025 sono stati 280 gli investitori a transare con il Fisco"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Nel primo semestre 2026 calano del 10% le adozioni internazionali",
-        "link": "https://www.ilsole24ore.com/art/nel-primo-semestre-2026-calano-10percento-adozioni-internazionali-AJa4x9U",
-        "date": "2026-07-25T03:06:21.000Z",
-        "summary": "I Paesi da cui proviene la maggior parte delle adozioni, Ungheria e India, sono anche quelli che hanno registrano i cali più significativi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Affitti brevi, la stretta parte anche a Roma",
         "link": "https://www.ilsole24ore.com/art/affitti-brevi-stretta-parte-anche-roma-AJio5kU",
         "date": "2026-07-25T03:04:11.000Z",
         "summary": "Il Campidoglio approva le nuove norme di attuazione del Prg e introduce le prime restrizioni alle locazioni turistiche"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Pa, meno di un provvedimento su tre contiene un elenco sulle modifiche introdotte",
-        "link": "https://www.ilsole24ore.com/art/pa-meno-un-provvedimento-tre-contiene-elenco-modifiche-introdotte-AJMV6AV",
-        "date": "2026-07-25T03:02:01.000Z",
-        "summary": "Tra i dicasteri è il Mimit ad aver adottato il numero più alto di misure che menzionano oneri introdotti o aboliti: su 27 solo 14 hanno fornito la documentazione sulle variazioni"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Fine vita, necessario il sostegno vitale per rendere legittimo l’aiuto al suicidio",
-        "link": "https://www.ilsole24ore.com/art/fine-vita-necessario-sostegno-vitale-rendere-legittimo-l-aiuto-suicidio-AJ5c0gU",
-        "date": "2026-07-24T12:28:00.000Z",
-        "summary": "No alla possibilità di estendere la non punibilità anche per l’aiuto a morire a chi non è sottoposto a trattamenti di sostegno vitale. Ok alla legge Sardegna ma alcune norme sono in contrasto con la Carta"
       },
       {
         "category": "fiscale",
@@ -146,46 +218,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17339-adempimento-spontaneo-e-sanzioni-doganali-le-novita-della-circolare-n-192026.html",
         "date": "2026-07-24T00:00:00.000Z",
         "summary": "La Circolare ADM n. 19/2026 chiarisce revisione dell'accertamento, ravvedimento operoso, cause di non punibilità e cumulo giuridico"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Riforma sanzioni TUF cosa cambia col DLgs 1282026",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13598-riforma-sanzioni-tuf-cosa-cambia-col-dlgs-1282026.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Nuove regole su confisca, procedura sanzionatoria e ricorsi nel Testo Unico della Finanza, per intermediari, mercati e società quotate"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Lavoro piattaforme digitali le novit del  nuovo decreto",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4326-lavoro-piattaforme-digitali-novita-in-un-nuovo-decreto.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Recepita la direttiva UE 2024/2831: presunzione di subordinazione, obblighi di trasparenza algoritmica e sanzioni  in tema di lavoro gestito da piattaforme digitali"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Invio Intrastat cambia tutto le date da segnare per passare a Intrweb",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4325-intrastat-cambia-tutto-le-date-da-sempre-per-passare-a-intra@web.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Intr@web, il via dal 14 ottobre, le Dogane spiegano tutte le funzionalità: regole e calendario 2026/2027"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Antiriciclaggio cosa cambia per i Notai dal 23 luglio",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4324-antiriciclaggio-cosa-cambia-per-i-notai-dal-23-luglio.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Entra in vigore dal 23 luglio il Dlgs n 122/2026 con novità per l'antiriciclaggio e i Notai: vediamo cosa cambia"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Rendite INAIL e retribuzioni convenzionali 2026 le  istruzioni",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4321-rendite-inail-e-retribuzioni-convenzionali-2026-le-istruzioni.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "INAIL pubblica la circolare di istruzioni sui minimali e massimali di rendita per infortuni e malattie professionali settore industria rivalutati e in vigore dal 1° luglio 2026"
       },
       {
         "category": "fiscale",
@@ -210,38 +242,6 @@
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196141/RIS_n_27_del_23_07_2026/210a18fd-c714-bb16-878b-c75d566ad98a",
         "date": "2026-07-23T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Il contenzioso tributario si ferma in agosto",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17333-il-contenzioso-tributario-si-ferma-in-agosto.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Stop al contenzioso tributario: quali termini slittano per la pausa estiva. Esempi e approfondimenti delle casistiche possibili"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Correttivo fiscale Omnibus 2026 cosa cambia per redditi e IVA",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13597-correttivo-fiscale-omnibus-2026-cosa-cambia-per-redditi-e-iva.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Il testo del Correttivo Omnibus all'esame delle Camere: le novità su fringe benefit, familiari a carico, imprese, successioni e IVA per privati e professionisti"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Rinnovo ADI 2026 quando e come fare domanda  Esempi e FAQ",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4320-rinnovo-adi-2026-ecco-quando-e-come-fare-domanda.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Guida INPS aggiornata su  tempi, importi e regole  ed esempi per chi ha terminato le 18 o le 12 mensilità dell'assegno di inclusione."
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "API quali sono i servizi web per parlare col Fisco",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12875-api-quali-sono-i-servizi-web-per-parlare-col-fisco.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Guida API dei servizi di interoperabilità per contribuenti e intermediari: vediamo quali i servizi sulla propria posizione fiscale e come attivarli per interagire col Fisco"
       },
       {
         "category": "fiscale",
@@ -542,26 +542,26 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "OIC 5 \"Bilanci di liquidazione\" - Pubblicazione della nuova versione da parte dell'OIC (16.7.2026) - Criteri di valutazione (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114419",
-        "date": "24/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Con l’impresa in liquidazione cambia la logica del bilancio\" - De Rosa S. - Devalle A."
+        "title": "Interventi edilizi - Contratto di subappalto - Pagamento a prescindere dall'esito dell'opzione di sconto sul corrispettivo (Trib. Milano 19.6.2026 n. 5157) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113680",
+        "date": "27/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 27.7.2026 - \"Subappaltatore da pagare anche se non è maturato il bonus per l’appaltatore\" - Zanetti E. - Zeni A."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Detrazioni \"edilizie\" - Società di persone - Trattamento contabile (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113626",
-        "date": "24/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Nelle società di persone detrazioni edilizie con contabilizzazione da valutare\" - Spina S."
+        "title": "Bancarotta derivante da falso in bilancio - Criteri di valutazione - Nesso causale - Concorso dei sindaci (Cass. pen. 14.7.2026 n. 26293) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113536",
+        "date": "27/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 27.7.2026 - \"Bancarotta impropria da falso in bilancio se cambiano i criteri di valutazione\" - Artusi M. F."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Contributi corrisposti a fronte di costi per studi e ricerche - Novità dello schema di DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114312",
-        "date": "24/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Contributi per studi e ricerche da tassare per competenza\" - Latorraca S."
+        "title": "Interruzione della prescrizione - Integrazione dei motivi (Cass. 3.7.2026 n. 22671) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112914",
+        "date": "27/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 27.7.2026 - \"Integrazione dei motivi limitata dalla Cassazione\" - Frontoni F."
       },
       {
         "category": "fiscale",
@@ -614,85 +614,213 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Prima casa in successione: sì all’unione di fatto fiscale",
-        "link": "https://www.mysolution.it/fisco/approfondimenti/commenti/2026/07/prima-casa-in-successione-anche-se-limmobile-insiste-su-due-comuni-catastali-lagenzia-apre-allunione-di-fatto-ai-fini-fiscali-setti/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "DAC 8: soggetti tenuti alla comunicazione sulle cripto-attività",
+        "link": "https://www.mysolution.it/fisco/approfondimenti/circolare-monografica/2026/07/dac-8.-soggetti-tenuti-alla-comunicazione-sulle-cripto-attivita-amantea",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Anomalie ISA: per le risposte escluse e-mail e PEC",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/anomalie-isa.-per-le-risposte-escluse-e-mail-e-pec",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Rottamazione quater e quinquies: scadenza al 31 luglio",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/28/rottamazione-quater-e-quinquies.-scadenza-al-31-07",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Crediti acquistati dai professionisti: tassazione agevolata al 26% ma sfera “privata” non considerata",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/crediti-acquistati-dai-professionisti-tassazione-agevolata-al-26-ma-sfera-privata-non-considerata/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Dichiarazione IMU: ravvedimento entro il 28 settembre",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/28/dichiarazione-imu.-ravvedimento-entro-il-28-settembre",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Percorso specialistico \"IVA 2026. Tutti i mesi le novità di periodo, l’approfondimento monografico e i casi pratici\"",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/percorso-iva-2026/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Oggi, ore 10.00, \"Risposte ai quesiti: Dichiarazioni fiscali, regimi agevolati e punteggi ISA: controlli e aggiornamenti sui versamenti\" - Master MySolution Fisco 2026/2027",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/28/dichiarazioni-fiscali-regimi-agevolati-e-punteggi-isa-controlli-ed-aggiornamenti-sui-versamenti/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Holding che non distribuisce dividendi: è abuso del diritto?",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/holding-che-non-distribuisce-dividendi-e-abuso-del-diritto-/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Nuovo taglio delle accise sul gasolio fino al 6 agosto",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/28/cdm-taglio-delle-accise-sul-gasolio-fino-al-6-agosto/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Assegno unico e universale per i figli a carico: le novità",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/assegno-unico-e-universale-per-i-figli-a-carico-le-novita/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Dichiarazione IVA 2026 entro 90 giorni: il termine scade il 29 luglio",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/28/dichiarazione-iva-2026-entro-90-giorni-il-termine-scade-il-29-luglio/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "IMU, l’assenza di utenze attive non esclude l’esenzione per il personale delle Forze Armate",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/imu-lassenza-di-utenze-attive-non-esclude-lesenzione-per-il-personale-delle-forze-armate/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Dichiarazione precompilata: guida all’accesso per genitori e altri rappresentanti",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/28/dichiarazione-precompilata-guida-allaccesso-per-genitori-e-altri-rappresentanti/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Splafonamento dell’esportatore abituale: regole per il ravvedimento",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/splafonamento-dellesportatore-abituale-come-regolarizzare-la-violazione-con-il-ravvedimento/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Omnibus digitale sull’IA: pubblicato il Regolamento UE 2026/1744 che modifica l’AI Act",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/28/omnibus-digitale-sullia-pubblicato-il-regolamento-ue-20261744-che-modifica-lai-act/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Contributi per studi e ricerche: nel Decreto Omnibus tassazione per competenza",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/contributi-per-studi-e-ricerche.-nel-dl-omnibus-tassazione-per-competenza-ma-con-regime-transitorio",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Patto di famiglia: nuovo focus sulla fiscalità diretta e indiretta",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/28/patto-di-famiglia-nuovo-focus-sulla-fiscalita-diretta-e-indiretta/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "TCF e adempimento collaborativo: richiesta la proroga al 31 dicembre 2026",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/27/tcf-e-adempimento-collaborativo-richiesta-la-proroga-al-31-dicembre-2026/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Collegio dei Revisori: le regole per la sostituzione dei componenti",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/28/collegio-dei-revisori-le-regole-per-la-sostituzione-dei-componenti/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       }
     ],
     "contabile": [
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Casa, nel 730 calano i locatori con due alloggi in affitto breve",
+        "link": "https://www.ilsole24ore.com/art/casa-730-calano-locatori-due-alloggi-affitto-breve-AJ3HARQ",
+        "date": "2026-07-28T05:56:02.000Z",
+        "summary": "Nei modelli presentati quest’anno si riducono di quasi il 2% i contribuenti che dichiarano canoni da contratti fino a 30 giorni da più immobili"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Rottamazione quinquies: dall’addebito diretto a ContiTu, canali diversificati",
+        "link": "https://www.ilsole24ore.com/art/rottamazione-quinquies-dall-addebito-diretto-contitu-canali-diversificati-AJYTGVX",
+        "date": "2026-07-28T03:04:12.000Z",
+        "summary": "La domiciliazione prevede la conferma preventiva 10 giorni prima"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Rottamazione quinquies, alla cassa entro venerdì",
+        "link": "https://www.ilsole24ore.com/art/rottamazione-quinquies-cassa-entro-venerdi-AJzP0UX",
+        "date": "2026-07-28T03:02:01.000Z",
+        "summary": "La tolleranza di cinque giorni sui pagamenti è limitata a due casi specifici. Nella stessa data versamenti per i riammessi dalle precedenti sanatorie"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Il compenso del Curatore nella Liquidazione giudiziale",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17351-il-compenso-del-curatore-nella-liquidazione-giudiziale.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Modalità e tempistiche di corresponsione del compenso del Curatore nell'ambito delle Liquidazione giudiziale"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Ddl Agricoltura via libera della Commissione ecco le misure per le imprese",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13600-ddl-agricoltura-via-libera-della-commissione-ecco-le-misure-per-le-imprese.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Ddl Agricoltura: crediti d'imposta, terreni abbandonati e regole UE su deforestazione per le imprese agricole"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "CPB altri premi per le PIVA che aderiscono vediamo quali",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4339-cpb-altri-premi-per-le-piva-che-aderiscono-vediamo-quali.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Il Decreto Omnibus atteso in CdM il 4 agosto, ora al vaglio tecnico delle commissioni, potrebbe portare altri sconti per chi rinnova il CPB, vediamo le ipotesi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Concorsi ricercatori e docenti addio abilitazione nazionale cosa cambia",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4338-concorsi-universita-addio-abilitazione-scientifica-nuovi-requisiti.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "La riforma del reclutamento universitario sostituisce l'abilitazione scientifica nazionale con nuovi requisiti e commissioni per fasce. Il testo della legge e tabella di riepilogo"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Terreni agricoli ISMEA 2026 pagamenti fino a 30 anni requisiti e domanda",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4337-terreni-agricoli-ISMEA-2026-pagamenti-fino-30-anni-requisiti-e-domanda.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Banca nazionale delle Terre Agricole: tutte le regole e istruzioni per presentare la domada"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Agenti assicurativi arriva lo sgravio INPS  retroattivo per assunzioni 202224",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4336-agenti-sgravio-contributivo-retroattivo",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Le istruzioni INPS  sull'ampliamento retroattivo degli sgravi contributivi ai codici ATECO 66.22,  da far valere entro il 31 dicembre 2026"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Bonus colonnine 2026 contributo dell80 domande in attesa",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4335-bonus-colonnine-2026-contributo-dell80-domande-in-attesa.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Colonnine: fino a 1.500 euro di bonus per i privati e 8.000 per i condomìni, cosa prevede il nuovo decreto"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Magistrati onorari cumulabilit tra pensione e compensi le regole",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4334-magistrati-onorari-cumulabilita-pensione-compensi-cosa-cambia.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "La Circolare INPS n. 79/2026 chiarisce quando pensione e compenso dei giudici di pace, onorari e vice,  sono cumulabili dopo  la legge 51 2025. Norme e tabella soglie di reddito"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "ETS beneficiari di Social Bonus chiarimenti MLPS su spese di gestione del bene",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17344-ets-beneficiari-di-social-bonus-chiarimenti-mlps-su-spese-di-gestione-del-bene.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Social Bonus: tutte le regole da sapere con anche i chiarimenti recenti del Ministero"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "IAS 28 e fair value option parere positivo EFRAG novit dal 2027",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17343-ias-28-e-fair-value-option-parere-positivo-efrag-novita-dal-2027.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "IAS 28 e fair value option verso il recepimento europeo degli emendamenti dal 1° gennaio 2027: il parere di omologazione dell’EFRAG del 23 luglio 2026"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Contributo benzinai fino a 60000 euro per colonnine e biocarburanti",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4332-contributo-benzinai-fino-a-60000-euro-per-le-colonnine-e-biocarburanti.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Fino a 60.000 euro per trasformare i distributori in stazioni di ricarica: cosa prevede il nuovo incentivo"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Il Quadro RU nel Modello Redditi 2026 architettura funzione e riconciliazione",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17340-il-quadro-ru-nel-modello-redditi-2026-architettura-funzione-e-riconciliazione.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "La logica di riconciliazione  del Quadro RU con il fascicolo documentale, le deleghe F24 e il cassetto fiscale  e le  conseguenze dell'omessa o errata compilazione"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "iPhone, la scarsa informazione sui rischi legati all’uso prolungato è risarcibile",
+        "link": "https://www.ilsole24ore.com/art/iphone-scarsa-informazione-rischi-legati-all-uso-prolungato-e-risarcibile-AJS7YBX",
+        "date": "2026-07-27T17:49:11.000Z",
+        "summary": "L'incertezza scientifica non esclude l'obbligo del produttore di dare informazioni esaurienti,"
+      },
       {
         "category": "contabile",
         "source": "CNDCEC - Comunicati",
@@ -711,6 +839,14 @@
       },
       {
         "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Sovraindebitamento, il corso di 40 ore non sarà fruibile dal 7 al 31 agosto 2026",
+        "link": "https://press-magazine.it/sovraindebitamento-il-corso-di-40-ore-non-sara-fruibile-dal-7-al-31-agosto-2026/",
+        "date": "2026-07-27T08:30:24.000Z",
+        "summary": "Dal 7 al 31 agosto 2026 non sarà possibile fruire del corso di formazione e aggiornamento e-learning di 40 ore “Procedure di composizione della crisi da sovraindebitamento“, organizzato dal Consiglio Nazionale dei Commercialisti, dalla sua Fondazione […]"
+      },
+      {
+        "category": "contabile",
         "source": "Fisco e Tasse",
         "title": "Modello OT23 2027 guida a novit interventi percentuali",
         "link": "https://www.fiscoetasse.com/approfondimenti/17348-modello-ot23-2027-novita-interventi-percentuali.html",
@@ -720,34 +856,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Bonus colonnine 2026 contributo dell80 domande in attesa",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4335-bonus-colonnine-2026-contributo-dell80-domande-in-attesa.html",
-        "date": "2026-07-27T00:00:00.000Z",
-        "summary": "Colonnine: fino a 1.500 euro di bonus per i privati e 8.000 per i condomìni, cosa prevede il nuovo decreto"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Magistrati onorari cumulabilit tra pensione e compensi le regole",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4334-magistrati-onorari-cumulabilita-pensione-compensi-cosa-cambia.html",
-        "date": "2026-07-27T00:00:00.000Z",
-        "summary": "La Circolare INPS n. 79/2026 chiarisce quando pensione e compenso dei giudici di pace, onorari e vice,  sono cumulabili dopo  la legge 51 2025. Norme e tabella soglie di reddito"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Assegno Unico ecco chi ha diritto se i figli vivono allestero",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4333-assegno-unico-ecco-chi-ha-diritto-se-i-figli-vivono-allestero.html",
         "date": "2026-07-27T00:00:00.000Z",
         "summary": "Circolare INPS n. 81/2026:  regole e istruzioni sull' estensione ai figli residenti in altro Stato UE e per lavoratori comunitari non residenti in Italia"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Contributo benzinai fino a 60000 euro per colonnine e biocarburanti",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4332-contributo-benzinai-fino-a-60000-euro-per-le-colonnine-e-biocarburanti.html",
-        "date": "2026-07-27T00:00:00.000Z",
-        "summary": "Fino a 60.000 euro per trasformare i distributori in stazioni di ricarica: cosa prevede il nuovo incentivo"
       },
       {
         "category": "contabile",
@@ -800,42 +912,10 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Criptovalute, nel Regno Unito recuperati otto milioni di sterline di tasse evase in tre anni",
-        "link": "https://www.ilsole24ore.com/art/criptovalute-regno-unito-recuperati-otto-milioni-sterline-tasse-evase-tre-anni-AJazhBV",
-        "date": "2026-07-25T03:08:31.000Z",
-        "summary": "A rivelarlo il Financial Times: nell’anno fiscale 2024/2025 sono stati 280 gli investitori a transare con il Fisco"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Nel primo semestre 2026 calano del 10% le adozioni internazionali",
-        "link": "https://www.ilsole24ore.com/art/nel-primo-semestre-2026-calano-10percento-adozioni-internazionali-AJa4x9U",
-        "date": "2026-07-25T03:06:21.000Z",
-        "summary": "I Paesi da cui proviene la maggior parte delle adozioni, Ungheria e India, sono anche quelli che hanno registrano i cali più significativi"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Affitti brevi, la stretta parte anche a Roma",
         "link": "https://www.ilsole24ore.com/art/affitti-brevi-stretta-parte-anche-roma-AJio5kU",
         "date": "2026-07-25T03:04:11.000Z",
         "summary": "Il Campidoglio approva le nuove norme di attuazione del Prg e introduce le prime restrizioni alle locazioni turistiche"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Pa, meno di un provvedimento su tre contiene un elenco sulle modifiche introdotte",
-        "link": "https://www.ilsole24ore.com/art/pa-meno-un-provvedimento-tre-contiene-elenco-modifiche-introdotte-AJMV6AV",
-        "date": "2026-07-25T03:02:01.000Z",
-        "summary": "Tra i dicasteri è il Mimit ad aver adottato il numero più alto di misure che menzionano oneri introdotti o aboliti: su 27 solo 14 hanno fornito la documentazione sulle variazioni"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Fine vita, necessario il sostegno vitale per rendere legittimo l’aiuto al suicidio",
-        "link": "https://www.ilsole24ore.com/art/fine-vita-necessario-sostegno-vitale-rendere-legittimo-l-aiuto-suicidio-AJ5c0gU",
-        "date": "2026-07-24T12:28:00.000Z",
-        "summary": "No alla possibilità di estendere la non punibilità anche per l’aiuto a morire a chi non è sottoposto a trattamenti di sostegno vitale. Ok alla legge Sardegna ma alcune norme sono in contrasto con la Carta"
       },
       {
         "category": "contabile",
@@ -855,46 +935,6 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Riforma sanzioni TUF cosa cambia col DLgs 1282026",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13598-riforma-sanzioni-tuf-cosa-cambia-col-dlgs-1282026.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Nuove regole su confisca, procedura sanzionatoria e ricorsi nel Testo Unico della Finanza, per intermediari, mercati e società quotate"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Lavoro piattaforme digitali le novit del  nuovo decreto",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4326-lavoro-piattaforme-digitali-novita-in-un-nuovo-decreto.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Recepita la direttiva UE 2024/2831: presunzione di subordinazione, obblighi di trasparenza algoritmica e sanzioni  in tema di lavoro gestito da piattaforme digitali"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Invio Intrastat cambia tutto le date da segnare per passare a Intrweb",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4325-intrastat-cambia-tutto-le-date-da-sempre-per-passare-a-intra@web.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Intr@web, il via dal 14 ottobre, le Dogane spiegano tutte le funzionalità: regole e calendario 2026/2027"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Antiriciclaggio cosa cambia per i Notai dal 23 luglio",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4324-antiriciclaggio-cosa-cambia-per-i-notai-dal-23-luglio.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Entra in vigore dal 23 luglio il Dlgs n 122/2026 con novità per l'antiriciclaggio e i Notai: vediamo cosa cambia"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Rendite INAIL e retribuzioni convenzionali 2026 le  istruzioni",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4321-rendite-inail-e-retribuzioni-convenzionali-2026-le-istruzioni.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "INAIL pubblica la circolare di istruzioni sui minimali e massimali di rendita per infortuni e malattie professionali settore industria rivalutati e in vigore dal 1° luglio 2026"
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Commercialisti: le professioni si rafforzano con il rispetto della legge, non con la rivendicazione di primati",
         "link": "https://press-magazine.it/commercialisti-le-professioni-si-rafforzano-con-il-rispetto-della-legge-non-con-la-rivendicazione-di-primati/",
@@ -908,38 +948,6 @@
         "link": "https://press-magazine.it/riforma-dellordinamento-professionale-concluso-lesame-degli-emendamenti/",
         "date": "2026-07-23T10:27:35.000Z",
         "summary": "Il presidente del CNDCEC, Elbano de Nuccio La Commissione Giustizia della Camera ha chiuso gli emendamenti nell’ambito del Ddl recante “Delega al Governo per la riforma della disciplina dell’ordinamento della professione di dottore commercialista e di […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Il contenzioso tributario si ferma in agosto",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17333-il-contenzioso-tributario-si-ferma-in-agosto.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Stop al contenzioso tributario: quali termini slittano per la pausa estiva. Esempi e approfondimenti delle casistiche possibili"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Correttivo fiscale Omnibus 2026 cosa cambia per redditi e IVA",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13597-correttivo-fiscale-omnibus-2026-cosa-cambia-per-redditi-e-iva.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Il testo del Correttivo Omnibus all'esame delle Camere: le novità su fringe benefit, familiari a carico, imprese, successioni e IVA per privati e professionisti"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Rinnovo ADI 2026 quando e come fare domanda  Esempi e FAQ",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4320-rinnovo-adi-2026-ecco-quando-e-come-fare-domanda.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Guida INPS aggiornata su  tempi, importi e regole  ed esempi per chi ha terminato le 18 o le 12 mensilità dell'assegno di inclusione."
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "API quali sono i servizi web per parlare col Fisco",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12875-api-quali-sono-i-servizi-web-per-parlare-col-fisco.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "Guida API dei servizi di interoperabilità per contribuenti e intermediari: vediamo quali i servizi sulla propria posizione fiscale e come attivarli per interagire col Fisco"
       },
       {
         "category": "contabile",
@@ -975,35 +983,27 @@
       },
       {
         "category": "contabile",
-        "source": "CNDCEC - Comunicati",
-        "title": "Commercialisti: redditi in crescita dell’8,3%, tornano a salire i praticanti (+4,2%)",
-        "link": "https://press-magazine.it/commercialisti-redditi-in-crescita-dell83-tornano-a-salire-i-praticanti-42/",
-        "date": "2026-07-16T12:52:10.000Z",
-        "summary": "I commercialisti italiani rafforzano il proprio ruolo nell’economia del Paese. Nel 2025 il reddito medio professionale è cresciuto dell’8,3%, raggiungendo 87.376 euro. Al netto dell’inflazione, l’incremento reale è stato pari al 7,3%, consentendo alla categoria di […]"
+        "source": "Eutekne - Feed RSS",
+        "title": "Interventi edilizi - Contratto di subappalto - Pagamento a prescindere dall'esito dell'opzione di sconto sul corrispettivo (Trib. Milano 19.6.2026 n. 5157) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113680",
+        "date": "27/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 27.7.2026 - \"Subappaltatore da pagare anche se non è maturato il bonus per l’appaltatore\" - Zanetti E. - Zeni A."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "OIC 5 \"Bilanci di liquidazione\" - Pubblicazione della nuova versione da parte dell'OIC (16.7.2026) - Criteri di valutazione (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114419",
-        "date": "24/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Con l’impresa in liquidazione cambia la logica del bilancio\" - De Rosa S. - Devalle A."
+        "title": "Bancarotta derivante da falso in bilancio - Criteri di valutazione - Nesso causale - Concorso dei sindaci (Cass. pen. 14.7.2026 n. 26293) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113536",
+        "date": "27/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 27.7.2026 - \"Bancarotta impropria da falso in bilancio se cambiano i criteri di valutazione\" - Artusi M. F."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Detrazioni \"edilizie\" - Società di persone - Trattamento contabile (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113626",
-        "date": "24/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Nelle società di persone detrazioni edilizie con contabilizzazione da valutare\" - Spina S."
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Contributi corrisposti a fronte di costi per studi e ricerche - Novità dello schema di DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114312",
-        "date": "24/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.7.2026 - \"Contributi per studi e ricerche da tassare per competenza\" - Latorraca S."
+        "title": "Interruzione della prescrizione - Integrazione dei motivi (Cass. 3.7.2026 n. 22671) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1112914",
+        "date": "27/07/2026",
+        "summary": "Il Quotidiano del Commercialista del 27.7.2026 - \"Integrazione dei motivi limitata dalla Cassazione\" - Frontoni F."
       },
       {
         "category": "contabile",
@@ -1058,64 +1058,64 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Incentivi Italia: attivi due nuovi servizi sul Registro aiuti di Stato",
-        "link": "https://www.mysolution.it/lavoro/approfondimenti/commenti/2026/07/incentivi-italia-attivi-due-nuovi-servizi-sul-registro-aiuti-di-stato/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Al via la campagna di comunicazione sull’esonero occupazionale donne svantaggiate",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/28/inps-al-via-campagna-di-comunicazione-sullesonero-occupazionale-donne-svantaggiate-ex-lege-n.-1782020",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Riduzione del tasso medio per prevenzione: pubblicato dall’INAIL il mod. OT23 per l’anno 2027",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/riduzione-del-tasso-medio-per-prevenzione-pubblicato-dallinail-il-mod.-ot23-per-lanno-2027",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Aziende agricole: al via il finanziamento di progetti sulla prevenzione e sicurezza sui luoghi di lavoro",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/28/al-via-il-finanziamento-di-progetti-sulla-prevenzione-e-sicurezza-sui-luoghi-di-lavoro-in-aziende-agricole/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Bonus giovani e Decontribuzione Sud per Intermediari assicurativi: recupero arretrati",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/inps-recupero-arretrati-bonus-giovani-e-decontribuzione-sud-per-intermediari-assicurativi/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Oggi, ore 10.00, \"Risposte ai quesiti: Dichiarazioni fiscali, regimi agevolati e punteggi ISA: controlli e aggiornamenti sui versamenti\" - Master MySolution Fisco 2026/2027",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/28/dichiarazioni-fiscali-regimi-agevolati-e-punteggi-isa-controlli-ed-aggiornamenti-sui-versamenti/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Assegno unico e universale per i figli a carico: le novità",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/inps-le-novita-su-assegno-unico-e-universale-per-i-figli-a-carico/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Associazioni professionali e IRAP: l’imposta non è dovuta se la professione è esercitata in forma individuale",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/28/associazioni-professionali-e-irap-limposta-non-e-dovuta-se-la-professione-e-esercitata-in-forma-individuale/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Fondo di previdenza per le persone che svolgono lavori di cura: chiusura del conto corrente postale utilizzato per il versamento dei contributi",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/inps-chiusura-del-conto-corrente-postale-utilizzato-per-il-versamento-dei-contributi-al-fondo-di-previdenza-per-le-persone-che-svolgono-lavori-di-cura/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Invariati i tassi di interesse della BCE",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/28/invariati-i-tassi-di-interesse-della-bce/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Disciplina del cumulo delle pensioni con il compenso spettante ai magistrati onorari",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/inps-disciplina-del-cumulo-delle-pensioni-con-il-compenso-spettante-ai-magistrati-onorari/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Via libera in CdM al nuovo CCNL Funzioni Centrali",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/28/via-libera-in-cdm-al-nuovo-ccnl-funzioni-centrali/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Dinamica dei salari reali in Italia: analisi dell’Ufficio parlamentare di bilancio",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/lanalisi-dellufficio-parlamentare-di-bilancio-sulla-dinamica-dei-salari-reali-in-italia/",
-        "date": "2026-07-27T00:00:00.000Z",
+        "title": "Temporanea indisponibilità dei servizi CO, UNIPI, UNIMARE",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/28/temporanea-indisponibilita-dei-servizi-co-unipi-unimare/",
+        "date": "2026-07-28T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "CCNL Agenzia delle Entrate: la nuova polizza sanitaria",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/27/la-nuova-polizza-sanitaria-prevista-dal-ccnl-agenzia-delle-entrate/",
+        "title": "La retribuzione del lavoratore dipendente",
+        "link": "https://www.mysolution.it/lavoro/guide/Guide-operative/la-retribuzione-del-lavoratore-dipendente/",
         "date": "2026-07-27T00:00:00.000Z",
         "summary": ""
       }
@@ -1399,6 +1399,38 @@
     "crisi_impresa": [
       {
         "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Casa, nel 730 calano i locatori con due alloggi in affitto breve",
+        "link": "https://www.ilsole24ore.com/art/casa-730-calano-locatori-due-alloggi-affitto-breve-AJ3HARQ",
+        "date": "2026-07-28T05:56:02.000Z",
+        "summary": "Nei modelli presentati quest’anno si riducono di quasi il 2% i contribuenti che dichiarano canoni da contratti fino a 30 giorni da più immobili"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Rottamazione quinquies: dall’addebito diretto a ContiTu, canali diversificati",
+        "link": "https://www.ilsole24ore.com/art/rottamazione-quinquies-dall-addebito-diretto-contitu-canali-diversificati-AJYTGVX",
+        "date": "2026-07-28T03:04:12.000Z",
+        "summary": "La domiciliazione prevede la conferma preventiva 10 giorni prima"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Rottamazione quinquies, alla cassa entro venerdì",
+        "link": "https://www.ilsole24ore.com/art/rottamazione-quinquies-cassa-entro-venerdi-AJzP0UX",
+        "date": "2026-07-28T03:02:01.000Z",
+        "summary": "La tolleranza di cinque giorni sui pagamenti è limitata a due casi specifici. Nella stessa data versamenti per i riammessi dalle precedenti sanatorie"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "iPhone, la scarsa informazione sui rischi legati all’uso prolungato è risarcibile",
+        "link": "https://www.ilsole24ore.com/art/iphone-scarsa-informazione-rischi-legati-all-uso-prolungato-e-risarcibile-AJS7YBX",
+        "date": "2026-07-27T17:49:11.000Z",
+        "summary": "L'incertezza scientifica non esclude l'obbligo del produttore di dare informazioni esaurienti,"
+      },
+      {
+        "category": "crisi_impresa",
         "source": "CNDCEC - Crisi d'impresa",
         "title": "Patto di famiglia, dai Commercialisti un documento a venti anni dalla riforma",
         "link": "https://press-magazine.it/patto-di-famiglia-dai-commercialisti-un-documento-a-venti-anni-dalla-riforma/",
@@ -1415,6 +1447,14 @@
       },
       {
         "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Sovraindebitamento, il corso di 40 ore non sarà fruibile dal 7 al 31 agosto 2026",
+        "link": "https://press-magazine.it/sovraindebitamento-il-corso-di-40-ore-non-sara-fruibile-dal-7-al-31-agosto-2026/",
+        "date": "2026-07-27T08:30:24.000Z",
+        "summary": "Dal 7 al 31 agosto 2026 non sarà possibile fruire del corso di formazione e aggiornamento e-learning di 40 ore “Procedure di composizione della crisi da sovraindebitamento“, organizzato dal Consiglio Nazionale dei Commercialisti, dalla sua Fondazione […]"
+      },
+      {
+        "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Giustizia, il Csm apre a Copilot sugli atti giudiziari",
         "link": "https://www.ilsole24ore.com/art/giustizia-csm-apre-copilot-atti-giudiziari-AJiKU7U",
@@ -1424,42 +1464,10 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Criptovalute, nel Regno Unito recuperati otto milioni di sterline di tasse evase in tre anni",
-        "link": "https://www.ilsole24ore.com/art/criptovalute-regno-unito-recuperati-otto-milioni-sterline-tasse-evase-tre-anni-AJazhBV",
-        "date": "2026-07-25T03:08:31.000Z",
-        "summary": "A rivelarlo il Financial Times: nell’anno fiscale 2024/2025 sono stati 280 gli investitori a transare con il Fisco"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Nel primo semestre 2026 calano del 10% le adozioni internazionali",
-        "link": "https://www.ilsole24ore.com/art/nel-primo-semestre-2026-calano-10percento-adozioni-internazionali-AJa4x9U",
-        "date": "2026-07-25T03:06:21.000Z",
-        "summary": "I Paesi da cui proviene la maggior parte delle adozioni, Ungheria e India, sono anche quelli che hanno registrano i cali più significativi"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Affitti brevi, la stretta parte anche a Roma",
         "link": "https://www.ilsole24ore.com/art/affitti-brevi-stretta-parte-anche-roma-AJio5kU",
         "date": "2026-07-25T03:04:11.000Z",
         "summary": "Il Campidoglio approva le nuove norme di attuazione del Prg e introduce le prime restrizioni alle locazioni turistiche"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Pa, meno di un provvedimento su tre contiene un elenco sulle modifiche introdotte",
-        "link": "https://www.ilsole24ore.com/art/pa-meno-un-provvedimento-tre-contiene-elenco-modifiche-introdotte-AJMV6AV",
-        "date": "2026-07-25T03:02:01.000Z",
-        "summary": "Tra i dicasteri è il Mimit ad aver adottato il numero più alto di misure che menzionano oneri introdotti o aboliti: su 27 solo 14 hanno fornito la documentazione sulle variazioni"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Fine vita, necessario il sostegno vitale per rendere legittimo l’aiuto al suicidio",
-        "link": "https://www.ilsole24ore.com/art/fine-vita-necessario-sostegno-vitale-rendere-legittimo-l-aiuto-suicidio-AJ5c0gU",
-        "date": "2026-07-24T12:28:00.000Z",
-        "summary": "No alla possibilità di estendere la non punibilità anche per l’aiuto a morire a chi non è sottoposto a trattamenti di sostegno vitale. Ok alla legge Sardegna ma alcune norme sono in contrasto con la Carta"
       },
       {
         "category": "crisi_impresa",
@@ -1516,14 +1524,6 @@
         "link": "https://press-magazine.it/de-nuccio-siamo-una-comunita-professionale-vitale/",
         "date": "2026-07-16T14:12:14.000Z",
         "summary": "Un quadro incoraggiante della professione. È quello che emerge dal Rapporto annuale della Fondazione nazionale dei commercialisti, dal quale ha scelto di partire il presidente del Consiglio nazionale dei commercialisti, Elbano de Nuccio, nella sua relazione […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "CNDCEC - Crisi d'impresa",
-        "title": "Commercialisti: redditi in crescita dell’8,3%, tornano a salire i praticanti (+4,2%)",
-        "link": "https://press-magazine.it/commercialisti-redditi-in-crescita-dell83-tornano-a-salire-i-praticanti-42/",
-        "date": "2026-07-16T12:52:10.000Z",
-        "summary": "I commercialisti italiani rafforzano il proprio ruolo nell’economia del Paese. Nel 2025 il reddito medio professionale è cresciuto dell’8,3%, raggiungendo 87.376 euro. Al netto dell’inflazione, l’incremento reale è stato pari al 7,3%, consentendo alla categoria di […]"
       }
     ],
     "finanza_agevolata": [
