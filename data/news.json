@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T07:32:04.150Z",
+  "generatedAt": "2026-08-02T07:36:03.083Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -711,6 +711,30 @@
       },
       {
         "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Nominato il nuovo consiglio direttivo di AICEC",
+        "link": "https://press-magazine.it/nominato-il-nuovo-consiglio-direttivo-di-aicec/",
+        "date": "2026-07-31T09:03:44.000Z",
+        "summary": "L’assemblea straordinaria dell’Associazione Internazionalizzazione Commercialisti ed Esperti Contabili (AICEC) ha approvato nei giorni scorsi le necessarie modifiche da apportare allo statuto conseguenti al diritto di recesso esercitato dal Socio fondatore uscente. A seguire si è tenuta […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Società di capitali, torna a crescere il fatturato: +2,8% nel 2025, + 5,4% nel 2026 e +3,2% nel 2027",
+        "link": "https://press-magazine.it/societa-di-capitali-torna-a-crescere-il-fatturato-28-nel-2025-54-nel-2026-e-32-nel-2027/",
+        "date": "2026-07-31T08:42:15.000Z",
+        "summary": "In attesa dei primi dati di bilancio relativi all’annualità 2025, il fatturato delle società di capitali, che rappresenta il 75% del fatturato totale delle imprese italiane, nel 2025 e nei due anni successivi tornerà a crescere dopo la battuta d’arresto del […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Terzo settore, dai commercialisti un volume sui bilanci",
+        "link": "https://press-magazine.it/terzo-settore-dai-commercialisti-un-volume-sui-bilanci-2/",
+        "date": "2026-07-31T08:30:23.000Z",
+        "summary": "Il Consiglio e la Fondazione nazionali dei commercialisti hanno pubblicato il volume “Il bilancio degli enti del Terzo settore. Un’analisi normativa e tecnico-contabile alla luce della più recente prassi ministeriale e operativa”. La pubblicazione, curata da […]"
+      },
+      {
+        "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Elettrodomestici e non solo, da oggi il diritto alla riparazione nei Paesi Ue",
         "link": "https://www.ilsole24ore.com/art/beni-difettosi-31-luglio-parte-diritto-riparazione-paesi-ue-AJSaH6Y",
@@ -823,6 +847,22 @@
       },
       {
         "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Insediato il nuovo Consiglio di disciplina nazionale dei commercialisti",
+        "link": "https://press-magazine.it/insediato-il-nuovo-consiglio-di-disciplina-nazionale/",
+        "date": "2026-07-30T11:04:14.000Z",
+        "summary": "Si è insediato ufficialmente il nuovo Consiglio di disciplina nazionale dei commercialisti. Dell’organismo fanno parte quattro donne e sette uomini. A guidarlo, in qualità di presidente, sarà Vito Montanaro, dell’Ordine di Taranto, mentre la carica di […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Trasparenza retributiva, dal Comitato pari opportunità dei commercialisti un’analisi del d.lgs. 96/2026",
+        "link": "https://press-magazine.it/trasparenza-retributiva-dal-comitato-pari-opportunita-dei-commercialisti-unanalisi-del-d-lgs-96-2026/",
+        "date": "2026-07-30T09:39:41.000Z",
+        "summary": "Il Comitato pari opportunità nazionale dei commercialisti (CPON) ha pubblicato il documento “Analisi del decreto legislativo 7 maggio 2026, n. 96”, il provvedimento con cui l’Italia ha recepito la direttiva (UE) 2023/970 sulla trasparenza retributiva e […]"
+      },
+      {
+        "category": "contabile",
         "source": "Fisco e Tasse",
         "title": "Esonero contributivo madri di 3 figli 2026 guida a domande e conguagli",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4349-esonero-contributivo-madri-di-3-figli-2026-la-guida-operativa.html",
@@ -879,11 +919,51 @@
       },
       {
         "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Dai Commercialisti una memoria sulla riforma dell’ordinamento della magistratura tributaria",
+        "link": "https://press-magazine.it/dai-commercialisti-una-memoria-sulla-riforma-dellordinamento-della-magistratura-tributaria/",
+        "date": "2026-07-29T15:12:28.000Z",
+        "summary": "Il Consiglio nazionale dei commercialisti ha inviato alle Commissioni Giustizia e Finanze e Tesoro del Senato una memoria scritta sullo schema di decreto legislativo recante disposizioni in materia di ordinamento della giurisdizione tributaria che ha previsto […]"
+      },
+      {
+        "category": "contabile",
         "source": "Fisco e Tasse",
         "title": "Dazi USA sul lavoro forzato le nuove misure Section 301 colpiscono anche lUnione europea",
         "link": "https://www.fiscoetasse.com/approfondimenti/17355-dazi-usa-sul-lavoro-forzato-le-nuove-misure-section-301-colpiscono-anche-lunione-europea.html",
         "date": "2026-07-29T00:00:00.000Z",
         "summary": "Le nuove misure introducono aliquote fino al 12,5% e rafforzano i controlli sulle filiere delle imprese esportatrici"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "De Nuccio eletto presidente del Comitato principi contabili dell’Organismo italiano di contabilità (OIC)",
+        "link": "https://press-magazine.it/de-nuccio-eletto-presidente-del-comitato-principi-contabili-dellorganismo-italiano-di-contabilita-oic/",
+        "date": "2026-07-28T15:37:37.000Z",
+        "summary": "Il Consiglio di Amministrazione dell’Organismo Italiano di Contabilità (OIC) ha deliberato le nomine del prof. Elbano De Nuccio e del Dott. Paolo Marullo Reedtz come vicepresidenti del CdA. Per il Comitato Principi Contabili, organo cardine per l’elaborazione […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Patto di famiglia, dai Commercialisti un documento a venti anni dalla riforma",
+        "link": "https://press-magazine.it/patto-di-famiglia-dai-commercialisti-un-documento-a-venti-anni-dalla-riforma/",
+        "date": "2026-07-27T13:32:14.000Z",
+        "summary": "“Il Patto di famiglia a vent’anni dalla riforma” è il titolo del documento pubblicato oggi dal Consiglio e dalla Fondazione nazionali dei commercialisti. Il documento rientra tra le attività delle aree “Fiscalità” e “Diritto societario”, alle […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Il 23 settembre le elezioni per il Comitato Nazionale Pari Opportunità",
+        "link": "https://press-magazine.it/il-23-settembre-le-elezioni-per-il-comitato-nazionale-pari-opportunita/",
+        "date": "2026-07-27T11:25:42.000Z",
+        "summary": "Si svolgeranno il prossimo 23 settembre le elezioni dei 20 rappresentanti regionali del Comitato Nazionale Pari Opportunità (CNPO) dei commercialisti. Lo comunica agli Ordini locali della categoria il Consiglio nazionale presieduto da Elbano de Nuccio attraverso […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Sovraindebitamento, il corso di 40 ore non sarà acquistabile dal 7 al 31 agosto 2026",
+        "link": "https://press-magazine.it/sovraindebitamento-il-corso-di-40-ore-non-sara-fruibile-dal-7-al-31-agosto-2026/",
+        "date": "2026-07-27T08:30:24.000Z",
+        "summary": "Dal 7 al 31 agosto 2026 non sarà possibile fruire del corso di formazione e aggiornamento e-learning di 40 ore “Procedure di composizione della crisi da sovraindebitamento“, organizzato dal Consiglio Nazionale dei Commercialisti, dalla sua Fondazione […]"
       },
       {
         "category": "contabile",
@@ -1343,6 +1423,30 @@
       },
       {
         "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Nominato il nuovo consiglio direttivo di AICEC",
+        "link": "https://press-magazine.it/nominato-il-nuovo-consiglio-direttivo-di-aicec/",
+        "date": "2026-07-31T09:03:44.000Z",
+        "summary": "L’assemblea straordinaria dell’Associazione Internazionalizzazione Commercialisti ed Esperti Contabili (AICEC) ha approvato nei giorni scorsi le necessarie modifiche da apportare allo statuto conseguenti al diritto di recesso esercitato dal Socio fondatore uscente. A seguire si è tenuta […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Società di capitali, torna a crescere il fatturato: +2,8% nel 2025, + 5,4% nel 2026 e +3,2% nel 2027",
+        "link": "https://press-magazine.it/societa-di-capitali-torna-a-crescere-il-fatturato-28-nel-2025-54-nel-2026-e-32-nel-2027/",
+        "date": "2026-07-31T08:42:15.000Z",
+        "summary": "In attesa dei primi dati di bilancio relativi all’annualità 2025, il fatturato delle società di capitali, che rappresenta il 75% del fatturato totale delle imprese italiane, nel 2025 e nei due anni successivi tornerà a crescere dopo la battuta d’arresto del […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Terzo settore, dai commercialisti un volume sui bilanci",
+        "link": "https://press-magazine.it/terzo-settore-dai-commercialisti-un-volume-sui-bilanci-2/",
+        "date": "2026-07-31T08:30:23.000Z",
+        "summary": "Il Consiglio e la Fondazione nazionali dei commercialisti hanno pubblicato il volume “Il bilancio degli enti del Terzo settore. Un’analisi normativa e tecnico-contabile alla luce della più recente prassi ministeriale e operativa”. La pubblicazione, curata da […]"
+      },
+      {
+        "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Elettrodomestici e non solo, da oggi il diritto alla riparazione nei Paesi Ue",
         "link": "https://www.ilsole24ore.com/art/beni-difettosi-31-luglio-parte-diritto-riparazione-paesi-ue-AJSaH6Y",
@@ -1372,6 +1476,62 @@
         "link": "https://www.ilsole24ore.com/art/restituire-prospettiva-giovani-contrastare-disagio-sociale-AJJWlVa",
         "date": "2026-07-31T03:02:00.000Z",
         "summary": "Le realtà locali operano in sinergia con le istituzioni, la famiglia e la scuola. Da Milano a Napoli diversi i progetti di formazione e partecipazione attiva"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Insediato il nuovo Consiglio di disciplina nazionale dei commercialisti",
+        "link": "https://press-magazine.it/insediato-il-nuovo-consiglio-di-disciplina-nazionale/",
+        "date": "2026-07-30T11:04:14.000Z",
+        "summary": "Si è insediato ufficialmente il nuovo Consiglio di disciplina nazionale dei commercialisti. Dell’organismo fanno parte quattro donne e sette uomini. A guidarlo, in qualità di presidente, sarà Vito Montanaro, dell’Ordine di Taranto, mentre la carica di […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Trasparenza retributiva, dal Comitato pari opportunità dei commercialisti un’analisi del d.lgs. 96/2026",
+        "link": "https://press-magazine.it/trasparenza-retributiva-dal-comitato-pari-opportunita-dei-commercialisti-unanalisi-del-d-lgs-96-2026/",
+        "date": "2026-07-30T09:39:41.000Z",
+        "summary": "Il Comitato pari opportunità nazionale dei commercialisti (CPON) ha pubblicato il documento “Analisi del decreto legislativo 7 maggio 2026, n. 96”, il provvedimento con cui l’Italia ha recepito la direttiva (UE) 2023/970 sulla trasparenza retributiva e […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Dai Commercialisti una memoria sulla riforma dell’ordinamento della magistratura tributaria",
+        "link": "https://press-magazine.it/dai-commercialisti-una-memoria-sulla-riforma-dellordinamento-della-magistratura-tributaria/",
+        "date": "2026-07-29T15:12:28.000Z",
+        "summary": "Il Consiglio nazionale dei commercialisti ha inviato alle Commissioni Giustizia e Finanze e Tesoro del Senato una memoria scritta sullo schema di decreto legislativo recante disposizioni in materia di ordinamento della giurisdizione tributaria che ha previsto […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "De Nuccio eletto presidente del Comitato principi contabili dell’Organismo italiano di contabilità (OIC)",
+        "link": "https://press-magazine.it/de-nuccio-eletto-presidente-del-comitato-principi-contabili-dellorganismo-italiano-di-contabilita-oic/",
+        "date": "2026-07-28T15:37:37.000Z",
+        "summary": "Il Consiglio di Amministrazione dell’Organismo Italiano di Contabilità (OIC) ha deliberato le nomine del prof. Elbano De Nuccio e del Dott. Paolo Marullo Reedtz come vicepresidenti del CdA. Per il Comitato Principi Contabili, organo cardine per l’elaborazione […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Patto di famiglia, dai Commercialisti un documento a venti anni dalla riforma",
+        "link": "https://press-magazine.it/patto-di-famiglia-dai-commercialisti-un-documento-a-venti-anni-dalla-riforma/",
+        "date": "2026-07-27T13:32:14.000Z",
+        "summary": "“Il Patto di famiglia a vent’anni dalla riforma” è il titolo del documento pubblicato oggi dal Consiglio e dalla Fondazione nazionali dei commercialisti. Il documento rientra tra le attività delle aree “Fiscalità” e “Diritto societario”, alle […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Il 23 settembre le elezioni per il Comitato Nazionale Pari Opportunità",
+        "link": "https://press-magazine.it/il-23-settembre-le-elezioni-per-il-comitato-nazionale-pari-opportunita/",
+        "date": "2026-07-27T11:25:42.000Z",
+        "summary": "Si svolgeranno il prossimo 23 settembre le elezioni dei 20 rappresentanti regionali del Comitato Nazionale Pari Opportunità (CNPO) dei commercialisti. Lo comunica agli Ordini locali della categoria il Consiglio nazionale presieduto da Elbano de Nuccio attraverso […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Sovraindebitamento, il corso di 40 ore non sarà acquistabile dal 7 al 31 agosto 2026",
+        "link": "https://press-magazine.it/sovraindebitamento-il-corso-di-40-ore-non-sara-fruibile-dal-7-al-31-agosto-2026/",
+        "date": "2026-07-27T08:30:24.000Z",
+        "summary": "Dal 7 al 31 agosto 2026 non sarà possibile fruire del corso di formazione e aggiornamento e-learning di 40 ore “Procedure di composizione della crisi da sovraindebitamento“, organizzato dal Consiglio Nazionale dei Commercialisti, dalla sua Fondazione […]"
       }
     ],
     "finanza_agevolata": [
