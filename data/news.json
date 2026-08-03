@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T07:36:03.083Z",
+  "generatedAt": "2026-08-03T08:35:31.656Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -11,6 +11,54 @@
   },
   "items": {
     "fiscale": [
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Donazione di quote dazienda quando non si perde lesenzione fiscale",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4360-holding-di-famiglia-la-donazione-di-quote-resta-esente-da-imposta.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "L'Agenzia delle Entrate chiarisce che conferimenti e cessioni parziali di quote non fanno decadere l'esenzione se il beneficiario mantiene il controllo di diritto."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Bollo su concessioni niente forfait per contratti e atti privati",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4359-bollo-su-concessioni-niente-forfait-per-contratti-e-atti-privati.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "L'Agenzia delle Entrate chiarisce che il regime forfettario di 16 euro per gli atti telematici vale solo per i provvedimenti della PA, non per i contratti"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Licenziamento collettivo e reintegra annullata gli stipendi sono da restituire",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4356-licenziamento-collettivo-e-reintegra-annullata-gli-stipendi-sono-da-restituire.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "Cassazione: se il lavoratore riprende servizio  per l'ordine di reintegra e poi la sentenza viene riformata,   in alcuni casi le somme percepite non vanno restituite"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Noleggio sociale 100 euro al mese per auto green a chi spetta",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4355-noleggio-sociale-100-euro-al-mese-per-auto-green-a-chi-spetta.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "Noleggio sociale auto con ISEE sotto 30.000 euro: chi può ottenerlo e quali veicoli sono ammessi, attenzione alla possibilità di acquisto post noleggio"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Trasparenza retributiva analisi e proposte del CNDCEC in sintesi",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4354-trasparenza-retributiva-studio-e-proposta-del-cndcec.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "Un nuovo documento del Consiglio Nazionale dei Dottori Commercialisti sul decreto legislativo 7 maggio 2026, n. 96, sulla trasparenza ai fini della parità di genere"
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Donazione di quote, il controllo di diritto evita la decadenza dall’esenzione",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/donazione-di-quote-il-controllo-di-diritto-evita-la-decadenza-dallesenzione/",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -70,34 +118,10 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Licenziamento collettivo e reintegra annullata gli stipendi sono da restituire",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4356-licenziamento-collettivo-e-reintegra-annullata-gli-stipendi-sono-da-restituire.html",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": "Cassazione: se il lavoratore riprende servizio  per l'ordine di reintegra e poi la sentenza viene riformata,   in alcuni casi le somme percepite non vanno restituite"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Regolamento EUDR chi sono i micro o piccoli operatori primari",
         "link": "https://www.fiscoetasse.com/domande-e-risposte/12876-regolamento-eudr-chi-sono-i-micro-o-piccoli-operatori-primari.html",
         "date": "2026-07-31T00:00:00.000Z",
         "summary": "Definizione e ratio del regime semplificato"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Noleggio sociale auto 100 euro al mese per il green a chi spetta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4355-noleggio-sociale-auto-100-euro-al-mese-per-il-green-a-chi-spetta.html",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": "Noleggio sociale auto con ISEE sotto 30.000 euro: chi può ottenerlo e quali veicoli sono ammessi, attenzione alla possibilità di acquisto post noleggio"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Trasparenza retributiva analisi e proposte del CNDCEC in sintesi",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4354-trasparenza-retributiva-studio-e-proposta-del-cndcec.html",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": "Un nuovo documento del Consiglio Nazionale dei Dottori Commercialisti sul decreto legislativo 7 maggio 2026, n. 96, sulla trasparenza ai fini della parità di genere"
       },
       {
         "category": "fiscale",
@@ -118,14 +142,6 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Professione avvocato cosa prevede la riforma dellordinamento forense",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13603-riforma-ordinamento-forense-cosa-prevede-la-delega.html",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": "Il Senato approva la legge delega per la riforma della professione forense: novità su accesso, compensi, società tra avvocati e sistema disciplinare."
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Conservazione mail dipendenti 460mila euro di multa dal Garante",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4351-conservazione-email-dipendenti-460mila-euro-di-multa-dal-garante.html",
         "date": "2026-07-31T00:00:00.000Z",
@@ -138,14 +154,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4350-quattordicesima-pensioni-2021-revocata-il-recupero-parte-da-agosto.html",
         "date": "2026-07-31T00:00:00.000Z",
         "summary": "Inps chiarisce le modalità di recupero dell' importo aggiuntivo (154,94 euro) da agosto 2026  per i pensionati  che non hanno presentato il Modello Red. La rateazione prevista"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Decreto esproprio nuove regole sulla trascrizione cosa cambia nei registri immobiliari",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4341-decreto-di-esproprio-nuove-regole-sulla-trascrizione-cosa-cambia-nei-registri-immobilia.html",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": "L’Agenzia delle Entrate chiarisce quando trascrivere il provvedimento, quali documenti presentare e come operare nei casi di occupazione d’urgenza"
       },
       {
         "category": "fiscale",
@@ -230,10 +238,10 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Regolamento Omnibus digitale sullIA le modifiche allAI Act",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13601-regolamento-ue-20261744-le-modifiche-allai-act.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Il Parlamento europeo semplifica l'attuazione del Regolamento sull'intelligenza artificiale: nuove scadenze, divieti su deepfake e poteri rafforzati dell'AI Office"
+        "title": "Professione avvocato cosa prevede la riforma dellordinamento forense",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13603-riforma-ordinamento-forense-cosa-prevede-la-delega.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Riforma forense 2026: cosa prevede la legge delega n. 137/2026 in vigore dal 16 agosto su compensi, società tra avvocati (STP), tirocinio ed esame di Stato"
       },
       {
         "category": "fiscale",
@@ -606,25 +614,65 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Concordato preventivo biennale: informativa, check list e liberatoria",
-        "link": "https://www.mysolution.it/fisco/informative/circolare-cliente/20262/07/lettera-per-il-cliente---concordato-preventivo-biennale-informativa-check-list-e-liberatoria/",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "L’Approfondimento: L’adesione al CPB 2026/2027 apre al ravvedimento speciale per il 2023 anche per chi rinnova",
+        "link": "https://www.mysolution.it/fisco/approfondimenti/circolare-monografica/2026/08/lapprofondimento-ladesione-al-cpb-20262027-apre-al-ravvedimento-speciale-per-il-2023-anche-per-chi-rinnova-poggiani/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Prima rata rottamazione-quinquies: inadempimento e decadenza",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/31/prima-rata-rottamazione-quinquies.-inadempimento-e-decadenza",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "730, nuova marcia per i rimborsi: i crediti si compensano anche con le imposte sostitutive in F24",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/730-nuova-marcia-per-i-rimborsi-i-crediti-si-compensano-anche-con-le-imposte-sostitutive-in-f24/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "CPB: sanatoria 2023 e più benefici in arrivo con il Decreto Omnibus",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/31/sanatoria-2023-e-piu-benefici-per-chi-rinnova-il-concordato-le-richieste-del-parlamento-al-decreto-omnibus-fiscale/",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "Superbonus: quando scatta l’obbligo di aggiornamento catastale",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/superbonus-quando-scatta-lobbligo-di-aggiornamento-catastale/",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Transizione 4.0: proroga al 15 settembre per la comunicazione di completamento",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/transizione-4.0-proroga-al-15-settembre-per-la-comunicazione-di-completamento",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Atti digitali e imposta di bollo: dirimente la natura del documento",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/atti-digitali-e-imposta-di-bollo-dirimente-la-natura-del-documento/",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Bilancio ETS: analisi tecnico-contabile aggiornata con gli ultimi orientamenti operativi e di prassi",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/bilancio-ets-analisi-tecnico-contabile-aggiornata-con-gli-ultimi-orientamenti-operativi-e-di-prassi/",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Borse di studio Its Academy: esenzione IRPEF",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/borse-di-studio-its-academy.-esenzione-irpef",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Dichiarazioni semestrali gas ed energia elettrica, i chiarimenti ADM sulla compilazione dei nuovi modelli",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/dichiarazioni-semestrali-gas-ed-energia-elettrica-i-chiarimenti-adm-sulla-compilazione-dei-nuovi-modelli/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -634,57 +682,49 @@
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/31/le-novita-fiscali-dopo-lestate/",
         "date": "2026-07-31T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Sospensione feriale: effetti sui termini di pagamento",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/31/sospensione-feriale-dei-termini-ed-effetto-sui-termini-di-pagamento/",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Indisponibilità degli utili: la detassazione non è aiuto di Stato",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/31/indisponibilita-degli-utili-la-detassazione-non-e-aiuto-di-stato/",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "CDC: nuovo estratto conto contributivo",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/31/cdc.-nuovo-estratto-conto-contributivo",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Credito d’imposta sul carburante agricolo: regole in arrivo",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/31/credito-dimposta-sul-carburante-agricolo-regole-in-arrivo/",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Fiscalità ETS: tra regole UE e piano d’azione nazionale",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/31/fiscalita-ets.-tra-regole-ue-e-piano-dazione-nazionale",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Bonus e stock option: le regole per disapplicare l’addizionale del 10%",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/31/bonus-e-stock-option-nel-settore-finanziario-come-evitare-laddizionale-del-10-con-donazioni-al-terzo-settore/",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": ""
       }
     ],
     "contabile": [
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Donazione di quote dazienda quando non si perde lesenzione fiscale",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4360-holding-di-famiglia-la-donazione-di-quote-resta-esente-da-imposta.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "L'Agenzia delle Entrate chiarisce che conferimenti e cessioni parziali di quote non fanno decadere l'esenzione se il beneficiario mantiene il controllo di diritto."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Bollo su concessioni niente forfait per contratti e atti privati",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4359-bollo-su-concessioni-niente-forfait-per-contratti-e-atti-privati.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "L'Agenzia delle Entrate chiarisce che il regime forfettario di 16 euro per gli atti telematici vale solo per i provvedimenti della PA, non per i contratti"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Licenziamento collettivo e reintegra annullata gli stipendi sono da restituire",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4356-licenziamento-collettivo-e-reintegra-annullata-gli-stipendi-sono-da-restituire.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "Cassazione: se il lavoratore riprende servizio  per l'ordine di reintegra e poi la sentenza viene riformata,   in alcuni casi le somme percepite non vanno restituite"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Noleggio sociale 100 euro al mese per auto green a chi spetta",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4355-noleggio-sociale-100-euro-al-mese-per-auto-green-a-chi-spetta.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "Noleggio sociale auto con ISEE sotto 30.000 euro: chi può ottenerlo e quali veicoli sono ammessi, attenzione alla possibilità di acquisto post noleggio"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Trasparenza retributiva analisi e proposte del CNDCEC in sintesi",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4354-trasparenza-retributiva-studio-e-proposta-del-cndcec.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "Un nuovo documento del Consiglio Nazionale dei Dottori Commercialisti sul decreto legislativo 7 maggio 2026, n. 96, sulla trasparenza ai fini della parità di genere"
+      },
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -768,34 +808,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Licenziamento collettivo e reintegra annullata gli stipendi sono da restituire",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4356-licenziamento-collettivo-e-reintegra-annullata-gli-stipendi-sono-da-restituire.html",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": "Cassazione: se il lavoratore riprende servizio  per l'ordine di reintegra e poi la sentenza viene riformata,   in alcuni casi le somme percepite non vanno restituite"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Regolamento EUDR chi sono i micro o piccoli operatori primari",
         "link": "https://www.fiscoetasse.com/domande-e-risposte/12876-regolamento-eudr-chi-sono-i-micro-o-piccoli-operatori-primari.html",
         "date": "2026-07-31T00:00:00.000Z",
         "summary": "Definizione e ratio del regime semplificato"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Noleggio sociale auto 100 euro al mese per il green a chi spetta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4355-noleggio-sociale-auto-100-euro-al-mese-per-il-green-a-chi-spetta.html",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": "Noleggio sociale auto con ISEE sotto 30.000 euro: chi può ottenerlo e quali veicoli sono ammessi, attenzione alla possibilità di acquisto post noleggio"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Trasparenza retributiva analisi e proposte del CNDCEC in sintesi",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4354-trasparenza-retributiva-studio-e-proposta-del-cndcec.html",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": "Un nuovo documento del Consiglio Nazionale dei Dottori Commercialisti sul decreto legislativo 7 maggio 2026, n. 96, sulla trasparenza ai fini della parità di genere"
       },
       {
         "category": "contabile",
@@ -816,14 +832,6 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Professione avvocato cosa prevede la riforma dellordinamento forense",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13603-riforma-ordinamento-forense-cosa-prevede-la-delega.html",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": "Il Senato approva la legge delega per la riforma della professione forense: novità su accesso, compensi, società tra avvocati e sistema disciplinare."
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Conservazione mail dipendenti 460mila euro di multa dal Garante",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4351-conservazione-email-dipendenti-460mila-euro-di-multa-dal-garante.html",
         "date": "2026-07-31T00:00:00.000Z",
@@ -836,14 +844,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4350-quattordicesima-pensioni-2021-revocata-il-recupero-parte-da-agosto.html",
         "date": "2026-07-31T00:00:00.000Z",
         "summary": "Inps chiarisce le modalità di recupero dell' importo aggiuntivo (154,94 euro) da agosto 2026  per i pensionati  che non hanno presentato il Modello Red. La rateazione prevista"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Decreto esproprio nuove regole sulla trascrizione cosa cambia nei registri immobiliari",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4341-decreto-di-esproprio-nuove-regole-sulla-trascrizione-cosa-cambia-nei-registri-immobilia.html",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": "L’Agenzia delle Entrate chiarisce quando trascrivere il provvedimento, quali documenti presentare e come operare nei casi di occupazione d’urgenza"
       },
       {
         "category": "contabile",
@@ -943,6 +943,14 @@
       },
       {
         "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Professione avvocato cosa prevede la riforma dellordinamento forense",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13603-riforma-ordinamento-forense-cosa-prevede-la-delega.html",
+        "date": "2026-07-28T00:00:00.000Z",
+        "summary": "Riforma forense 2026: cosa prevede la legge delega n. 137/2026 in vigore dal 16 agosto su compensi, società tra avvocati (STP), tirocinio ed esame di Stato"
+      },
+      {
+        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Patto di famiglia, dai Commercialisti un documento a venti anni dalla riforma",
         "link": "https://press-magazine.it/patto-di-famiglia-dai-commercialisti-un-documento-a-venti-anni-dalla-riforma/",
@@ -964,14 +972,6 @@
         "link": "https://press-magazine.it/sovraindebitamento-il-corso-di-40-ore-non-sara-fruibile-dal-7-al-31-agosto-2026/",
         "date": "2026-07-27T08:30:24.000Z",
         "summary": "Dal 7 al 31 agosto 2026 non sarà possibile fruire del corso di formazione e aggiornamento e-learning di 40 ore “Procedure di composizione della crisi da sovraindebitamento“, organizzato dal Consiglio Nazionale dei Commercialisti, dalla sua Fondazione […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Regolamento Omnibus digitale sullIA le modifiche allAI Act",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13601-regolamento-ue-20261744-le-modifiche-allai-act.html",
-        "date": "2026-07-24T00:00:00.000Z",
-        "summary": "Il Parlamento europeo semplifica l'attuazione del Regolamento sull'intelligenza artificiale: nuove scadenze, divieti su deepfake e poteri rafforzati dell'AI Office"
       },
       {
         "category": "contabile",
@@ -1058,69 +1058,125 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Distacco e salvaguardia occupazionale: la nuova deroga sperimentale",
-        "link": "https://www.mysolution.it/lavoro/approfondimenti/circolare-monografica/2026/07/distacco-e-salvaguardia-occupazionale-la-nuova-deroga-sperimentale/",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "Bonus Giovani, Donne e ZES unica: domande all’INPS entro il 30 settembre 2026",
+        "link": "https://www.mysolution.it/lavoro/approfondimenti/circolare-monografica/2026/08/bonus-giovani-donne-e-zes-unica-domande-allinps-entro-il-30-settembre-2026/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Al via gli obblighi di trasparenza per le imprese nell’ambito dell’AI ACT",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/31/al-via-gli-obblighi-di-trasparenza-per-le-imprese-nellambito-dellai-act/",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "In GU il bando per la concessione di contributi per la realizzazione di interventi a favore degli stranieri e dei cittadini vittime di grave sfruttamento lavorativo",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/in-gu-il-bando-per-la-concessione-di-contributi-per-la-realizzazione-di-interventi-a-favore-degli-stranieri-e-dei-cittadini-vittime-di-grave-sfruttamento-lavorativo/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Modificate dal Parlamento Europeo le norme sul distacco all’estero",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/31/modificate-dal-parlamento-europeo-le-norme-sul-distacco-allestero/",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "Borse di studio negli ITS Academy: i chiarimenti dell’AE sull’esenzione IRPEF",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/borse-di-studio-negli-its-academy-i-chiarimenti-dellae-sullesenzione-irpef/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Mercoledì 16 settembre, ore 9.30, \"Le novità fiscali dopo l’estate\" - Master MySolution Fisco 2026/2027",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/31/le-novita-fiscali-dopo-lestate/",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "Bonus/stock options variabili ed addizionale del 10%: i chiarimenti dell’AE",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/bonusstock-options-variabili-ed-addizionale-del-10-i-chiarimenti-dellae/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "La corretta modalità di gestione della posta elettronica dei dipendenti",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/31/privacy-la-corretta-modalita-di-gestione-della-posta-elettronica-dei-dipendenti/",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "Inserimento lavorativo di detenuti ed ex detenuti: al via l'iniziativa congiunta tra CNEL e ANAC",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/al-via-liniziativa-congiunta-tra-cnel-e-anac-per-linserimento-lavorativo-di-detenuti-ed-ex-detenuti/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Previdenza complementare: aggiornate le FAQ del MLPS",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/31/aggiornate-dal-mlps-le-faq-sulla-previdenza-complementare/",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "Occupati/disoccupati a giugno 2026: pubblicata da ISTAT la nota metodologica",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/pubblicata-da-istat-la-nota-metodologica-su-occupatidisoccupati-a-giugno-2026/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Deposito dei contratti nel CNEL: operativa una nuova funzionalità telematica",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/31/operativa-una-nuova-funzionalita-telematica-per-il-deposito-dei-contratti-nel-cnel/",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "CNEL: pubblicato il III rapporto sul mismatch tra domanda e offerta di lavoro",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/pubblicato-dal-cnel-il-iii-rapporto-sul-mismatch-tra-domanda-e-offerta-di-lavoro/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Fondo di sostegno ai familiari delle vittime di gravi infortuni sul lavoro",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/07/31/le-novita-del-fondo-di-sostegno-ai-familiari-delle-vittime-di-gravi-infortuni-sul-lavoro/",
-        "date": "2026-07-31T00:00:00.000Z",
+        "title": "Osservatorio CIG: pubblicati i dati del secondo trimestre 2026",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/osservatorio-cig-pubblicati-i-dati-del-secondo-trimestre-2026/",
+        "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ilrestodelcarlino.it – 3.8.2026 – Sfratti e tutele: il nuovo Ddl potrà aiutare",
+        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-3-8-2026-sfratti-e-tutele-il-nuovo-ddl-potra-aiutare/",
+        "date": "2026-08-03T06:54:28.000Z",
+        "summary": "L'articolo Ilrestodelcarlino.it – 3.8.2026 – Sfratti e tutele: il nuovo Ddl potrà aiutare sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ilrestodelcarlino.it – 3.8.2026 – Vendite delle abitazioni: “Reggio cresce del 21%. Trainano i piccoli centri”",
+        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-3-8-2026-vendite-delle-abitazioni-reggio-cresce-del-21-trainano-i-piccoli-centri/",
+        "date": "2026-08-03T06:53:38.000Z",
+        "summary": "L'articolo Ilrestodelcarlino.it – 3.8.2026 – Vendite delle abitazioni: “Reggio cresce del 21%. Trainano i piccoli centri” sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ntacalabria.it – 2.8.2026 – Turismo in crescita a Catanzaro, Confedilizia, più case per lo sviluppo",
+        "link": "https://www.confedilizia.it/ntacalabria-it-2-8-2026-turismo-in-crescita-a-catanzaro-confedilizia-piu-case-per-lo-sviluppo/",
+        "date": "2026-08-03T06:53:02.000Z",
+        "summary": "L'articolo Ntacalabria.it – 2.8.2026 – Turismo in crescita a Catanzaro, Confedilizia, più case per lo sviluppo sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Gazzettadelsud.it – 1.8.2026 – Turismo in crescita a Catanzaro e sulla fascia ionica, Confedilizia: «Più case disponibili per sostenere lo sviluppo»",
+        "link": "https://www.confedilizia.it/gazzettadelsud-it-1-8-2026-turismo-in-crescita-a-catanzaro-e-sulla-fascia-ionica-confedilizia-piu-case-disponibili-per-sostenere-lo-sviluppo/",
+        "date": "2026-08-03T06:52:13.000Z",
+        "summary": "L'articolo Gazzettadelsud.it – 1.8.2026 – Turismo in crescita a Catanzaro e sulla fascia ionica, Confedilizia: «Più case disponibili per sostenere lo sviluppo» sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Lanuovacalabria.it – 1.8.2026 – Confedilizia: “Turismo in crescita a Catanzaro”",
+        "link": "https://www.confedilizia.it/lanuovacalabria-it-1-8-2026-confedilizia-turismo-in-crescita-a-catanzaro/",
+        "date": "2026-08-03T06:51:47.000Z",
+        "summary": "L'articolo Lanuovacalabria.it – 1.8.2026 – Confedilizia: “Turismo in crescita a Catanzaro” sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Nicolaporro.it – 1.8.2026 – Proprietà immobiliare sotto attacco: dal fisco alla Direttiva Case Green",
+        "link": "https://www.confedilizia.it/nicolaporro-it-1-8-2026-proprieta-immobiliare-sotto-attacco-dal-fisco-alla-direttiva-case-green/",
+        "date": "2026-08-03T06:51:23.000Z",
+        "summary": "L'articolo Nicolaporro.it – 1.8.2026 – Proprietà immobiliare sotto attacco: dal fisco alla Direttiva Case Green sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ore12.net – 1.8.2026 – Roma: Confedilizia, problema abitativo non può diventare licenza illegalità",
+        "link": "https://www.confedilizia.it/ore12-net-1-8-2026-roma-confedilizia-problema-abitativo-non-puo-diventare-licenza-illegalita/",
+        "date": "2026-08-03T06:50:55.000Z",
+        "summary": "L'articolo Ore12.net – 1.8.2026 – Roma: Confedilizia, problema abitativo non può diventare licenza illegalità sembra essere il primo su Confedilizia."
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1203,67 +1259,11 @@
       },
       {
         "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "CONFEDILIZIA UDINE: Corso di formazione periodica per amministratori di condominio 28.9.2026 – 5.10.2026",
-        "link": "https://www.confedilizia.it/confedilizia-udine-corso-di-formazione-periodica-per-amministratori-di-condominio-28-9-2026-5-10-2026/",
-        "date": "2026-07-30T08:05:57.000Z",
-        "summary": "CONFEDILIZIA UDINE organizza un corso di formazione periodica per amministratori di condominio\nL'articolo CONFEDILIZIA UDINE: Corso di formazione periodica per amministratori di condominio 28.9.2026 – 5.10.2026 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "CONFEDILIZIA VICENZA: Corso di formazione periodica per amministratori di condominio 28.9.2026 – 2.10.2026",
-        "link": "https://www.confedilizia.it/confedilizia-vicenza-corso-di-formazione-periodica-per-amministratori-di-condominio-28-9-2026-2-10-2026/",
-        "date": "2026-07-30T08:00:52.000Z",
-        "summary": "CONFEDILIZIA VICENZA organizza un corso di formazione periodica per amministratori di condominio\nL'articolo CONFEDILIZIA VICENZA: Corso di formazione periodica per amministratori di condominio 28.9.2026 – 2.10.2026 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Teleambiente.tv – 29.7.2026 – Affitti a Roma, ecco come sta cambiando il mercato: il rapporto di Confedilizia",
-        "link": "https://www.confedilizia.it/teleambiente-tv-29-7-2026-affitti-a-roma-ecco-come-sta-cambiando-il-mercato-il-rapporto-di-confedilizia/",
-        "date": "2026-07-29T13:16:49.000Z",
-        "summary": "L'articolo Teleambiente.tv – 29.7.2026 – Affitti a Roma, ecco come sta cambiando il mercato: il rapporto di Confedilizia sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Primapavia.it – 28.7.2026 – Edilizia nel Pavese, finito l’effetto Superbonus il settore rallenta: il patrimonio immobiliare resta da riqualificare",
-        "link": "https://www.confedilizia.it/primapavia-it-28-7-2026-edilizia-nel-pavese-finito-leffetto-superbonus-il-settore-rallenta-il-patrimonio-immobiliare-resta-da-riqualificare/",
-        "date": "2026-07-29T13:16:28.000Z",
-        "summary": "L'articolo Primapavia.it – 28.7.2026 – Edilizia nel Pavese, finito l’effetto Superbonus il settore rallenta: il patrimonio immobiliare resta da riqualificare sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Servitù apparenti",
-        "link": "https://www.confedilizia.it/servitu-apparenti/",
-        "date": "2026-07-29T12:01:59.000Z",
-        "summary": "L'articolo Servitù apparenti sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "DeA Capital Real Estate sceglie Emiliano Ranati come nuovo amministratore delegato",
         "link": "https://www.ilsole24ore.com/art/dea-capital-real-estate-sceglie-emiliano-ranati-come-nuovo-amministratore-delegato-AJpKjtY",
         "date": "2026-07-29T07:29:00.000Z",
         "summary": "DeA Capital Real Estate ha individuato in Emiliano Ranati il manager a cui affidare la guida della Sgr. Ora, la nomina a direttore generale e amministratore delegato diventerà efficace dopo..."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Telebelluno – 25.7.2026 – Speciale Confedilizia – Ore 19",
-        "link": "https://www.confedilizia.it/telebelluno-25-7-2026-speciale-confedilizia-ore-19/",
-        "date": "2026-07-27T13:41:41.000Z",
-        "summary": "L'articolo Telebelluno – 25.7.2026 – Speciale Confedilizia – Ore 19 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ddl sfratti: articolo su Il Tempo",
-        "link": "https://www.confedilizia.it/ddl-sfratti-articolo-su-il-tempo/",
-        "date": "2026-07-27T12:31:12.000Z",
-        "summary": "È iniziato, in Commissione Giustizia al Senato, l’iter parlamentare del disegno di legge del Governo sul rilascio degli immobili, approvato dal Consiglio dei ministri insieme con il decreto-legge sul Piano Casa, poi convertito in legge. Si tratta di un provvedimento importante, che risponde a un’esigenza diffusamente avvertita e più volte segnalata dalla Confedilizia, della […]\nL'articolo Ddl sfra"
       },
       {
         "category": "condominio",
