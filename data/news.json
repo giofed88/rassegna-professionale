@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T08:35:31.656Z",
+  "generatedAt": "2026-08-04T07:44:51.372Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -11,6 +11,78 @@
   },
   "items": {
     "fiscale": [
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sei milioni di case vacanza affrontano il taglio degli sconti per le ristrutturazioni",
+        "link": "https://www.ilsole24ore.com/art/sei-milioni-case-vacanza-affrontano-taglio-sconti-le-ristrutturazioni-AJP2mzb",
+        "date": "2026-08-04T03:04:13.000Z",
+        "summary": "Bonus ridotti al 36% per questi immobili ma in prospettiva potrebbero arrivare nuove riduzioni"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Borse di studio per studenti Its: dal 2025 scatta la non imponibilità  Irpef",
+        "link": "https://www.ilsole24ore.com/art/borse-studio-studenti-its-2025-scatta-non-imponibilita-irpef-AJYS6od",
+        "date": "2026-08-04T03:02:01.000Z",
+        "summary": "Non producendo un reddito assimilato a quello di lavoro dipendente, non devono essere indicate nei modelli dichiarativi"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Dichiarazioni correttive senza sanzioni ma con attenzione ai versamenti",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4364-dichiarazioni-correttive-senza-sanzioni-ma-con-attenzione-ai-versamenti.html",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": "La dichiarazione correttiva senza sanzioni: esempio pratico e risvolti dichiarativi"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Progetti assistenza alle vittime di tratta nuovi fondi per il Terzo Settore",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4363-progetti-assistenza-alle-vittime-di-tratta-nuovi-fondi-per-il-terzo-settore.html",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": "Pubblicato il bando  8 2026 per la partecipazione a progetti di assistenza delle vittime di tratta  in collaborazione con gli enti territoriali."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Omesse ritenute per il reato  il calcolo si basa sulle retribuzioni pagate",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4362-omesse-ritenute-reato-per-le-retribuzioni-pagate-non-dovute.html",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": "Cassazione n. 27123/2026  precisa ill calcolo dei contributi omessi da fare sulle somme realmente corrisposte ai lavoratori, non su quelle solo dovute per contratto."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Il Fisco pu cambiare idea La tutela europe dellaffidamento del contribuente",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17354-il-fisco-puo-cambiare-idea-la-tutela-europe-dellaffidamento-del-contribuente.html",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": "L'applicabilità dei principi eurounitari al diritto tributario nazionale"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Via libera del Senato alla riforma di 15 ordini professionali",
+        "link": "https://www.ilsole24ore.com/art/via-libera-senato-riforma-15-ordini-professionali-AJHJVmd",
+        "date": "2026-08-03T16:45:00.000Z",
+        "summary": "Con 81 voti favorevoli, nessun contrario e 50 astensioni, lunedì 3 agosto, l’aula del Senato ha approvato il disegno di legge 1663 di delega al Governo per la riforma della..."
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Studentati, crescono i posti letto ma resta il gap con i principali Paesi europei",
+        "link": "https://www.ilsole24ore.com/art/studentati-crescono-posti-letto-ma-resta-gap-i-principali-paesi-europei-AJlj9Vc",
+        "date": "2026-08-03T16:42:39.000Z",
+        "summary": "Per la platea di 650mila universitari tra fuori sede, internazionali ed Erasmus il tasso di copertura è oggi al 12%, con 80mila alloggi attivi tra pubblico e privato. Dalla spinta del Pnrr altre 30mila unità in arrivo nel 2027"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Concorso Senato 2026 con 30 posti di Segretario Chi puo partecipare",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17359-concorso-senato-2026-30-posti-di-segretario-parlamentare.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "Il Senato ha indetto un concorso per 30 Segretari parlamentari: requisiti d'età e laurea, scadenza domanda, profili , prove d'esame. Stipendio"
+      },
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
@@ -26,6 +98,14 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4359-bollo-su-concessioni-niente-forfait-per-contratti-e-atti-privati.html",
         "date": "2026-08-03T00:00:00.000Z",
         "summary": "L'Agenzia delle Entrate chiarisce che il regime forfettario di 16 euro per gli atti telematici vale solo per i provvedimenti della PA, non per i contratti"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Il TCF per le imprese minori il regime opzionale e le novit del correttivo",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17357-il-tcf-per-le-imprese-minori-il-regime-opzionale-e-le-novita-del-correttivo.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "Come funziona, quali sono i benefici, in cosa si distingue il TCF dall'adempimento collaborativo e cosa cambia con il decreto correttivo omnibus 2026."
       },
       {
         "category": "fiscale",
@@ -53,14 +133,6 @@
       },
       {
         "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Donazione di quote, il controllo di diritto evita la decadenza dall’esenzione",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/donazione-di-quote-il-controllo-di-diritto-evita-la-decadenza-dallesenzione/",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Società di capitali, tengono i ricavi e fatturato in crescita dal 2025",
         "link": "https://www.ilsole24ore.com/art/societa-capitali-tengono-ricavi-e-fatturato-crescita-2025-AJCRozb",
@@ -70,42 +142,10 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "«Liberi di scegliere», dal 9 agosto tutele per i minori che vogliono affrancarsi da contesti mafiosi",
-        "link": "https://www.ilsole24ore.com/art/liberi-scegliere-9-agosto-tutele-i-minori-che-vogliono-affrancarsi-contesti-mafiosi-AJLFfYb",
-        "date": "2026-08-01T03:02:11.000Z",
-        "summary": "Dalle soluzioni abitative al cambio di generalità “Liberi di scegliere” mette in campo misure per minori e famiglie che vogliono uscire dagli ambienti della criminalità organizzata"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Carceri, annunciato lo stop alle udienze dei penalisti dal 23 al 29 settembre",
         "link": "https://www.ilsole24ore.com/art/carceri-annunciato-stop-udienze-penalisti-23-29-settembre-AJu15qb",
         "date": "2026-07-31T16:44:00.000Z",
         "summary": "L’astensione contro la violazione del diritto di difesa e il sovraffollamento, nel Lazio arrivato al record del 149%. Da inizio anno, 125 morti negli istituti"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Elettrodomestici e non solo, da oggi il diritto alla riparazione nei Paesi Ue",
-        "link": "https://www.ilsole24ore.com/art/beni-difettosi-31-luglio-parte-diritto-riparazione-paesi-ue-AJSaH6Y",
-        "date": "2026-07-31T07:12:00.000Z",
-        "summary": "Gli Stati membri dovranno aver completato il recepimento della direttiva che punta a promuovere il ripristino di articoli poco funzionanti ma ripristinabili. Italia per ora fuori: non ha emanato il Dlgs attuativo nei tempi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Minori online, togliere valore sociale alle piattaforme con divieti e formazione",
-        "link": "https://www.ilsole24ore.com/art/minori-online-togliere-valore-sociale-piattaforme-divieti-e-formazione-AJTknVa",
-        "date": "2026-07-31T03:08:00.000Z",
-        "summary": "In aumento le correlazioni negative fra accesso precoce e benessere psico-fisico dei pre-adolescenti"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cassazione: No a nuove prove basate sull’intelligenza artificiale",
-        "link": "https://www.ilsole24ore.com/art/cassazione-no-nuove-prove-basate-sull-intelligenza-artificiale-AJpeDra",
-        "date": "2026-07-31T03:04:14.000Z",
-        "summary": "Da dimostrare il valore scientifico del software per i dati biometrici della voce"
       },
       {
         "category": "fiscale",
@@ -182,46 +222,6 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus Assonime chiede nuove correzioni cosa cambia per IVA e imprese",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4347-decreto-omnibus-assonime-chiede-nuove-correzioni-cosa-cambia-per-iva-e-imprese.html",
-        "date": "2026-07-30T00:00:00.000Z",
-        "summary": "Dalla detrazione IVA alle azioni proprie, fino a plusvalenze, perdite fiscali e holding familiari: le proposte presentate alle Commissioni parlamentari"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Dichiarazione doganale ladempimento spontaneo",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17353-dichiarazione-doganale-ladempimento-spontaneo.html",
-        "date": "2026-07-30T00:00:00.000Z",
-        "summary": "Agenzia delle dogane: adempimento spontaneo della revisione della dichiarazione e ravvedimento operoso"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Agevolazioni auto green risorse gi esaurite resta il contributo per le colonnine",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4346-agevolazioni-auto-green-risorse-gia%20-esaurite-resta-il-contributo-le-colonnine.html",
-        "date": "2026-07-30T00:00:00.000Z",
-        "summary": "Il MIMIT da il via alle domande per due misure previste dal Decreto Automitive 2026: bonus per veicoli commerciali e retrofit. In un giorno terminate le risorse"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Federalismo enti locali il Governo procede malgrado le Regioni",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4343-federalismo-enti-locali-il-governo-procede-malgrado-le-regionihtml",
-        "date": "2026-07-30T00:00:00.000Z",
-        "summary": "Federalismo fiscale regionale: la conferenza unificata boccia il Governo che procede l'iter di riforma con delibera del 29 luglio"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "I controlli del Fisco dati di luglio dellAgenzia delle Entrate",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4342-i-controlli-del-fisco-dati-di-luglio-dellagenzia-delle-entrate.html",
-        "date": "2026-07-30T00:00:00.000Z",
-        "summary": "Sospensione notifica atti ad agosto: l'Agenzia delle Entrate traccia dati e calendario in smentita di notizie false diffuse nel web"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Dazi USA sul lavoro forzato le nuove misure Section 301 colpiscono anche lUnione europea",
         "link": "https://www.fiscoetasse.com/approfondimenti/17355-dazi-usa-sul-lavoro-forzato-le-nuove-misure-section-301-colpiscono-anche-lunione-europea.html",
         "date": "2026-07-29T00:00:00.000Z",
@@ -266,14 +266,6 @@
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196141/RIS_n_27_del_23_07_2026/210a18fd-c714-bb16-878b-c75d566ad98a",
         "date": "2026-07-23T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Sport grandi eventi 2026 fisco lavoro tiro a segno e carta didentit",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13602-dl-sport-1082026-fisco-lavoro-tiro-a-segno-e-carta-didentita.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "America's Cup, contratti a termine, società sportive, tiro a segno e proroga della carta d'identità: le novità del DL 108/2026 in fase di conversione"
       },
       {
         "category": "fiscale",
@@ -542,26 +534,26 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Addizionale sui compensi variabili dei dirigenti e amministratori del settore finanziario - Esclusione in caso di versamento del doppio dell'importo agli ETS - Disposizioni attuative (provv. Agenzia delle Entrate 30.7.2026 n. 223895) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115581",
-        "date": "31/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 31.7.2026 - \"Pronte le regole per evitare l’addizionale IRPEF del 10% con versamento all’ETS\" - Redazione"
+        "title": "OIC 5 \"Bilanci di liquidazione\" - Pubblicazione della nuova versione da parte dell'OIC (16.7.2026) - Criteri di valutazione di attività e passività (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115597",
+        "date": "2026-03-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 3.8.2026 - \"Con il nuovo OIC 5 attività immobilizzate al minore tra valore contabile e di realizzazione\" - De Rosa S. - Devalle A."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Negozio fiduciario \"a catena\" - Violazione - Risarcimento del danno (Cass. 15.6.2023 n. 17151) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=980921",
-        "date": "31/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 31.7.2026 - \"Risarcimento del danno anche con violazione del patto fiduciario “a catena”\" - Vanti A."
+        "title": "Clausola di co-vendita (tag-along) - Interpretazione (Cass. 20.5.2026 n. 15178) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114585",
+        "date": "2026-03-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 3.8.2026 - \"La co-vendita non sfugge ai criteri di interpretazione contrattuali\" - Meoli M."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Cessione dell’unica azienda - Atto sostanzialmente modificativo dell'oggetto sociale - Assenza di previa delibera assembleare – Inefficacia (Cass. 30.7.2026 n. 24244) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115577",
-        "date": "31/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 31.7.2026 - \"Cessione dell’unica azienda della srl inefficace senza la delibera dei soci\" - Valinotti M."
+        "title": "Ricorso tributario notificato in agosto - Validità (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113334",
+        "date": "2026-03-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 3.8.2026 - \"Ricorso valido se notificato nel mese di agosto\" - Cissello A."
       },
       {
         "category": "fiscale",
@@ -614,8 +606,96 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "L’Approfondimento: L’adesione al CPB 2026/2027 apre al ravvedimento speciale per il 2023 anche per chi rinnova",
-        "link": "https://www.mysolution.it/fisco/approfondimenti/circolare-monografica/2026/08/lapprofondimento-ladesione-al-cpb-20262027-apre-al-ravvedimento-speciale-per-il-2023-anche-per-chi-rinnova-poggiani/",
+        "title": "Sospensione termini processuali alla prova del ricorso",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/sospensione-termini-processuali-alla-prova-del-ricorso/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Lunedì 14 settembre, ore 9.00, 3ª Giornata del Mini Master Revisione Legale Ed. 1/2026",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/mini-master-revisione-legale-ed.-12026",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Decreto Omnibus: paletti alle presunzioni fiscali",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/decreto-omnibus-il-parere-del-senato-mette-dei-paletti-alle-presunzioni-in-sede-di-accertamento/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Delega unica intermediari: online la guida aggiornata delle Entrate",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/delega-unica-intermediari-online-la-guida-aggiornata-delle-entrate/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "In G.U. il decreto di riordino del sistema di incentivi alle imprese",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/in-gu-il-decreto-di-riordino-del-sistema-di-incentivi-alle-imprese/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Dividendo da società residente in Spagna: credito estero recuperabile in Italia",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/dividendo-da-societa-residente-in-spagna-credito-estero-recuperabile-in-italia/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Maltempo nelle Marche, ufficiale lo stato di emergenza per l’area del Piceno",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/maltempo-nelle-marche-ufficiale-lo-stato-di-emergenza-per-larea-del-piceno/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Campi Flegrei: CNDCEC e ANC chiedono la proroga di adempimenti e versamenti",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/sisma-campi-flegrei-cndcec-e-anc-chiedono-la-proroga-di-adempimenti-e-versamenti/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Fiere e Carnet ATA digitale, dal 1° giugno è partita la fase transitoria",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/carnet-ata-digitale-dal-1-giugno-e-partita-la-fase-transitoria/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Riforma delle professioni, approvata al Senato la delega per 15 ordini professionali",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/riforma-delle-professioni-approvata-al-senato-la-delega-per-15-ordini-professionali/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "In pagamento l’indennità una tantum ai lavoratori autonomi di Calabria, Sardegna e Sicilia",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/04/in-pagamento-lindennita-una-tantum-ai-lavoratori-autonomi-di-calabria-sardegna-e-sicilia/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Dichiarazione 770/2026 - Guida alla compilazione",
+        "link": "https://www.mysolution.it/fisco/guide/guide-dichiarazioni/2026/dichiarazione-770-2026-guida-alla-compilazione/",
         "date": "2026-08-03T00:00:00.000Z",
         "summary": ""
       },
@@ -629,62 +709,94 @@
       },
       {
         "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Superbonus: quando scatta l’obbligo di aggiornamento catastale",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/superbonus-quando-scatta-lobbligo-di-aggiornamento-catastale/",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Transizione 4.0: proroga al 15 settembre per la comunicazione di completamento",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/transizione-4.0-proroga-al-15-settembre-per-la-comunicazione-di-completamento",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Atti digitali e imposta di bollo: dirimente la natura del documento",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/atti-digitali-e-imposta-di-bollo-dirimente-la-natura-del-documento/",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Bilancio ETS: analisi tecnico-contabile aggiornata con gli ultimi orientamenti operativi e di prassi",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/bilancio-ets-analisi-tecnico-contabile-aggiornata-con-gli-ultimi-orientamenti-operativi-e-di-prassi/",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Borse di studio Its Academy: esenzione IRPEF",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/borse-di-studio-its-academy.-esenzione-irpef",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Dichiarazioni semestrali gas ed energia elettrica, i chiarimenti ADM sulla compilazione dei nuovi modelli",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/03/dichiarazioni-semestrali-gas-ed-energia-elettrica-i-chiarimenti-adm-sulla-compilazione-dei-nuovi-modelli/",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Mercoledì 16 settembre, ore 9.30, \"Le novità fiscali dopo l’estate\" - Master MySolution Fisco 2026/2027",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/07/31/le-novita-fiscali-dopo-lestate/",
-        "date": "2026-07-31T00:00:00.000Z",
-        "summary": ""
+        "source": "Eutekne - Feed RSS",
+        "title": "Credito d'imposta per investimenti in beni materiali 4.0 - Comunicazione di completamento - Termine di presentazione - Proroga al 15.9.2026 (comunicato MIMIT 31.7.2026) (Tratto dalla Rassegna Prassi)",
+        "link": "https://www.eutekne.it/Servizi/RassegnaPrassi/recensione.aspx?id=1115711",
+        "date": "2026-03-08T00:00:00.000Z",
+        "summary": "Comunicato Ministero delle Imprese e del made in Italy 31.7.2026"
       }
     ],
     "contabile": [
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sei milioni di case vacanza affrontano il taglio degli sconti per le ristrutturazioni",
+        "link": "https://www.ilsole24ore.com/art/sei-milioni-case-vacanza-affrontano-taglio-sconti-le-ristrutturazioni-AJP2mzb",
+        "date": "2026-08-04T03:04:13.000Z",
+        "summary": "Bonus ridotti al 36% per questi immobili ma in prospettiva potrebbero arrivare nuove riduzioni"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Borse di studio per studenti Its: dal 2025 scatta la non imponibilità  Irpef",
+        "link": "https://www.ilsole24ore.com/art/borse-studio-studenti-its-2025-scatta-non-imponibilita-irpef-AJYS6od",
+        "date": "2026-08-04T03:02:01.000Z",
+        "summary": "Non producendo un reddito assimilato a quello di lavoro dipendente, non devono essere indicate nei modelli dichiarativi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Dichiarazioni correttive senza sanzioni ma con attenzione ai versamenti",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4364-dichiarazioni-correttive-senza-sanzioni-ma-con-attenzione-ai-versamenti.html",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": "La dichiarazione correttiva senza sanzioni: esempio pratico e risvolti dichiarativi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Progetti assistenza alle vittime di tratta nuovi fondi per il Terzo Settore",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4363-progetti-assistenza-alle-vittime-di-tratta-nuovi-fondi-per-il-terzo-settore.html",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": "Pubblicato il bando  8 2026 per la partecipazione a progetti di assistenza delle vittime di tratta  in collaborazione con gli enti territoriali."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Omesse ritenute per il reato  il calcolo si basa sulle retribuzioni pagate",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4362-omesse-ritenute-reato-per-le-retribuzioni-pagate-non-dovute.html",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": "Cassazione n. 27123/2026  precisa ill calcolo dei contributi omessi da fare sulle somme realmente corrisposte ai lavoratori, non su quelle solo dovute per contratto."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Il Fisco pu cambiare idea La tutela europe dellaffidamento del contribuente",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17354-il-fisco-puo-cambiare-idea-la-tutela-europe-dellaffidamento-del-contribuente.html",
+        "date": "2026-08-04T00:00:00.000Z",
+        "summary": "L'applicabilità dei principi eurounitari al diritto tributario nazionale"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Via libera del Senato alla riforma di 15 ordini professionali",
+        "link": "https://www.ilsole24ore.com/art/via-libera-senato-riforma-15-ordini-professionali-AJHJVmd",
+        "date": "2026-08-03T16:45:00.000Z",
+        "summary": "Con 81 voti favorevoli, nessun contrario e 50 astensioni, lunedì 3 agosto, l’aula del Senato ha approvato il disegno di legge 1663 di delega al Governo per la riforma della..."
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Studentati, crescono i posti letto ma resta il gap con i principali Paesi europei",
+        "link": "https://www.ilsole24ore.com/art/studentati-crescono-posti-letto-ma-resta-gap-i-principali-paesi-europei-AJlj9Vc",
+        "date": "2026-08-03T16:42:39.000Z",
+        "summary": "Per la platea di 650mila universitari tra fuori sede, internazionali ed Erasmus il tasso di copertura è oggi al 12%, con 80mila alloggi attivi tra pubblico e privato. Dalla spinta del Pnrr altre 30mila unità in arrivo nel 2027"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Sisma Campi Flegrei, i Commercialisti chiedono la proroga dei versamenti",
+        "link": "https://press-magazine.it/sisma-campi-flegrei-i-commercialisti-chiedono-la-proroga-dei-versamenti/",
+        "date": "2026-08-03T12:53:00.000Z",
+        "summary": "Assumere i provvedimenti necessari per disporre una congrua proroga dei termini in materia di adempimenti e versamenti tributari e contributivi nella zona dei Campi Flegrei, in provincia di Napoli, interessata dal sisma dello scorso 31 luglio. […]"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Concorso Senato 2026 con 30 posti di Segretario Chi puo partecipare",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17359-concorso-senato-2026-30-posti-di-segretario-parlamentare.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "Il Senato ha indetto un concorso per 30 Segretari parlamentari: requisiti d'età e laurea, scadenza domanda, profili , prove d'esame. Stipendio"
+      },
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
@@ -700,6 +812,14 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4359-bollo-su-concessioni-niente-forfait-per-contratti-e-atti-privati.html",
         "date": "2026-08-03T00:00:00.000Z",
         "summary": "L'Agenzia delle Entrate chiarisce che il regime forfettario di 16 euro per gli atti telematici vale solo per i provvedimenti della PA, non per i contratti"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Il TCF per le imprese minori il regime opzionale e le novit del correttivo",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17357-il-tcf-per-le-imprese-minori-il-regime-opzionale-e-le-novita-del-correttivo.html",
+        "date": "2026-08-03T00:00:00.000Z",
+        "summary": "Come funziona, quali sono i benefici, in cosa si distingue il TCF dall'adempimento collaborativo e cosa cambia con il decreto correttivo omnibus 2026."
       },
       {
         "category": "contabile",
@@ -736,14 +856,6 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "«Liberi di scegliere», dal 9 agosto tutele per i minori che vogliono affrancarsi da contesti mafiosi",
-        "link": "https://www.ilsole24ore.com/art/liberi-scegliere-9-agosto-tutele-i-minori-che-vogliono-affrancarsi-contesti-mafiosi-AJLFfYb",
-        "date": "2026-08-01T03:02:11.000Z",
-        "summary": "Dalle soluzioni abitative al cambio di generalità “Liberi di scegliere” mette in campo misure per minori e famiglie che vogliono uscire dagli ambienti della criminalità organizzata"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Carceri, annunciato lo stop alle udienze dei penalisti dal 23 al 29 settembre",
         "link": "https://www.ilsole24ore.com/art/carceri-annunciato-stop-udienze-penalisti-23-29-settembre-AJu15qb",
         "date": "2026-07-31T16:44:00.000Z",
@@ -772,30 +884,6 @@
         "link": "https://press-magazine.it/terzo-settore-dai-commercialisti-un-volume-sui-bilanci-2/",
         "date": "2026-07-31T08:30:23.000Z",
         "summary": "Il Consiglio e la Fondazione nazionali dei commercialisti hanno pubblicato il volume “Il bilancio degli enti del Terzo settore. Un’analisi normativa e tecnico-contabile alla luce della più recente prassi ministeriale e operativa”. La pubblicazione, curata da […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Elettrodomestici e non solo, da oggi il diritto alla riparazione nei Paesi Ue",
-        "link": "https://www.ilsole24ore.com/art/beni-difettosi-31-luglio-parte-diritto-riparazione-paesi-ue-AJSaH6Y",
-        "date": "2026-07-31T07:12:00.000Z",
-        "summary": "Gli Stati membri dovranno aver completato il recepimento della direttiva che punta a promuovere il ripristino di articoli poco funzionanti ma ripristinabili. Italia per ora fuori: non ha emanato il Dlgs attuativo nei tempi"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Minori online, togliere valore sociale alle piattaforme con divieti e formazione",
-        "link": "https://www.ilsole24ore.com/art/minori-online-togliere-valore-sociale-piattaforme-divieti-e-formazione-AJTknVa",
-        "date": "2026-07-31T03:08:00.000Z",
-        "summary": "In aumento le correlazioni negative fra accesso precoce e benessere psico-fisico dei pre-adolescenti"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cassazione: No a nuove prove basate sull’intelligenza artificiale",
-        "link": "https://www.ilsole24ore.com/art/cassazione-no-nuove-prove-basate-sull-intelligenza-artificiale-AJpeDra",
-        "date": "2026-07-31T03:04:14.000Z",
-        "summary": "Da dimostrare il valore scientifico del software per i dati biometrici della voce"
       },
       {
         "category": "contabile",
@@ -879,46 +967,6 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus Assonime chiede nuove correzioni cosa cambia per IVA e imprese",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4347-decreto-omnibus-assonime-chiede-nuove-correzioni-cosa-cambia-per-iva-e-imprese.html",
-        "date": "2026-07-30T00:00:00.000Z",
-        "summary": "Dalla detrazione IVA alle azioni proprie, fino a plusvalenze, perdite fiscali e holding familiari: le proposte presentate alle Commissioni parlamentari"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Dichiarazione doganale ladempimento spontaneo",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17353-dichiarazione-doganale-ladempimento-spontaneo.html",
-        "date": "2026-07-30T00:00:00.000Z",
-        "summary": "Agenzia delle dogane: adempimento spontaneo della revisione della dichiarazione e ravvedimento operoso"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Agevolazioni auto green risorse gi esaurite resta il contributo per le colonnine",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4346-agevolazioni-auto-green-risorse-gia%20-esaurite-resta-il-contributo-le-colonnine.html",
-        "date": "2026-07-30T00:00:00.000Z",
-        "summary": "Il MIMIT da il via alle domande per due misure previste dal Decreto Automitive 2026: bonus per veicoli commerciali e retrofit. In un giorno terminate le risorse"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Federalismo enti locali il Governo procede malgrado le Regioni",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4343-federalismo-enti-locali-il-governo-procede-malgrado-le-regionihtml",
-        "date": "2026-07-30T00:00:00.000Z",
-        "summary": "Federalismo fiscale regionale: la conferenza unificata boccia il Governo che procede l'iter di riforma con delibera del 29 luglio"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "I controlli del Fisco dati di luglio dellAgenzia delle Entrate",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4342-i-controlli-del-fisco-dati-di-luglio-dellagenzia-delle-entrate.html",
-        "date": "2026-07-30T00:00:00.000Z",
-        "summary": "Sospensione notifica atti ad agosto: l'Agenzia delle Entrate traccia dati e calendario in smentita di notizie false diffuse nel web"
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Dai Commercialisti una memoria sulla riforma dell’ordinamento della magistratura tributaria",
         "link": "https://press-magazine.it/dai-commercialisti-una-memoria-sulla-riforma-dellordinamento-della-magistratura-tributaria/",
@@ -967,43 +1015,27 @@
       },
       {
         "category": "contabile",
-        "source": "CNDCEC - Comunicati",
-        "title": "Sovraindebitamento, il corso di 40 ore non sarà acquistabile dal 7 al 31 agosto 2026",
-        "link": "https://press-magazine.it/sovraindebitamento-il-corso-di-40-ore-non-sara-fruibile-dal-7-al-31-agosto-2026/",
-        "date": "2026-07-27T08:30:24.000Z",
-        "summary": "Dal 7 al 31 agosto 2026 non sarà possibile fruire del corso di formazione e aggiornamento e-learning di 40 ore “Procedure di composizione della crisi da sovraindebitamento“, organizzato dal Consiglio Nazionale dei Commercialisti, dalla sua Fondazione […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Sport grandi eventi 2026 fisco lavoro tiro a segno e carta didentit",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13602-dl-sport-1082026-fisco-lavoro-tiro-a-segno-e-carta-didentita.html",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": "America's Cup, contratti a termine, società sportive, tiro a segno e proroga della carta d'identità: le novità del DL 108/2026 in fase di conversione"
+        "source": "Eutekne - Feed RSS",
+        "title": "OIC 5 \"Bilanci di liquidazione\" - Pubblicazione della nuova versione da parte dell'OIC (16.7.2026) - Criteri di valutazione di attività e passività (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115597",
+        "date": "2026-03-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 3.8.2026 - \"Con il nuovo OIC 5 attività immobilizzate al minore tra valore contabile e di realizzazione\" - De Rosa S. - Devalle A."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Addizionale sui compensi variabili dei dirigenti e amministratori del settore finanziario - Esclusione in caso di versamento del doppio dell'importo agli ETS - Disposizioni attuative (provv. Agenzia delle Entrate 30.7.2026 n. 223895) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115581",
-        "date": "31/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 31.7.2026 - \"Pronte le regole per evitare l’addizionale IRPEF del 10% con versamento all’ETS\" - Redazione"
+        "title": "Clausola di co-vendita (tag-along) - Interpretazione (Cass. 20.5.2026 n. 15178) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114585",
+        "date": "2026-03-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 3.8.2026 - \"La co-vendita non sfugge ai criteri di interpretazione contrattuali\" - Meoli M."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Negozio fiduciario \"a catena\" - Violazione - Risarcimento del danno (Cass. 15.6.2023 n. 17151) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=980921",
-        "date": "31/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 31.7.2026 - \"Risarcimento del danno anche con violazione del patto fiduciario “a catena”\" - Vanti A."
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Cessione dell’unica azienda - Atto sostanzialmente modificativo dell'oggetto sociale - Assenza di previa delibera assembleare – Inefficacia (Cass. 30.7.2026 n. 24244) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115577",
-        "date": "31/07/2026",
-        "summary": "Il Quotidiano del Commercialista del 31.7.2026 - \"Cessione dell’unica azienda della srl inefficace senza la delibera dei soci\" - Valinotti M."
+        "title": "Ricorso tributario notificato in agosto - Validità (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113334",
+        "date": "2026-03-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 3.8.2026 - \"Ricorso valido se notificato nel mese di agosto\" - Cissello A."
       },
       {
         "category": "contabile",
@@ -1052,75 +1084,123 @@
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457648",
         "date": "15/07/2026",
         "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Credito d'imposta per investimenti in beni materiali 4.0 - Comunicazione di completamento - Termine di presentazione - Proroga al 15.9.2026 (comunicato MIMIT 31.7.2026) (Tratto dalla Rassegna Prassi)",
+        "link": "https://www.eutekne.it/Servizi/RassegnaPrassi/recensione.aspx?id=1115711",
+        "date": "2026-03-08T00:00:00.000Z",
+        "summary": "Comunicato Ministero delle Imprese e del made in Italy 31.7.2026"
       }
     ],
     "lavoro": [
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Bonus Giovani, Donne e ZES unica: domande all’INPS entro il 30 settembre 2026",
-        "link": "https://www.mysolution.it/lavoro/approfondimenti/circolare-monografica/2026/08/bonus-giovani-donne-e-zes-unica-domande-allinps-entro-il-30-settembre-2026/",
-        "date": "2026-08-03T00:00:00.000Z",
+        "title": "Circolare per il Cliente del 4 agosto 2026, n. 310",
+        "link": "https://www.mysolution.it/lavoro/informative/circolare-cliente/20262/082/circolare-per-il-cliente-del-4-agosto-2026-n.-310",
+        "date": "2026-08-04T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "In GU il bando per la concessione di contributi per la realizzazione di interventi a favore degli stranieri e dei cittadini vittime di grave sfruttamento lavorativo",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/in-gu-il-bando-per-la-concessione-di-contributi-per-la-realizzazione-di-interventi-a-favore-degli-stranieri-e-dei-cittadini-vittime-di-grave-sfruttamento-lavorativo/",
-        "date": "2026-08-03T00:00:00.000Z",
+        "title": "CCNL Comparto Sanità: siglata l’Ipotesi di rinnovo",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/04/siglato-laccordo-di-rinnovo-del-ccnl-sanita-personale-non-medico/",
+        "date": "2026-08-04T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Borse di studio negli ITS Academy: i chiarimenti dell’AE sull’esenzione IRPEF",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/borse-di-studio-negli-its-academy-i-chiarimenti-dellae-sullesenzione-irpef/",
-        "date": "2026-08-03T00:00:00.000Z",
+        "title": "Sicurezza nei cantieri ed obblighi del coordinatore di aggiornamento del piano di sicurezza",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/04/sicurezza-nei-cantieri-ed-obblighi-del-coordinatore-di-aggiornamento-del-piano-di-sicurezza/",
+        "date": "2026-08-04T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Bonus/stock options variabili ed addizionale del 10%: i chiarimenti dell’AE",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/bonusstock-options-variabili-ed-addizionale-del-10-i-chiarimenti-dellae/",
-        "date": "2026-08-03T00:00:00.000Z",
+        "title": "CCNL Enel: sottoscritto l'accordo sull'IA",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/04/sottoscritto-laccordo-sullia-nel-ccnl-enel/",
+        "date": "2026-08-04T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Inserimento lavorativo di detenuti ed ex detenuti: al via l'iniziativa congiunta tra CNEL e ANAC",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/al-via-liniziativa-congiunta-tra-cnel-e-anac-per-linserimento-lavorativo-di-detenuti-ed-ex-detenuti/",
-        "date": "2026-08-03T00:00:00.000Z",
+        "title": "Dimissioni per giusta causa ed accesso all’indennità di disoccupazione NASpI",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/04/inps-dimissioni-per-giusta-causa-ed-accesso-allindennita-di-disoccupazione-naspi/",
+        "date": "2026-08-04T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Occupati/disoccupati a giugno 2026: pubblicata da ISTAT la nota metodologica",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/pubblicata-da-istat-la-nota-metodologica-su-occupatidisoccupati-a-giugno-2026/",
-        "date": "2026-08-03T00:00:00.000Z",
+        "title": "In pagamento l’indennità Una Tantum ai lavoratori autonomi di Calabria, Sardegna e Sicilia",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/04/inps-in-pagamento-lindennita-una-tantum-ai-lavoratori-autonomi-di-calabria-sardegna-e-sicilia/",
+        "date": "2026-08-04T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "CNEL: pubblicato il III rapporto sul mismatch tra domanda e offerta di lavoro",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/pubblicato-dal-cnel-il-iii-rapporto-sul-mismatch-tra-domanda-e-offerta-di-lavoro/",
-        "date": "2026-08-03T00:00:00.000Z",
+        "title": "In GU il decreto di revisione del sistema degli incentivi",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/04/in-gu-il-decreto-di-revisione-del-sistema-degli-incentivi/",
+        "date": "2026-08-04T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Osservatorio CIG: pubblicati i dati del secondo trimestre 2026",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/03/osservatorio-cig-pubblicati-i-dati-del-secondo-trimestre-2026/",
-        "date": "2026-08-03T00:00:00.000Z",
+        "title": "Convenzione INPS-FGU per la riscossione dei contributi sindacali sulle prestazioni pensionistiche",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/04/inps-le-istruzioni-sulla-convenzione-stipulata-con-fgu-per-la-riscossione-dei-contributi-sindacali-sulle-prestazioni-pensionistiche/",
+        "date": "2026-08-04T00:00:00.000Z",
         "summary": ""
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Certosa District, in arrivo co-living, formazione e nuove imprese",
+        "link": "https://www.ilsole24ore.com/art/certosa-district-arrivo-co-living-formazione-e-nuove-imprese-AJz65gT",
+        "date": "2026-08-03T15:35:00.000Z",
+        "summary": "Nel quartiere a nord-ovest di Milano recuperati 75mila mq, tra un hub per la formazione, 187 appartamenti e 6mila mq di verde. A settembre, Rossignol inaugura la sede italiana. Nuova società estera entro l’anno. Investimento globale, oltre 300 milioni"
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Roma aggiorna il Piano regolatore: nuove regole e incentivi per rilanciare la rigenerazione urbana",
+        "link": "https://www.ilsole24ore.com/art/roma-aggiorna-piano-regolatore-nuove-regole-e-incentivi-rilanciare-rigenerazione-urbana-AJmgXmd",
+        "date": "2026-08-03T15:33:00.000Z",
+        "summary": "Più certezza delle regole, procedure semplificate e incentivi volumetrici per riattivare gli investimenti nella città esistente, a partire dai 9mila ettari di aree periferiche in cui i programmi di rigenerazione..."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Requadro.com – 3.8.2026 – Spin Time, l’incendio riapre la ferita occupazioni: il problema abitativo non può diventare licenza d’illegalità",
+        "link": "https://www.confedilizia.it/requadro-com-3-8-2026-spin-time-lincendio-riapre-la-ferita-occupazioni-il-problema-abitativo-non-puo-diventare-licenza-dillegalita/",
+        "date": "2026-08-03T14:44:33.000Z",
+        "summary": "L'articolo Requadro.com – 3.8.2026 – Spin Time, l’incendio riapre la ferita occupazioni: il problema abitativo non può diventare licenza d’illegalità sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Scadenzario Tributario Agosto 2026",
+        "link": "https://www.confedilizia.it/scadenzario-tributario-agosto-2026/",
+        "date": "2026-08-03T09:44:40.000Z",
+        "summary": "L'articolo Scadenzario Tributario Agosto 2026 sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Monetaweb.it – 3.8.2026 – Spaziani Testa (Confedilizia): «La direttiva Case green va completamente rivista. Serve subito un’alleanza contro queste regole Ue»",
+        "link": "https://www.confedilizia.it/monetaweb-it-3-8-2026-spaziani-testa-confedilizia-la-direttiva-case-green-va-completamente-rivista-serve-subito-unalleanza-contro-queste-regole-ue/",
+        "date": "2026-08-03T08:57:37.000Z",
+        "summary": "L'articolo Monetaweb.it – 3.8.2026 – Spaziani Testa (Confedilizia): «La direttiva Case green va completamente rivista. Serve subito un’alleanza contro queste regole Ue» sembra essere il primo su Confedilizia."
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1235,30 +1315,6 @@
       },
       {
         "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "CONFEDILIZIA COMO: Corso di formazione periodica per amministratori di condominio 11.9.2026 – 25.9.2026",
-        "link": "https://www.confedilizia.it/confedilizia-como-corso-di-formazione-periodica-per-amministratori-di-condominio-11-9-2026-25-9-2026/",
-        "date": "2026-07-30T08:15:27.000Z",
-        "summary": "CONFEDILIZIA COMO organizza un corso di formazione periodica per amministratori di condominio\nL'articolo CONFEDILIZIA COMO: Corso di formazione periodica per amministratori di condominio 11.9.2026 – 25.9.2026 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "CONFEDILIZIA PISA: Corso di formazione periodica per amministratori di condominio 11.9.2026 – 14.9.2026",
-        "link": "https://www.confedilizia.it/confedilizia-pisa-corso-di-formazione-periodica-per-amministratori-di-condominio-11-9-2026-14-9-2026/",
-        "date": "2026-07-30T08:12:22.000Z",
-        "summary": "CONFEDILIZIA PISA organizza un corso di formazione periodica per amministratori di condominio\nL'articolo CONFEDILIZIA PISA: Corso di formazione periodica per amministratori di condominio 11.9.2026 – 14.9.2026 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "CONFEDILIZIA BOLOGNA: Corso di formazione periodica per amministratori di condominio 19.6.2026 – 2.10.2026",
-        "link": "https://www.confedilizia.it/confedilizia-bologna-corso-di-formazione-periodica-per-amministratori-di-condominio-19-6-2026-2-10-2026/",
-        "date": "2026-07-30T08:10:30.000Z",
-        "summary": "CONFEDILIZIA BOLOGNA organizza un corso di formazione periodica per amministratori di condominio\nL'articolo CONFEDILIZIA BOLOGNA: Corso di formazione periodica per amministratori di condominio 19.6.2026 – 2.10.2026 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "DeA Capital Real Estate sceglie Emiliano Ranati come nuovo amministratore delegato",
         "link": "https://www.ilsole24ore.com/art/dea-capital-real-estate-sceglie-emiliano-ranati-come-nuovo-amministratore-delegato-AJpKjtY",
@@ -1284,14 +1340,6 @@
       {
         "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Covivio, Alexei Dal Pastro e Aude Grant nuovi deputy ceo. Kullmann confermato alla guida",
-        "link": "https://www.ilsole24ore.com/art/covivio-alexei-pastro-e-aude-grant-nuovi-deputy-ceo-kullmann-confermato-guida-AJ3LyCQ",
-        "date": "2026-07-20T15:07:20.000Z",
-        "summary": "Il manager italiano assumerà il nuovo incarico dal 1° gennaio 2027, ma manterrà anche i ruoli attuali. L’amministratore delegato rinnovato per altri quattro anni"
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "Dea Capital Re, green loan da 300 milioni per il Four Seasons a Roma",
         "link": "https://www.ilsole24ore.com/art/dea-capital-re-green-loan-300-milioni-il-four-seasons-AJyCz7P",
         "date": "2026-07-20T14:02:00.000Z",
@@ -1304,14 +1352,6 @@
         "link": "https://www.ilsole24ore.com/art/azora-punta-sull-italia-nuova-sede-milano-e-15-miliardi-investimenti-arrivo-AJP9MtL",
         "date": "2026-07-16T13:43:00.000Z",
         "summary": "Azora accelera il proprio sviluppo sul mercato italiano con l’apertura di una nuova sede a Milano e un piano di ulteriori investimenti per 1,5 miliardi di euro nei prossimi anni...."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Arrow Global rafforza la piattaforma immobiliare italiana e acquisisce Borio Mangiarotti",
-        "link": "https://www.ilsole24ore.com/art/arrow-global-rafforza-piattaforma-immobiliare-italiana-e-acquisisce-borio-mangiarotti-AJmwtYL",
-        "date": "2026-07-16T09:20:00.000Z",
-        "summary": "Dopo il via libera dell’Antitrust arrivato lo scorso marzo, Borio Mangiarotti passa ufficialmente sotto il controllo di Arrow Global. Il gruppo britannico, tra i principali operatori europei nell’asset management alternativo..."
       }
     ],
     "contenzioso": [
@@ -1400,18 +1440,50 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Società di capitali, tengono i ricavi e fatturato in crescita dal 2025",
-        "link": "https://www.ilsole24ore.com/art/societa-capitali-tengono-ricavi-e-fatturato-crescita-2025-AJCRozb",
-        "date": "2026-08-01T03:04:32.000Z",
-        "summary": "Pubblicato il documento dell’Osservatorio Bilanci della Fondazione nazionale dei commercialisti; crescono dell’1,9% i ricavi al Sud e dell’1,7% al Centro, in calo al Nord"
+        "title": "Sei milioni di case vacanza affrontano il taglio degli sconti per le ristrutturazioni",
+        "link": "https://www.ilsole24ore.com/art/sei-milioni-case-vacanza-affrontano-taglio-sconti-le-ristrutturazioni-AJP2mzb",
+        "date": "2026-08-04T03:04:13.000Z",
+        "summary": "Bonus ridotti al 36% per questi immobili ma in prospettiva potrebbero arrivare nuove riduzioni"
       },
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "«Liberi di scegliere», dal 9 agosto tutele per i minori che vogliono affrancarsi da contesti mafiosi",
-        "link": "https://www.ilsole24ore.com/art/liberi-scegliere-9-agosto-tutele-i-minori-che-vogliono-affrancarsi-contesti-mafiosi-AJLFfYb",
-        "date": "2026-08-01T03:02:11.000Z",
-        "summary": "Dalle soluzioni abitative al cambio di generalità “Liberi di scegliere” mette in campo misure per minori e famiglie che vogliono uscire dagli ambienti della criminalità organizzata"
+        "title": "Borse di studio per studenti Its: dal 2025 scatta la non imponibilità  Irpef",
+        "link": "https://www.ilsole24ore.com/art/borse-studio-studenti-its-2025-scatta-non-imponibilita-irpef-AJYS6od",
+        "date": "2026-08-04T03:02:01.000Z",
+        "summary": "Non producendo un reddito assimilato a quello di lavoro dipendente, non devono essere indicate nei modelli dichiarativi"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Via libera del Senato alla riforma di 15 ordini professionali",
+        "link": "https://www.ilsole24ore.com/art/via-libera-senato-riforma-15-ordini-professionali-AJHJVmd",
+        "date": "2026-08-03T16:45:00.000Z",
+        "summary": "Con 81 voti favorevoli, nessun contrario e 50 astensioni, lunedì 3 agosto, l’aula del Senato ha approvato il disegno di legge 1663 di delega al Governo per la riforma della..."
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Studentati, crescono i posti letto ma resta il gap con i principali Paesi europei",
+        "link": "https://www.ilsole24ore.com/art/studentati-crescono-posti-letto-ma-resta-gap-i-principali-paesi-europei-AJlj9Vc",
+        "date": "2026-08-03T16:42:39.000Z",
+        "summary": "Per la platea di 650mila universitari tra fuori sede, internazionali ed Erasmus il tasso di copertura è oggi al 12%, con 80mila alloggi attivi tra pubblico e privato. Dalla spinta del Pnrr altre 30mila unità in arrivo nel 2027"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Sisma Campi Flegrei, i Commercialisti chiedono la proroga dei versamenti",
+        "link": "https://press-magazine.it/sisma-campi-flegrei-i-commercialisti-chiedono-la-proroga-dei-versamenti/",
+        "date": "2026-08-03T12:53:00.000Z",
+        "summary": "Assumere i provvedimenti necessari per disporre una congrua proroga dei termini in materia di adempimenti e versamenti tributari e contributivi nella zona dei Campi Flegrei, in provincia di Napoli, interessata dal sisma dello scorso 31 luglio. […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Società di capitali, tengono i ricavi e fatturato in crescita dal 2025",
+        "link": "https://www.ilsole24ore.com/art/societa-capitali-tengono-ricavi-e-fatturato-crescita-2025-AJCRozb",
+        "date": "2026-08-01T03:04:32.000Z",
+        "summary": "Pubblicato il documento dell’Osservatorio Bilanci della Fondazione nazionale dei commercialisti; crescono dell’1,9% i ricavi al Sud e dell’1,7% al Centro, in calo al Nord"
       },
       {
         "category": "crisi_impresa",
@@ -1444,30 +1516,6 @@
         "link": "https://press-magazine.it/terzo-settore-dai-commercialisti-un-volume-sui-bilanci-2/",
         "date": "2026-07-31T08:30:23.000Z",
         "summary": "Il Consiglio e la Fondazione nazionali dei commercialisti hanno pubblicato il volume “Il bilancio degli enti del Terzo settore. Un’analisi normativa e tecnico-contabile alla luce della più recente prassi ministeriale e operativa”. La pubblicazione, curata da […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Elettrodomestici e non solo, da oggi il diritto alla riparazione nei Paesi Ue",
-        "link": "https://www.ilsole24ore.com/art/beni-difettosi-31-luglio-parte-diritto-riparazione-paesi-ue-AJSaH6Y",
-        "date": "2026-07-31T07:12:00.000Z",
-        "summary": "Gli Stati membri dovranno aver completato il recepimento della direttiva che punta a promuovere il ripristino di articoli poco funzionanti ma ripristinabili. Italia per ora fuori: non ha emanato il Dlgs attuativo nei tempi"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Minori online, togliere valore sociale alle piattaforme con divieti e formazione",
-        "link": "https://www.ilsole24ore.com/art/minori-online-togliere-valore-sociale-piattaforme-divieti-e-formazione-AJTknVa",
-        "date": "2026-07-31T03:08:00.000Z",
-        "summary": "In aumento le correlazioni negative fra accesso precoce e benessere psico-fisico dei pre-adolescenti"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cassazione: No a nuove prove basate sull’intelligenza artificiale",
-        "link": "https://www.ilsole24ore.com/art/cassazione-no-nuove-prove-basate-sull-intelligenza-artificiale-AJpeDra",
-        "date": "2026-07-31T03:04:14.000Z",
-        "summary": "Da dimostrare il valore scientifico del software per i dati biometrici della voce"
       },
       {
         "category": "crisi_impresa",
@@ -1524,14 +1572,6 @@
         "link": "https://press-magazine.it/il-23-settembre-le-elezioni-per-il-comitato-nazionale-pari-opportunita/",
         "date": "2026-07-27T11:25:42.000Z",
         "summary": "Si svolgeranno il prossimo 23 settembre le elezioni dei 20 rappresentanti regionali del Comitato Nazionale Pari Opportunità (CNPO) dei commercialisti. Lo comunica agli Ordini locali della categoria il Consiglio nazionale presieduto da Elbano de Nuccio attraverso […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "CNDCEC - Crisi d'impresa",
-        "title": "Sovraindebitamento, il corso di 40 ore non sarà acquistabile dal 7 al 31 agosto 2026",
-        "link": "https://press-magazine.it/sovraindebitamento-il-corso-di-40-ore-non-sara-fruibile-dal-7-al-31-agosto-2026/",
-        "date": "2026-07-27T08:30:24.000Z",
-        "summary": "Dal 7 al 31 agosto 2026 non sarà possibile fruire del corso di formazione e aggiornamento e-learning di 40 ore “Procedure di composizione della crisi da sovraindebitamento“, organizzato dal Consiglio Nazionale dei Commercialisti, dalla sua Fondazione […]"
       }
     ],
     "finanza_agevolata": [
