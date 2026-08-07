@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T07:44:53.235Z",
+  "generatedAt": "2026-08-07T06:12:49.047Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -14,10 +14,106 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Lavoro a tempo determinato: solo il 10% è per occupazioni stagionali",
-        "link": "https://www.ilsole24ore.com/art/lavoro-tempo-determinato-solo-10-cento-e-occupazioni-stagionali-AJR0yod",
-        "date": "2026-08-06T03:10:00.000Z",
-        "summary": "Negli altri casi è usato per fare screening dei candidati o come sostituzione di posizione a tempo indeterminato"
+        "title": "Attrazioni, nei parchi divertimento arrivano anche le mini-nave radiocomandate",
+        "link": "https://www.ilsole24ore.com/art/attrazioni-parchi-divertimento-arrivano-anche-mini-nave-radiocomandate-AJgTElg",
+        "date": "2026-08-07T03:08:38.000Z",
+        "summary": "Si tratta di mini-imbarcazioni elettriche, controllate da remoto, che operano in vasche di 20-30 cm di acqua"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "TCF adempimento collaborativo scadenza 31 dicembre 2026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4378-adempimento-collaborativo-scade-il-31122026-il-tcf.html",
+        "date": "2026-08-07T00:00:00.000Z",
+        "summary": "L'Agenzia delle Entrate con la Circolare n.6/2026, chiarisce le scadenze di certificazione e attestazione del TCF, distinguendo i due binari temporali previsti per le imprese"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Decreto giustizia-migranti: cosa cambia per notai,  magistrati e avvocati",
+        "link": "https://www.ilsole24ore.com/art/decreto-giustizia-migranti-e-legge-cosa-cambia-avvocati-magistrati-e-notai-AJAvDcg",
+        "date": "2026-08-06T15:31:00.000Z",
+        "summary": "Dall’esame forense alla responsabilità professionale fino alla permanenza negli uffici. Le novità per gli operatori del diritto, slittamenti inclusi"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Carta d’identità: approvato il modello del documento provvisorio",
+        "link": "https://www.ilsole24ore.com/art/carta-d-identita-approvato-modello-documento-provvisorio-AJVTzjg",
+        "date": "2026-08-06T15:31:00.000Z",
+        "summary": "Fino al 31 dicembre 2027, in attesa della carta d’identità elettronica, può essere rilasciato con validità massima di sei mesi e non rinnovabile"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Legge antisprechi, anche piante e fiori fra i beni donabili dalle imprese",
+        "link": "https://www.ilsole24ore.com/art/legge-antisprechi-anche-piante-e-fiori-i-beni-donabili-imprese-AJoDSsf",
+        "date": "2026-08-06T03:06:27.000Z",
+        "summary": "Si allarga il paniere di prodotti che le aziende possono donare per il bene della collettività con il favore della leva fiscale"
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Adempimento collaborativo e novità della riforma fiscale. In una circolare i chiarimenti dell’Agenzia (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/cs-6-agosto-2026",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Interpello: Assoggettamento ad imposizione di un reddito erogato ad un lavoratore transfrontaliero residente in Francia dalla Banca d'Italia – rettifica risposta n. 132 del 02/07/2026 (risposta n. 154)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10272449/Risposta+n.+154_2026/c74f7b5b-c629-16fe-ab41-7009ea6e3961",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Testo Unico adempimenti e accertamento pubblicato in GU",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13607-testo-unico-adempimenti-e-accertamento-pubblicato-in-gu.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "Pubblicato il D.Lgs. 141/2026 che riunisce in un solo testo le norme su anagrafe tributaria, dichiarazioni, controlli e accertamento: contenuti e decorrenza dal 2027"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Adempimento collaborativo i chiarimenti dellAgenzia delle Entrate",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13606-adempimento-collaborativo-i-chiarimenti-dellagenzia-delle-entrate.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "Con la Circolare 6/E/2026 l'Agenzia delle Entrate chiarisce soglie di accesso, certificazione del TCF ed effetti premiali del regime di cooperative compliance"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Da Assonime chiarimenti sulla correzione degli errori contabili",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4377-da-assonime-chiarimenti-sulla-correzione-degli-errori-contabili.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "La circolare  chiarisce che per la correzione degli errori contabili con riconoscimento fiscale è centrale il requisito della revisione nell’esercizio in cui l’errore è corretto"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Liquidazione TFM e decadenza CdA rinomina amministratori senza pagamento",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4376-liquidazione-tfm-e-decadenza-cda-rinomina-amministratori-senza-pagamento.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "La decadenza formale del consiglio di amministrazione non comporta necessariamente la liquidazione del TFM, in particolare se gli amministratori vengono immediatamente rinominati"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Il correttivo Omnibus chiude la delega fiscale mappa ragionata delle novit",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17370-il-correttivo-omnibus-chiude-la-delega-fiscale-mappa-ragionata-delle-novita.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "Dal concordato preventivo biennale alla revisione degli accertamenti,  le misure che ridisegnano il rapporto tra Fisco e contribuenti. Vademecum scaricabile per gli studi"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Il dubbio dellattivit agricola connessa",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4375-il-dubbio-dellattivita-agricola-connessa.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "Il problema dell' imposizione come reddito agrario o come reddito di impresa delle “attività connesse” come allevamento o produzione alimentare,  nell'Interpello n. 151 2026"
       },
       {
         "category": "fiscale",
@@ -26,46 +122,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4374-disabili-al-via-le-valutazioni-per-il-progetto-di-vita-personalizzato-come-si-richiede.html",
         "date": "2026-08-06T00:00:00.000Z",
         "summary": "Le istruzioni INPS per richiedere  la valutazione multidimensionale della situazione di disabilità,  necessaria all'avvio del progetto di vita personalizzato previsto dalla Riforma"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Carceri minorili, cresce il controllo penale sui giovani",
-        "link": "https://www.ilsole24ore.com/art/carceri-minorili-cresce-controllo-penale-giovani-AJKJqff",
-        "date": "2026-08-05T14:30:46.000Z",
-        "summary": "I dati di Antigone confermano la stabilità delle presenze negli Ipm. Aumenta invece il carico ai servizi della Giustizia Minorile"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "It-Wallet in Gazzetta Ufficiale: cosa cambia per imprese e cittadini",
-        "link": "https://www.ilsole24ore.com/art/it-wallet-gazzetta-ufficiale-cosa-cambia-imprese-e-cittadini-AJpXkxe",
-        "date": "2026-08-05T03:10:00.000Z",
-        "summary": "Entro il 3 febbraio 2028, l’Istituto poligrafico e Zecca dello Stato potrà rilasciare gli attestati elettronici dopo aver verificato l’identità tramite Cie"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Vacanze estive e studenti: in Italia le più lunghe d’Europa",
-        "link": "https://www.ilsole24ore.com/art/vacanze-estive-e-studenti-italia-piu-lunghe-d-europa-AJNrbod",
-        "date": "2026-08-05T03:06:28.000Z",
-        "summary": "In Danimarca, Paesi Bassi e Germania, la sosta è la più breve: appena sei settimane"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Casa, obbligo di energie rinnovabili con i lavori di ristrutturazione",
-        "link": "https://www.ilsole24ore.com/art/casa-obbligo-energie-rinnovabili-i-lavori-ristrutturazione-AJXZ7Vd",
-        "date": "2026-08-05T03:02:00.000Z",
-        "summary": "Operative le norme che anticipano la direttiva Case green: interventi come il cappotto termico vanno accompagnati con fotovoltaico e pompe di calore"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Il dubbio dellattivit agricola connessa",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4375-il-dubbio-dellattivita-agricola-connessa.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Il problema dell' imposizione come reddito agrario o come reddito di impresa delle “attività connesse” come allevamento o produzione alimentare,  nell'Interpello n. 151 2026"
       },
       {
         "category": "fiscale",
@@ -142,22 +198,6 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Omesse ritenute per il reato il calcolo si fa solo sulle retribuzioni pagate",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4362-omesse-ritenute-reato-per-le-retribuzioni-pagate-non-dovute.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Cassazione n. 27123/2026  precisa ill calcolo dei contributi omessi da fare sulle somme realmente corrisposte ai lavoratori, non su quelle dovute per contratto."
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Case vacanze, per sei milioni taglio degli sconti per le ristrutturazioni",
-        "link": "https://www.ilsole24ore.com/art/sei-milioni-case-vacanza-affrontano-taglio-sconti-le-ristrutturazioni-AJP2mzb",
-        "date": "2026-08-04T03:04:00.000Z",
-        "summary": "Bonus ridotti al 36% per questi immobili ma in prospettiva potrebbero arrivare nuove riduzioni"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Decreto Omnibus modifiche attese su utili occulti costi pluriennali e valore normale",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4370-decreto-omnibus-modifiche-attese-su-utili-occulti-costi-pluriennali-e-valore-normale.html",
         "date": "2026-08-04T00:00:00.000Z",
@@ -178,46 +218,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4367-campi-flegrei-richiesta-la-sospensione-urgente-di-versamenti-e-adempimenti.html",
         "date": "2026-08-04T00:00:00.000Z",
         "summary": "I commercialistichiedono misure urgenti per rinviare scadenze fiscali, definizioni agevolate e contributi previdenziali nelle aree colpite dal sisma di fine luglio"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Le condizioni per lesenzione totale dal dazio nelle situazioni di emergenza",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17362-le-condizioni-per-lesenzione-totale-dal-dazio-nelle-situazioni-di-emergenza.html",
-        "date": "2026-08-04T00:00:00.000Z",
-        "summary": "La Cassazione chiarisce il concetto di emergenza ai fini dell’esenzione dai dazi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Dichiarazioni correttive senza sanzioni ma con attenzione ai versamenti",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4364-dichiarazioni-correttive-senza-sanzioni-ma-con-attenzione-ai-versamenti.html",
-        "date": "2026-08-04T00:00:00.000Z",
-        "summary": "La dichiarazione correttiva senza sanzioni: esempio pratico e risvolti dichiarativi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Progetti assistenza alle vittime di tratta nuovi fondi per il Terzo Settore",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4363-progetti-assistenza-alle-vittime-di-tratta-nuovi-fondi-per-il-terzo-settore.html",
-        "date": "2026-08-04T00:00:00.000Z",
-        "summary": "Pubblicato il bando  8 2026 per la partecipazione a progetti di assistenza delle vittime di tratta  in collaborazione con gli enti territoriali."
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Concorso Senato 2026 con 30 posti di Segretario Chi puo partecipare",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17359-concorso-senato-2026-30-posti-di-segretario-parlamentare.html",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": "Il Senato ha indetto un concorso per 30 Segretari parlamentari: requisiti d'età e laurea, scadenza domanda, profili , prove d'esame. Stipendio"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Donazione di quote dazienda quando non si perde lesenzione fiscale",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4360-holding-di-famiglia-la-donazione-di-quote-resta-esente-da-imposta.html",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": "L'Agenzia delle Entrate chiarisce che conferimenti e cessioni parziali di quote non fanno decadere l'esenzione se il beneficiario mantiene il controllo di diritto."
       },
       {
         "category": "fiscale",
@@ -357,22 +357,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Modalità di determinazione dell'imposta di bollo relativamente al libro giornale tenuto in modalità informatica, con particolare riferimento al criterio di computo della soglia delle 2.500 registrazioni o frazioni di esse tra diversi periodi di imposta – articolo 6 del d.m. 17 giugno 2014 (risposta n. 144)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+144_2026/6af4641f-26d6-abf0-fc92-979db53e7315",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Imposta sulle successioni e donazioni. Inapplicabilità dell'esenzione al trasferimento della nuda proprietà delle quote sociali con annessi diritti di voto per presenza di diritti particolari riservati al donante tali da non consentire l'integrazione effettiva del controllo di diritto in capo al beneficiario – Articolo 3, comma 4–ter, del TUSD (risposta n. 143)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+143_2026/cfa84a87-76af-276c-15cf-08a08789f309",
-        "date": "2026-07-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Novità",
         "title": "Adempimento collaborativo, aggiornate le linee guida sul rischio fiscale. Dal tavolo Entrate-OIC nuove indicazioni per le imprese (comunicato stampa)",
         "link": "https://www.agenziaentrate.gov.it/portale/-/adempimento-collaborativo-aggiornate-le-linee-guida-sul-rischio-fiscale.-dal-tavolo-entrate-oic-nuove-indicazioni-per-le-imprese",
@@ -426,6 +410,30 @@
         "link": "https://www.agenziaentrate.gov.it/portale/-/cs-10-giugno-2026",
         "date": "2026-06-10T00:00:00.000Z",
         "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Maggior reddito accertato in capo al socio - Limitazioni previste per la tassazione dei dividendi - Novità del DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116404",
+        "date": "2026-06-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 6.8.2026 - \"Codificata la presunzione di distribuzione degli utili ai soci\" - Boano A."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Accertamenti sulle componenti di reddito pluriennali - Annualità accertabile - Novità del DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116420",
+        "date": "2026-06-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 6.8.2026 - \"Accertamento del primo anno di deduzione dell’ammortamento entro la decadenza\" - Cissello A."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Rinnovo per il biennio 2026-2027 - Regime premiale - Novità del DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116376",
+        "date": "2026-06-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 6.8.2026 - \"Crescono gli incentivi con il rinnovo del CPB anche per il biennio 2026-2027\" - Girinelli A."
       },
       {
         "category": "fiscale",
@@ -509,42 +517,10 @@
       },
       {
         "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Ulteriori DLgs. attuativi - Approvazione definitiva da parte del Consiglio dei Ministri (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116345",
-        "date": "2026-05-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 5.8.2026 - \"Approvati in esame definitivo tre decreti attuativi della riforma fiscale\" - Redazione"
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Dividendi assoggettati a imposta sostitutiva - Credito per le imposte estere - Spettanza - Orientamenti giurisprudenziali (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116104",
-        "date": "2026-05-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 5.8.2026 - \"Strada più in salita per i rimborsi sui dividendi\" - Odetto G."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Vendite online effettuate direttamente dal gestore della piattaforma - Presupposto impositivo - Esclusione (C.G.T. I Milano 22.1.2026 n. 292/1/26) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115242",
-        "date": "2026-05-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 5.8.2026 - \"Nell’imposta sui servizi digitali discrimine tra marketplace e vendita in proprio\" - D’Amico G. - Pavanello A. P."
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Novità",
         "title": "730 precompilato, è adesso possibile visualizzare la dichiarazione. Dal pomeriggio del 14 maggio si parte con l’invio (comunicato stampa)",
         "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-30-aprile-730-precompilato-è-adesso-possibile-visualizzare-la-dichiarazione.-dal-pomeriggio-del-14-maggio-si-parte-con-l-invio",
         "date": "2026-04-30T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "730 precompilato ai nastri di partenza: dal pomeriggio del 30 aprile si può consultare online. Dal 14 maggio ok all’invio; per il click finale c’è tempo fino al 30 settembre 2026 (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-28-aprile-2026-730-precompilato-ai-nastri-di-partenza-dal-pomeriggio-del-30-aprile-si-può-consultare-online",
-        "date": "2026-04-28T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -598,81 +574,89 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Circolare per il Cliente 6 agosto 2026, n. 493",
-        "link": "https://www.mysolution.it/fisco/informative/circolare-cliente/20262/082/circolare-per-il-cliente-6-agosto-2026-n.-493",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Decreto correttivo Omnibus: al via le modifiche IRPEF, IRES, IVA e accertamento",
+        "link": "https://www.mysolution.it/fisco/approfondimenti/prima-lettura/2026/08/decreto-correttivo-omnibus-2026--guida-rapida-alle-modifiche-irpef-ires-iva-e-accertamento/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Carburanti: accisa sul gasolio ridotta fino al 24 agosto e rifinanziate le misure per l’autotrasporto",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/06/carburanti-nuovo-decreto-legge-accisa-sul-gasolio-ridotta-fino-al-24-agosto-e-rifinanziate-le-misure-per-lautotrasporto/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Buona Estate da MySolution: i servizi di agosto",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/buona-estate-da-mysolution-servizi-di-agosto/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Pacchetto agricoltura: nuovi crediti d’imposta, finanziamenti e moratorie per le imprese",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/06/pacchetto-agricoltura-nuovi-crediti-dimposta-finanziamenti-e-moratorie-per-le-imprese/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Adempimento collaborativo: nuovi chiarimenti dell’Agenzia delle Entrate",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/adempimento-collaborativo.-nuovi-chiarimenti-dellagenzia-delle-entrate",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Ristrutturazioni edilizie: dal 3 agosto scatta l’obbligo di energie rinnovabili",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/06/ristrutturazioni-edilizie-dal-3-agosto-scatto-lobbligo-di-energie-rinnovabili/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Decreto correttivo: esteso a due anni il termine per la detrazione IVA",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/decreto-omnibus-esteso-a-due-anni-il-termine-per-la-detrazione-iva/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Locazioni brevi: 21% sul CIN con reddito più elevato",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/06/locazioni-brevi-21-sul-cin-con-reddito-piu-elevato/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Correzioni errori contabili: il punto di Assonime sulle novità del correttivo IRPEF-IRES",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/correzioni-errori-contabili-il-punto-di-assonime-sulle-novita-del-correttivo-irpef-ires/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Decreto correttivo, il plauso dei commercialisti: \"Accolte le proposte della categoria\"",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/06/decreto-correttivo-plauso-de-nuccio/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "In G.U. le regole doganali per spedizioni fino a 150 euro",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/dazio-di-3-euro-sulle-vendite-a-distanza-lue-aggiorna-le-regole-doganali-per-spedizioni-fino-a-150-euro/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Bar e caffetterie nel mirino del Fisco: focus sull’annualità 2023",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/06/bar-e-caffetterie-nel-mirino-del-fisco-focus-sullannualita-2023/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Fatture estere sotto i 300 euro: sì al documento riepilogativo, ma restano gli obblighi SdI",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/fatture-estere-sotto-i-300-euro-si-al-documento-riepilogativo-ma-restano-gli-obblighi-sdi2/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Società a ristretta base: l’omessa variazione in aumento fa presumere utili distribuiti ai soci",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/06/societa-a-ristretta-base-lomessa-variazione-in-aumento-fa-presumere-utili-distribuiti-ai-soci/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "CONAI: adesione, importazioni e regolarizzazione delle omissioni",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/conai-adesione-importazioni-e-regolarizzazione-delle-omissioni/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Terreni agricoli con capacità edificatoria: per la Cassazione la plusvalenza è imponibile",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/06/terreni-agricoli-con-capacita-edificatoria-per-la-cassazione-la-plusvalenza-e-imponibile/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Perizie asseverate concessioni marittime: da settembre aperte le candidature dei Commercialisti",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/perizie-asseverate-concessioni-marittime-da-settembre-aperte-le-candidature-dei-commercialisti/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Responsabilità 231, assetti organizzativi, IA e riforma fiscale: le novità dal Consiglio dei ministri",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/05/responsabilita-231-assetti-organizzativi-e-ia-dal-cdm-novita-per-imprese-e-professionisti/",
-        "date": "2026-08-05T00:00:00.000Z",
+        "title": "Banca d’Italia, al dipendente residente in Francia si applica l’art. 15 della Convenzione",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/banca-ditalia-al-dipendente-residente-in-francia-si-applica-larticolo-15-della-convenzione/",
+        "date": "2026-08-07T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "CBAM, attiva la nuova funzione per monitorare la soglia di esenzione: disponibile nel Registro CBAM",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/cbam-attiva-la-nuova-funzione-per-monitorare-la-soglia-di-esenzione-disponibile-nel-registro-cbam/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -687,6 +671,38 @@
     "contabile": [
       {
         "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Attrazioni, nei parchi divertimento arrivano anche le mini-nave radiocomandate",
+        "link": "https://www.ilsole24ore.com/art/attrazioni-parchi-divertimento-arrivano-anche-mini-nave-radiocomandate-AJgTElg",
+        "date": "2026-08-07T03:08:38.000Z",
+        "summary": "Si tratta di mini-imbarcazioni elettriche, controllate da remoto, che operano in vasche di 20-30 cm di acqua"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "TCF adempimento collaborativo scadenza 31 dicembre 2026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4378-adempimento-collaborativo-scade-il-31122026-il-tcf.html",
+        "date": "2026-08-07T00:00:00.000Z",
+        "summary": "L'Agenzia delle Entrate con la Circolare n.6/2026, chiarisce le scadenze di certificazione e attestazione del TCF, distinguendo i due binari temporali previsti per le imprese"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Decreto giustizia-migranti: cosa cambia per notai,  magistrati e avvocati",
+        "link": "https://www.ilsole24ore.com/art/decreto-giustizia-migranti-e-legge-cosa-cambia-avvocati-magistrati-e-notai-AJAvDcg",
+        "date": "2026-08-06T15:31:00.000Z",
+        "summary": "Dall’esame forense alla responsabilità professionale fino alla permanenza negli uffici. Le novità per gli operatori del diritto, slittamenti inclusi"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Carta d’identità: approvato il modello del documento provvisorio",
+        "link": "https://www.ilsole24ore.com/art/carta-d-identita-approvato-modello-documento-provvisorio-AJVTzjg",
+        "date": "2026-08-06T15:31:00.000Z",
+        "summary": "Fino al 31 dicembre 2027, in attesa della carta d’identità elettronica, può essere rilasciato con validità massima di sei mesi e non rinnovabile"
+      },
+      {
+        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Sisma Campi Flegrei, i Commercialisti aprono una sottoscrizione per i colleghi colpiti dall’evento",
         "link": "https://press-magazine.it/sisma-campi-flegrei-i-commercialisti-aprono-una-sottoscrizione-per-i-colleghi-colpiti-dallevento/",
@@ -696,10 +712,58 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Lavoro a tempo determinato: solo il 10% è per occupazioni stagionali",
-        "link": "https://www.ilsole24ore.com/art/lavoro-tempo-determinato-solo-10-cento-e-occupazioni-stagionali-AJR0yod",
-        "date": "2026-08-06T03:10:00.000Z",
-        "summary": "Negli altri casi è usato per fare screening dei candidati o come sostituzione di posizione a tempo indeterminato"
+        "title": "Legge antisprechi, anche piante e fiori fra i beni donabili dalle imprese",
+        "link": "https://www.ilsole24ore.com/art/legge-antisprechi-anche-piante-e-fiori-i-beni-donabili-imprese-AJoDSsf",
+        "date": "2026-08-06T03:06:27.000Z",
+        "summary": "Si allarga il paniere di prodotti che le aziende possono donare per il bene della collettività con il favore della leva fiscale"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Testo Unico adempimenti e accertamento pubblicato in GU",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13607-testo-unico-adempimenti-e-accertamento-pubblicato-in-gu.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "Pubblicato il D.Lgs. 141/2026 che riunisce in un solo testo le norme su anagrafe tributaria, dichiarazioni, controlli e accertamento: contenuti e decorrenza dal 2027"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Adempimento collaborativo i chiarimenti dellAgenzia delle Entrate",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13606-adempimento-collaborativo-i-chiarimenti-dellagenzia-delle-entrate.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "Con la Circolare 6/E/2026 l'Agenzia delle Entrate chiarisce soglie di accesso, certificazione del TCF ed effetti premiali del regime di cooperative compliance"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Da Assonime chiarimenti sulla correzione degli errori contabili",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4377-da-assonime-chiarimenti-sulla-correzione-degli-errori-contabili.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "La circolare  chiarisce che per la correzione degli errori contabili con riconoscimento fiscale è centrale il requisito della revisione nell’esercizio in cui l’errore è corretto"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Liquidazione TFM e decadenza CdA rinomina amministratori senza pagamento",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4376-liquidazione-tfm-e-decadenza-cda-rinomina-amministratori-senza-pagamento.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "La decadenza formale del consiglio di amministrazione non comporta necessariamente la liquidazione del TFM, in particolare se gli amministratori vengono immediatamente rinominati"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Il correttivo Omnibus chiude la delega fiscale mappa ragionata delle novit",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17370-il-correttivo-omnibus-chiude-la-delega-fiscale-mappa-ragionata-delle-novita.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "Dal concordato preventivo biennale alla revisione degli accertamenti,  le misure che ridisegnano il rapporto tra Fisco e contribuenti. Vademecum scaricabile per gli studi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Il dubbio dellattivit agricola connessa",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4375-il-dubbio-dellattivita-agricola-connessa.html",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": "Il problema dell' imposizione come reddito agrario o come reddito di impresa delle “attività connesse” come allevamento o produzione alimentare,  nell'Interpello n. 151 2026"
       },
       {
         "category": "contabile",
@@ -719,51 +783,11 @@
       },
       {
         "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Carceri minorili, cresce il controllo penale sui giovani",
-        "link": "https://www.ilsole24ore.com/art/carceri-minorili-cresce-controllo-penale-giovani-AJKJqff",
-        "date": "2026-08-05T14:30:46.000Z",
-        "summary": "I dati di Antigone confermano la stabilità delle presenze negli Ipm. Aumenta invece il carico ai servizi della Giustizia Minorile"
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Decreto fiscale omnibus, Commercialisti: “Accolte le nostre proposte”",
         "link": "https://press-magazine.it/decreto-fiscale-omnibus-commercialisti-accolte-le-nostre-proposte/",
         "date": "2026-08-05T08:35:02.000Z",
         "summary": "Nella foto la sede del Ministero dell’Economia e delle Finanze  Il Consiglio Nazionale dei Commercialisti e degli Esperti Contabili esprime grande soddisfazione per il recepimento delle proprie proposte nel testo del Decreto Fiscale Omnibus, il quarto […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "It-Wallet in Gazzetta Ufficiale: cosa cambia per imprese e cittadini",
-        "link": "https://www.ilsole24ore.com/art/it-wallet-gazzetta-ufficiale-cosa-cambia-imprese-e-cittadini-AJpXkxe",
-        "date": "2026-08-05T03:10:00.000Z",
-        "summary": "Entro il 3 febbraio 2028, l’Istituto poligrafico e Zecca dello Stato potrà rilasciare gli attestati elettronici dopo aver verificato l’identità tramite Cie"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Vacanze estive e studenti: in Italia le più lunghe d’Europa",
-        "link": "https://www.ilsole24ore.com/art/vacanze-estive-e-studenti-italia-piu-lunghe-d-europa-AJNrbod",
-        "date": "2026-08-05T03:06:28.000Z",
-        "summary": "In Danimarca, Paesi Bassi e Germania, la sosta è la più breve: appena sei settimane"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Casa, obbligo di energie rinnovabili con i lavori di ristrutturazione",
-        "link": "https://www.ilsole24ore.com/art/casa-obbligo-energie-rinnovabili-i-lavori-ristrutturazione-AJXZ7Vd",
-        "date": "2026-08-05T03:02:00.000Z",
-        "summary": "Operative le norme che anticipano la direttiva Case green: interventi come il cappotto termico vanno accompagnati con fotovoltaico e pompe di calore"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Il dubbio dellattivit agricola connessa",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4375-il-dubbio-dellattivita-agricola-connessa.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Il problema dell' imposizione come reddito agrario o come reddito di impresa delle “attività connesse” come allevamento o produzione alimentare,  nell'Interpello n. 151 2026"
       },
       {
         "category": "contabile",
@@ -839,27 +863,11 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Omesse ritenute per il reato il calcolo si fa solo sulle retribuzioni pagate",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4362-omesse-ritenute-reato-per-le-retribuzioni-pagate-non-dovute.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Cassazione n. 27123/2026  precisa ill calcolo dei contributi omessi da fare sulle somme realmente corrisposte ai lavoratori, non su quelle dovute per contratto."
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Corriere della Sera, torna l’abbonamento digitale gratuito 2026",
         "link": "https://press-magazine.it/corriere-della-sera-torna-labbonamento-digitale-gratuito-2026/",
         "date": "2026-08-04T08:42:49.000Z",
         "summary": "Il Consiglio Nazionale dei Commercialisti, anche quest’anno, apre a tutti gli iscritti all’albo (senza alcun limite di età o anno di iscrizione) l’iniziativa promossa in collaborazione con il Corriere della Sera per attivare gratuitamente un abbonamento […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Case vacanze, per sei milioni taglio degli sconti per le ristrutturazioni",
-        "link": "https://www.ilsole24ore.com/art/sei-milioni-case-vacanza-affrontano-taglio-sconti-le-ristrutturazioni-AJP2mzb",
-        "date": "2026-08-04T03:04:00.000Z",
-        "summary": "Bonus ridotti al 36% per questi immobili ma in prospettiva potrebbero arrivare nuove riduzioni"
       },
       {
         "category": "contabile",
@@ -887,51 +895,11 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Le condizioni per lesenzione totale dal dazio nelle situazioni di emergenza",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17362-le-condizioni-per-lesenzione-totale-dal-dazio-nelle-situazioni-di-emergenza.html",
-        "date": "2026-08-04T00:00:00.000Z",
-        "summary": "La Cassazione chiarisce il concetto di emergenza ai fini dell’esenzione dai dazi"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Dichiarazioni correttive senza sanzioni ma con attenzione ai versamenti",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4364-dichiarazioni-correttive-senza-sanzioni-ma-con-attenzione-ai-versamenti.html",
-        "date": "2026-08-04T00:00:00.000Z",
-        "summary": "La dichiarazione correttiva senza sanzioni: esempio pratico e risvolti dichiarativi"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Progetti assistenza alle vittime di tratta nuovi fondi per il Terzo Settore",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4363-progetti-assistenza-alle-vittime-di-tratta-nuovi-fondi-per-il-terzo-settore.html",
-        "date": "2026-08-04T00:00:00.000Z",
-        "summary": "Pubblicato il bando  8 2026 per la partecipazione a progetti di assistenza delle vittime di tratta  in collaborazione con gli enti territoriali."
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Sisma Campi Flegrei, i Commercialisti chiedono la proroga dei versamenti",
         "link": "https://press-magazine.it/sisma-campi-flegrei-i-commercialisti-chiedono-la-proroga-dei-versamenti/",
         "date": "2026-08-03T12:53:00.000Z",
         "summary": "Assumere i provvedimenti necessari per disporre una congrua proroga dei termini in materia di adempimenti e versamenti tributari e contributivi nella zona dei Campi Flegrei, in provincia di Napoli, interessata dal sisma dello scorso 31 luglio. […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Concorso Senato 2026 con 30 posti di Segretario Chi puo partecipare",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17359-concorso-senato-2026-30-posti-di-segretario-parlamentare.html",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": "Il Senato ha indetto un concorso per 30 Segretari parlamentari: requisiti d'età e laurea, scadenza domanda, profili , prove d'esame. Stipendio"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Donazione di quote dazienda quando non si perde lesenzione fiscale",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4360-holding-di-famiglia-la-donazione-di-quote-resta-esente-da-imposta.html",
-        "date": "2026-08-03T00:00:00.000Z",
-        "summary": "L'Agenzia delle Entrate chiarisce che conferimenti e cessioni parziali di quote non fanno decadere l'esenzione se il beneficiario mantiene il controllo di diritto."
       },
       {
         "category": "contabile",
@@ -976,26 +944,26 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Ulteriori DLgs. attuativi - Approvazione definitiva da parte del Consiglio dei Ministri (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116345",
-        "date": "2026-05-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 5.8.2026 - \"Approvati in esame definitivo tre decreti attuativi della riforma fiscale\" - Redazione"
+        "title": "Maggior reddito accertato in capo al socio - Limitazioni previste per la tassazione dei dividendi - Novità del DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116404",
+        "date": "2026-06-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 6.8.2026 - \"Codificata la presunzione di distribuzione degli utili ai soci\" - Boano A."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Dividendi assoggettati a imposta sostitutiva - Credito per le imposte estere - Spettanza - Orientamenti giurisprudenziali (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116104",
-        "date": "2026-05-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 5.8.2026 - \"Strada più in salita per i rimborsi sui dividendi\" - Odetto G."
+        "title": "Accertamenti sulle componenti di reddito pluriennali - Annualità accertabile - Novità del DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116420",
+        "date": "2026-06-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 6.8.2026 - \"Accertamento del primo anno di deduzione dell’ammortamento entro la decadenza\" - Cissello A."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Vendite online effettuate direttamente dal gestore della piattaforma - Presupposto impositivo - Esclusione (C.G.T. I Milano 22.1.2026 n. 292/1/26) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115242",
-        "date": "2026-05-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 5.8.2026 - \"Nell’imposta sui servizi digitali discrimine tra marketplace e vendita in proprio\" - D’Amico G. - Pavanello A. P."
+        "title": "Rinnovo per il biennio 2026-2027 - Regime premiale - Novità del DLgs. correttivo \"Omnibus\" della Riforma fiscale (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116376",
+        "date": "2026-06-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 6.8.2026 - \"Crescono gli incentivi con il rinnovo del CPB anche per il biennio 2026-2027\" - Girinelli A."
       },
       {
         "category": "contabile",
@@ -1058,61 +1026,93 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Come cambia l'Assegno Unico dopo il Decreto Semplificazioni PNRR",
-        "link": "https://www.mysolution.it/lavoro/approfondimenti/circolare-monografica/2026/08/come-cambia-lassegno-unico-dopo-il-decreto-semplificazioni-pnrr/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Ferie non godute e obblighi contributivi: tra momento impositivo e differimento per chiusura collettiva",
+        "link": "https://www.mysolution.it/lavoro/approfondimenti/circolare-monografica/2026/08/ferie-non-godute-e-obblighi-contributivi-tra-momento-impositivo-e-differimento-per-chiusura-collettiva/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Intelligenza Artificiale: approvato in CdM il decreto legislativo che ne regola l'utilizzo",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/06/approvato-in-cdm-il-decreto-legislativo-inerente-allutilizzo-dellai/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Buona Estate da MySolution: i servizi di agosto",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/buona-estate-da-mysolution-i-servizi-di-agosto/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Siglato il Protocollo tra MLPS e ASSTEL per potenziare la piattaforma SIISL",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/06/siglato-il-protocollo-tra-mlps-e-asstel-per-potenziare-la-piattaforma-siisl/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "CCNL Commercio (Anpit - Cisal): siglato il protocollo di rinnovo",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/siglato-il-protocollo-di-rinnovo-del-ccnl-commercio-anpit--cisal/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "CCNL Credito: le novità sulla decorrenza degli istituti negoziali nazionali",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/06/ccnl-credito-le-novita-sulla-decorrenza-degli-istituti-negoziali-nazionali/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Modalità di iscrizione al SIISL dei cittadini stranieri formati nei Paesi di origine: pubblicato il Decreto",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/pubblicato-il-decreto-interministeriale-che-definisce-le-modalita-di-iscrizione-al-siisl-dei-cittadini-stranieri-formati-nei-paesi-di-origine/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Introdotto da Confimpresa Italia il Fondo di Assistenza Sanitaria Integrativa",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/06/introdotto-da-confimpresa-italia-il-fondo-di-assistenza-sanitaria-integrativa/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Fondo per le vittime di amianto: pubblicato il decreto",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/pubblicato-il-decreto-mlpsmef-sul-fondo-per-le-vittime-di-amianto/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Omesso versamento delle ritenute ed effettivo pagamento delle retribuzioni",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/06/omesso-versamento-delle-ritenute-ed-effettivo-pagamento-delle-retribuzioni/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Al via il Fondo Innovazione Pesca da parte del MASAF",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/al-via-il-fondo-innovazione-pesca-da-parte-del-masaf/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Pubblicati i dati dell’Osservatorio ADI ed SFL",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/06/inps-pubblicati-i-dati-dellosservatorio-adi-ed-sfl/",
-        "date": "2026-08-06T00:00:00.000Z",
+        "title": "Siglato Protocollo d’intesa tra il MLPS e CSVnet ETS per promuovere cittadinanza attiva e solidarietà",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/siglato-protocollo-dintesa-tra-il-mlps-e-csvnet-ets-per-promuovere-cittadinanza-attiva-e-solidarieta/",
+        "date": "2026-08-07T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Programma GOL: ulteriori risorse MLPS per le politiche attive dei beneficiari",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/ulteriori-risorse-mlps-per-le-politiche-attive-dei-beneficiari-del-programma-gol/",
+        "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "CONFEDILIZIA GENOVA: Corso di formazione iniziale per amministratori di condominio 5.11.2026 – 20.5.2027",
+        "link": "https://www.confedilizia.it/confedilizia-genova-corso-di-formazione-iniziale-per-amministratori-di-condominio-5-11-2026-20-5-2027/",
+        "date": "2026-08-06T15:12:12.000Z",
+        "summary": "CONFEDILIZIA GENOVA Corso di formazione iniziale per amministratori di condominio\nL'articolo CONFEDILIZIA GENOVA: Corso di formazione iniziale per amministratori di condominio 5.11.2026 – 20.5.2027 sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Tempi.it – 6.8.2026 – Spin Time è la Silicon Valley dei comunisti che detestano la proprietà privata (altrui)",
+        "link": "https://www.confedilizia.it/tempi-it-6-8-2026-spin-time-e-la-silicon-valley-dei-comunisti-che-detestano-la-proprieta-privata-altrui/",
+        "date": "2026-08-06T11:21:14.000Z",
+        "summary": "L'articolo Tempi.it – 6.8.2026 – Spin Time è la Silicon Valley dei comunisti che detestano la proprietà privata (altrui) sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ruderi in Italia: una crescita continua",
+        "link": "https://www.confedilizia.it/ruderi-in-italia-una-crescita-continua/",
+        "date": "2026-08-06T09:18:09.000Z",
+        "summary": "Confedilizia: l’Imu continua a produrre ruderi, +129% dal 2011, +1,1% nell’ultimo anno Continua ad aumentare il numero degli immobili ridotti in ruderi. Lo rileva la Confedilizia sulla base dei dati diffusi dall’Agenzia delle entrate sullo stato del patrimonio immobiliare italiano. Le cosiddette “unità collabenti” – cioè i fabbricati totalmente in rovina, inseriti nella categoria […]\nL'articolo Ru"
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1243,30 +1243,6 @@
       },
       {
         "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ilrestodelcarlino.it – 3.8.2026 – Sfratti e tutele: il nuovo Ddl potrà aiutare",
-        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-3-8-2026-sfratti-e-tutele-il-nuovo-ddl-potra-aiutare/",
-        "date": "2026-08-03T06:54:28.000Z",
-        "summary": "L'articolo Ilrestodelcarlino.it – 3.8.2026 – Sfratti e tutele: il nuovo Ddl potrà aiutare sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ilrestodelcarlino.it – 3.8.2026 – Vendite delle abitazioni: “Reggio cresce del 21%. Trainano i piccoli centri”",
-        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-3-8-2026-vendite-delle-abitazioni-reggio-cresce-del-21-trainano-i-piccoli-centri/",
-        "date": "2026-08-03T06:53:38.000Z",
-        "summary": "L'articolo Ilrestodelcarlino.it – 3.8.2026 – Vendite delle abitazioni: “Reggio cresce del 21%. Trainano i piccoli centri” sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ntacalabria.it – 2.8.2026 – Turismo in crescita a Catanzaro, Confedilizia, più case per lo sviluppo",
-        "link": "https://www.confedilizia.it/ntacalabria-it-2-8-2026-turismo-in-crescita-a-catanzaro-confedilizia-piu-case-per-lo-sviluppo/",
-        "date": "2026-08-03T06:53:02.000Z",
-        "summary": "L'articolo Ntacalabria.it – 2.8.2026 – Turismo in crescita a Catanzaro, Confedilizia, più case per lo sviluppo sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "Taranto, la trasformazione urbana dei Giochi del Mediterraneo: infrastrutture e investimenti oltre l’Ilva",
         "link": "https://www.ilsole24ore.com/art/taranto-trasformazione-urbana-giochi-mediterraneo-infrastrutture-e-investimenti-oltre-l-ilva-AJ4e3Vb",
@@ -1391,6 +1367,30 @@
     "crisi_impresa": [
       {
         "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Attrazioni, nei parchi divertimento arrivano anche le mini-nave radiocomandate",
+        "link": "https://www.ilsole24ore.com/art/attrazioni-parchi-divertimento-arrivano-anche-mini-nave-radiocomandate-AJgTElg",
+        "date": "2026-08-07T03:08:38.000Z",
+        "summary": "Si tratta di mini-imbarcazioni elettriche, controllate da remoto, che operano in vasche di 20-30 cm di acqua"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Decreto giustizia-migranti: cosa cambia per notai,  magistrati e avvocati",
+        "link": "https://www.ilsole24ore.com/art/decreto-giustizia-migranti-e-legge-cosa-cambia-avvocati-magistrati-e-notai-AJAvDcg",
+        "date": "2026-08-06T15:31:00.000Z",
+        "summary": "Dall’esame forense alla responsabilità professionale fino alla permanenza negli uffici. Le novità per gli operatori del diritto, slittamenti inclusi"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Carta d’identità: approvato il modello del documento provvisorio",
+        "link": "https://www.ilsole24ore.com/art/carta-d-identita-approvato-modello-documento-provvisorio-AJVTzjg",
+        "date": "2026-08-06T15:31:00.000Z",
+        "summary": "Fino al 31 dicembre 2027, in attesa della carta d’identità elettronica, può essere rilasciato con validità massima di sei mesi e non rinnovabile"
+      },
+      {
+        "category": "crisi_impresa",
         "source": "CNDCEC - Crisi d'impresa",
         "title": "Sisma Campi Flegrei, i Commercialisti aprono una sottoscrizione per i colleghi colpiti dall’evento",
         "link": "https://press-magazine.it/sisma-campi-flegrei-i-commercialisti-aprono-una-sottoscrizione-per-i-colleghi-colpiti-dallevento/",
@@ -1400,10 +1400,10 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Lavoro a tempo determinato: solo il 10% è per occupazioni stagionali",
-        "link": "https://www.ilsole24ore.com/art/lavoro-tempo-determinato-solo-10-cento-e-occupazioni-stagionali-AJR0yod",
-        "date": "2026-08-06T03:10:00.000Z",
-        "summary": "Negli altri casi è usato per fare screening dei candidati o come sostituzione di posizione a tempo indeterminato"
+        "title": "Legge antisprechi, anche piante e fiori fra i beni donabili dalle imprese",
+        "link": "https://www.ilsole24ore.com/art/legge-antisprechi-anche-piante-e-fiori-i-beni-donabili-imprese-AJoDSsf",
+        "date": "2026-08-06T03:06:27.000Z",
+        "summary": "Si allarga il paniere di prodotti che le aziende possono donare per il bene della collettività con il favore della leva fiscale"
       },
       {
         "category": "crisi_impresa",
@@ -1415,14 +1415,6 @@
       },
       {
         "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Carceri minorili, cresce il controllo penale sui giovani",
-        "link": "https://www.ilsole24ore.com/art/carceri-minorili-cresce-controllo-penale-giovani-AJKJqff",
-        "date": "2026-08-05T14:30:46.000Z",
-        "summary": "I dati di Antigone confermano la stabilità delle presenze negli Ipm. Aumenta invece il carico ai servizi della Giustizia Minorile"
-      },
-      {
-        "category": "crisi_impresa",
         "source": "CNDCEC - Crisi d'impresa",
         "title": "Decreto fiscale omnibus, Commercialisti: “Accolte le nostre proposte”",
         "link": "https://press-magazine.it/decreto-fiscale-omnibus-commercialisti-accolte-le-nostre-proposte/",
@@ -1431,43 +1423,11 @@
       },
       {
         "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "It-Wallet in Gazzetta Ufficiale: cosa cambia per imprese e cittadini",
-        "link": "https://www.ilsole24ore.com/art/it-wallet-gazzetta-ufficiale-cosa-cambia-imprese-e-cittadini-AJpXkxe",
-        "date": "2026-08-05T03:10:00.000Z",
-        "summary": "Entro il 3 febbraio 2028, l’Istituto poligrafico e Zecca dello Stato potrà rilasciare gli attestati elettronici dopo aver verificato l’identità tramite Cie"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Vacanze estive e studenti: in Italia le più lunghe d’Europa",
-        "link": "https://www.ilsole24ore.com/art/vacanze-estive-e-studenti-italia-piu-lunghe-d-europa-AJNrbod",
-        "date": "2026-08-05T03:06:28.000Z",
-        "summary": "In Danimarca, Paesi Bassi e Germania, la sosta è la più breve: appena sei settimane"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Casa, obbligo di energie rinnovabili con i lavori di ristrutturazione",
-        "link": "https://www.ilsole24ore.com/art/casa-obbligo-energie-rinnovabili-i-lavori-ristrutturazione-AJXZ7Vd",
-        "date": "2026-08-05T03:02:00.000Z",
-        "summary": "Operative le norme che anticipano la direttiva Case green: interventi come il cappotto termico vanno accompagnati con fotovoltaico e pompe di calore"
-      },
-      {
-        "category": "crisi_impresa",
         "source": "CNDCEC - Crisi d'impresa",
         "title": "Corriere della Sera, torna l’abbonamento digitale gratuito 2026",
         "link": "https://press-magazine.it/corriere-della-sera-torna-labbonamento-digitale-gratuito-2026/",
         "date": "2026-08-04T08:42:49.000Z",
         "summary": "Il Consiglio Nazionale dei Commercialisti, anche quest’anno, apre a tutti gli iscritti all’albo (senza alcun limite di età o anno di iscrizione) l’iniziativa promossa in collaborazione con il Corriere della Sera per attivare gratuitamente un abbonamento […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Case vacanze, per sei milioni taglio degli sconti per le ristrutturazioni",
-        "link": "https://www.ilsole24ore.com/art/sei-milioni-case-vacanza-affrontano-taglio-sconti-le-ristrutturazioni-AJP2mzb",
-        "date": "2026-08-04T03:04:00.000Z",
-        "summary": "Bonus ridotti al 36% per questi immobili ma in prospettiva potrebbero arrivare nuove riduzioni"
       },
       {
         "category": "crisi_impresa",
@@ -1519,6 +1479,14 @@
       }
     ],
     "finanza_agevolata": [
+      {
+        "category": "finanza_agevolata",
+        "source": "Agenzia delle Entrate - Novità",
+        "title": "Adempimento collaborativo e novità della riforma fiscale. In una circolare i chiarimenti dell’Agenzia (comunicato stampa)",
+        "link": "https://www.agenziaentrate.gov.it/portale/cs-6-agosto-2026",
+        "date": "2026-08-06T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "category": "finanza_agevolata",
         "source": "Agenzia delle Entrate - Novità",
@@ -1669,14 +1637,6 @@
         "title": "730 precompilato, è adesso possibile visualizzare la dichiarazione. Dal pomeriggio del 14 maggio si parte con l’invio (comunicato stampa)",
         "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-30-aprile-730-precompilato-è-adesso-possibile-visualizzare-la-dichiarazione.-dal-pomeriggio-del-14-maggio-si-parte-con-l-invio",
         "date": "2026-04-30T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "finanza_agevolata",
-        "source": "Agenzia delle Entrate - Novità",
-        "title": "730 precompilato ai nastri di partenza: dal pomeriggio del 30 aprile si può consultare online. Dal 14 maggio ok all’invio; per il click finale c’è tempo fino al 30 settembre 2026 (comunicato stampa)",
-        "link": "https://www.agenziaentrate.gov.it/portale/-/comunicato-stampa-del-28-aprile-2026-730-precompilato-ai-nastri-di-partenza-dal-pomeriggio-del-30-aprile-si-può-consultare-online",
-        "date": "2026-04-28T00:00:00.000Z",
         "summary": ""
       }
     ]
