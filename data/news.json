@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T06:15:49.976Z",
+  "generatedAt": "2026-08-11T05:57:27.591Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -13,27 +13,179 @@
     "fiscale": [
       {
         "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "OIC 5 \"Bilanci di liquidazione\" - Pubblicazione della nuova versione da parte dell'OIC (16.7.2026) - Nota integrativa (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116360",
+        "date": "2026-10-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.8.2026 - \"Criteri di valutazione dei liquidatori da riportare e motivare in Nota integrativa\" - De Rosa S. - Devalle A."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Ordine di integrazione del contraddittorio - Adempimenti processuali (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108455",
+        "date": "2026-10-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.8.2026 - \"Integrazione del contraddittorio con notifica cartacea\" - Cissello A."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Adempimento collaborativo - Tax control framework (TCF) - Certificazione di efficacia operativa dei controlli (circ. Agenzia delle Entrate 6.8.2026 n. 6) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1117183",
+        "date": "2026-10-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.8.2026 - \"Attività del certificatore da coordinare con quella del tax risk officer\" - Miele L."
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Unesco: il 35% dei siti è in Europa, Venezia esempio di patrimonio culturale",
+        "link": "https://www.ilsole24ore.com/art/unesco-35percento-siti-e-europa-venezia-esempio-patrimonio-culturale-AJ2iEaj",
+        "date": "2026-08-11T03:08:39.000Z",
+        "summary": "Ben 61 sono in Italia. La digitalizzazione è un pilastro fondamentale per la preservazione e l’innovazione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Cani e gatti: le regole Ue per garantire benessere e tracciabilità degli animali",
+        "link": "https://www.ilsole24ore.com/art/cani-e-gatti-regole-ue-garantire-benessere-e-tracciabilita-animali-AJrqVaj",
+        "date": "2026-08-11T03:06:28.000Z",
+        "summary": "Cosa fare per gestire al meglio l’affido e la riproduzione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "La plusvalenza da 110 solo sulla quota di immobile acquistato",
+        "link": "https://www.ilsole24ore.com/art/la-plusvalenza-110-solo-quota-immobile-acquistato-AJ5roRj",
+        "date": "2026-08-11T03:04:16.000Z",
+        "summary": "Per la parte eredita non rileva chi ha eseguito le opere di ristrutturazione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Negli studi associati l’Irap non è più un automatismo",
+        "link": "https://www.ilsole24ore.com/art/negli-studi-associati-l-irap-non-e-piu-automatismo-AJBY0Li",
+        "date": "2026-08-11T03:02:02.000Z",
+        "summary": "Non c’è assoggettabilità con la personalità della prestazione. Superato il criterio dell’organizzazione. Prova a carico dell’Agenzia"
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Cessione di quote immobiliari tra comproprietari: chi paga la plusvalenza Superbonus?",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/11/cessione-di-quote-immobiliari-tra-comproprietari-chi-paga-la-plusvalenza-superbonus/",
+        "date": "2026-08-11T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Fatture in ritardo, più tempo per gestire e recuperare l’Iva",
+        "link": "https://www.ilsole24ore.com/art/fatture-ritardo-piu-tempo-gestire-e-recuperare-l-iva-AJSI3kg",
+        "date": "2026-08-10T18:15:12.000Z",
+        "summary": "Il decreto Omnibus estende i termini per detrarre l’imposta: due anni, anziché uno. La modifica è frutto del successo della fatturazione elettronica"
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Accertamento delle medie dei cambi delle valute estere relative al mese di luglio 2026 (provvedimento)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10266323/Provvedimento+cambi+valute+estere+luglio+2026+-+Per+pubblicazione/3c162e1e-6f43-4702-8d77-c214672c4966",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Interpello:Somme rimborsate dal datore di lavoro a titolo di spese di istruzione nell'interesse dei familiari indicati nell'articolo 12 del TUIR, pagate dal coniuge del dipendente – Articolo 51, comma 2, lettera f–bis), del TUIR (risposta n. 159)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10272449/Risposta+n.+159_2026/97338a13-5775-cd22-2a81-675f3db8bdfd",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Interpello:Cessione quote immobiliari tra comproprietari – Determinazione della plusvalenza imponibile articoli 67, comma. 1, lett. b–bis) e 68, comma 1, del TUIR, in presenza di interventi edilizi agevolati (Superbonus 110%) sostenuti da altro comproprietario (riposta n. 158)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10272449/Risposta+n.+158_2026/efbd65ea-1b53-5c95-1c41-e25fc797ccc6",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Interpello:Determinazione della plusvalenza imponibile in caso di cessione infraquinquennale di un immobile congiuntamente alle relative pertinenze in presenza di un contratto preliminare stipulato anteriormente al decorso del quinquennio – articolo 67, comma 1, lettera b) del Tuir (risposta n. 157)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10272449/Risposta+n.+157_2026/b79f6154-7e18-b8de-3d91-e5244138b23f",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Buoni pasto per pause non godute il risarcimento non  tassabile",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4387-buoni-pasto-non-goduti-il-risarcimento-non-e-tassabile.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "L'Agenzia delle Entrate chiarisce quando il risarcimento per la mancata pausa mensa nei turni di lavoro non è soggetto a tassazione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Accordo UEMercosur i controlli e le verifiche di origine",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17375-accordo-ue-mercosur-i-controlli-e-le-verifiche-di-origine.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "Dalle verifiche sull’origine dei prodotti alla sospensione dei benefici tariffari: regole, procedure e tutele previste dall’accordo UE-Mercosur"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Fondo vittime amianto cantieri navali domande entro il 5 settembre",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4385-fondo-vittime-amianto-in-partecipate-pubbliche-domande-entro-il-5-settembre.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "INAIL chiarisce come presentare la domanda al Fondo vittime amianto per i lavoratori in cantieri navali 2024-2025:  requisiti, documenti e tabelle indennizzo"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Ravvedimento operoso solo per errori e  omissioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4384-ravvedimento-operoso-solo-per-errori-e-omissioni.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "I chiarimenti dell'Agenzia nella risposta ad interpello 16.7.2026, n. 147"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Lavoro sportivo e fiscalit la Circolare 7E 2026 tra chiarimenti e novit",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4383-lavoro-sportivo-e-fiscalita-la-circolare-7e-2026-tra-chiarimenti-e-novita.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "Le ricadute operative per ASD e SSD  della nuova Circolare dell'Agenzia: IRPEF, IRAP IVA, rimborsi ai volontari, attività commerciali, raccolte fondi"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Multe pi leggere per le piccole imprese cosa prevede la riforma della 231",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4382-multe-piu-leggere-per-le-piccole-imprese-cosa-prevede-la-riforma-della-231.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "Riforma della L. 231 2001 la bozza di decreto approvata dal Governo .Modelli organizzativi, sanzioni, estinzione dell'illecito. Quando entra in vigore?"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Il nuovo regime di adempimento collaborativo 2026 chiarimenti operativi",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17373-il-nuovo-regime-di-adempimento-collaborativo-2026-chiarimenti-operativi.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "La Circolare dell'Agenzia 6/2026 offre il primo inquadramento organico della cooperative compliance riformata: T.C.F., premialità e interlocuzione. Vademecum operativo scaricabile"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Banca dItalia e lavoratori transfrontalieri tassazione mista",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4379-banca-ditalia-e-lavoratori-transfrontalieri-tassazione-mista.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "Un chiarimento importante per chi lavora tra Italia e Francia: gli stipendi Banca d'Italia vanno tassati in Italia per i giorni in sede e in Francia per i giorni di smart working"
+      },
+      {
+        "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Tossico e alcoldipendenti: dal 21 agosto è possibile la detenzione domiciliare",
         "link": "https://www.ilsole24ore.com/art/tossico-e-alcoldipendenti-21-agosto-e-possibile-detenzione-domiciliare-AJe0Klh",
         "date": "2026-08-08T03:04:14.000Z",
         "summary": "Chi ne ha diritto, come fare richiesta, il programma terapeutico da seguire, le condizioni di revoca. Tutti i dettagli della nuova norma"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cooperazione fiscale internazionale, si punta su sostenibilità e trasparenza",
-        "link": "https://www.ilsole24ore.com/art/cooperazione-fiscale-internazionale-si-punta-sostenibilita-e-trasparenza-AJkYplh",
-        "date": "2026-08-08T03:02:01.000Z",
-        "summary": "Nove i pilastri del progetto di Convenzione quadro delle Nazioni unite di cui è stata pubblicata una bozza a fine luglio"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Attrazioni, nei parchi divertimento arrivano anche le mini-nave radiocomandate",
-        "link": "https://www.ilsole24ore.com/art/attrazioni-parchi-divertimento-arrivano-anche-mini-nave-radiocomandate-AJgTElg",
-        "date": "2026-08-07T03:08:38.000Z",
-        "summary": "Si tratta di mini-imbarcazioni elettriche, controllate da remoto, che operano in vasche di 20-30 cm di acqua"
       },
       {
         "category": "fiscale",
@@ -54,14 +206,6 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Multe pi leggere per le piccole imprese cosa prevede la riforma della 231",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4382-multe-piu-leggere-per-le-piccole-imprese-cosa-prevede-la-riforma-della-231.html",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": "Riforma della L. 231 2001 la bozza di decreto approvata dal Governo .Modelli organizzativi, sanzioni, estinzione dell'illecito. Quando entra in vigore?"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Carta Europea Disabilit e Contrassegno novit del decreto in arrivo",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4381-carta-europea-disabilita-e-contrassegno-novita-del-decreto-in-arrivo.html",
         "date": "2026-08-07T00:00:00.000Z",
@@ -78,7 +222,7 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Tolleranza del 5 per gli errori dei corrispettivi telematici grazie al Decreto Omnibus",
+        "title": "Tolleranza del 5 per gli errori dei corrispettivi telematici con il Decreto Omnibus",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4380-tolleranza-del-5-per-gli-errori-dei-corrispettivi-telematici-grazie-al-decreto-omnibus.html",
         "date": "2026-08-07T00:00:00.000Z",
         "summary": "Si introduce una soglia di tolleranza del 5% tra pagamenti elettronici e corrispettivi trasmessi, escludendo le sanzioni per le difformità di modesta entità"
@@ -114,22 +258,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17369-bonus-sud-e-zes-nel-charter-nautico-le-contestazioni-del-fisco.html",
         "date": "2026-08-07T00:00:00.000Z",
         "summary": "Dai controlli dell'Agenzia delle Entrate emergono criticità su flotta, contratti di locazione e soglia del 200%: i nodi ancora irrisolti del contenzioso"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Decreto giustizia-migranti: cosa cambia per notai,  magistrati e avvocati",
-        "link": "https://www.ilsole24ore.com/art/decreto-giustizia-migranti-e-legge-cosa-cambia-avvocati-magistrati-e-notai-AJAvDcg",
-        "date": "2026-08-06T15:31:00.000Z",
-        "summary": "Dall’esame forense alla responsabilità professionale fino alla permanenza negli uffici. Le novità per gli operatori del diritto, slittamenti inclusi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Carta d’identità: approvato il modello del documento provvisorio",
-        "link": "https://www.ilsole24ore.com/art/carta-d-identita-approvato-modello-documento-provvisorio-AJVTzjg",
-        "date": "2026-08-06T15:31:00.000Z",
-        "summary": "Fino al 31 dicembre 2027, in attesa della carta d’identità elettronica, può essere rilasciato con validità massima di sei mesi e non rinnovabile"
       },
       {
         "category": "fiscale",
@@ -182,66 +310,10 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Disabili istanze al via per il progetto di vita individualizzato come fare",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4374-disabili-al-via-le-valutazioni-per-il-progetto-di-vita-personalizzato-come-si-richiede.html",
-        "date": "2026-08-06T00:00:00.000Z",
-        "summary": "Le istruzioni INPS per richiedere  la valutazione multidimensionale della situazione di disabilità,  necessaria all'avvio del progetto di vita personalizzato previsto dalla Riforma"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Ladeguamento dei tracciati EUCDM 62 e la valorizzazione del tasso di cambio",
         "link": "https://www.fiscoetasse.com/approfondimenti/17367-ladeguamento-dei-tracciati-eucdm-62-e-la-valorizzazione-del-tasso-di-cambio.html",
         "date": "2026-08-05T00:00:00.000Z",
         "summary": "Dal 4 agosto 2026 cambiano le modalità di dichiarazione del tasso di cambio: ecco gli adempimenti per importatori, spedizionieri e rappresentanti doganali"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "La Posizione Finanziaria Netta deve includere le quote capitale dei leasing",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17366-la-pfn-deve-includere-le-quote-capitale-dei-leasing.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Ecco perche  nel calcolo della Posizione Finanziaria Netta (PFN) complessiva è necessario includere le quote capitale dei leasing ancora da corrispondere"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "ETS guida operativa per passare al regime forfettario",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17365-ets-guida-operativa-per-passare-al-regime-forfettario.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Esercizio dell’opzione e regole per il passaggio dal regime ordinario al forfettario per le APS e, in generale, per tutti gli ETS"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Conferimento a realizzo controllato e abuso del diritto alla prova della giurisprudenza",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17364-conferimento-a-realizzo-controllato-e-abuso-del-diritto-alla-prova-della-giurisprudenza.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Perimetri applicativi e confini interpretativi del regime  ex art 177 TUIR dopo la sentenza di Bergamo: perchè il vantaggio  della neutralità indotta non è mai , in sé, indebito."
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus ok definitivo le novit per il concordato",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4373-decreto-omnibus-ok-definitivo-le-novita-per-il-concordato.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Il Consiglio dei Ministri ha approvato in via definitiva il decreto correttivo della delega fiscale: ravvedimento speciale, tolleranza sanzioni e proroga TCF"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Carburanti proroga dello sconto accise fino al 25 agosto",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4372-carburanti-proroga-dello-sconto-accise-fino-al-25-agosto.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Il Governo ha prorogato la riduzione di 17 centesimi sul gasolio, in scadenza il 6 agosto, stanziando 245 milioni di euro"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Rimborsi da modello 730 il monte ritenute si amplia anche alle imposte sostitutive",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4371-rimborsi-da-modello-730-il-monte-ritenute-si-amplia-anche-alle-imposte-sostitutive.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Una FAQ delle Entrate chiarisce che i sostituti d’imposta possono recuperare i rimborsi da modello 730 compensandoli in F24 anche con alcune imposte sostitutive sulle retribuzioni"
       },
       {
         "category": "fiscale",
@@ -322,62 +394,6 @@
         "link": "https://www.agenziaentrate.gov.it/portale/provvedimento-del-17-luglio-2026-disposizioni-di-attuazione-degli-articoli-119-e-121-del-decreto-legge-19-maggio-2020-n.-34-per-l-esercizio-delle-opzioni-relative-alle-detrazioni-spettanti-per-gli-interventi-edilizi",
         "date": "2026-07-17T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Attuazione delle disposizioni in materia di rafforzamento del contenuto conoscitivo del cassetto fiscale, ai sensi dell’articolo 23 del decreto legislativo 8 gennaio 2024, n. 1. Disponibilità nell’area riservata della funzione di consultazione degli avvisi di liquidazione emessi ai sensi degli articoli 15 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, e della nota II-bis dell’articolo 1 della Tariffa, parte prima, del decreto del Presidente della Repubblica 26 aprile 1986, n. 131, nonché degli avvisi di accertamento parziale cosiddetti “automatizzati” emessi ai sensi dell’articolo 41-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600 e dei relativi provvedimenti di autotutela parziale o totale (provvedimento)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196139/Provvedimento+Cassetto+fiscale_16+luglio+2026/e8027afe-0015-f44a-5da3-523a061b61ef",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Decreto legislativo 12 gennaio 2019, n. 14 e successive modificazioni e integrazioni, recante il “Codice della crisi di impresa e dell’insolvenza”. Inquadramento e approfondimento degli istituti. I nuovi istituti del Codice della crisi e dell’insolvenza (Parte I) (circolare n. 5)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196831/CIRCOLARE+CCII+PARTE+I+n.+5+del+16+luglio+2026/08d28148-2119-b181-b4f2-4d9d01f33de4",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Possibilità di presentare una dichiarazione integrativa al solo fine di variare la destinazione di un credito da rimborso a cessione – Esclusione – Articolo 2, commi 8 e 8–ter, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322 (risposta n. 147)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+147_2026/9099b8db-a3e1-b004-54f1-8131204b7d78",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Imposta sulle successioni e donazioni e imposte sui redditi – Tassazione della retrocessione al disponente della nuda proprietà delle quote sociali di una società segregata in un trust, nell'ipotesi in cui la suddetta società sia il risultato della fusione, con la contestuale modifica della forma giuridica, delle due società originariamente segregate nel trust – Articolo 1 del decreto legislativo 31 ottobre 1990, n. 346, articolo 9, comma 5, del TUIR e articolo 67, comma 1, lettere c) e c–bis), del TUIR (risposta n. 146)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+146_2026/98b0d8fa-5cd7-b976-54ff-a3d3c3865438",
-        "date": "2026-07-16T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Credito d'imposta per l'acquisto di carburante a favore delle imprese agricole - Disposizioni attuative e presentazione delle domande entro il 30.9.2026 (DM 27.7.2026, circ. AGEA 31.7.2026 n. 64702 e istruzioni operative AGEA 5.8.2026 n. 72) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116466",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 7.8.2026 - \"Istanze per il tax credit carburante imprese agricole entro il 30 settembre\" - Alberti P."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Accettazione dell'eredità con beneficio di inventario - Liquidazione individuale di creditori e legatari - Assegnazione di un termine all'erede - Inapplicabilità (Cass. 5.8.2026 n. 24491) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116556",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 7.8.2026 - \"Liquidazione individuale senza termine per l’erede che ha accettato con beneficio\" - Novella C."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Azione revocatoria - Trust istituito da una srl - Creditore personale del socio - Difetto di legittimazione attiva (Cass. 22.7.2026 n. 23811) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115665",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 7.8.2026 - \"Il creditore particolare del socio non può revocare il trust istituito dalla srl\" - Valinotti M."
       },
       {
         "category": "fiscale",
@@ -566,9 +582,17 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Riforma dello sport: l’Agenzia chiarisce i requisiti per mantenere le agevolazioni fiscali",
-        "link": "https://www.mysolution.it/fisco/approfondimenti/prima-lettura/2026/08/riforma-dello-sport-lagenzia-chiarisce-i-requisiti-per-mantenere-le-agevolazioni-fiscali-amantea/",
-        "date": "2026-08-10T00:00:00.000Z",
+        "title": "Spese scolastiche: rimborso ok anche se a pagare è il coniuge del dipendente",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/11/spese-scolastiche-rimborso-ok-anche-se-a-pagare-e-il-coniuge-del-dipendente/",
+        "date": "2026-08-11T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Plusvalenza Superbonus: irrilevante la data del preliminare",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/11/plusvalenza-superbonus-irrilevante-la-data-del-preliminare/",
+        "date": "2026-08-11T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -614,14 +638,6 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Voucher cloud e cybersecurity: si parte dal 20 ottobre",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/10/voucher-cloud-e-cybersecurity-si-parte-dal-20-ottobre/",
-        "date": "2026-08-10T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
         "title": "Buona Estate da MySolution: i servizi di agosto",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/buona-estate-da-mysolution-servizi-di-agosto/",
         "date": "2026-08-07T00:00:00.000Z",
@@ -634,25 +650,137 @@
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/speciale-estate-fino-al-15-settembre-tariffe-agevolate-sulla-formazione-mysolution/",
         "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Fatture estere sotto i 300 euro: sì al documento riepilogativo, ma restano gli obblighi SdI",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/fatture-estere-sotto-i-300-euro-si-al-documento-riepilogativo-ma-restano-gli-obblighi-sdi2/",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Credito d'imposta per investimenti in beni materiali 4.0 - Comunicazione di completamento - Termine di presentazione - Proroga al 15.9.2026 (comunicato MIMIT 31.7.2026) (Tratto dalla Rassegna Prassi)",
-        "link": "https://www.eutekne.it/Servizi/RassegnaPrassi/recensione.aspx?id=1115711",
-        "date": "2026-03-08T00:00:00.000Z",
-        "summary": "Comunicato Ministero delle Imprese e del made in Italy 31.7.2026"
       }
     ],
     "contabile": [
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "OIC 5 \"Bilanci di liquidazione\" - Pubblicazione della nuova versione da parte dell'OIC (16.7.2026) - Nota integrativa (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116360",
+        "date": "2026-10-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.8.2026 - \"Criteri di valutazione dei liquidatori da riportare e motivare in Nota integrativa\" - De Rosa S. - Devalle A."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Ordine di integrazione del contraddittorio - Adempimenti processuali (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1108455",
+        "date": "2026-10-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.8.2026 - \"Integrazione del contraddittorio con notifica cartacea\" - Cissello A."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Adempimento collaborativo - Tax control framework (TCF) - Certificazione di efficacia operativa dei controlli (circ. Agenzia delle Entrate 6.8.2026 n. 6) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1117183",
+        "date": "2026-10-08T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 10.8.2026 - \"Attività del certificatore da coordinare con quella del tax risk officer\" - Miele L."
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Unesco: il 35% dei siti è in Europa, Venezia esempio di patrimonio culturale",
+        "link": "https://www.ilsole24ore.com/art/unesco-35percento-siti-e-europa-venezia-esempio-patrimonio-culturale-AJ2iEaj",
+        "date": "2026-08-11T03:08:39.000Z",
+        "summary": "Ben 61 sono in Italia. La digitalizzazione è un pilastro fondamentale per la preservazione e l’innovazione"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Cani e gatti: le regole Ue per garantire benessere e tracciabilità degli animali",
+        "link": "https://www.ilsole24ore.com/art/cani-e-gatti-regole-ue-garantire-benessere-e-tracciabilita-animali-AJrqVaj",
+        "date": "2026-08-11T03:06:28.000Z",
+        "summary": "Cosa fare per gestire al meglio l’affido e la riproduzione"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "La plusvalenza da 110 solo sulla quota di immobile acquistato",
+        "link": "https://www.ilsole24ore.com/art/la-plusvalenza-110-solo-quota-immobile-acquistato-AJ5roRj",
+        "date": "2026-08-11T03:04:16.000Z",
+        "summary": "Per la parte eredita non rileva chi ha eseguito le opere di ristrutturazione"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Negli studi associati l’Irap non è più un automatismo",
+        "link": "https://www.ilsole24ore.com/art/negli-studi-associati-l-irap-non-e-piu-automatismo-AJBY0Li",
+        "date": "2026-08-11T03:02:02.000Z",
+        "summary": "Non c’è assoggettabilità con la personalità della prestazione. Superato il criterio dell’organizzazione. Prova a carico dell’Agenzia"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Fatture in ritardo, più tempo per gestire e recuperare l’Iva",
+        "link": "https://www.ilsole24ore.com/art/fatture-ritardo-piu-tempo-gestire-e-recuperare-l-iva-AJSI3kg",
+        "date": "2026-08-10T18:15:12.000Z",
+        "summary": "Il decreto Omnibus estende i termini per detrarre l’imposta: due anni, anziché uno. La modifica è frutto del successo della fatturazione elettronica"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Buoni pasto per pause non godute il risarcimento non  tassabile",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4387-buoni-pasto-non-goduti-il-risarcimento-non-e-tassabile.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "L'Agenzia delle Entrate chiarisce quando il risarcimento per la mancata pausa mensa nei turni di lavoro non è soggetto a tassazione"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Accordo UEMercosur i controlli e le verifiche di origine",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17375-accordo-ue-mercosur-i-controlli-e-le-verifiche-di-origine.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "Dalle verifiche sull’origine dei prodotti alla sospensione dei benefici tariffari: regole, procedure e tutele previste dall’accordo UE-Mercosur"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Fondo vittime amianto cantieri navali domande entro il 5 settembre",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4385-fondo-vittime-amianto-in-partecipate-pubbliche-domande-entro-il-5-settembre.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "INAIL chiarisce come presentare la domanda al Fondo vittime amianto per i lavoratori in cantieri navali 2024-2025:  requisiti, documenti e tabelle indennizzo"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Ravvedimento operoso solo per errori e  omissioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4384-ravvedimento-operoso-solo-per-errori-e-omissioni.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "I chiarimenti dell'Agenzia nella risposta ad interpello 16.7.2026, n. 147"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Lavoro sportivo e fiscalit la Circolare 7E 2026 tra chiarimenti e novit",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4383-lavoro-sportivo-e-fiscalita-la-circolare-7e-2026-tra-chiarimenti-e-novita.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "Le ricadute operative per ASD e SSD  della nuova Circolare dell'Agenzia: IRPEF, IRAP IVA, rimborsi ai volontari, attività commerciali, raccolte fondi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Multe pi leggere per le piccole imprese cosa prevede la riforma della 231",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4382-multe-piu-leggere-per-le-piccole-imprese-cosa-prevede-la-riforma-della-231.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "Riforma della L. 231 2001 la bozza di decreto approvata dal Governo .Modelli organizzativi, sanzioni, estinzione dell'illecito. Quando entra in vigore?"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Il nuovo regime di adempimento collaborativo 2026 chiarimenti operativi",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17373-il-nuovo-regime-di-adempimento-collaborativo-2026-chiarimenti-operativi.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "La Circolare dell'Agenzia 6/2026 offre il primo inquadramento organico della cooperative compliance riformata: T.C.F., premialità e interlocuzione. Vademecum operativo scaricabile"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Banca dItalia e lavoratori transfrontalieri tassazione mista",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4379-banca-ditalia-e-lavoratori-transfrontalieri-tassazione-mista.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "Un chiarimento importante per chi lavora tra Italia e Francia: gli stipendi Banca d'Italia vanno tassati in Italia per i giorni in sede e in Francia per i giorni di smart working"
+      },
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -660,30 +788,6 @@
         "link": "https://www.ilsole24ore.com/art/tossico-e-alcoldipendenti-21-agosto-e-possibile-detenzione-domiciliare-AJe0Klh",
         "date": "2026-08-08T03:04:14.000Z",
         "summary": "Chi ne ha diritto, come fare richiesta, il programma terapeutico da seguire, le condizioni di revoca. Tutti i dettagli della nuova norma"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cooperazione fiscale internazionale, si punta su sostenibilità e trasparenza",
-        "link": "https://www.ilsole24ore.com/art/cooperazione-fiscale-internazionale-si-punta-sostenibilita-e-trasparenza-AJkYplh",
-        "date": "2026-08-08T03:02:01.000Z",
-        "summary": "Nove i pilastri del progetto di Convenzione quadro delle Nazioni unite di cui è stata pubblicata una bozza a fine luglio"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Attrazioni, nei parchi divertimento arrivano anche le mini-nave radiocomandate",
-        "link": "https://www.ilsole24ore.com/art/attrazioni-parchi-divertimento-arrivano-anche-mini-nave-radiocomandate-AJgTElg",
-        "date": "2026-08-07T03:08:38.000Z",
-        "summary": "Si tratta di mini-imbarcazioni elettriche, controllate da remoto, che operano in vasche di 20-30 cm di acqua"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Multe pi leggere per le piccole imprese cosa prevede la riforma della 231",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4382-multe-piu-leggere-per-le-piccole-imprese-cosa-prevede-la-riforma-della-231.html",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": "Riforma della L. 231 2001 la bozza di decreto approvata dal Governo .Modelli organizzativi, sanzioni, estinzione dell'illecito. Quando entra in vigore?"
       },
       {
         "category": "contabile",
@@ -704,7 +808,7 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Tolleranza del 5 per gli errori dei corrispettivi telematici grazie al Decreto Omnibus",
+        "title": "Tolleranza del 5 per gli errori dei corrispettivi telematici con il Decreto Omnibus",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4380-tolleranza-del-5-per-gli-errori-dei-corrispettivi-telematici-grazie-al-decreto-omnibus.html",
         "date": "2026-08-07T00:00:00.000Z",
         "summary": "Si introduce una soglia di tolleranza del 5% tra pagamenti elettronici e corrispettivi trasmessi, escludendo le sanzioni per le difformità di modesta entità"
@@ -740,22 +844,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17369-bonus-sud-e-zes-nel-charter-nautico-le-contestazioni-del-fisco.html",
         "date": "2026-08-07T00:00:00.000Z",
         "summary": "Dai controlli dell'Agenzia delle Entrate emergono criticità su flotta, contratti di locazione e soglia del 200%: i nodi ancora irrisolti del contenzioso"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Decreto giustizia-migranti: cosa cambia per notai,  magistrati e avvocati",
-        "link": "https://www.ilsole24ore.com/art/decreto-giustizia-migranti-e-legge-cosa-cambia-avvocati-magistrati-e-notai-AJAvDcg",
-        "date": "2026-08-06T15:31:00.000Z",
-        "summary": "Dall’esame forense alla responsabilità professionale fino alla permanenza negli uffici. Le novità per gli operatori del diritto, slittamenti inclusi"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Carta d’identità: approvato il modello del documento provvisorio",
-        "link": "https://www.ilsole24ore.com/art/carta-d-identita-approvato-modello-documento-provvisorio-AJVTzjg",
-        "date": "2026-08-06T15:31:00.000Z",
-        "summary": "Fino al 31 dicembre 2027, in attesa della carta d’identità elettronica, può essere rilasciato con validità massima di sei mesi e non rinnovabile"
       },
       {
         "category": "contabile",
@@ -799,14 +887,6 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Disabili istanze al via per il progetto di vita individualizzato come fare",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4374-disabili-al-via-le-valutazioni-per-il-progetto-di-vita-personalizzato-come-si-richiede.html",
-        "date": "2026-08-06T00:00:00.000Z",
-        "summary": "Le istruzioni INPS per richiedere  la valutazione multidimensionale della situazione di disabilità,  necessaria all'avvio del progetto di vita personalizzato previsto dalla Riforma"
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Concessioni demaniali marittime: al via la raccolta delle candidature dei Commercialisti",
         "link": "https://press-magazine.it/concessioni-demaniali-marittime-al-via-la-raccolta-delle-candidature-dei-commercialisti/",
@@ -824,50 +904,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "La Posizione Finanziaria Netta deve includere le quote capitale dei leasing",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17366-la-pfn-deve-includere-le-quote-capitale-dei-leasing.html",
+        "title": "Ladeguamento dei tracciati EUCDM 62 e la valorizzazione del tasso di cambio",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17367-ladeguamento-dei-tracciati-eucdm-62-e-la-valorizzazione-del-tasso-di-cambio.html",
         "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Ecco perche  nel calcolo della Posizione Finanziaria Netta (PFN) complessiva è necessario includere le quote capitale dei leasing ancora da corrispondere"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "ETS guida operativa per passare al regime forfettario",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17365-ets-guida-operativa-per-passare-al-regime-forfettario.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Esercizio dell’opzione e regole per il passaggio dal regime ordinario al forfettario per le APS e, in generale, per tutti gli ETS"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Conferimento a realizzo controllato e abuso del diritto alla prova della giurisprudenza",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17364-conferimento-a-realizzo-controllato-e-abuso-del-diritto-alla-prova-della-giurisprudenza.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Perimetri applicativi e confini interpretativi del regime  ex art 177 TUIR dopo la sentenza di Bergamo: perchè il vantaggio  della neutralità indotta non è mai , in sé, indebito."
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus ok definitivo le novit per il concordato",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4373-decreto-omnibus-ok-definitivo-le-novita-per-il-concordato.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Il Consiglio dei Ministri ha approvato in via definitiva il decreto correttivo della delega fiscale: ravvedimento speciale, tolleranza sanzioni e proroga TCF"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Carburanti proroga dello sconto accise fino al 25 agosto",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4372-carburanti-proroga-dello-sconto-accise-fino-al-25-agosto.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Il Governo ha prorogato la riduzione di 17 centesimi sul gasolio, in scadenza il 6 agosto, stanziando 245 milioni di euro"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Rimborsi da modello 730 il monte ritenute si amplia anche alle imposte sostitutive",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4371-rimborsi-da-modello-730-il-monte-ritenute-si-amplia-anche-alle-imposte-sostitutive.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Una FAQ delle Entrate chiarisce che i sostituti d’imposta possono recuperare i rimborsi da modello 730 compensandoli in F24 anche con alcune imposte sostitutive sulle retribuzioni"
+        "summary": "Dal 4 agosto 2026 cambiano le modalità di dichiarazione del tasso di cambio: ecco gli adempimenti per importatori, spedizionieri e rappresentanti doganali"
       },
       {
         "category": "contabile",
@@ -928,30 +968,6 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Credito d'imposta per l'acquisto di carburante a favore delle imprese agricole - Disposizioni attuative e presentazione delle domande entro il 30.9.2026 (DM 27.7.2026, circ. AGEA 31.7.2026 n. 64702 e istruzioni operative AGEA 5.8.2026 n. 72) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116466",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 7.8.2026 - \"Istanze per il tax credit carburante imprese agricole entro il 30 settembre\" - Alberti P."
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Accettazione dell'eredità con beneficio di inventario - Liquidazione individuale di creditori e legatari - Assegnazione di un termine all'erede - Inapplicabilità (Cass. 5.8.2026 n. 24491) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116556",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 7.8.2026 - \"Liquidazione individuale senza termine per l’erede che ha accettato con beneficio\" - Novella C."
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Azione revocatoria - Trust istituito da una srl - Creditore personale del socio - Difetto di legittimazione attiva (Cass. 22.7.2026 n. 23811) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115665",
-        "date": "2026-07-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 7.8.2026 - \"Il creditore particolare del socio non può revocare il trust istituito dalla srl\" - Valinotti M."
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
         "title": "Addizionale sui compensi variabili dei dirigenti e amministratori del settore finanziario - Esclusione in caso di versamento del doppio dell'importo agli ETS - Disposizioni attuative (provv. Agenzia delle Entrate 30.7.2026 n. 223895) (Tratto da La Settimana in Breve)",
         "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1115581",
         "date": "31/07/2026",
@@ -996,25 +1012,33 @@
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457648",
         "date": "15/07/2026",
         "summary": ""
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Ladeguamento dei tracciati EUCDM 62 e la valorizzazione del tasso di cambio",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17367-ladeguamento-dei-tracciati-eucdm-62-e-la-valorizzazione-del-tasso-di-cambio.html",
-        "date": "2026-08-05T00:00:00.000Z",
-        "summary": "Dal 4 agosto 2026 cambiano le modalità di dichiarazione del tasso di cambio: ecco gli adempimenti per importatori, spedizionieri e rappresentanti doganali"
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Credito d'imposta per investimenti in beni materiali 4.0 - Comunicazione di completamento - Termine di presentazione - Proroga al 15.9.2026 (comunicato MIMIT 31.7.2026) (Tratto dalla Rassegna Prassi)",
-        "link": "https://www.eutekne.it/Servizi/RassegnaPrassi/recensione.aspx?id=1115711",
-        "date": "2026-03-08T00:00:00.000Z",
-        "summary": "Comunicato Ministero delle Imprese e del made in Italy 31.7.2026"
       }
     ],
     "lavoro": [
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Risarcimenti per pausa e buoni pasto non fruiti: somme non imponibili",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/11/risarcimenti-per-pausa-e-buoni-pasto-non-fruiti-somme-non-imponibili/",
+        "date": "2026-08-11T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Invio della dichiarazione del responsabile della procedura concorsuale ai fini della liquidazione delle prestazioni del Fondo di garanzia del TFR",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/11/nuovo-invio-domande-ai-fondi-di-garanzia/",
+        "date": "2026-08-11T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Lavoratori agricoli: convenzione INPS e SI.L.P.E. NAZIONALE per la riscossione dei contributi associativi sull'indennità di disoccupazione",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/11/lavoratori-agricoli-convenzione-inps-e-organizzazione-sindacale-si.l.p.e.-nazionale-per-la-riscossione-dei-contributi-associativi-sullindennita-di-disoccupazione",
+        "date": "2026-08-11T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
@@ -1070,37 +1094,21 @@
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/pubblicato-il-decreto-mlpsmef-sul-fondo-per-le-vittime-di-amianto/",
         "date": "2026-08-07T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Al via il Fondo Innovazione Pesca da parte del MASAF",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/al-via-il-fondo-innovazione-pesca-da-parte-del-masaf/",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Siglato Protocollo d’intesa tra il MLPS e CSVnet ETS per promuovere cittadinanza attiva e solidarietà",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/siglato-protocollo-dintesa-tra-il-mlps-e-csvnet-ets-per-promuovere-cittadinanza-attiva-e-solidarieta/",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Programma GOL: ulteriori risorse MLPS per le politiche attive dei beneficiari",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/ulteriori-risorse-mlps-per-le-politiche-attive-dei-beneficiari-del-programma-gol/",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": ""
       }
     ],
     "condominio": [
       {
         "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "In vendita la masseria in Puglia che ospitò Vittorio Emanuele III a un passo da Torre Guaceto",
+        "title": "Dba accelera sulla sanità: al lavoro sulla progettazione del Day Hospital oncologico di Varese",
+        "link": "https://www.ilsole24ore.com/art/dba-accelera-sanita-lavoro-progettazione-day-hospital-oncologico-varese-AJGyFCj",
+        "date": "2026-08-10T10:38:23.000Z",
+        "summary": "È anche dall’ospedale di Varese che passa uno dei tasselli della strategia di crescita di Dba Group nel settore della sanità. Il gruppo di Villorba, quotato su Euronext Growth Milan..."
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "In vendita la masseria che custodisce nove secoli di storia a un passo da Torre Guaceto",
         "link": "https://www.ilsole24ore.com/art/in-vendita-masseria-puglia-che-ospito-vittorio-emanuele-iii-un-passo-torre-guaceto-AJHvosg",
         "date": "2026-08-07T07:38:00.000Z",
         "summary": "È sul mercato la masseria della famiglia che ospitò re: nove secoli di storia a un chilometro dal mare di Torre Guaceto. Si tratta di una dimora fortificata del XII..."
@@ -1280,14 +1288,6 @@
         "link": "https://www.ilsole24ore.com/art/abitarein-e-techbau-perfezionano-closing-ceduti-14-progetti-residenziali-e-addio-star-AJAL7Kb",
         "date": "2026-07-31T08:02:00.000Z",
         "summary": "È arrivato ieri in serata il perfezionato del closing dell’operazione con cui Techbau New Living ha acquisito da AbitareIn la totalità del capitale di 14 società veicolo titolari di altrettanti..."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Dea Capital Re, green loan da 300 milioni per il Four Seasons a Roma",
-        "link": "https://www.ilsole24ore.com/art/dea-capital-re-green-loan-300-milioni-il-four-seasons-AJyCz7P",
-        "date": "2026-07-20T14:02:00.000Z",
-        "summary": "A sottoscrivere l’operazione, Crédit Agricole CIB. Rifinanziamento in favore del fondo Millennium Luxury, di cui Fort Partners è il primo investitore."
       }
     ],
     "contenzioso": [
@@ -1376,42 +1376,50 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Unesco: il 35% dei siti è in Europa, Venezia esempio di patrimonio culturale",
+        "link": "https://www.ilsole24ore.com/art/unesco-35percento-siti-e-europa-venezia-esempio-patrimonio-culturale-AJ2iEaj",
+        "date": "2026-08-11T03:08:39.000Z",
+        "summary": "Ben 61 sono in Italia. La digitalizzazione è un pilastro fondamentale per la preservazione e l’innovazione"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Cani e gatti: le regole Ue per garantire benessere e tracciabilità degli animali",
+        "link": "https://www.ilsole24ore.com/art/cani-e-gatti-regole-ue-garantire-benessere-e-tracciabilita-animali-AJrqVaj",
+        "date": "2026-08-11T03:06:28.000Z",
+        "summary": "Cosa fare per gestire al meglio l’affido e la riproduzione"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "La plusvalenza da 110 solo sulla quota di immobile acquistato",
+        "link": "https://www.ilsole24ore.com/art/la-plusvalenza-110-solo-quota-immobile-acquistato-AJ5roRj",
+        "date": "2026-08-11T03:04:16.000Z",
+        "summary": "Per la parte eredita non rileva chi ha eseguito le opere di ristrutturazione"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Negli studi associati l’Irap non è più un automatismo",
+        "link": "https://www.ilsole24ore.com/art/negli-studi-associati-l-irap-non-e-piu-automatismo-AJBY0Li",
+        "date": "2026-08-11T03:02:02.000Z",
+        "summary": "Non c’è assoggettabilità con la personalità della prestazione. Superato il criterio dell’organizzazione. Prova a carico dell’Agenzia"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Fatture in ritardo, più tempo per gestire e recuperare l’Iva",
+        "link": "https://www.ilsole24ore.com/art/fatture-ritardo-piu-tempo-gestire-e-recuperare-l-iva-AJSI3kg",
+        "date": "2026-08-10T18:15:12.000Z",
+        "summary": "Il decreto Omnibus estende i termini per detrarre l’imposta: due anni, anziché uno. La modifica è frutto del successo della fatturazione elettronica"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Tossico e alcoldipendenti: dal 21 agosto è possibile la detenzione domiciliare",
         "link": "https://www.ilsole24ore.com/art/tossico-e-alcoldipendenti-21-agosto-e-possibile-detenzione-domiciliare-AJe0Klh",
         "date": "2026-08-08T03:04:14.000Z",
         "summary": "Chi ne ha diritto, come fare richiesta, il programma terapeutico da seguire, le condizioni di revoca. Tutti i dettagli della nuova norma"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cooperazione fiscale internazionale, si punta su sostenibilità e trasparenza",
-        "link": "https://www.ilsole24ore.com/art/cooperazione-fiscale-internazionale-si-punta-sostenibilita-e-trasparenza-AJkYplh",
-        "date": "2026-08-08T03:02:01.000Z",
-        "summary": "Nove i pilastri del progetto di Convenzione quadro delle Nazioni unite di cui è stata pubblicata una bozza a fine luglio"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Attrazioni, nei parchi divertimento arrivano anche le mini-nave radiocomandate",
-        "link": "https://www.ilsole24ore.com/art/attrazioni-parchi-divertimento-arrivano-anche-mini-nave-radiocomandate-AJgTElg",
-        "date": "2026-08-07T03:08:38.000Z",
-        "summary": "Si tratta di mini-imbarcazioni elettriche, controllate da remoto, che operano in vasche di 20-30 cm di acqua"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Decreto giustizia-migranti: cosa cambia per notai,  magistrati e avvocati",
-        "link": "https://www.ilsole24ore.com/art/decreto-giustizia-migranti-e-legge-cosa-cambia-avvocati-magistrati-e-notai-AJAvDcg",
-        "date": "2026-08-06T15:31:00.000Z",
-        "summary": "Dall’esame forense alla responsabilità professionale fino alla permanenza negli uffici. Le novità per gli operatori del diritto, slittamenti inclusi"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Carta d’identità: approvato il modello del documento provvisorio",
-        "link": "https://www.ilsole24ore.com/art/carta-d-identita-approvato-modello-documento-provvisorio-AJVTzjg",
-        "date": "2026-08-06T15:31:00.000Z",
-        "summary": "Fino al 31 dicembre 2027, in attesa della carta d’identità elettronica, può essere rilasciato con validità massima di sei mesi e non rinnovabile"
       },
       {
         "category": "crisi_impresa",
