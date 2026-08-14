@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T06:21:52.826Z",
+  "generatedAt": "2026-08-14T06:19:35.340Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -38,6 +38,46 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Nel Siisl inclusi anche gli stranieri formati all’estero",
+        "link": "https://www.ilsole24ore.com/art/nel-siisl-inclusi-anche-stranieri-formati-all-estero-AJgd4Zj",
+        "date": "2026-08-14T03:08:41.000Z",
+        "summary": "Inseriti nel portale dell’inclusione lavorativa prima del loro arrivo in Italia"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Decreto Omnibus la ridefinizione dei soggetti assimilati alle holding industriali",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17383-decreto-omnibus-la-ridefinizione-dei-soggetti-assimilati-alle-holding-industriali.html",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": "Il DLgs 7 agosto 2026, n. 148 introduce un income test fondato sui ricavi da attività finanziarie non rivolte al pubblico. Analisi, risvolti IRAP e note operative per gli studi"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Decreto Omnibus diritto alla detrazione dell IVA prorogato a due anni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4397-decreto-omnibus-diritto-alla-detrazione-dell-iva-prorogato-a-due-anni.html",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": "La novità  in materia di IVA prevista dal decreto Omnibus 148 2026 correttivo della Riforma fiscale"
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Scoperta imprenditoriale II: domande dal 7 ottobre per i progetti di ricerca e sviluppo al Sud",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/14/scoperta-imprenditoriale-ii-domande-dal-7-ottobre-per-i-progetti-di-ricerca-e-sviluppo-al-sud/",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Detrazioni per i figli a carico: come funzionano, le regole e lo sbarramento",
+        "link": "https://www.ilsole24ore.com/art/detrazioni-i-figli-carico-come-funzionano-regole-e-sbarramento-AJI4Teh",
+        "date": "2026-08-13T13:44:45.000Z",
+        "summary": "L’agevolazione si applica a partire dai 21 anni di età e se non si superano i limiti di reddito"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Negli Usa stop all’obbligo di segnalazione del titolare effettivo",
         "link": "https://www.ilsole24ore.com/art/negli-usa-stop-all-obbligo-segnalazione-titolare-effettivo-AJe4ICl",
         "date": "2026-08-13T03:10:48.000Z",
@@ -46,9 +86,9 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Garanzia di parti riciclate, riuso e rottamazione: le novità sui veicoli fuori uso",
+        "title": "Rottamazione auto, cambiano le regole",
         "link": "https://www.ilsole24ore.com/art/garanzia-parti-riciclate-riuso-e-rottamazione-novita-veicoli-fuori-uso-AJC5i9k",
-        "date": "2026-08-13T03:08:38.000Z",
+        "date": "2026-08-13T03:08:00.000Z",
         "summary": "La cornice normativa in vigore da oggi. Gli adempimenti dal 2028"
       },
       {
@@ -69,11 +109,35 @@
       },
       {
         "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Quarto correttivo della riforma fiscale: cosa cambia per le auto aziendali",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/13/quarto-correttivo-della-riforma-fiscale-cosa-cambia-per-le-auto-aziendali/",
+        "source": "Fisco e Tasse",
+        "title": "Reg UE 202540 PPWR cosa cambia sugli imballaggi dal 12 agosto 2026",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17382-reg-ue-202540-ppwr-cosa-cambia-sugli-imballaggi-dal-12-agosto-2026.html",
         "date": "2026-08-13T00:00:00.000Z",
-        "summary": ""
+        "summary": "Ambito di applicazione, obblighi immediati e azioni prioritarie per le imprese che commercializzano prodotti imballati"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "ImportExport i regimi sanzionatori UE nei confronti della Russia",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17381-import-export-i-regimi-sanzionatori-ue-nei-confronti-della-russia.html",
+        "date": "2026-08-13T00:00:00.000Z",
+        "summary": "L’Unione Europea, nei confronti della Federazione Russa, ha imposto una serie di pacchetti sanzionatori senza precedenti"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Decreto Omnibus e agricoltura  cosa cambia per reddito agrario e dimpresa",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4396-decreto-omnibus-e-agricoltura-cosa-cambia-per-reddito-agrario-e-dimpresa.html",
+        "date": "2026-08-13T00:00:00.000Z",
+        "summary": "Il decreto correttivo pubblicato in Gazzetta prevede l'estensione del reddito agrario e altre importanti novità  fiscali , in vigore dal 12 agosto 2026"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Decreto Omnibus e collegati chiudono la riforma fiscale guida aggiornata sul CPB",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4395-decreto-omnibus-e-collegati-chiudono-la-riforma-tributaria-guida-ragionata-per-gli-studi.html",
+        "date": "2026-08-13T00:00:00.000Z",
+        "summary": "La pubblicazione in GU dei D.Lgs. 147, 148 e 149/2026 segna il completamento della  legge delega. Redditi, IVA, CPB e ravvedimento speciale: Vademecum  operativo per gli studi"
       },
       {
         "category": "fiscale",
@@ -82,22 +146,6 @@
         "link": "https://www.ilsole24ore.com/art/rigopiano-tragedia-poteva-essere-evitata-e-mancata-prevenzione-rischi-AJnAfvk",
         "date": "2026-08-12T14:03:00.000Z",
         "summary": "Depositate le motivazioni della sentenza di appello-bis: le parti civili potranno usarle per chiedere i risarcimenti alla regione Abruzzo"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Riconoscimento facciale ma non solo, le sfide della biometria",
-        "link": "https://www.ilsole24ore.com/art/riconoscimento-facciale-ma-non-solo-sfide-biometria-AJDrXPY",
-        "date": "2026-08-12T13:10:03.000Z",
-        "summary": "Dopo il confronto politico, l’uso crescente delle tecnologiepone per Pa, imprese e legislatori il tema di conciliare fiducia e sicurezza"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Non spetta al detenuto provare il sovraffollamento",
-        "link": "https://www.ilsole24ore.com/art/non-spetta-detenuto-provare-sovraffollamento-ma-all-amministrazione-dimostrare-contrario-AJsupGk",
-        "date": "2026-08-12T03:02:00.000Z",
-        "summary": "Ma all’amministrazione dimostrare il contrario. Al detenuto, per il risarcimento, basta indicare periodo e nome della struttura. I dati di Antigone"
       },
       {
         "category": "fiscale",
@@ -245,22 +293,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Multe pi leggere per le piccole imprese cosa prevede la riforma della 231",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4382-multe-piu-leggere-per-le-piccole-imprese-cosa-prevede-la-riforma-della-231.html",
-        "date": "2026-08-10T00:00:00.000Z",
-        "summary": "Riforma della L. 231 2001 la bozza di decreto approvata dal Governo .Modelli organizzativi, sanzioni, estinzione dell'illecito. Quando entra in vigore?"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Il nuovo regime di adempimento collaborativo 2026 chiarimenti operativi",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17373-il-nuovo-regime-di-adempimento-collaborativo-2026-chiarimenti-operativi.html",
-        "date": "2026-08-10T00:00:00.000Z",
-        "summary": "La Circolare dell'Agenzia 6/2026 offre il primo inquadramento organico della cooperative compliance riformata: T.C.F., premialità e interlocuzione. Vademecum operativo scaricabile"
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Novità",
         "title": "Enti sportivi dilettantistici e lavoro sportivo. In una Circolare le indicazioni su esenzioni, rimborsi e adempimenti Iva e Irap (comunicato stampa)",
         "link": "https://www.agenziaentrate.gov.it/portale/-/cs-7-agosto-2026",
@@ -277,30 +309,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Carta Europea Disabilit e Contrassegno novit del decreto in arrivo",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4381-carta-europea-disabilita-e-contrassegno-novita-del-decreto-in-arrivo.html",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": "Lo schema di decreto approvato in CDM attua la direttiva UE 2024/2841: nascono la CED e il nuovo Contrassegno parcheggio, validi e riconosciuti in tutta l'Unione Europea."
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Il cumulo giuridico nel diritto tributario dal codice Rocco alla riforma 2024",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17372-il-cumulo-giuridico-nel-diritto-tributario-dal-codice-rocco-alla-riforma-2024.html",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": "Sanzioni tributarie e applicabilità del cumulo giuridico per  concorso e continuazione di violazioni dopo il  D.Lgs. 87/2024.  Nuovi scenari e ruolo del professionista, Check list"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Tolleranza del 5 per gli errori dei corrispettivi telematici con il Decreto Omnibus",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4380-tolleranza-del-5-per-gli-errori-dei-corrispettivi-telematici-grazie-al-decreto-omnibus.html",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": "Si introduce una soglia di tolleranza del 5% tra pagamenti elettronici e corrispettivi trasmessi, escludendo le sanzioni per le difformità di modesta entità"
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Novità",
         "title": "Adempimento collaborativo e novità della riforma fiscale. In una circolare i chiarimenti dell’Agenzia (comunicato stampa)",
         "link": "https://www.agenziaentrate.gov.it/portale/cs-6-agosto-2026",
@@ -314,14 +322,6 @@
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10272449/Risposta+n.+154_2026/c74f7b5b-c629-16fe-ab41-7009ea6e3961",
         "date": "2026-08-06T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Testo Unico adempimenti e accertamento pubblicato in GU",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13607-testo-unico-adempimenti-e-accertamento-pubblicato-in-gu.html",
-        "date": "2026-08-06T00:00:00.000Z",
-        "summary": "Pubblicato il D.Lgs. 141/2026 che riunisce in un solo testo le norme su anagrafe tributaria, dichiarazioni, controlli e accertamento: contenuti e decorrenza dal 2027"
       },
       {
         "category": "fiscale",
@@ -582,8 +582,24 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Quarto correttivo fiscale: novità su fringe benefit, IVA, accertamento e CPB",
-        "link": "https://www.mysolution.it/fisco/approfondimenti/prima-lettura/2026/08/quarto-correttivo/",
+        "title": "Decreto Omnibus, stretta sulle presunzioni fiscali e decadenza della funzione impositiva sugli oneri pluriennali",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/14/decreto-omnibus-stretta-sulle-presunzioni-fiscali-e-decadenza-della-funzione-impositiva-sugli-oneri-pluriennali/",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Colonnine Pnrr, il GSE aggiorna le linee guida per i beneficiari",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/14/colonnine-pnrr-il-gse-aggiorna-le-linee-guida-per-i-beneficiari/",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Quarto correttivo della riforma fiscale: cosa cambia per le auto aziendali",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/13/quarto-correttivo-della-riforma-fiscale-cosa-cambia-per-le-auto-aziendali/",
         "date": "2026-08-13T00:00:00.000Z",
         "summary": ""
       },
@@ -616,22 +632,6 @@
         "source": "MySolution Fisco",
         "title": "Imballaggi: le nuove regole per ortofrutta, ristorazione e ospitalità",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/12/imballaggi-le-nuove-regole-per-ortofrutta-ristorazione-e-ospitalita/",
-        "date": "2026-08-12T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "ETS: pronti i modelli di verbale per i controlli del RUNTS",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/12/ets-pronti-i-modelli-di-verbale-per-i-controlli-del-runts/",
-        "date": "2026-08-12T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "OIC: in consultazione la bozza di Principio Contabile per le micro e piccole imprese",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/12/bilancio/",
         "date": "2026-08-12T00:00:00.000Z",
         "summary": ""
       },
@@ -680,6 +680,38 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Nel Siisl inclusi anche gli stranieri formati all’estero",
+        "link": "https://www.ilsole24ore.com/art/nel-siisl-inclusi-anche-stranieri-formati-all-estero-AJgd4Zj",
+        "date": "2026-08-14T03:08:41.000Z",
+        "summary": "Inseriti nel portale dell’inclusione lavorativa prima del loro arrivo in Italia"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Decreto Omnibus la ridefinizione dei soggetti assimilati alle holding industriali",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17383-decreto-omnibus-la-ridefinizione-dei-soggetti-assimilati-alle-holding-industriali.html",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": "Il DLgs 7 agosto 2026, n. 148 introduce un income test fondato sui ricavi da attività finanziarie non rivolte al pubblico. Analisi, risvolti IRAP e note operative per gli studi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Decreto Omnibus diritto alla detrazione dell IVA prorogato a due anni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4397-decreto-omnibus-diritto-alla-detrazione-dell-iva-prorogato-a-due-anni.html",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": "La novità  in materia di IVA prevista dal decreto Omnibus 148 2026 correttivo della Riforma fiscale"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Detrazioni per i figli a carico: come funzionano, le regole e lo sbarramento",
+        "link": "https://www.ilsole24ore.com/art/detrazioni-i-figli-carico-come-funzionano-regole-e-sbarramento-AJI4Teh",
+        "date": "2026-08-13T13:44:45.000Z",
+        "summary": "L’agevolazione si applica a partire dai 21 anni di età e se non si superano i limiti di reddito"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Negli Usa stop all’obbligo di segnalazione del titolare effettivo",
         "link": "https://www.ilsole24ore.com/art/negli-usa-stop-all-obbligo-segnalazione-titolare-effettivo-AJe4ICl",
         "date": "2026-08-13T03:10:48.000Z",
@@ -688,9 +720,9 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Garanzia di parti riciclate, riuso e rottamazione: le novità sui veicoli fuori uso",
+        "title": "Rottamazione auto, cambiano le regole",
         "link": "https://www.ilsole24ore.com/art/garanzia-parti-riciclate-riuso-e-rottamazione-novita-veicoli-fuori-uso-AJC5i9k",
-        "date": "2026-08-13T03:08:38.000Z",
+        "date": "2026-08-13T03:08:00.000Z",
         "summary": "La cornice normativa in vigore da oggi. Gli adempimenti dal 2028"
       },
       {
@@ -711,27 +743,43 @@
       },
       {
         "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Reg UE 202540 PPWR cosa cambia sugli imballaggi dal 12 agosto 2026",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17382-reg-ue-202540-ppwr-cosa-cambia-sugli-imballaggi-dal-12-agosto-2026.html",
+        "date": "2026-08-13T00:00:00.000Z",
+        "summary": "Ambito di applicazione, obblighi immediati e azioni prioritarie per le imprese che commercializzano prodotti imballati"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "ImportExport i regimi sanzionatori UE nei confronti della Russia",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17381-import-export-i-regimi-sanzionatori-ue-nei-confronti-della-russia.html",
+        "date": "2026-08-13T00:00:00.000Z",
+        "summary": "L’Unione Europea, nei confronti della Federazione Russa, ha imposto una serie di pacchetti sanzionatori senza precedenti"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Decreto Omnibus e agricoltura  cosa cambia per reddito agrario e dimpresa",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4396-decreto-omnibus-e-agricoltura-cosa-cambia-per-reddito-agrario-e-dimpresa.html",
+        "date": "2026-08-13T00:00:00.000Z",
+        "summary": "Il decreto correttivo pubblicato in Gazzetta prevede l'estensione del reddito agrario e altre importanti novità  fiscali , in vigore dal 12 agosto 2026"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Decreto Omnibus e collegati chiudono la riforma fiscale guida aggiornata sul CPB",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4395-decreto-omnibus-e-collegati-chiudono-la-riforma-tributaria-guida-ragionata-per-gli-studi.html",
+        "date": "2026-08-13T00:00:00.000Z",
+        "summary": "La pubblicazione in GU dei D.Lgs. 147, 148 e 149/2026 segna il completamento della  legge delega. Redditi, IVA, CPB e ravvedimento speciale: Vademecum  operativo per gli studi"
+      },
+      {
+        "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Rigopiano, la tragedia poteva essere evitata: è mancata la prevenzione dei rischi",
         "link": "https://www.ilsole24ore.com/art/rigopiano-tragedia-poteva-essere-evitata-e-mancata-prevenzione-rischi-AJnAfvk",
         "date": "2026-08-12T14:03:00.000Z",
         "summary": "Depositate le motivazioni della sentenza di appello-bis: le parti civili potranno usarle per chiedere i risarcimenti alla regione Abruzzo"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Riconoscimento facciale ma non solo, le sfide della biometria",
-        "link": "https://www.ilsole24ore.com/art/riconoscimento-facciale-ma-non-solo-sfide-biometria-AJDrXPY",
-        "date": "2026-08-12T13:10:03.000Z",
-        "summary": "Dopo il confronto politico, l’uso crescente delle tecnologiepone per Pa, imprese e legislatori il tema di conciliare fiducia e sicurezza"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Non spetta al detenuto provare il sovraffollamento",
-        "link": "https://www.ilsole24ore.com/art/non-spetta-detenuto-provare-sovraffollamento-ma-all-amministrazione-dimostrare-contrario-AJsupGk",
-        "date": "2026-08-12T03:02:00.000Z",
-        "summary": "Ma all’amministrazione dimostrare il contrario. Al detenuto, per il risarcimento, basta indicare periodo e nome della struttura. I dati di Antigone"
       },
       {
         "category": "contabile",
@@ -824,18 +872,18 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Ravvedimento operoso solo per errori e  omissioni",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4384-ravvedimento-operoso-solo-per-errori-e-omissioni.html",
-        "date": "2026-08-10T00:00:00.000Z",
-        "summary": "I chiarimenti dell'Agenzia nella risposta ad interpello 16.7.2026, n. 147"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Fondo vittime amianto cantieri navali domande entro il 5 settembre",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4385-fondo-vittime-amianto-in-partecipate-pubbliche-domande-entro-il-5-settembre.html",
         "date": "2026-08-10T00:00:00.000Z",
         "summary": "INAIL chiarisce come presentare la domanda al Fondo vittime amianto per i lavoratori in cantieri navali 2024-2025:  requisiti, documenti e tabelle indennizzo"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Ravvedimento operoso solo per errori e  omissioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4384-ravvedimento-operoso-solo-per-errori-e-omissioni.html",
+        "date": "2026-08-10T00:00:00.000Z",
+        "summary": "I chiarimenti dell'Agenzia nella risposta ad interpello 16.7.2026, n. 147"
       },
       {
         "category": "contabile",
@@ -847,59 +895,11 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Multe pi leggere per le piccole imprese cosa prevede la riforma della 231",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4382-multe-piu-leggere-per-le-piccole-imprese-cosa-prevede-la-riforma-della-231.html",
-        "date": "2026-08-10T00:00:00.000Z",
-        "summary": "Riforma della L. 231 2001 la bozza di decreto approvata dal Governo .Modelli organizzativi, sanzioni, estinzione dell'illecito. Quando entra in vigore?"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Il nuovo regime di adempimento collaborativo 2026 chiarimenti operativi",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17373-il-nuovo-regime-di-adempimento-collaborativo-2026-chiarimenti-operativi.html",
-        "date": "2026-08-10T00:00:00.000Z",
-        "summary": "La Circolare dell'Agenzia 6/2026 offre il primo inquadramento organico della cooperative compliance riformata: T.C.F., premialità e interlocuzione. Vademecum operativo scaricabile"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Carta Europea Disabilit e Contrassegno novit del decreto in arrivo",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4381-carta-europea-disabilita-e-contrassegno-novita-del-decreto-in-arrivo.html",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": "Lo schema di decreto approvato in CDM attua la direttiva UE 2024/2841: nascono la CED e il nuovo Contrassegno parcheggio, validi e riconosciuti in tutta l'Unione Europea."
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Il cumulo giuridico nel diritto tributario dal codice Rocco alla riforma 2024",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17372-il-cumulo-giuridico-nel-diritto-tributario-dal-codice-rocco-alla-riforma-2024.html",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": "Sanzioni tributarie e applicabilità del cumulo giuridico per  concorso e continuazione di violazioni dopo il  D.Lgs. 87/2024.  Nuovi scenari e ruolo del professionista, Check list"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Tolleranza del 5 per gli errori dei corrispettivi telematici con il Decreto Omnibus",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4380-tolleranza-del-5-per-gli-errori-dei-corrispettivi-telematici-grazie-al-decreto-omnibus.html",
-        "date": "2026-08-07T00:00:00.000Z",
-        "summary": "Si introduce una soglia di tolleranza del 5% tra pagamenti elettronici e corrispettivi trasmessi, escludendo le sanzioni per le difformità di modesta entità"
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Sisma Campi Flegrei, i Commercialisti aprono una sottoscrizione per i colleghi colpiti dall’evento",
         "link": "https://press-magazine.it/sisma-campi-flegrei-i-commercialisti-aprono-una-sottoscrizione-per-i-colleghi-colpiti-dallevento/",
         "date": "2026-08-06T07:23:55.000Z",
         "summary": "Il Consiglio nazionale dei Commercialisti insieme all’Ordine dei Commercialisti di Napoli ha lanciato una sottoscrizione in favore degli iscritti all’Albo colpiti dall’evento sismico dello scorso 31 luglio che, nell’area dei Campi Flegrei, ha interessato i comuni […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Testo Unico adempimenti e accertamento pubblicato in GU",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13607-testo-unico-adempimenti-e-accertamento-pubblicato-in-gu.html",
-        "date": "2026-08-06T00:00:00.000Z",
-        "summary": "Pubblicato il D.Lgs. 141/2026 che riunisce in un solo testo le norme su anagrafe tributaria, dichiarazioni, controlli e accertamento: contenuti e decorrenza dal 2027"
       },
       {
         "category": "contabile",
@@ -1026,6 +1026,30 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
+        "title": "Voucher cloud computing e cybersecurity: termini e modalità di presentazione delle domande",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/14/voucher-cloud-computing-e-cybersecurity-termini-e-modalita-di-presentazione-delle-domande/",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Disabili: rivalutato il contributo esonerativo",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/14/disabili-rivalutato-il-contributo-esonerativo/",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Danno biologico: rivalutate le prestazioni economiche",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/14/danno-biologico-rivalutate-le-prestazioni-economiche/",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
         "title": "Quarto correttivo Riforma fiscale: cambia il regime sulle auto a uso promiscuo",
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/13/decreto-omnibus-cambia-il-regime-sulle-auto-a-uso-promiscuo/",
         "date": "2026-08-13T00:00:00.000Z",
@@ -1069,30 +1093,6 @@
         "title": "Controlli sugli Enti del Terzo Settore: adottati i modelli di verbale",
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/12/controlli-sugli-enti-del-terzo-settore-adottati-i-modelli-di-verbale/",
         "date": "2026-08-12T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Risarcimenti per pausa e buoni pasto non fruiti: somme non imponibili",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/11/risarcimenti-per-pausa-e-buoni-pasto-non-fruiti-somme-non-imponibili/",
-        "date": "2026-08-11T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Invio della dichiarazione del responsabile della procedura concorsuale ai fini della liquidazione delle prestazioni del Fondo di garanzia del TFR",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/11/nuovo-invio-domande-ai-fondi-di-garanzia/",
-        "date": "2026-08-11T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Lavoratori agricoli: convenzione INPS e SI.L.P.E. NAZIONALE per la riscossione dei contributi associativi sull'indennità di disoccupazione",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/11/lavoratori-agricoli-convenzione-inps-e-organizzazione-sindacale-si.l.p.e.-nazionale-per-la-riscossione-dei-contributi-associativi-sullindennita-di-disoccupazione",
-        "date": "2026-08-11T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -1384,6 +1384,22 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Nel Siisl inclusi anche gli stranieri formati all’estero",
+        "link": "https://www.ilsole24ore.com/art/nel-siisl-inclusi-anche-stranieri-formati-all-estero-AJgd4Zj",
+        "date": "2026-08-14T03:08:41.000Z",
+        "summary": "Inseriti nel portale dell’inclusione lavorativa prima del loro arrivo in Italia"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Detrazioni per i figli a carico: come funzionano, le regole e lo sbarramento",
+        "link": "https://www.ilsole24ore.com/art/detrazioni-i-figli-carico-come-funzionano-regole-e-sbarramento-AJI4Teh",
+        "date": "2026-08-13T13:44:45.000Z",
+        "summary": "L’agevolazione si applica a partire dai 21 anni di età e se non si superano i limiti di reddito"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Negli Usa stop all’obbligo di segnalazione del titolare effettivo",
         "link": "https://www.ilsole24ore.com/art/negli-usa-stop-all-obbligo-segnalazione-titolare-effettivo-AJe4ICl",
         "date": "2026-08-13T03:10:48.000Z",
@@ -1392,9 +1408,9 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Garanzia di parti riciclate, riuso e rottamazione: le novità sui veicoli fuori uso",
+        "title": "Rottamazione auto, cambiano le regole",
         "link": "https://www.ilsole24ore.com/art/garanzia-parti-riciclate-riuso-e-rottamazione-novita-veicoli-fuori-uso-AJC5i9k",
-        "date": "2026-08-13T03:08:38.000Z",
+        "date": "2026-08-13T03:08:00.000Z",
         "summary": "La cornice normativa in vigore da oggi. Gli adempimenti dal 2028"
       },
       {
@@ -1420,22 +1436,6 @@
         "link": "https://www.ilsole24ore.com/art/rigopiano-tragedia-poteva-essere-evitata-e-mancata-prevenzione-rischi-AJnAfvk",
         "date": "2026-08-12T14:03:00.000Z",
         "summary": "Depositate le motivazioni della sentenza di appello-bis: le parti civili potranno usarle per chiedere i risarcimenti alla regione Abruzzo"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Riconoscimento facciale ma non solo, le sfide della biometria",
-        "link": "https://www.ilsole24ore.com/art/riconoscimento-facciale-ma-non-solo-sfide-biometria-AJDrXPY",
-        "date": "2026-08-12T13:10:03.000Z",
-        "summary": "Dopo il confronto politico, l’uso crescente delle tecnologiepone per Pa, imprese e legislatori il tema di conciliare fiducia e sicurezza"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Non spetta al detenuto provare il sovraffollamento",
-        "link": "https://www.ilsole24ore.com/art/non-spetta-detenuto-provare-sovraffollamento-ma-all-amministrazione-dimostrare-contrario-AJsupGk",
-        "date": "2026-08-12T03:02:00.000Z",
-        "summary": "Ma all’amministrazione dimostrare il contrario. Al detenuto, per il risarcimento, basta indicare periodo e nome della struttura. I dati di Antigone"
       },
       {
         "category": "crisi_impresa",
