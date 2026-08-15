@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T06:19:35.340Z",
+  "generatedAt": "2026-08-15T05:31:30.168Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -29,11 +29,19 @@
       },
       {
         "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Prodotti agricoli (Guida ONU 2025 \"Transfer Pricing of Agricultural Products\") (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115563",
-        "date": "2026-12-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 12.8.2026 - \"Transfer pricing e agro-commodities, dal prezzo quotato alla difesa documentale\" - Amadori L."
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Via libera con maggioranza semplice all’affitto del marciapiede al ristorante",
+        "link": "https://www.ilsole24ore.com/art/via-libera-maggioranza-semplice-all-affitto-marciapiede-ristorante-AIFAhVQD",
+        "date": "2026-08-15T03:04:15.000Z",
+        "summary": "Se viene riservato un passaggio ai condòmini, la locazione temporanea non è penalizzante e non cambia la destinazione d’uso"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Tar, sì al cannabiolo solo con ricetta medica irripetibile",
+        "link": "https://www.ilsole24ore.com/art/tar-si-cannabiolo-solo-ricetta-medica-irripetibile-AJvWtim",
+        "date": "2026-08-14T17:01:00.000Z",
+        "summary": "Legittimo il decreto del ministero della Salute che ha inserito le composizioni tra i farmaci soggetti a prescrizione da rinnovare a ogni acquisto"
       },
       {
         "category": "fiscale",
@@ -42,6 +50,38 @@
         "link": "https://www.ilsole24ore.com/art/nel-siisl-inclusi-anche-stranieri-formati-all-estero-AJgd4Zj",
         "date": "2026-08-14T03:08:41.000Z",
         "summary": "Inseriti nel portale dell’inclusione lavorativa prima del loro arrivo in Italia"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "È legittimo geolocalizzare in smart working con criteri condivisi",
+        "link": "https://www.ilsole24ore.com/art/e-legittimo-geolocalizzare-smart-working-criteri-condivisi-AJUfMql",
+        "date": "2026-08-14T03:06:00.000Z",
+        "summary": "Per la Cassazione è fondamentale la «proporzionalità» fra impiego della tecnologia e tutela della privacy"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Pirateria digitale, la trasmissione in diretta dei contenuti traina il settore",
+        "link": "https://www.ilsole24ore.com/art/pirateria-digitale-trasmissione-diretta-contenuti-traina-settore-AJOkwwl",
+        "date": "2026-08-14T03:04:14.000Z",
+        "summary": "Italia e Francia leader nel contrasto, ma le azioni in Europa sono disomogenee e c’è il rischio di danni collaterali ai servizi di streaming legali"
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Interpello: Regime ''a realizzo controllato'' – apporto di partecipazioni a patrimonio netto in caso di pluralità di soci conferenti – applicabilità – articolo 177, comma 2, del TUIR (risposta n.161)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10272449/Risposta+n.+161_2026/c480ae97-e621-43de-ad77-ee1d491e8dce",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Rimborsi ASD qual  il regime se il  volontario supera gi il limite di compensi",
+        "link": "https://www.fiscoetasse.com/domande-e-risposte/12877-cosa-accade-se-il-rimborso-forfettario-va-a-un-volontario-con-gia-15mila-eur-di-compensi.html",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": "La Circolare ADE risponde nel caso di un rimborso spese forfettario di 400 euro  corrisposto a un volontario che ha già percepito, da altri soggetti, più di 15.000 euro di compensi"
       },
       {
         "category": "fiscale",
@@ -70,42 +110,18 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sulla giustizia civile il peso delle domande di asilo",
+        "link": "https://www.ilsole24ore.com/art/sulla-giustizia-civile-peso-domande-asilo-AJ8f71l",
+        "date": "2026-08-13T19:29:00.000Z",
+        "summary": "In due anni raddoppiato il numero delle domande, da 38mila nel 2023 a 80mila nel 2025 - Il Csm: dopo il Pnrr nuova emergenza"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Detrazioni per i figli a carico: come funzionano, le regole e lo sbarramento",
         "link": "https://www.ilsole24ore.com/art/detrazioni-i-figli-carico-come-funzionano-regole-e-sbarramento-AJI4Teh",
         "date": "2026-08-13T13:44:45.000Z",
         "summary": "L’agevolazione si applica a partire dai 21 anni di età e se non si superano i limiti di reddito"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Negli Usa stop all’obbligo di segnalazione del titolare effettivo",
-        "link": "https://www.ilsole24ore.com/art/negli-usa-stop-all-obbligo-segnalazione-titolare-effettivo-AJe4ICl",
-        "date": "2026-08-13T03:10:48.000Z",
-        "summary": "Le aziende straniere non dovranno segnalare chi le ha aiutate a registrarsi per operare negli Stati Uniti"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rottamazione auto, cambiano le regole",
-        "link": "https://www.ilsole24ore.com/art/garanzia-parti-riciclate-riuso-e-rottamazione-novita-veicoli-fuori-uso-AJC5i9k",
-        "date": "2026-08-13T03:08:00.000Z",
-        "summary": "La cornice normativa in vigore da oggi. Gli adempimenti dal 2028"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "E-commerce, aumentano gli acquisti online. E anche le frodi",
-        "link": "https://www.ilsole24ore.com/art/e-commerce-aumentano-acquisti-online-e-anche-frodi-AJTsf9k",
-        "date": "2026-08-13T03:06:25.000Z",
-        "summary": "Nel 2024 circa il 45% dei consumatori Ue è stato vittima di truffe facendo shopping su siti web e piattaforme"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cybersicurezza, nel 2025 crescono gli attacchi ma aumenta la capacità preventiva",
-        "link": "https://www.ilsole24ore.com/art/cybersicurezza-2025-crescono-attacchi-ma-aumenta-capacita-preventiva-AJLjO9k",
-        "date": "2026-08-13T03:02:02.000Z",
-        "summary": "La mail è il principale canale di attacchi cyber: il 40% del totale. Cresce il ruolo dell’Agenzia per la cybersicurezza nazionale"
       },
       {
         "category": "fiscale",
@@ -138,14 +154,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4395-decreto-omnibus-e-collegati-chiudono-la-riforma-tributaria-guida-ragionata-per-gli-studi.html",
         "date": "2026-08-13T00:00:00.000Z",
         "summary": "La pubblicazione in GU dei D.Lgs. 147, 148 e 149/2026 segna il completamento della  legge delega. Redditi, IVA, CPB e ravvedimento speciale: Vademecum  operativo per gli studi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rigopiano, la tragedia poteva essere evitata: è mancata la prevenzione dei rischi",
-        "link": "https://www.ilsole24ore.com/art/rigopiano-tragedia-poteva-essere-evitata-e-mancata-prevenzione-rischi-AJnAfvk",
-        "date": "2026-08-12T14:03:00.000Z",
-        "summary": "Depositate le motivazioni della sentenza di appello-bis: le parti civili potranno usarle per chiedere i risarcimenti alla regione Abruzzo"
       },
       {
         "category": "fiscale",
@@ -285,14 +293,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Lavoro sportivo e fiscalit la Circolare 7E 2026 tra chiarimenti e novit",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4383-lavoro-sportivo-e-fiscalita-la-circolare-7e-2026-tra-chiarimenti-e-novita.html",
-        "date": "2026-08-10T00:00:00.000Z",
-        "summary": "Le ricadute operative per ASD e SSD  della nuova Circolare dell'Agenzia: IRPEF, IRAP IVA, rimborsi ai volontari, attività commerciali, raccolte fondi"
-      },
-      {
-        "category": "fiscale",
         "source": "Agenzia delle Entrate - Novità",
         "title": "Enti sportivi dilettantistici e lavoro sportivo. In una Circolare le indicazioni su esenzioni, rimborsi e adempimenti Iva e Irap (comunicato stampa)",
         "link": "https://www.agenziaentrate.gov.it/portale/-/cs-7-agosto-2026",
@@ -369,22 +369,6 @@
         "title": "Interpello: IVA – numeri 127–quinquies), 127–septies) e 127–quaterdecies), della Tabella A, parte III, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633 – Prestazioni di servizi rese nell'ambito di un intervento di ricostruzione della sede di un'associazione di promozione sociale (risposta n. 150)",
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+150_2026/169e5e2e-1a04-95e3-202c-360e901504d4",
         "date": "2026-07-22T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Fusione per incorporazione di fondi UCITS irlandesi con fondi UCITS lussemburghesi – Irrilevanza fiscale in capo agli investitori residenti – Articolo 10–ter della legge 23 marzo 1983, n. 77 (risposta n. 149)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+149_2026/41f6222e-e897-1924-b50b-4fddabb0d745",
-        "date": "2026-07-20T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: Trattamento fiscale degli interessi dei buoni postali fruttiferi percepiti da un soggetto non residente – Residenza continuativa in un Paese white list – Articolo 6 decreto legislativo 1° aprile 1996, n. 239 (risposta n. 148)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+148_2026/91a0cddc-9fac-57b2-fa1b-8d50feeeaca6",
-        "date": "2026-07-20T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -534,6 +518,14 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
+        "title": "Correzione di errori contabili - Procedura semplificata di correzione - Novità del DLgs. 192/2025 - Ambito applicativo (circ. Assonime 5.8.2026 n. 20) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116569",
+        "date": "14/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 14.8.2026 - \"Correzione semplificata degli errori contabili solo con base imponibile IRAP positiva\" - Fornero L."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
         "title": "Addizionale sui compensi variabili dei dirigenti e amministratori del settore finanziario - Esclusione in caso di versamento del doppio dell'importo agli ETS - Disposizioni attuative (provv. Agenzia delle Entrate 30.7.2026 n. 223895) (Tratto da La Settimana in Breve)",
         "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1115581",
         "date": "31/07/2026",
@@ -671,11 +663,19 @@
       },
       {
         "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Prodotti agricoli (Guida ONU 2025 \"Transfer Pricing of Agricultural Products\") (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115563",
-        "date": "2026-12-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 12.8.2026 - \"Transfer pricing e agro-commodities, dal prezzo quotato alla difesa documentale\" - Amadori L."
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Via libera con maggioranza semplice all’affitto del marciapiede al ristorante",
+        "link": "https://www.ilsole24ore.com/art/via-libera-maggioranza-semplice-all-affitto-marciapiede-ristorante-AIFAhVQD",
+        "date": "2026-08-15T03:04:15.000Z",
+        "summary": "Se viene riservato un passaggio ai condòmini, la locazione temporanea non è penalizzante e non cambia la destinazione d’uso"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Tar, sì al cannabiolo solo con ricetta medica irripetibile",
+        "link": "https://www.ilsole24ore.com/art/tar-si-cannabiolo-solo-ricetta-medica-irripetibile-AJvWtim",
+        "date": "2026-08-14T17:01:00.000Z",
+        "summary": "Legittimo il decreto del ministero della Salute che ha inserito le composizioni tra i farmaci soggetti a prescrizione da rinnovare a ogni acquisto"
       },
       {
         "category": "contabile",
@@ -684,6 +684,30 @@
         "link": "https://www.ilsole24ore.com/art/nel-siisl-inclusi-anche-stranieri-formati-all-estero-AJgd4Zj",
         "date": "2026-08-14T03:08:41.000Z",
         "summary": "Inseriti nel portale dell’inclusione lavorativa prima del loro arrivo in Italia"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "È legittimo geolocalizzare in smart working con criteri condivisi",
+        "link": "https://www.ilsole24ore.com/art/e-legittimo-geolocalizzare-smart-working-criteri-condivisi-AJUfMql",
+        "date": "2026-08-14T03:06:00.000Z",
+        "summary": "Per la Cassazione è fondamentale la «proporzionalità» fra impiego della tecnologia e tutela della privacy"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Pirateria digitale, la trasmissione in diretta dei contenuti traina il settore",
+        "link": "https://www.ilsole24ore.com/art/pirateria-digitale-trasmissione-diretta-contenuti-traina-settore-AJOkwwl",
+        "date": "2026-08-14T03:04:14.000Z",
+        "summary": "Italia e Francia leader nel contrasto, ma le azioni in Europa sono disomogenee e c’è il rischio di danni collaterali ai servizi di streaming legali"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Rimborsi ASD qual  il regime se il  volontario supera gi il limite di compensi",
+        "link": "https://www.fiscoetasse.com/domande-e-risposte/12877-cosa-accade-se-il-rimborso-forfettario-va-a-un-volontario-con-gia-15mila-eur-di-compensi.html",
+        "date": "2026-08-14T00:00:00.000Z",
+        "summary": "La Circolare ADE risponde nel caso di un rimborso spese forfettario di 400 euro  corrisposto a un volontario che ha già percepito, da altri soggetti, più di 15.000 euro di compensi"
       },
       {
         "category": "contabile",
@@ -704,42 +728,18 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sulla giustizia civile il peso delle domande di asilo",
+        "link": "https://www.ilsole24ore.com/art/sulla-giustizia-civile-peso-domande-asilo-AJ8f71l",
+        "date": "2026-08-13T19:29:00.000Z",
+        "summary": "In due anni raddoppiato il numero delle domande, da 38mila nel 2023 a 80mila nel 2025 - Il Csm: dopo il Pnrr nuova emergenza"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Detrazioni per i figli a carico: come funzionano, le regole e lo sbarramento",
         "link": "https://www.ilsole24ore.com/art/detrazioni-i-figli-carico-come-funzionano-regole-e-sbarramento-AJI4Teh",
         "date": "2026-08-13T13:44:45.000Z",
         "summary": "L’agevolazione si applica a partire dai 21 anni di età e se non si superano i limiti di reddito"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Negli Usa stop all’obbligo di segnalazione del titolare effettivo",
-        "link": "https://www.ilsole24ore.com/art/negli-usa-stop-all-obbligo-segnalazione-titolare-effettivo-AJe4ICl",
-        "date": "2026-08-13T03:10:48.000Z",
-        "summary": "Le aziende straniere non dovranno segnalare chi le ha aiutate a registrarsi per operare negli Stati Uniti"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rottamazione auto, cambiano le regole",
-        "link": "https://www.ilsole24ore.com/art/garanzia-parti-riciclate-riuso-e-rottamazione-novita-veicoli-fuori-uso-AJC5i9k",
-        "date": "2026-08-13T03:08:00.000Z",
-        "summary": "La cornice normativa in vigore da oggi. Gli adempimenti dal 2028"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "E-commerce, aumentano gli acquisti online. E anche le frodi",
-        "link": "https://www.ilsole24ore.com/art/e-commerce-aumentano-acquisti-online-e-anche-frodi-AJTsf9k",
-        "date": "2026-08-13T03:06:25.000Z",
-        "summary": "Nel 2024 circa il 45% dei consumatori Ue è stato vittima di truffe facendo shopping su siti web e piattaforme"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cybersicurezza, nel 2025 crescono gli attacchi ma aumenta la capacità preventiva",
-        "link": "https://www.ilsole24ore.com/art/cybersicurezza-2025-crescono-attacchi-ma-aumenta-capacita-preventiva-AJLjO9k",
-        "date": "2026-08-13T03:02:02.000Z",
-        "summary": "La mail è il principale canale di attacchi cyber: il 40% del totale. Cresce il ruolo dell’Agenzia per la cybersicurezza nazionale"
       },
       {
         "category": "contabile",
@@ -772,14 +772,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4395-decreto-omnibus-e-collegati-chiudono-la-riforma-tributaria-guida-ragionata-per-gli-studi.html",
         "date": "2026-08-13T00:00:00.000Z",
         "summary": "La pubblicazione in GU dei D.Lgs. 147, 148 e 149/2026 segna il completamento della  legge delega. Redditi, IVA, CPB e ravvedimento speciale: Vademecum  operativo per gli studi"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rigopiano, la tragedia poteva essere evitata: è mancata la prevenzione dei rischi",
-        "link": "https://www.ilsole24ore.com/art/rigopiano-tragedia-poteva-essere-evitata-e-mancata-prevenzione-rischi-AJnAfvk",
-        "date": "2026-08-12T14:03:00.000Z",
-        "summary": "Depositate le motivazioni della sentenza di appello-bis: le parti civili potranno usarle per chiedere i risarcimenti alla regione Abruzzo"
       },
       {
         "category": "contabile",
@@ -887,14 +879,6 @@
       },
       {
         "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Lavoro sportivo e fiscalit la Circolare 7E 2026 tra chiarimenti e novit",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4383-lavoro-sportivo-e-fiscalita-la-circolare-7e-2026-tra-chiarimenti-e-novita.html",
-        "date": "2026-08-10T00:00:00.000Z",
-        "summary": "Le ricadute operative per ASD e SSD  della nuova Circolare dell'Agenzia: IRPEF, IRAP IVA, rimborsi ai volontari, attività commerciali, raccolte fondi"
-      },
-      {
-        "category": "contabile",
         "source": "CNDCEC - Comunicati",
         "title": "Sisma Campi Flegrei, i Commercialisti aprono una sottoscrizione per i colleghi colpiti dall’evento",
         "link": "https://press-magazine.it/sisma-campi-flegrei-i-commercialisti-aprono-una-sottoscrizione-per-i-colleghi-colpiti-dallevento/",
@@ -972,6 +956,14 @@
         "link": "https://press-magazine.it/trasparenza-retributiva-dal-comitato-pari-opportunita-dei-commercialisti-unanalisi-del-d-lgs-96-2026/",
         "date": "2026-07-30T09:39:41.000Z",
         "summary": "Il Comitato pari opportunità nazionale dei commercialisti (CPON) ha pubblicato il documento “Analisi del decreto legislativo 7 maggio 2026, n. 96”, il provvedimento con cui l’Italia ha recepito la direttiva (UE) 2023/970 sulla trasparenza retributiva e […]"
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Correzione di errori contabili - Procedura semplificata di correzione - Novità del DLgs. 192/2025 - Ambito applicativo (circ. Assonime 5.8.2026 n. 20) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116569",
+        "date": "14/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 14.8.2026 - \"Correzione semplificata degli errori contabili solo con base imponibile IRAP positiva\" - Fornero L."
       },
       {
         "category": "contabile",
@@ -1302,6 +1294,30 @@
       {
         "category": "contenzioso",
         "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Società non operative e presunzione di redditività",
+        "link": "https://www.dgt.mef.gov.it/gt/-/societ%C3%A0-non-operative-e-presunzione-di-redditivit%C3%A0?search=true",
+        "date": "2026-06-25T00:00:00.000Z",
+        "summary": "Sentenza del 25/06/2026 n. 726/Sezione 1 - Corte di Giustizia Tributaria di secondo grado della Toscana"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Giurisdizione e compensazione tra canoni di locazione e debiti tributari",
+        "link": "https://www.dgt.mef.gov.it/gt/-/giurisdizione-e-compensazione-tra-canoni-di-locazione-e-debiti-tributari?search=true",
+        "date": "2026-06-03T00:00:00.000Z",
+        "summary": "Sentenza del 03/06/2026 n. 4142/Sezione 19 - Corte di Giustizia Tributaria di secondo grado della Sicilia"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "Requisiti di validità dell'invito al contraddittorio e contestazione dell'abuso del diritto",
+        "link": "https://www.dgt.mef.gov.it/gt/-/requisiti-di-validit%C3%A0-dell-invito-al-contraddittorio-e-contestazione-dell-abuso-del-diritto?search=true",
+        "date": "2026-06-01T00:00:00.000Z",
+        "summary": "Sentenza del 01/06/2026 n. 8483/Sezione 1 - Corte di Giustizia Tributaria di primo grado di Roma"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
         "title": "Contraddittorio preventivo e deroghe",
         "link": "https://www.dgt.mef.gov.it/gt/-/contraddittorio-preventivo-e-deroghe?search=true",
         "date": "2026-06-01T00:00:00.000Z",
@@ -1310,10 +1326,10 @@
       {
         "category": "contenzioso",
         "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Ricorso nativo digitale e mancanza di firma digitale",
-        "link": "https://www.dgt.mef.gov.it/gt/-/ricorso-nativo-digitale-e-mancanza-di-firma-digitale?search=true",
-        "date": "2026-05-25T00:00:00.000Z",
-        "summary": "Sentenza del 25/05/2026 n. 1205/Sezione 14 - Corte di Giustizia Tributaria di secondo grado della Lombardia"
+        "title": "IMU e concessione di aree demaniali",
+        "link": "https://www.dgt.mef.gov.it/gt/-/imu-e-concessione-di-aree-demaniali?search=true",
+        "date": "2026-05-22T00:00:00.000Z",
+        "summary": "Sentenza del 22/05/2026 n. 2492/Sezione 2 - Corte di Giustizia Tributaria di primo grado di Salerno"
       },
       {
         "category": "contenzioso",
@@ -1334,34 +1350,10 @@
       {
         "category": "contenzioso",
         "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Rimborso IVA e (difetto) di legittimazione del cessionario",
-        "link": "https://www.dgt.mef.gov.it/gt/-/rimborso-iva-e-difetto-di-legittimazione-del-cessionario?search=true",
-        "date": "2026-05-12T00:00:00.000Z",
-        "summary": "Sentenza del 12/05/2026 n. 1489/Sezione 3 - Corte di Giustizia Tributaria di secondo grado della Puglia"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
         "title": "Ecotassa e divieto di discriminazione dei veicoli provenienti dall’Unione europea",
         "link": "https://www.dgt.mef.gov.it/gt/-/ecotassa-e-divieto-di-discriminazione-dei-veicoli-provenienti-dall-unione-europea?search=true",
         "date": "2026-05-08T00:00:00.000Z",
         "summary": "Sentenza del 08/05/2026 n. 296/2 - Corte di Giustizia Tributaria di primo grado di Pescara"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Illegittima la notifica dell’accertamento IMU a ciascun erede in solidarietà passiva",
-        "link": "https://www.dgt.mef.gov.it/gt/-/illegittima-la-notifica-dell-accertamento-imu-a-ciascun-erede-in-solidariet%C3%A0-passiva?search=true",
-        "date": "2026-05-04T00:00:00.000Z",
-        "summary": "Sentenza del 04/05/2026 n. 2686/sezione 15 - Corte di Giustizia Tributaria di secondo grado del Lazio"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Tassazione per trasparenza e beneficiario individuato di trust",
-        "link": "https://www.dgt.mef.gov.it/gt/-/tassazione-per-trasparenza-e-beneficiario-individuato-di-trust?search=true",
-        "date": "2026-05-03T00:00:00.000Z",
-        "summary": "Ordinanza del 03/05/2026 n. 12381/Sezione 5 - Corte di cassazione"
       },
       {
         "category": "contenzioso",
@@ -1374,13 +1366,29 @@
       {
         "category": "contenzioso",
         "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Accollo del debito d’imposta e (divieto di) compensazione con crediti di soggetto diverso",
-        "link": "https://www.dgt.mef.gov.it/gt/-/accollo-del-debito-d-imposta-e-divieto-di-compensazione-con-crediti-di-soggetto-diverso?search=true",
-        "date": "2026-04-01T00:00:00.000Z",
-        "summary": "Sentenza del 01/04/2026 n. 150/1 - Corte di Giustizia Tributaria di primo grado di Macerata"
+        "title": "Presunzione legale relativa e obbligo di motivazione della sentenza",
+        "link": "https://www.dgt.mef.gov.it/gt/-/presunzione-legale-relativa-e-obbligo-di-motivazione-della-sentenza?search=true",
+        "date": "2026-02-03T00:00:00.000Z",
+        "summary": "Ordinanza del 03/02/2026 n. 2211/Sezione V civile - Corte di cassazione"
       }
     ],
     "crisi_impresa": [
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Via libera con maggioranza semplice all’affitto del marciapiede al ristorante",
+        "link": "https://www.ilsole24ore.com/art/via-libera-maggioranza-semplice-all-affitto-marciapiede-ristorante-AIFAhVQD",
+        "date": "2026-08-15T03:04:15.000Z",
+        "summary": "Se viene riservato un passaggio ai condòmini, la locazione temporanea non è penalizzante e non cambia la destinazione d’uso"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Tar, sì al cannabiolo solo con ricetta medica irripetibile",
+        "link": "https://www.ilsole24ore.com/art/tar-si-cannabiolo-solo-ricetta-medica-irripetibile-AJvWtim",
+        "date": "2026-08-14T17:01:00.000Z",
+        "summary": "Legittimo il decreto del ministero della Salute che ha inserito le composizioni tra i farmaci soggetti a prescrizione da rinnovare a ogni acquisto"
+      },
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -1392,50 +1400,34 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "È legittimo geolocalizzare in smart working con criteri condivisi",
+        "link": "https://www.ilsole24ore.com/art/e-legittimo-geolocalizzare-smart-working-criteri-condivisi-AJUfMql",
+        "date": "2026-08-14T03:06:00.000Z",
+        "summary": "Per la Cassazione è fondamentale la «proporzionalità» fra impiego della tecnologia e tutela della privacy"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Pirateria digitale, la trasmissione in diretta dei contenuti traina il settore",
+        "link": "https://www.ilsole24ore.com/art/pirateria-digitale-trasmissione-diretta-contenuti-traina-settore-AJOkwwl",
+        "date": "2026-08-14T03:04:14.000Z",
+        "summary": "Italia e Francia leader nel contrasto, ma le azioni in Europa sono disomogenee e c’è il rischio di danni collaterali ai servizi di streaming legali"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sulla giustizia civile il peso delle domande di asilo",
+        "link": "https://www.ilsole24ore.com/art/sulla-giustizia-civile-peso-domande-asilo-AJ8f71l",
+        "date": "2026-08-13T19:29:00.000Z",
+        "summary": "In due anni raddoppiato il numero delle domande, da 38mila nel 2023 a 80mila nel 2025 - Il Csm: dopo il Pnrr nuova emergenza"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Detrazioni per i figli a carico: come funzionano, le regole e lo sbarramento",
         "link": "https://www.ilsole24ore.com/art/detrazioni-i-figli-carico-come-funzionano-regole-e-sbarramento-AJI4Teh",
         "date": "2026-08-13T13:44:45.000Z",
         "summary": "L’agevolazione si applica a partire dai 21 anni di età e se non si superano i limiti di reddito"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Negli Usa stop all’obbligo di segnalazione del titolare effettivo",
-        "link": "https://www.ilsole24ore.com/art/negli-usa-stop-all-obbligo-segnalazione-titolare-effettivo-AJe4ICl",
-        "date": "2026-08-13T03:10:48.000Z",
-        "summary": "Le aziende straniere non dovranno segnalare chi le ha aiutate a registrarsi per operare negli Stati Uniti"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rottamazione auto, cambiano le regole",
-        "link": "https://www.ilsole24ore.com/art/garanzia-parti-riciclate-riuso-e-rottamazione-novita-veicoli-fuori-uso-AJC5i9k",
-        "date": "2026-08-13T03:08:00.000Z",
-        "summary": "La cornice normativa in vigore da oggi. Gli adempimenti dal 2028"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "E-commerce, aumentano gli acquisti online. E anche le frodi",
-        "link": "https://www.ilsole24ore.com/art/e-commerce-aumentano-acquisti-online-e-anche-frodi-AJTsf9k",
-        "date": "2026-08-13T03:06:25.000Z",
-        "summary": "Nel 2024 circa il 45% dei consumatori Ue è stato vittima di truffe facendo shopping su siti web e piattaforme"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cybersicurezza, nel 2025 crescono gli attacchi ma aumenta la capacità preventiva",
-        "link": "https://www.ilsole24ore.com/art/cybersicurezza-2025-crescono-attacchi-ma-aumenta-capacita-preventiva-AJLjO9k",
-        "date": "2026-08-13T03:02:02.000Z",
-        "summary": "La mail è il principale canale di attacchi cyber: il 40% del totale. Cresce il ruolo dell’Agenzia per la cybersicurezza nazionale"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Rigopiano, la tragedia poteva essere evitata: è mancata la prevenzione dei rischi",
-        "link": "https://www.ilsole24ore.com/art/rigopiano-tragedia-poteva-essere-evitata-e-mancata-prevenzione-rischi-AJnAfvk",
-        "date": "2026-08-12T14:03:00.000Z",
-        "summary": "Depositate le motivazioni della sentenza di appello-bis: le parti civili potranno usarle per chiedere i risarcimenti alla regione Abruzzo"
       },
       {
         "category": "crisi_impresa",
