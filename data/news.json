@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T05:31:30.168Z",
+  "generatedAt": "2026-08-16T05:34:30.065Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -30,6 +30,14 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Isee corrente se la condizione economica peggiora",
+        "link": "https://www.ilsole24ore.com/art/isee-corrente-se-condizione-economica-peggiora-AJOQZce",
+        "date": "2026-08-15T17:28:00.000Z",
+        "summary": "L’opzione che consente di aggiornare l’indicatore per accedere a prestazioni agevolate è però poco utilizzata"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Via libera con maggioranza semplice all’affitto del marciapiede al ristorante",
         "link": "https://www.ilsole24ore.com/art/via-libera-maggioranza-semplice-all-affitto-marciapiede-ristorante-AIFAhVQD",
         "date": "2026-08-15T03:04:15.000Z",
@@ -38,10 +46,10 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Tar, sì al cannabiolo solo con ricetta medica irripetibile",
+        "title": "Tar, cannabiolo solo con ricetta medica irripetibile",
         "link": "https://www.ilsole24ore.com/art/tar-si-cannabiolo-solo-ricetta-medica-irripetibile-AJvWtim",
         "date": "2026-08-14T17:01:00.000Z",
-        "summary": "Legittimo il decreto del ministero della Salute che ha inserito le composizioni tra i farmaci soggetti a prescrizione da rinnovare a ogni acquisto"
+        "summary": "Ribadita la legittimità del decreto che ha inserito le composizioni tra i farmaci soggetti a prescrizione. Il Consiglio di Stato il 3 agosto ha rinviato la questione alla Corte di Giustizia"
       },
       {
         "category": "fiscale",
@@ -58,14 +66,6 @@
         "link": "https://www.ilsole24ore.com/art/e-legittimo-geolocalizzare-smart-working-criteri-condivisi-AJUfMql",
         "date": "2026-08-14T03:06:00.000Z",
         "summary": "Per la Cassazione è fondamentale la «proporzionalità» fra impiego della tecnologia e tutela della privacy"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Pirateria digitale, la trasmissione in diretta dei contenuti traina il settore",
-        "link": "https://www.ilsole24ore.com/art/pirateria-digitale-trasmissione-diretta-contenuti-traina-settore-AJOkwwl",
-        "date": "2026-08-14T03:04:14.000Z",
-        "summary": "Italia e Francia leader nel contrasto, ma le azioni in Europa sono disomogenee e c’è il rischio di danni collaterali ai servizi di streaming legali"
       },
       {
         "category": "fiscale",
@@ -114,14 +114,6 @@
         "link": "https://www.ilsole24ore.com/art/sulla-giustizia-civile-peso-domande-asilo-AJ8f71l",
         "date": "2026-08-13T19:29:00.000Z",
         "summary": "In due anni raddoppiato il numero delle domande, da 38mila nel 2023 a 80mila nel 2025 - Il Csm: dopo il Pnrr nuova emergenza"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Detrazioni per i figli a carico: come funzionano, le regole e lo sbarramento",
-        "link": "https://www.ilsole24ore.com/art/detrazioni-i-figli-carico-come-funzionano-regole-e-sbarramento-AJI4Teh",
-        "date": "2026-08-13T13:44:45.000Z",
-        "summary": "L’agevolazione si applica a partire dai 21 anni di età e se non si superano i limiti di reddito"
       },
       {
         "category": "fiscale",
@@ -664,6 +656,14 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Isee corrente se la condizione economica peggiora",
+        "link": "https://www.ilsole24ore.com/art/isee-corrente-se-condizione-economica-peggiora-AJOQZce",
+        "date": "2026-08-15T17:28:00.000Z",
+        "summary": "L’opzione che consente di aggiornare l’indicatore per accedere a prestazioni agevolate è però poco utilizzata"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Via libera con maggioranza semplice all’affitto del marciapiede al ristorante",
         "link": "https://www.ilsole24ore.com/art/via-libera-maggioranza-semplice-all-affitto-marciapiede-ristorante-AIFAhVQD",
         "date": "2026-08-15T03:04:15.000Z",
@@ -672,10 +672,10 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Tar, sì al cannabiolo solo con ricetta medica irripetibile",
+        "title": "Tar, cannabiolo solo con ricetta medica irripetibile",
         "link": "https://www.ilsole24ore.com/art/tar-si-cannabiolo-solo-ricetta-medica-irripetibile-AJvWtim",
         "date": "2026-08-14T17:01:00.000Z",
-        "summary": "Legittimo il decreto del ministero della Salute che ha inserito le composizioni tra i farmaci soggetti a prescrizione da rinnovare a ogni acquisto"
+        "summary": "Ribadita la legittimità del decreto che ha inserito le composizioni tra i farmaci soggetti a prescrizione. Il Consiglio di Stato il 3 agosto ha rinviato la questione alla Corte di Giustizia"
       },
       {
         "category": "contabile",
@@ -692,14 +692,6 @@
         "link": "https://www.ilsole24ore.com/art/e-legittimo-geolocalizzare-smart-working-criteri-condivisi-AJUfMql",
         "date": "2026-08-14T03:06:00.000Z",
         "summary": "Per la Cassazione è fondamentale la «proporzionalità» fra impiego della tecnologia e tutela della privacy"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Pirateria digitale, la trasmissione in diretta dei contenuti traina il settore",
-        "link": "https://www.ilsole24ore.com/art/pirateria-digitale-trasmissione-diretta-contenuti-traina-settore-AJOkwwl",
-        "date": "2026-08-14T03:04:14.000Z",
-        "summary": "Italia e Francia leader nel contrasto, ma le azioni in Europa sono disomogenee e c’è il rischio di danni collaterali ai servizi di streaming legali"
       },
       {
         "category": "contabile",
@@ -732,14 +724,6 @@
         "link": "https://www.ilsole24ore.com/art/sulla-giustizia-civile-peso-domande-asilo-AJ8f71l",
         "date": "2026-08-13T19:29:00.000Z",
         "summary": "In due anni raddoppiato il numero delle domande, da 38mila nel 2023 a 80mila nel 2025 - Il Csm: dopo il Pnrr nuova emergenza"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Detrazioni per i figli a carico: come funzionano, le regole e lo sbarramento",
-        "link": "https://www.ilsole24ore.com/art/detrazioni-i-figli-carico-come-funzionano-regole-e-sbarramento-AJI4Teh",
-        "date": "2026-08-13T13:44:45.000Z",
-        "summary": "L’agevolazione si applica a partire dai 21 anni di età e se non si superano i limiti di reddito"
       },
       {
         "category": "contabile",
@@ -1376,6 +1360,14 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Isee corrente se la condizione economica peggiora",
+        "link": "https://www.ilsole24ore.com/art/isee-corrente-se-condizione-economica-peggiora-AJOQZce",
+        "date": "2026-08-15T17:28:00.000Z",
+        "summary": "L’opzione che consente di aggiornare l’indicatore per accedere a prestazioni agevolate è però poco utilizzata"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Via libera con maggioranza semplice all’affitto del marciapiede al ristorante",
         "link": "https://www.ilsole24ore.com/art/via-libera-maggioranza-semplice-all-affitto-marciapiede-ristorante-AIFAhVQD",
         "date": "2026-08-15T03:04:15.000Z",
@@ -1384,10 +1376,10 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Tar, sì al cannabiolo solo con ricetta medica irripetibile",
+        "title": "Tar, cannabiolo solo con ricetta medica irripetibile",
         "link": "https://www.ilsole24ore.com/art/tar-si-cannabiolo-solo-ricetta-medica-irripetibile-AJvWtim",
         "date": "2026-08-14T17:01:00.000Z",
-        "summary": "Legittimo il decreto del ministero della Salute che ha inserito le composizioni tra i farmaci soggetti a prescrizione da rinnovare a ogni acquisto"
+        "summary": "Ribadita la legittimità del decreto che ha inserito le composizioni tra i farmaci soggetti a prescrizione. Il Consiglio di Stato il 3 agosto ha rinviato la questione alla Corte di Giustizia"
       },
       {
         "category": "crisi_impresa",
@@ -1408,26 +1400,10 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Pirateria digitale, la trasmissione in diretta dei contenuti traina il settore",
-        "link": "https://www.ilsole24ore.com/art/pirateria-digitale-trasmissione-diretta-contenuti-traina-settore-AJOkwwl",
-        "date": "2026-08-14T03:04:14.000Z",
-        "summary": "Italia e Francia leader nel contrasto, ma le azioni in Europa sono disomogenee e c’è il rischio di danni collaterali ai servizi di streaming legali"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Sulla giustizia civile il peso delle domande di asilo",
         "link": "https://www.ilsole24ore.com/art/sulla-giustizia-civile-peso-domande-asilo-AJ8f71l",
         "date": "2026-08-13T19:29:00.000Z",
         "summary": "In due anni raddoppiato il numero delle domande, da 38mila nel 2023 a 80mila nel 2025 - Il Csm: dopo il Pnrr nuova emergenza"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Detrazioni per i figli a carico: come funzionano, le regole e lo sbarramento",
-        "link": "https://www.ilsole24ore.com/art/detrazioni-i-figli-carico-come-funzionano-regole-e-sbarramento-AJI4Teh",
-        "date": "2026-08-13T13:44:45.000Z",
-        "summary": "L’agevolazione si applica a partire dai 21 anni di età e se non si superano i limiti di reddito"
       },
       {
         "category": "crisi_impresa",
