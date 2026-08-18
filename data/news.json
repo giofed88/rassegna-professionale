@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:40:29.226Z",
+  "generatedAt": "2026-08-18T05:35:51.501Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -13,35 +13,19 @@
     "fiscale": [
       {
         "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "DLgs. 148/2026 (c.d. DLgs. correttivo \"Omnibus\" della Riforma fiscale) - Pubblicazione in G.U. - Principali novità (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116334",
-        "date": "2026-12-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 12.8.2026 - \"Pubblicato in Gazzetta Ufficiale il quarto correttivo della riforma fiscale\" - Boano A."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Tributi locali - Novità del DLgs. 147/2026 (c.d. DLgs. su tributi locali e federalismo fiscale) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116576",
-        "date": "2026-12-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 12.8.2026 - \"Esenzione da super bollo solo con legge statale\" - Zeni A."
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Detassate anche per il 2025 le spese per la madre non convivente ricoverata in Rsa",
+        "link": "https://www.ilsole24ore.com/art/detassate-anche-il-2025-spese-la-madre-non-convivente-ricoverata-rsa-AJSTqCo",
+        "date": "2026-08-18T03:06:27.000Z",
+        "summary": "Dopo le modifiche apportate al Tuir dal Dlgs 148/2026 non è più necessario il requisito della convivenza per accedere al beneficio"
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Welfare aziendale: rimborso spese RSA della madre non imponibile anche senza convivenza",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/17/welfare-aziendale-rimborso-spese-rsa-della-madre-non-imponibile-anche-senza-convivenza/",
-        "date": "2026-08-17T00:00:00.000Z",
+        "title": "Crediti d’imposta dei professionisti: differenziale positivo tassato al 26%",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/18/crediti-dimposta-dei-professionisti-differenziale-positivo-tassato-al-26/",
+        "date": "2026-08-18T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Isee corrente se la condizione economica peggiora",
-        "link": "https://www.ilsole24ore.com/art/isee-corrente-se-condizione-economica-peggiora-AJOQZce",
-        "date": "2026-08-15T17:28:00.000Z",
-        "summary": "L’opzione che consente di aggiornare l’indicatore per accedere a prestazioni agevolate è però poco utilizzata"
       },
       {
         "category": "fiscale",
@@ -510,10 +494,26 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Correzione di errori contabili - Procedura semplificata di correzione - Novità del DLgs. 192/2025 - Ambito applicativo (circ. Assonime 5.8.2026 n. 20) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116569",
-        "date": "14/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 14.8.2026 - \"Correzione semplificata degli errori contabili solo con base imponibile IRAP positiva\" - Fornero L."
+        "title": "Credito d'imposta per investimenti in beni materiali 4.0 - Investimenti ultimati al 31.12.2025 con nuove risorse - Termini di presentazione delle comunicazioni di conferma e di completamento (DM 31.7.2026) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119262",
+        "date": "17/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.8.2026 - \"Per il tax credit 4.0, conferma entro 30 giorni e completamento entro il 15 settembre\" - Alberti P."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Art. 2476 c.c. - Applicazione alle cooperative - Orientamenti giurisprudenziali (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116371",
+        "date": "17/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.8.2026 - \"Ripensamento della Cassazione sui finanziamenti dei soci alle cooperative\" - Meoli M."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Holding statiche -  Mancata distribuzione di dividendi ai soci persone fisiche - Ipotesi di utilizzo abusivo (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1117177",
+        "date": "17/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.8.2026 - \"Sulle holding statiche non serve negare sempre l'abuso, ma occorre perimetrare i casi limite\" - Zanetti E."
       },
       {
         "category": "fiscale",
@@ -542,6 +542,14 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
+        "title": "Novità del DLgs. correttivo \"Omnibus\" (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457236",
+        "date": "13/08/2026",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
         "title": "Disciplina dello split payment (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457527",
         "date": "29/07/2026",
@@ -558,9 +566,17 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Comunicazione dei dati delle liquidazioni (Tratto da Schede di Aggiornamento)",
-        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457648",
-        "date": "15/07/2026",
+        "title": "Welfare aziendale - Rimborso delle spese relative al ricovero e assistenza in RSA di familiare non convivente - Non imponibilità - Novità del DLgs. 148/2026 (c.d. correttivo Omnibus) (Tratto dalla Rassegna Prassi)",
+        "link": "https://www.eutekne.it/Servizi/RassegnaPrassi/recensione.aspx?id=1119488",
+        "date": "14/08/2026",
+        "summary": "Risposta Agenzia Entrate 14.8.2026 n. 163"
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Rottamazione-quinquies: prima rata “recuperabile” entro il 30 settembre",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/18/rottamazione-quinquies-prima-rata-recuperabile-entro-il-30-settembre/",
+        "date": "2026-08-18T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -568,6 +584,14 @@
         "source": "MySolution Fisco",
         "title": "Accise sull’energia elettrica: il punto delle Dogane",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/17/accise-sullenergia-elettrica-il-punto-delle-dogane/",
+        "date": "2026-08-17T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Welfare aziendale: rimborso spese RSA della madre non imponibile anche senza convivenza",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/17/welfare-aziendale-rimborso-spese-rsa-della-madre-non-imponibile-anche-senza-convivenza/",
         "date": "2026-08-17T00:00:00.000Z",
         "summary": ""
       },
@@ -606,22 +630,6 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Quarto correttivo della riforma fiscale: cosa cambia per le auto aziendali",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/13/quarto-correttivo-della-riforma-fiscale-cosa-cambia-per-le-auto-aziendali/",
-        "date": "2026-08-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Riforma giustizia: istituito il ruolo unico nazionale dei magistrati tributari",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/13/riforma-giustizia-istituito-il-ruolo-unico-nazionale-dei-magistrati-tributari/",
-        "date": "2026-08-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
         "title": "Buona Estate da MySolution: i servizi di agosto",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/buona-estate-da-mysolution-servizi-di-agosto/",
         "date": "2026-08-07T00:00:00.000Z",
@@ -639,27 +647,11 @@
     "contabile": [
       {
         "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "DLgs. 148/2026 (c.d. DLgs. correttivo \"Omnibus\" della Riforma fiscale) - Pubblicazione in G.U. - Principali novità (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116334",
-        "date": "2026-12-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 12.8.2026 - \"Pubblicato in Gazzetta Ufficiale il quarto correttivo della riforma fiscale\" - Boano A."
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Tributi locali - Novità del DLgs. 147/2026 (c.d. DLgs. su tributi locali e federalismo fiscale) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116576",
-        "date": "2026-12-08T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 12.8.2026 - \"Esenzione da super bollo solo con legge statale\" - Zeni A."
-      },
-      {
-        "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Isee corrente se la condizione economica peggiora",
-        "link": "https://www.ilsole24ore.com/art/isee-corrente-se-condizione-economica-peggiora-AJOQZce",
-        "date": "2026-08-15T17:28:00.000Z",
-        "summary": "L’opzione che consente di aggiornare l’indicatore per accedere a prestazioni agevolate è però poco utilizzata"
+        "title": "Detassate anche per il 2025 le spese per la madre non convivente ricoverata in Rsa",
+        "link": "https://www.ilsole24ore.com/art/detassate-anche-il-2025-spese-la-madre-non-convivente-ricoverata-rsa-AJSTqCo",
+        "date": "2026-08-18T03:06:27.000Z",
+        "summary": "Dopo le modifiche apportate al Tuir dal Dlgs 148/2026 non è più necessario il requisito della convivenza per accedere al beneficio"
       },
       {
         "category": "contabile",
@@ -760,6 +752,14 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
+        "title": "Fondo Garanzia TFR e procedure concorsuali novit invio dichiarazioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4390-tfr-fondi-garanzia-e-procedure-concorsuali-novita-invio-dichiarazioni.html",
+        "date": "2026-08-12T00:00:00.000Z",
+        "summary": "Messaggio  INPS n. 2601/2026: le dichiarazioni SR52/SR95 e le domande di liquidazione quota TFR ex art. 43-bis vanno inviate solo tramite file XML massivo."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
         "title": "Riforma Giustizia tributaria  in Gazzetta il decreto  149 2026",
         "link": "https://www.fiscoetasse.com/normativa-prassi/13608-riforma-giustizia-tributaria-in-gazzetta-il-decreto-149-2026.html",
         "date": "2026-08-12T00:00:00.000Z",
@@ -788,14 +788,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4393-lavoratori-stranieri-formati-allestero-da-inserire-nel-portale-siisl.html",
         "date": "2026-08-12T00:00:00.000Z",
         "summary": "Le regole per l'iscrizione al SIISL dei cittadini stranieri formati nei Paesi di origine, a disposizione delle aziende . Decreto interministeriale 5.8.2026"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Fondo Garanzia TFR e procedure concorsuali novit invio dichiarazioni",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4390-tfr-fondi-garanzia-e-procedure-concorsuali-novita-invio-dichiarazioni.html",
-        "date": "2026-08-12T00:00:00.000Z",
-        "summary": "Messaggio  INPS n. 2601/2026: le dichiarazioni SR52/SR95 e le domande di liquidazione quota TFR ex art. 43-bis vanno inviate solo tramite file XML massivo."
       },
       {
         "category": "contabile",
@@ -944,10 +936,26 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Correzione di errori contabili - Procedura semplificata di correzione - Novità del DLgs. 192/2025 - Ambito applicativo (circ. Assonime 5.8.2026 n. 20) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116569",
-        "date": "14/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 14.8.2026 - \"Correzione semplificata degli errori contabili solo con base imponibile IRAP positiva\" - Fornero L."
+        "title": "Credito d'imposta per investimenti in beni materiali 4.0 - Investimenti ultimati al 31.12.2025 con nuove risorse - Termini di presentazione delle comunicazioni di conferma e di completamento (DM 31.7.2026) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119262",
+        "date": "17/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.8.2026 - \"Per il tax credit 4.0, conferma entro 30 giorni e completamento entro il 15 settembre\" - Alberti P."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Art. 2476 c.c. - Applicazione alle cooperative - Orientamenti giurisprudenziali (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116371",
+        "date": "17/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.8.2026 - \"Ripensamento della Cassazione sui finanziamenti dei soci alle cooperative\" - Meoli M."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Holding statiche -  Mancata distribuzione di dividendi ai soci persone fisiche - Ipotesi di utilizzo abusivo (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1117177",
+        "date": "17/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 17.8.2026 - \"Sulle holding statiche non serve negare sempre l'abuso, ma occorre perimetrare i casi limite\" - Zanetti E."
       },
       {
         "category": "contabile",
@@ -976,6 +984,14 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
+        "title": "Novità del DLgs. correttivo \"Omnibus\" (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457236",
+        "date": "13/08/2026",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
         "title": "Disciplina dello split payment (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457527",
         "date": "29/07/2026",
@@ -992,13 +1008,37 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Comunicazione dei dati delle liquidazioni (Tratto da Schede di Aggiornamento)",
-        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=457648",
-        "date": "15/07/2026",
-        "summary": ""
+        "title": "Welfare aziendale - Rimborso delle spese relative al ricovero e assistenza in RSA di familiare non convivente - Non imponibilità - Novità del DLgs. 148/2026 (c.d. correttivo Omnibus) (Tratto dalla Rassegna Prassi)",
+        "link": "https://www.eutekne.it/Servizi/RassegnaPrassi/recensione.aspx?id=1119488",
+        "date": "14/08/2026",
+        "summary": "Risposta Agenzia Entrate 14.8.2026 n. 163"
       }
     ],
     "lavoro": [
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Amianto: Linee guida per la gestione dei rischi per la salute e la sicurezza dei lavoratori",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/18/amianto-linee-guida-per-la-gestione-dei-rischi-per-la-salute-e-la-sicurezza-dei-lavoratori/",
+        "date": "2026-08-18T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Welfare aziendale: rimborso spese RSA della madre non imponibile anche senza convivenza",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/18/welfare-aziendale-rimborso-spese-rsa-della-madre-non-imponibile-anche-senza-convivenza/",
+        "date": "2026-08-18T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Convenzione INPS, INL, CONFAPI, CGIL, CISL e UIL: attività di raccolta e comunicazione dei dati relativi alla rappresentanza delle OO.SS. per la contrattazione collettiva",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/18/convenzione-inps-inl-confapi-cgil-cisl-e-uil-attivita-di-raccolta-e-comunicazione-dei-dati-relativi-alla-rappresentanza-delle-oo.ss.-per-la-contrattazione-collettiva",
+        "date": "2026-08-18T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
@@ -1045,30 +1085,6 @@
         "title": "Danno biologico: rivalutate le prestazioni economiche",
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/14/danno-biologico-rivalutate-le-prestazioni-economiche/",
         "date": "2026-08-14T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Quarto correttivo Riforma fiscale: cambia il regime sulle auto a uso promiscuo",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/13/decreto-omnibus-cambia-il-regime-sulle-auto-a-uso-promiscuo/",
-        "date": "2026-08-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Pensami (PENSione A MIsura): online la nuova versione del simulatore",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/13/pensami---pensione-a-misura-online-la-nuova-versione-del-simulatore/",
-        "date": "2026-08-13T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Investimenti sostenibili 4.0: definiti termini e modalità di presentazione delle domande",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/13/investimenti-sostenibili-4.0-definiti-termini-e-modalita-di-presentazione-delle-domande",
-        "date": "2026-08-13T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -1360,10 +1376,10 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Isee corrente se la condizione economica peggiora",
-        "link": "https://www.ilsole24ore.com/art/isee-corrente-se-condizione-economica-peggiora-AJOQZce",
-        "date": "2026-08-15T17:28:00.000Z",
-        "summary": "L’opzione che consente di aggiornare l’indicatore per accedere a prestazioni agevolate è però poco utilizzata"
+        "title": "Detassate anche per il 2025 le spese per la madre non convivente ricoverata in Rsa",
+        "link": "https://www.ilsole24ore.com/art/detassate-anche-il-2025-spese-la-madre-non-convivente-ricoverata-rsa-AJSTqCo",
+        "date": "2026-08-18T03:06:27.000Z",
+        "summary": "Dopo le modifiche apportate al Tuir dal Dlgs 148/2026 non è più necessario il requisito della convivenza per accedere al beneficio"
       },
       {
         "category": "crisi_impresa",
