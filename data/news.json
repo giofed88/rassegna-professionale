@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:37:02.953Z",
+  "generatedAt": "2026-08-21T05:38:20.289Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -14,6 +14,54 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sui balconi del condominio l’amministratore risponde solo per le parti comuni",
+        "link": "https://www.ilsole24ore.com/art/sui-balconi-condominio-l-amministratore-risponde-solo-le-parti-comuni-AJW0Heq",
+        "date": "2026-08-21T03:06:29.000Z",
+        "summary": "Il recente crollo a Livorno ha riportato l’attenzione sulle diverse responsabilità nella gestione della manutenzione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Imballaggi compostabili nuove regole dall8 agosto cosa cambia per le imprese",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4413-imballaggi-compostabili-nuove-regole-dall8-agosto-cosa-cambia-per-le-imprese.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Imballaggi compostabili: nuove regole per le imprese, vediamo cosa cambia dall'8 agosto. Interessati filiere agroalimentare, Ho.Re.Ca. e ricettività"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Noleggio sociale lACI scioglie tutti i dubbi",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4412-noleggio-sociale-laci-scioglie-tutti-i-dubbi.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Noleggio sociale auto a 100 euro: requisiti, domanda, costi e come funziona"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "ASD e SSD chiarimenti ADE su profili fiscali",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4408-asd-ssd-chiarimenti-ade-su-profili-fiscali.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Enti sportivi dilettantistici e lavoro sportivo: indicazioni delle Entrate su esenzioni, rimborsi e adempimenti per il pagamento delle imposte"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Aumenti in busta paga dalla Cassazione no allassorbimento del superminimo",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4399-aumenti-in-busta-paga-dalla-cassazione-no-allassorbimento-del-superminimo.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "La Corte di Cassazione, sentenza n. 24475/2026, chiarisce quando il superminimo resta escluso dall'assorbimento negli aumenti contrattuali collettivi."
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Fondo Simest IA: 200 milioni per le PMI dal 21 settembre",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/21/fondo-simest-ia-200-milioni-per-le-pmi-dal-21-settembre/",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Bici giù dai Murazzi, appello bis per Cherici: valutare la dipendenza dal branco",
         "link": "https://www.ilsole24ore.com/art/bici-giu-murazzi-appello-bis-cherici-valutare-dipendenza-branco-AJP6Rop",
         "date": "2026-08-20T03:08:39.000Z",
@@ -21,17 +69,49 @@
       },
       {
         "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Il caporalato non può essere escluso per il lavoratore assunto con auto e casa",
+        "link": "https://www.ilsole24ore.com/art/il-caporalato-non-puo-essere-escluso-il-lavoratore-assunto-auto-e-casa-AJVA3rp",
+        "date": "2026-08-20T03:06:28.000Z",
+        "summary": "A fronte dell’evidente sfruttamento il reato non va scartato a priori. Lo stato di bisogno va valutato caso per caso"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Adempimenti, oggi il Fisco riparte con 140 diversi tipi di versamenti",
+        "link": "https://www.ilsole24ore.com/art/adempimenti-oggi-fisco-riparte-140-diversi-tipi-versamenti-AJKT6jp",
+        "date": "2026-08-20T03:04:00.000Z",
+        "summary": "Finita la pausa di Ferragosto, i contribuenti sono chiamati alla cassa per chiudere i conti del 2025 e pagare il primo acconto del 2026"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "In Piemonte l’accesso alla professione di estetista scatena lo scontro",
+        "link": "https://www.ilsole24ore.com/art/in-piemonte-l-accesso-professione-estetista-scatena-scontro-AJhximb",
+        "date": "2026-08-20T03:02:02.000Z",
+        "summary": "Agenzie formative contro Regione Piemonte che, al termine del percorso Iefp, consente l’abilitazione tramite esame specifico"
+      },
+      {
+        "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Canone Unico 20212025 possibile inviare delibere e tariffe",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4410-canone-unico-2021-2025-possibile-inviare-delibere-e-tariffe.html",
+        "title": "Tax control framework contro i rischi fiscali anche nel terzo settore",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17394-tax-control-framework-contro-i-rischi-fiscali-anche-nel-terzo-settore.html",
+        "date": "2026-08-20T00:00:00.000Z",
+        "summary": "TCF: un efficace presidio della compliance anche per gli enti non commerciali che esercitano attività economiche."
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Canone unico il MEF attiva la procedura di invio",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4410-canone-unico-il-mef-attiva-la-procedura-di-invio.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "Procedura per l'invio, tramite il portale federalismo fiscale, delle delibere dei Comuni e delle tariffe per il canone unico 2021-2025. Cosa ha previsto il Dlgs Federalismo"
       },
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "730 con diniego quando succede e come fare per avere il rimborso",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4409-730-con-diniego-quando-succede-e-come-fare-per-avere-il-rimborso.html",
+        "title": "730 con diniego del sostituto come avere il rimborso",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4409-730-con-diniego-del-sostituto-come-avere-il-rimborso.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "730 precompilato 2026, diniego del sostituto: cosa fare per non perdere il rimborso. Le Entrate spiegano i vari casi e danno istruzioni ai contribuenti"
       },
@@ -46,18 +126,26 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
+        "title": "FER X definitivo che cos",
+        "link": "https://www.fiscoetasse.com/domande-e-risposte/12878-fer-x-definitivo-che-cose.html",
+        "date": "2026-08-20T00:00:00.000Z",
+        "summary": "FER X definitivo il GSE specifica che si attendono le ulteriori istruzioni per l'avvio definitivo delle procedure"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Lavoratori frontalieri in Svizzera scambio automatico dei dati",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17386-frontaliere-svizzeri-scambio-automatico-dati.html",
+        "date": "2026-08-20T00:00:00.000Z",
+        "summary": "Lavoratori frontalieri in Svizzera: dal 1° gennaio 2027 operativo lo scambio automatico dei dati retributivi con l'Italia"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
         "title": "IMU fabbricati con rendita impugnata cambia laccertamento",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4400-imu-fabbricati-con-rendita-impugnata-cambia-laccertamento.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "Federalismo fiscale: diverse le novità per l'IMU, cosa cambia per gli immobili con rendite contenstate"
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Come funziona il riallineamento straordinario tra valori contabili e fiscali",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/20/come-funziona-il-riallineamento-straordinario-tra-valori-contabili-e-fiscali/",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": ""
       },
       {
         "category": "fiscale",
@@ -74,14 +162,6 @@
         "link": "https://www.ilsole24ore.com/art/condominio-ammesso-spioncino-elettronico-ma-vietate-riprese-sistematiche-AJwcnCY",
         "date": "2026-08-19T03:06:00.000Z",
         "summary": "Le immagini vanno raccolte per finalità determinate e custodite per brevi periodi. Non può diventare un sistema di controllo continuo per il vicino o il portinaio"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Falsi ciechi, condanne annullate: irrilevante che si muovano in autonomia",
-        "link": "https://www.ilsole24ore.com/art/falsi-ciechi-condanne-annullate-irrilevante-che-si-muovano-autonomia-AJlwTzo",
-        "date": "2026-08-19T03:02:02.000Z",
-        "summary": "I giudici rinviano a nuovo processo per verificare il livello di deficit visivo"
       },
       {
         "category": "fiscale",
@@ -106,38 +186,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4401-7302026-detrazione-trasporti-al-19-chi-puo-richiederla.html",
         "date": "2026-08-19T00:00:00.000Z",
         "summary": "Bonus trasporti nel 730/2026: detrazione del 19% sugli abbonamenti, limite di 250 euro e nuove regole"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "ImportExport i regimi sanzionatori UE nei confronti della Russia",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17381-import-export-i-regimi-sanzionatori-ue-nei-confronti-della-russia.html",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": "L’Unione Europea, nei confronti della Federazione Russa, ha imposto una serie di pacchetti sanzionatori senza precedenti"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Studi associati e IRAP parere della  Consulta da automatismo a criterio di effettivit",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17380-studi-associati-e-irap-alla-luce-della-sentenza-della-consulta-automatismo-o-effettivita.html",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": "Nella sentenza Corte cost. 153-26  una lettura della soggettività  delle associazioni professionali legata all'effettivo svolgimento di attività in comune. Check list operativa"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Le fondazioni ordinistiche restano fuori dal Registro Ets",
-        "link": "https://www.ilsole24ore.com/art/le-fondazioni-ordinistiche-restano-fuori-registro-ets-AJOrzMo",
-        "date": "2026-08-18T03:04:14.000Z",
-        "summary": "L’obiettivo è valorizzare le competenze degli iscritti all’Albo"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Condominio, non tutte le telecamere irregolari obbligano al risarcimento",
-        "link": "https://www.ilsole24ore.com/art/condominio-non-tutte-telecamere-irregolari-obbligano-risarcimento-AJpQTjm",
-        "date": "2026-08-18T03:02:02.000Z",
-        "summary": "Spetta al giudice valutare, oltre a stress e ansia psicologica, la posizione professionale e sociale del danneggiato e la gravità del fatto lesivo"
       },
       {
         "category": "fiscale",
@@ -194,46 +242,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17383-decreto-omnibus-la-ridefinizione-dei-soggetti-assimilati-alle-holding-industriali.html",
         "date": "2026-08-14T00:00:00.000Z",
         "summary": "Il DLgs 7 agosto 2026, n. 148 introduce un income test fondato sui ricavi da attività finanziarie non rivolte al pubblico. Analisi, risvolti IRAP e note operative per gli studi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus diritto alla detrazione dell IVA prorogato a due anni",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4397-decreto-omnibus-diritto-alla-detrazione-dell-iva-prorogato-a-due-anni.html",
-        "date": "2026-08-14T00:00:00.000Z",
-        "summary": "La novità  in materia di IVA prevista dal decreto Omnibus 148 2026 correttivo della Riforma fiscale"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Reg UE 202540 PPWR cosa cambia sugli imballaggi dal 12 agosto 2026",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17382-reg-ue-202540-ppwr-cosa-cambia-sugli-imballaggi-dal-12-agosto-2026.html",
-        "date": "2026-08-13T00:00:00.000Z",
-        "summary": "Ambito di applicazione, obblighi immediati e azioni prioritarie per le imprese che commercializzano prodotti imballati"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus e agricoltura  cosa cambia per reddito agrario e dimpresa",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4396-decreto-omnibus-e-agricoltura-cosa-cambia-per-reddito-agrario-e-dimpresa.html",
-        "date": "2026-08-13T00:00:00.000Z",
-        "summary": "Il decreto correttivo pubblicato in Gazzetta prevede l'estensione del reddito agrario e altre importanti novità  fiscali , in vigore dal 12 agosto 2026"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus e collegati chiudono la riforma fiscale guida aggiornata sul CPB",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4395-decreto-omnibus-e-collegati-chiudono-la-riforma-tributaria-guida-ragionata-per-gli-studi.html",
-        "date": "2026-08-13T00:00:00.000Z",
-        "summary": "La pubblicazione in GU dei D.Lgs. 147, 148 e 149/2026 segna il completamento della  legge delega. Redditi, IVA, CPB e ravvedimento speciale: Vademecum  operativo per gli studi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Riforma Giustizia tributaria  in Gazzetta il decreto  149 2026",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13608-riforma-giustizia-tributaria-in-gazzetta-il-decreto-149-2026.html",
-        "date": "2026-08-12T00:00:00.000Z",
-        "summary": "Il D.Lgs. 149/2026 pubblicato l'11 agosto  crea il ruolo unico dei magistrati tributari completando la legge delega 111 2023:  tutte le novità in vigore dal 26 agosto"
       },
       {
         "category": "fiscale",
@@ -494,6 +502,14 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
+        "title": "Effetti - Tassatività delle cause di estinzione (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114586",
+        "date": "20/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 20.8.2026 - \"Estinzione del processo per mancata riassunzione con motivi tassativi\" - Cissello A."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
         "title": "Enti del Terzo settore - Soggetti esclusi - Ordini e collegi professionali e soggetti controllati (nota Min. Lavoro 14.8.2026 n. 13041) (Tratto dal Notiziario)",
         "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119528",
         "date": "18/08/2026",
@@ -506,14 +522,6 @@
         "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119536",
         "date": "18/08/2026",
         "summary": "Il Quotidiano del Commercialista del 18.8.2026 - \"Il venir meno di una distrazione tra tante influisce sulla determinazione della pena\" - Redazione"
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Bonus \"edilizi\" - Novità del DLgs. 117/2026 (nuovo Testo unico delle disposizioni legislative in materia di imposte sui redditi) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115184",
-        "date": "18/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 18.8.2026 - \"Detrazioni edilizie confluite nel nuovo Testo unico delle imposte sui redditi\" - Spina S."
       },
       {
         "category": "fiscale",
@@ -574,8 +582,32 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
+        "title": "Accertamento su costi pluriennali: rileva la prima dichiarazione",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/21/accertamento-su-costi-pluriennali-rileva-la-prima-dichiarazione/",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Lavoro sportivo dilettante: calcolo della base imponibile per la gestione separata e compilazione del quadro RR",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/21/lavoro-sportivo-dilettante-calcolo-della-base-imponibile-per-la-gestione-separata-e-compilazione-del-quadro-rr/",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
         "title": "Versamento delle imposte per i soggetti ISA al 20 agosto con maggiorazione dello 0,8%",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/20/versamento-delle-imposte-per-i-soggetti-isa-al-20-agosto-con-maggiorazione-dello-080/",
+        "date": "2026-08-20T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Come funziona il riallineamento straordinario tra valori contabili e fiscali",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/20/come-funziona-il-riallineamento-straordinario-tra-valori-contabili-e-fiscali/",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": ""
       },
@@ -606,30 +638,6 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Fondazioni degli ordini professionali escluse dal Terzo settore",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/19/fondazioni-degli-ordini-professionali-escluse-dal-terzo-settore/",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Rottamazione-quinquies: prima rata “recuperabile” entro il 30 settembre",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/18/rottamazione-quinquies-prima-rata-recuperabile-entro-il-30-settembre/",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Crediti d’imposta dei professionisti: differenziale positivo tassato al 26%",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/18/crediti-dimposta-dei-professionisti-differenziale-positivo-tassato-al-26/",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
         "title": "Buona Estate da MySolution: i servizi di agosto",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/buona-estate-da-mysolution-servizi-di-agosto/",
         "date": "2026-08-07T00:00:00.000Z",
@@ -648,6 +656,46 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sui balconi del condominio l’amministratore risponde solo per le parti comuni",
+        "link": "https://www.ilsole24ore.com/art/sui-balconi-condominio-l-amministratore-risponde-solo-le-parti-comuni-AJW0Heq",
+        "date": "2026-08-21T03:06:29.000Z",
+        "summary": "Il recente crollo a Livorno ha riportato l’attenzione sulle diverse responsabilità nella gestione della manutenzione"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Imballaggi compostabili nuove regole dall8 agosto cosa cambia per le imprese",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4413-imballaggi-compostabili-nuove-regole-dall8-agosto-cosa-cambia-per-le-imprese.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Imballaggi compostabili: nuove regole per le imprese, vediamo cosa cambia dall'8 agosto. Interessati filiere agroalimentare, Ho.Re.Ca. e ricettività"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Noleggio sociale lACI scioglie tutti i dubbi",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4412-noleggio-sociale-laci-scioglie-tutti-i-dubbi.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Noleggio sociale auto a 100 euro: requisiti, domanda, costi e come funziona"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "ASD e SSD chiarimenti ADE su profili fiscali",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4408-asd-ssd-chiarimenti-ade-su-profili-fiscali.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Enti sportivi dilettantistici e lavoro sportivo: indicazioni delle Entrate su esenzioni, rimborsi e adempimenti per il pagamento delle imposte"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Aumenti in busta paga dalla Cassazione no allassorbimento del superminimo",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4399-aumenti-in-busta-paga-dalla-cassazione-no-allassorbimento-del-superminimo.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "La Corte di Cassazione, sentenza n. 24475/2026, chiarisce quando il superminimo resta escluso dall'assorbimento negli aumenti contrattuali collettivi."
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Bici giù dai Murazzi, appello bis per Cherici: valutare la dipendenza dal branco",
         "link": "https://www.ilsole24ore.com/art/bici-giu-murazzi-appello-bis-cherici-valutare-dipendenza-branco-AJP6Rop",
         "date": "2026-08-20T03:08:39.000Z",
@@ -655,17 +703,49 @@
       },
       {
         "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Il caporalato non può essere escluso per il lavoratore assunto con auto e casa",
+        "link": "https://www.ilsole24ore.com/art/il-caporalato-non-puo-essere-escluso-il-lavoratore-assunto-auto-e-casa-AJVA3rp",
+        "date": "2026-08-20T03:06:28.000Z",
+        "summary": "A fronte dell’evidente sfruttamento il reato non va scartato a priori. Lo stato di bisogno va valutato caso per caso"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Adempimenti, oggi il Fisco riparte con 140 diversi tipi di versamenti",
+        "link": "https://www.ilsole24ore.com/art/adempimenti-oggi-fisco-riparte-140-diversi-tipi-versamenti-AJKT6jp",
+        "date": "2026-08-20T03:04:00.000Z",
+        "summary": "Finita la pausa di Ferragosto, i contribuenti sono chiamati alla cassa per chiudere i conti del 2025 e pagare il primo acconto del 2026"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "In Piemonte l’accesso alla professione di estetista scatena lo scontro",
+        "link": "https://www.ilsole24ore.com/art/in-piemonte-l-accesso-professione-estetista-scatena-scontro-AJhximb",
+        "date": "2026-08-20T03:02:02.000Z",
+        "summary": "Agenzie formative contro Regione Piemonte che, al termine del percorso Iefp, consente l’abilitazione tramite esame specifico"
+      },
+      {
+        "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Canone Unico 20212025 possibile inviare delibere e tariffe",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4410-canone-unico-2021-2025-possibile-inviare-delibere-e-tariffe.html",
+        "title": "Tax control framework contro i rischi fiscali anche nel terzo settore",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17394-tax-control-framework-contro-i-rischi-fiscali-anche-nel-terzo-settore.html",
+        "date": "2026-08-20T00:00:00.000Z",
+        "summary": "TCF: un efficace presidio della compliance anche per gli enti non commerciali che esercitano attività economiche."
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Canone unico il MEF attiva la procedura di invio",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4410-canone-unico-il-mef-attiva-la-procedura-di-invio.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "Procedura per l'invio, tramite il portale federalismo fiscale, delle delibere dei Comuni e delle tariffe per il canone unico 2021-2025. Cosa ha previsto il Dlgs Federalismo"
       },
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "730 con diniego quando succede e come fare per avere il rimborso",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4409-730-con-diniego-quando-succede-e-come-fare-per-avere-il-rimborso.html",
+        "title": "730 con diniego del sostituto come avere il rimborso",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4409-730-con-diniego-del-sostituto-come-avere-il-rimborso.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "730 precompilato 2026, diniego del sostituto: cosa fare per non perdere il rimborso. Le Entrate spiegano i vari casi e danno istruzioni ai contribuenti"
       },
@@ -676,6 +756,22 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4407-indagini-finanziarie-e-doppia-attivita-spetta-al-contribuente-lonere-della-prova.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "La Cassazione chiarisce il perimetro dell'onere della prova nel caso del contribuente con doppia attività sottoposto a indagini finanziarie"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "FER X definitivo che cos",
+        "link": "https://www.fiscoetasse.com/domande-e-risposte/12878-fer-x-definitivo-che-cose.html",
+        "date": "2026-08-20T00:00:00.000Z",
+        "summary": "FER X definitivo il GSE specifica che si attendono le ulteriori istruzioni per l'avvio definitivo delle procedure"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Lavoratori frontalieri in Svizzera scambio automatico dei dati",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17386-frontaliere-svizzeri-scambio-automatico-dati.html",
+        "date": "2026-08-20T00:00:00.000Z",
+        "summary": "Lavoratori frontalieri in Svizzera: dal 1° gennaio 2027 operativo lo scambio automatico dei dati retributivi con l'Italia"
       },
       {
         "category": "contabile",
@@ -703,14 +799,6 @@
       },
       {
         "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Falsi ciechi, condanne annullate: irrilevante che si muovano in autonomia",
-        "link": "https://www.ilsole24ore.com/art/falsi-ciechi-condanne-annullate-irrilevante-che-si-muovano-autonomia-AJlwTzo",
-        "date": "2026-08-19T03:02:02.000Z",
-        "summary": "I giudici rinviano a nuovo processo per verificare il livello di deficit visivo"
-      },
-      {
-        "category": "contabile",
         "source": "Fisco e Tasse",
         "title": "Regime agevolativo IRES e IVA per SSD adeguamento statuti",
         "link": "https://www.fiscoetasse.com/approfondimenti/17390-regime-agevolativo-ires-e-iva-per-ssd-adeguamento-degli-statuti-tra-art-148-tuir-e-dlgs.html",
@@ -732,38 +820,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4401-7302026-detrazione-trasporti-al-19-chi-puo-richiederla.html",
         "date": "2026-08-19T00:00:00.000Z",
         "summary": "Bonus trasporti nel 730/2026: detrazione del 19% sugli abbonamenti, limite di 250 euro e nuove regole"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "ImportExport i regimi sanzionatori UE nei confronti della Russia",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17381-import-export-i-regimi-sanzionatori-ue-nei-confronti-della-russia.html",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": "L’Unione Europea, nei confronti della Federazione Russa, ha imposto una serie di pacchetti sanzionatori senza precedenti"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Studi associati e IRAP parere della  Consulta da automatismo a criterio di effettivit",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17380-studi-associati-e-irap-alla-luce-della-sentenza-della-consulta-automatismo-o-effettivita.html",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": "Nella sentenza Corte cost. 153-26  una lettura della soggettività  delle associazioni professionali legata all'effettivo svolgimento di attività in comune. Check list operativa"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Le fondazioni ordinistiche restano fuori dal Registro Ets",
-        "link": "https://www.ilsole24ore.com/art/le-fondazioni-ordinistiche-restano-fuori-registro-ets-AJOrzMo",
-        "date": "2026-08-18T03:04:14.000Z",
-        "summary": "L’obiettivo è valorizzare le competenze degli iscritti all’Albo"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Condominio, non tutte le telecamere irregolari obbligano al risarcimento",
-        "link": "https://www.ilsole24ore.com/art/condominio-non-tutte-telecamere-irregolari-obbligano-risarcimento-AJpQTjm",
-        "date": "2026-08-18T03:02:02.000Z",
-        "summary": "Spetta al giudice valutare, oltre a stress e ansia psicologica, la posizione professionale e sociale del danneggiato e la gravità del fatto lesivo"
       },
       {
         "category": "contabile",
@@ -812,46 +868,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17383-decreto-omnibus-la-ridefinizione-dei-soggetti-assimilati-alle-holding-industriali.html",
         "date": "2026-08-14T00:00:00.000Z",
         "summary": "Il DLgs 7 agosto 2026, n. 148 introduce un income test fondato sui ricavi da attività finanziarie non rivolte al pubblico. Analisi, risvolti IRAP e note operative per gli studi"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus diritto alla detrazione dell IVA prorogato a due anni",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4397-decreto-omnibus-diritto-alla-detrazione-dell-iva-prorogato-a-due-anni.html",
-        "date": "2026-08-14T00:00:00.000Z",
-        "summary": "La novità  in materia di IVA prevista dal decreto Omnibus 148 2026 correttivo della Riforma fiscale"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Reg UE 202540 PPWR cosa cambia sugli imballaggi dal 12 agosto 2026",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17382-reg-ue-202540-ppwr-cosa-cambia-sugli-imballaggi-dal-12-agosto-2026.html",
-        "date": "2026-08-13T00:00:00.000Z",
-        "summary": "Ambito di applicazione, obblighi immediati e azioni prioritarie per le imprese che commercializzano prodotti imballati"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus e agricoltura  cosa cambia per reddito agrario e dimpresa",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4396-decreto-omnibus-e-agricoltura-cosa-cambia-per-reddito-agrario-e-dimpresa.html",
-        "date": "2026-08-13T00:00:00.000Z",
-        "summary": "Il decreto correttivo pubblicato in Gazzetta prevede l'estensione del reddito agrario e altre importanti novità  fiscali , in vigore dal 12 agosto 2026"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus e collegati chiudono la riforma fiscale guida aggiornata sul CPB",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4395-decreto-omnibus-e-collegati-chiudono-la-riforma-tributaria-guida-ragionata-per-gli-studi.html",
-        "date": "2026-08-13T00:00:00.000Z",
-        "summary": "La pubblicazione in GU dei D.Lgs. 147, 148 e 149/2026 segna il completamento della  legge delega. Redditi, IVA, CPB e ravvedimento speciale: Vademecum  operativo per gli studi"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Riforma Giustizia tributaria  in Gazzetta il decreto  149 2026",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13608-riforma-giustizia-tributaria-in-gazzetta-il-decreto-149-2026.html",
-        "date": "2026-08-12T00:00:00.000Z",
-        "summary": "Il D.Lgs. 149/2026 pubblicato l'11 agosto  crea il ruolo unico dei magistrati tributari completando la legge delega 111 2023:  tutte le novità in vigore dal 26 agosto"
       },
       {
         "category": "contabile",
@@ -936,6 +952,14 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
+        "title": "Effetti - Tassatività delle cause di estinzione (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114586",
+        "date": "20/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 20.8.2026 - \"Estinzione del processo per mancata riassunzione con motivi tassativi\" - Cissello A."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
         "title": "Enti del Terzo settore - Soggetti esclusi - Ordini e collegi professionali e soggetti controllati (nota Min. Lavoro 14.8.2026 n. 13041) (Tratto dal Notiziario)",
         "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119528",
         "date": "18/08/2026",
@@ -948,14 +972,6 @@
         "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119536",
         "date": "18/08/2026",
         "summary": "Il Quotidiano del Commercialista del 18.8.2026 - \"Il venir meno di una distrazione tra tante influisce sulla determinazione della pena\" - Redazione"
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Bonus \"edilizi\" - Novità del DLgs. 117/2026 (nuovo Testo unico delle disposizioni legislative in materia di imposte sui redditi) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1115184",
-        "date": "18/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 18.8.2026 - \"Detrazioni edilizie confluite nel nuovo Testo unico delle imposte sui redditi\" - Spina S."
       },
       {
         "category": "contabile",
@@ -1018,6 +1034,30 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
+        "title": "Home Care Premium 2025-2028: nuove funzionalità nelle procedure",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/21/home-care-premium-2025-2028-nuove-funzionalita-nelle-procedure/",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Smart working senza contratto scritto: illegittimo il licenziamento per assenza",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/21/smart-working-senza-contratto-scritto-illegittimo-il-licenziamento-per-assenza/",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Lavoro sportivo dilettantistico: calcolo della base imponibile per la gestione separata e compilazione del quadro RR",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/21/lavoro-sportivo-dilettantistico-calcolo-della-base-imponibile-per-la-gestione-separata-e-compilazione-del-quadro-rr/",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
         "title": "Fondazione Studi CdL: analisi sulla disciplina retributiva nei vari Paesi UE",
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/20/fondazione-studi-cdl-analisi-sulla-disciplina-retributiva-nei-vari-paesi-ue/",
         "date": "2026-08-20T00:00:00.000Z",
@@ -1066,30 +1106,6 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Amianto: Linee guida per la gestione dei rischi per la salute e la sicurezza dei lavoratori",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/18/amianto-linee-guida-per-la-gestione-dei-rischi-per-la-salute-e-la-sicurezza-dei-lavoratori/",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Welfare aziendale: rimborso spese RSA della madre non imponibile anche senza convivenza",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/18/welfare-aziendale-rimborso-spese-rsa-della-madre-non-imponibile-anche-senza-convivenza/",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Convenzione INPS, INL, CONFAPI, CGIL, CISL e UIL: attività di raccolta e comunicazione dei dati relativi alla rappresentanza delle OO.SS. per la contrattazione collettiva",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/18/convenzione-inps-inl-confapi-cgil-cisl-e-uil-attivita-di-raccolta-e-comunicazione-dei-dati-relativi-alla-rappresentanza-delle-oo.ss.-per-la-contrattazione-collettiva",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
         "title": "Buona Estate da MySolution: i servizi di agosto",
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/buona-estate-da-mysolution-i-servizi-di-agosto/",
         "date": "2026-08-07T00:00:00.000Z",
@@ -1097,6 +1113,22 @@
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "San Francisco riconquista il titolo di città più cara degli Stati Uniti",
+        "link": "https://www.ilsole24ore.com/art/immobili-boom-dell-ai-manda-tilt-prezzi-case-san-francisco-AJNhfbj",
+        "date": "2026-08-20T08:52:00.000Z",
+        "summary": "Il boom delle assunzioni e gli elevati stipendi in questo segmento del Tech, assieme alla scarsa offerta di abitazioni, ha fatto aumentare i valori immobiliari ed eletto la città californiana come la più cara degli Usa. Le villette unifamiliari costano in media 2,2 milioni di dollari"
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Londra, a Battersea residenze raffinate sul molo storico del Tamigi",
+        "link": "https://www.ilsole24ore.com/art/londra-battersea-residenze-raffinate-molo-storico-tamigi-AJp0TNq",
+        "date": "2026-08-20T08:47:54.000Z",
+        "summary": "Creato da London Square, Ransome’s Wharf prevede 118 appartamenti in cinque edifici affacciati sul fiume e collegati da giardini. Al centro una piazza con ristoranti, bar e negozi. Fine lavori: il 2028. I prezzi partono da 1,1 milioni di sterline."
+      },
       {
         "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
@@ -1152,14 +1184,6 @@
         "link": "https://www.ilsole24ore.com/art/dba-accelera-sanita-lavoro-progettazione-day-hospital-oncologico-varese-AJGyFCj",
         "date": "2026-08-10T10:38:23.000Z",
         "summary": "È anche dall’ospedale di Varese che passa uno dei tasselli della strategia di crescita di Dba Group nel settore della sanità. Il gruppo di Villorba, quotato su Euronext Growth Milan..."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "In vendita la masseria che custodisce nove secoli di storia a un passo da Torre Guaceto",
-        "link": "https://www.ilsole24ore.com/art/in-vendita-masseria-puglia-che-ospito-vittorio-emanuele-iii-un-passo-torre-guaceto-AJHvosg",
-        "date": "2026-08-07T07:38:00.000Z",
-        "summary": "È sul mercato la masseria della famiglia che ospitò re: nove secoli di storia a un chilometro dal mare di Torre Guaceto. Si tratta di una dimora fortificata del XII..."
       },
       {
         "category": "condominio",
@@ -1256,14 +1280,6 @@
         "link": "https://www.confedilizia.it/nicolaporro-it-4-8-2026-spin-time-altro-che-socialita-cosa-succederebbe-in-un-paese-civile/",
         "date": "2026-08-05T06:31:50.000Z",
         "summary": "L'articolo Nicolaporro.it – 4.8.2026 – Spin Time, altro che “socialità”: cosa succederebbe in un Paese civile sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Cala Finanza, sequestro preventivo",
-        "link": "https://www.ilsole24ore.com/art/cala-finanza-sequestro-preventivo-AJxQ4se",
-        "date": "2026-08-04T17:00:00.000Z",
-        "summary": "Prima le polemiche e proteste per i progetti, poi gli esposti e alla fine il sequestro. A Cala Finanza, in Comune di Loiri Porto San Paolo (nel nord est sardo),..."
       },
       {
         "category": "condominio",
@@ -1376,10 +1392,42 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Sui balconi del condominio l’amministratore risponde solo per le parti comuni",
+        "link": "https://www.ilsole24ore.com/art/sui-balconi-condominio-l-amministratore-risponde-solo-le-parti-comuni-AJW0Heq",
+        "date": "2026-08-21T03:06:29.000Z",
+        "summary": "Il recente crollo a Livorno ha riportato l’attenzione sulle diverse responsabilità nella gestione della manutenzione"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Bici giù dai Murazzi, appello bis per Cherici: valutare la dipendenza dal branco",
         "link": "https://www.ilsole24ore.com/art/bici-giu-murazzi-appello-bis-cherici-valutare-dipendenza-branco-AJP6Rop",
         "date": "2026-08-20T03:08:39.000Z",
         "summary": "Pena da rivedere al ribasso, rinnovando il dibattimento, per capire quanto il percorso psicologico ha influito sulla personalità dell'imputata"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Il caporalato non può essere escluso per il lavoratore assunto con auto e casa",
+        "link": "https://www.ilsole24ore.com/art/il-caporalato-non-puo-essere-escluso-il-lavoratore-assunto-auto-e-casa-AJVA3rp",
+        "date": "2026-08-20T03:06:28.000Z",
+        "summary": "A fronte dell’evidente sfruttamento il reato non va scartato a priori. Lo stato di bisogno va valutato caso per caso"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Adempimenti, oggi il Fisco riparte con 140 diversi tipi di versamenti",
+        "link": "https://www.ilsole24ore.com/art/adempimenti-oggi-fisco-riparte-140-diversi-tipi-versamenti-AJKT6jp",
+        "date": "2026-08-20T03:04:00.000Z",
+        "summary": "Finita la pausa di Ferragosto, i contribuenti sono chiamati alla cassa per chiudere i conti del 2025 e pagare il primo acconto del 2026"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "In Piemonte l’accesso alla professione di estetista scatena lo scontro",
+        "link": "https://www.ilsole24ore.com/art/in-piemonte-l-accesso-professione-estetista-scatena-scontro-AJhximb",
+        "date": "2026-08-20T03:02:02.000Z",
+        "summary": "Agenzie formative contro Regione Piemonte che, al termine del percorso Iefp, consente l’abilitazione tramite esame specifico"
       },
       {
         "category": "crisi_impresa",
@@ -1396,30 +1444,6 @@
         "link": "https://www.ilsole24ore.com/art/condominio-ammesso-spioncino-elettronico-ma-vietate-riprese-sistematiche-AJwcnCY",
         "date": "2026-08-19T03:06:00.000Z",
         "summary": "Le immagini vanno raccolte per finalità determinate e custodite per brevi periodi. Non può diventare un sistema di controllo continuo per il vicino o il portinaio"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Falsi ciechi, condanne annullate: irrilevante che si muovano in autonomia",
-        "link": "https://www.ilsole24ore.com/art/falsi-ciechi-condanne-annullate-irrilevante-che-si-muovano-autonomia-AJlwTzo",
-        "date": "2026-08-19T03:02:02.000Z",
-        "summary": "I giudici rinviano a nuovo processo per verificare il livello di deficit visivo"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Le fondazioni ordinistiche restano fuori dal Registro Ets",
-        "link": "https://www.ilsole24ore.com/art/le-fondazioni-ordinistiche-restano-fuori-registro-ets-AJOrzMo",
-        "date": "2026-08-18T03:04:14.000Z",
-        "summary": "L’obiettivo è valorizzare le competenze degli iscritti all’Albo"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Condominio, non tutte le telecamere irregolari obbligano al risarcimento",
-        "link": "https://www.ilsole24ore.com/art/condominio-non-tutte-telecamere-irregolari-obbligano-risarcimento-AJpQTjm",
-        "date": "2026-08-18T03:02:02.000Z",
-        "summary": "Spetta al giudice valutare, oltre a stress e ansia psicologica, la posizione professionale e sociale del danneggiato e la gravità del fatto lesivo"
       },
       {
         "category": "crisi_impresa",
