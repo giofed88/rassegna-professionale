@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:38:20.289Z",
+  "generatedAt": "2026-08-22T05:33:45.052Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -14,10 +14,50 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Giustizia, aumentano le pene pecuniarie e cresce il gettito",
+        "link": "https://www.ilsole24ore.com/art/giustizia-aumentano-pene-pecuniarie-e-cresce-gettito-AJxtfar",
+        "date": "2026-08-22T03:04:15.000Z",
+        "summary": "La Relazione della Giustizia misura l’impatto della riforma Cartabia. Incrementano i provvedimenti di sostituzione e l’incasso è in progressiva salita"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Sui balconi del condominio l’amministratore risponde solo per le parti comuni",
         "link": "https://www.ilsole24ore.com/art/sui-balconi-condominio-l-amministratore-risponde-solo-le-parti-comuni-AJW0Heq",
         "date": "2026-08-21T03:06:29.000Z",
         "summary": "Il recente crollo a Livorno ha riportato l’attenzione sulle diverse responsabilità nella gestione della manutenzione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Piccoli tribunali in crisi per la durata dei vuoti in organico",
+        "link": "https://www.ilsole24ore.com/art/piccoli-tribunali-crisi-la-durata-vuoti-organico-AJfKckq",
+        "date": "2026-08-21T03:04:13.000Z",
+        "summary": "Il punto in una delibera approvata dal Csm sugli effetti del turn over"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Scatta il reato di tortura per la rapina particolarmente violenta",
+        "link": "https://www.ilsole24ore.com/art/scatta-reato-tortura-la-rapina-particolarmente-violenta-AJpYfbq",
+        "date": "2026-08-21T03:02:01.000Z",
+        "summary": "La costrizione fisica e psicologica induce le persone aggredite a fare quanto i rapinatori chiedono con estrema violenza"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Esenti i prodotti in sospensione da accisa se rispettate le condizioni sostanziali",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17398-esenti-i-prodotti-in-sospensione-da-accisa-se-rispettate-le-condizioni-sostanziali.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Le irregolarità documentali non determinano automaticamente l’imposizione quando è provato l’effettivo impiego dei prodotti e sono esclusi fenomeni di frode o abuso"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Disciplina UE dello scambio di informazioni verso la riforma",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17397-disciplina-ue-dello-scambio-di-informazioni-verso-la-riforma.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Al via la riforma delle nove direttive DAC nell'ottica della semplificazione degli adempimenti"
       },
       {
         "category": "fiscale",
@@ -38,6 +78,14 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
+        "title": "Dichiarazione TARI novit per presentazione e sanzioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4411-dichiarazione-tari-novita-per-presentazione-e-sanzioni.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Dichiarazione TARI: diminuiscono i termini per la presentazione con il federalismo fiscale e cambiano le sanzioni in caso di omissione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
         "title": "ASD e SSD chiarimenti ADE su profili fiscali",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4408-asd-ssd-chiarimenti-ade-su-profili-fiscali.html",
         "date": "2026-08-21T00:00:00.000Z",
@@ -46,10 +94,10 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Aumenti in busta paga dalla Cassazione no allassorbimento del superminimo",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4399-aumenti-in-busta-paga-dalla-cassazione-no-allassorbimento-del-superminimo.html",
+        "title": "Accertamento annullato il Fisco pu rifarlo La Cassazione chiarisce quando  possibile",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4402-accertamento-annullato-il-fisco-pu%C3%B2-rifarlo-la-cassazione-chiarisce-quando-e-possibile.html",
         "date": "2026-08-21T00:00:00.000Z",
-        "summary": "La Corte di Cassazione, sentenza n. 24475/2026, chiarisce quando il superminimo resta escluso dall'assorbimento negli aumenti contrattuali collettivi."
+        "summary": "Fisco, l’Agenzia può annullare un accertamento e rifarlo: cosa ha deciso la Cassazione"
       },
       {
         "category": "fiscale",
@@ -78,18 +126,18 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Adempimenti, oggi il Fisco riparte con 140 diversi tipi di versamenti",
-        "link": "https://www.ilsole24ore.com/art/adempimenti-oggi-fisco-riparte-140-diversi-tipi-versamenti-AJKT6jp",
-        "date": "2026-08-20T03:04:00.000Z",
-        "summary": "Finita la pausa di Ferragosto, i contribuenti sono chiamati alla cassa per chiudere i conti del 2025 e pagare il primo acconto del 2026"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "In Piemonte l’accesso alla professione di estetista scatena lo scontro",
         "link": "https://www.ilsole24ore.com/art/in-piemonte-l-accesso-professione-estetista-scatena-scontro-AJhximb",
         "date": "2026-08-20T03:02:02.000Z",
         "summary": "Agenzie formative contro Regione Piemonte che, al termine del percorso Iefp, consente l’abilitazione tramite esame specifico"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Rimborsi forfettari ai volontari sportivi I chiarimenti delle Entrate",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17395-rimborsi-forfettari-ai-volontari-sportivi-i-chiarimenti-delle-entrate.html",
+        "date": "2026-08-20T00:00:00.000Z",
+        "summary": "Il volontario sportivo. Trattamento fiscale dei rimborsi forfettari. I chiarimenti dalle Entrate"
       },
       {
         "category": "fiscale",
@@ -142,30 +190,6 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "IMU fabbricati con rendita impugnata cambia laccertamento",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4400-imu-fabbricati-con-rendita-impugnata-cambia-laccertamento.html",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": "Federalismo fiscale: diverse le novità per l'IMU, cosa cambia per gli immobili con rendite contenstate"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cassazione: Modello 231 generico? Alt al controllo giudiziario",
-        "link": "https://www.ilsole24ore.com/art/cassazione-modello-231-generico-alt-controllo-giudiziario-AJj2GAp",
-        "date": "2026-08-19T03:08:38.000Z",
-        "summary": "Il deficit di concretezza conduce all’inaccessibilità della misura per la Srl. Non basta l’affermazione d’indipendenza degli organi di controllo"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Condominio, ammesso lo spioncino elettronico ma vietate le riprese sistematiche",
-        "link": "https://www.ilsole24ore.com/art/condominio-ammesso-spioncino-elettronico-ma-vietate-riprese-sistematiche-AJwcnCY",
-        "date": "2026-08-19T03:06:00.000Z",
-        "summary": "Le immagini vanno raccolte per finalità determinate e custodite per brevi periodi. Non può diventare un sistema di controllo continuo per il vicino o il portinaio"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Regime agevolativo IRES e IVA per SSD adeguamento statuti",
         "link": "https://www.fiscoetasse.com/approfondimenti/17390-regime-agevolativo-ires-e-iva-per-ssd-adeguamento-degli-statuti-tra-art-148-tuir-e-dlgs.html",
         "date": "2026-08-19T00:00:00.000Z",
@@ -178,14 +202,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4404-mamma-non-convivente-ricoverata-nella-rsa-le-spese-esentasse.html",
         "date": "2026-08-19T00:00:00.000Z",
         "summary": "Welfare aziendale, rimborso RSA esentasse anche per il genitore non convivente: il nuovo chiarimento delle Entrate"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "7302026 detrazione trasporti al 19 chi pu richiederla",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4401-7302026-detrazione-trasporti-al-19-chi-puo-richiederla.html",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": "Bonus trasporti nel 730/2026: detrazione del 19% sugli abbonamenti, limite di 250 euro e nuove regole"
       },
       {
         "category": "fiscale",
@@ -226,22 +242,6 @@
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10272449/Risposta+n.+161_2026/c480ae97-e621-43de-ad77-ee1d491e8dce",
         "date": "2026-08-14T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Rimborsi ASD qual  il regime se il  volontario supera gi il limite di compensi",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12877-cosa-accade-se-il-rimborso-forfettario-va-a-un-volontario-con-gia-15mila-eur-di-compensi.html",
-        "date": "2026-08-14T00:00:00.000Z",
-        "summary": "La Circolare ADE risponde nel caso di un rimborso spese forfettario di 400 euro  corrisposto a un volontario che ha già percepito, da altri soggetti, più di 15.000 euro di compensi"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus la ridefinizione dei soggetti assimilati alle holding industriali",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17383-decreto-omnibus-la-ridefinizione-dei-soggetti-assimilati-alle-holding-industriali.html",
-        "date": "2026-08-14T00:00:00.000Z",
-        "summary": "Il DLgs 7 agosto 2026, n. 148 introduce un income test fondato sui ricavi da attività finanziarie non rivolte al pubblico. Analisi, risvolti IRAP e note operative per gli studi"
       },
       {
         "category": "fiscale",
@@ -502,6 +502,14 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
+        "title": "Costi relativi al personale somministrato - Indicazione nel modello IRAP (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116197",
+        "date": "21/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 21.8.2026 - \"Somministrazione di manodopera con IRAP variabile\" - Fornero L."
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
         "title": "Effetti - Tassatività delle cause di estinzione (Tratto dal Notiziario)",
         "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114586",
         "date": "20/08/2026",
@@ -514,14 +522,6 @@
         "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119528",
         "date": "18/08/2026",
         "summary": "Il Quotidiano del Commercialista del 18.8.2026 - \"Ordini, collegi professionali ed enti controllati esclusi dal Terzo settore\" - Rivetti P."
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Bancarotta fraudolenta per distrazione - Pluralità di atti distrattivi - Venir meno di una distrazione - Conseguenze (Cass. pen. 11.8.2026 n. 30791) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119536",
-        "date": "18/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 18.8.2026 - \"Il venir meno di una distrazione tra tante influisce sulla determinazione della pena\" - Redazione"
       },
       {
         "category": "fiscale",
@@ -570,14 +570,6 @@
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=459442",
         "date": "15/07/2026",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Welfare aziendale - Rimborso delle spese relative al ricovero e assistenza in RSA di familiare non convivente - Non imponibilità - Novità del DLgs. 148/2026 (c.d. correttivo Omnibus) (Tratto dalla Rassegna Prassi)",
-        "link": "https://www.eutekne.it/Servizi/RassegnaPrassi/recensione.aspx?id=1119488",
-        "date": "14/08/2026",
-        "summary": "Risposta Agenzia Entrate 14.8.2026 n. 163"
       },
       {
         "category": "fiscale",
@@ -656,10 +648,50 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Giustizia, aumentano le pene pecuniarie e cresce il gettito",
+        "link": "https://www.ilsole24ore.com/art/giustizia-aumentano-pene-pecuniarie-e-cresce-gettito-AJxtfar",
+        "date": "2026-08-22T03:04:15.000Z",
+        "summary": "La Relazione della Giustizia misura l’impatto della riforma Cartabia. Incrementano i provvedimenti di sostituzione e l’incasso è in progressiva salita"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Sui balconi del condominio l’amministratore risponde solo per le parti comuni",
         "link": "https://www.ilsole24ore.com/art/sui-balconi-condominio-l-amministratore-risponde-solo-le-parti-comuni-AJW0Heq",
         "date": "2026-08-21T03:06:29.000Z",
         "summary": "Il recente crollo a Livorno ha riportato l’attenzione sulle diverse responsabilità nella gestione della manutenzione"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Piccoli tribunali in crisi per la durata dei vuoti in organico",
+        "link": "https://www.ilsole24ore.com/art/piccoli-tribunali-crisi-la-durata-vuoti-organico-AJfKckq",
+        "date": "2026-08-21T03:04:13.000Z",
+        "summary": "Il punto in una delibera approvata dal Csm sugli effetti del turn over"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Scatta il reato di tortura per la rapina particolarmente violenta",
+        "link": "https://www.ilsole24ore.com/art/scatta-reato-tortura-la-rapina-particolarmente-violenta-AJpYfbq",
+        "date": "2026-08-21T03:02:01.000Z",
+        "summary": "La costrizione fisica e psicologica induce le persone aggredite a fare quanto i rapinatori chiedono con estrema violenza"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Esenti i prodotti in sospensione da accisa se rispettate le condizioni sostanziali",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17398-esenti-i-prodotti-in-sospensione-da-accisa-se-rispettate-le-condizioni-sostanziali.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Le irregolarità documentali non determinano automaticamente l’imposizione quando è provato l’effettivo impiego dei prodotti e sono esclusi fenomeni di frode o abuso"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Disciplina UE dello scambio di informazioni verso la riforma",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17397-disciplina-ue-dello-scambio-di-informazioni-verso-la-riforma.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Al via la riforma delle nove direttive DAC nell'ottica della semplificazione degli adempimenti"
       },
       {
         "category": "contabile",
@@ -680,6 +712,14 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
+        "title": "Dichiarazione TARI novit per presentazione e sanzioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4411-dichiarazione-tari-novita-per-presentazione-e-sanzioni.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Dichiarazione TARI: diminuiscono i termini per la presentazione con il federalismo fiscale e cambiano le sanzioni in caso di omissione"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
         "title": "ASD e SSD chiarimenti ADE su profili fiscali",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4408-asd-ssd-chiarimenti-ade-su-profili-fiscali.html",
         "date": "2026-08-21T00:00:00.000Z",
@@ -688,10 +728,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Aumenti in busta paga dalla Cassazione no allassorbimento del superminimo",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4399-aumenti-in-busta-paga-dalla-cassazione-no-allassorbimento-del-superminimo.html",
+        "title": "Accertamento annullato il Fisco pu rifarlo La Cassazione chiarisce quando  possibile",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4402-accertamento-annullato-il-fisco-pu%C3%B2-rifarlo-la-cassazione-chiarisce-quando-e-possibile.html",
         "date": "2026-08-21T00:00:00.000Z",
-        "summary": "La Corte di Cassazione, sentenza n. 24475/2026, chiarisce quando il superminimo resta escluso dall'assorbimento negli aumenti contrattuali collettivi."
+        "summary": "Fisco, l’Agenzia può annullare un accertamento e rifarlo: cosa ha deciso la Cassazione"
       },
       {
         "category": "contabile",
@@ -712,18 +752,18 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Adempimenti, oggi il Fisco riparte con 140 diversi tipi di versamenti",
-        "link": "https://www.ilsole24ore.com/art/adempimenti-oggi-fisco-riparte-140-diversi-tipi-versamenti-AJKT6jp",
-        "date": "2026-08-20T03:04:00.000Z",
-        "summary": "Finita la pausa di Ferragosto, i contribuenti sono chiamati alla cassa per chiudere i conti del 2025 e pagare il primo acconto del 2026"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "In Piemonte l’accesso alla professione di estetista scatena lo scontro",
         "link": "https://www.ilsole24ore.com/art/in-piemonte-l-accesso-professione-estetista-scatena-scontro-AJhximb",
         "date": "2026-08-20T03:02:02.000Z",
         "summary": "Agenzie formative contro Regione Piemonte che, al termine del percorso Iefp, consente l’abilitazione tramite esame specifico"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Rimborsi forfettari ai volontari sportivi I chiarimenti delle Entrate",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17395-rimborsi-forfettari-ai-volontari-sportivi-i-chiarimenti-delle-entrate.html",
+        "date": "2026-08-20T00:00:00.000Z",
+        "summary": "Il volontario sportivo. Trattamento fiscale dei rimborsi forfettari. I chiarimenti dalle Entrate"
       },
       {
         "category": "contabile",
@@ -776,30 +816,6 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "IMU fabbricati con rendita impugnata cambia laccertamento",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4400-imu-fabbricati-con-rendita-impugnata-cambia-laccertamento.html",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": "Federalismo fiscale: diverse le novità per l'IMU, cosa cambia per gli immobili con rendite contenstate"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cassazione: Modello 231 generico? Alt al controllo giudiziario",
-        "link": "https://www.ilsole24ore.com/art/cassazione-modello-231-generico-alt-controllo-giudiziario-AJj2GAp",
-        "date": "2026-08-19T03:08:38.000Z",
-        "summary": "Il deficit di concretezza conduce all’inaccessibilità della misura per la Srl. Non basta l’affermazione d’indipendenza degli organi di controllo"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Condominio, ammesso lo spioncino elettronico ma vietate le riprese sistematiche",
-        "link": "https://www.ilsole24ore.com/art/condominio-ammesso-spioncino-elettronico-ma-vietate-riprese-sistematiche-AJwcnCY",
-        "date": "2026-08-19T03:06:00.000Z",
-        "summary": "Le immagini vanno raccolte per finalità determinate e custodite per brevi periodi. Non può diventare un sistema di controllo continuo per il vicino o il portinaio"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Regime agevolativo IRES e IVA per SSD adeguamento statuti",
         "link": "https://www.fiscoetasse.com/approfondimenti/17390-regime-agevolativo-ires-e-iva-per-ssd-adeguamento-degli-statuti-tra-art-148-tuir-e-dlgs.html",
         "date": "2026-08-19T00:00:00.000Z",
@@ -812,14 +828,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4404-mamma-non-convivente-ricoverata-nella-rsa-le-spese-esentasse.html",
         "date": "2026-08-19T00:00:00.000Z",
         "summary": "Welfare aziendale, rimborso RSA esentasse anche per il genitore non convivente: il nuovo chiarimento delle Entrate"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "7302026 detrazione trasporti al 19 chi pu richiederla",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4401-7302026-detrazione-trasporti-al-19-chi-puo-richiederla.html",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": "Bonus trasporti nel 730/2026: detrazione del 19% sugli abbonamenti, limite di 250 euro e nuove regole"
       },
       {
         "category": "contabile",
@@ -852,22 +860,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17387-crediti-dimposta-da-dta-e-npl.html",
         "date": "2026-08-18T00:00:00.000Z",
         "summary": "Crediti d'imposta da DTA e NPL: la mappa dei rischi che il mercato non si è ancora dato"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Rimborsi ASD qual  il regime se il  volontario supera gi il limite di compensi",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12877-cosa-accade-se-il-rimborso-forfettario-va-a-un-volontario-con-gia-15mila-eur-di-compensi.html",
-        "date": "2026-08-14T00:00:00.000Z",
-        "summary": "La Circolare ADE risponde nel caso di un rimborso spese forfettario di 400 euro  corrisposto a un volontario che ha già percepito, da altri soggetti, più di 15.000 euro di compensi"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Decreto Omnibus la ridefinizione dei soggetti assimilati alle holding industriali",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17383-decreto-omnibus-la-ridefinizione-dei-soggetti-assimilati-alle-holding-industriali.html",
-        "date": "2026-08-14T00:00:00.000Z",
-        "summary": "Il DLgs 7 agosto 2026, n. 148 introduce un income test fondato sui ricavi da attività finanziarie non rivolte al pubblico. Analisi, risvolti IRAP e note operative per gli studi"
       },
       {
         "category": "contabile",
@@ -952,6 +944,14 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
+        "title": "Costi relativi al personale somministrato - Indicazione nel modello IRAP (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116197",
+        "date": "21/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 21.8.2026 - \"Somministrazione di manodopera con IRAP variabile\" - Fornero L."
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
         "title": "Effetti - Tassatività delle cause di estinzione (Tratto dal Notiziario)",
         "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114586",
         "date": "20/08/2026",
@@ -964,14 +964,6 @@
         "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119528",
         "date": "18/08/2026",
         "summary": "Il Quotidiano del Commercialista del 18.8.2026 - \"Ordini, collegi professionali ed enti controllati esclusi dal Terzo settore\" - Rivetti P."
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Bancarotta fraudolenta per distrazione - Pluralità di atti distrattivi - Venir meno di una distrazione - Conseguenze (Cass. pen. 11.8.2026 n. 30791) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119536",
-        "date": "18/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 18.8.2026 - \"Il venir meno di una distrazione tra tante influisce sulla determinazione della pena\" - Redazione"
       },
       {
         "category": "contabile",
@@ -1020,14 +1012,6 @@
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=459442",
         "date": "15/07/2026",
         "summary": ""
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Welfare aziendale - Rimborso delle spese relative al ricovero e assistenza in RSA di familiare non convivente - Non imponibilità - Novità del DLgs. 148/2026 (c.d. correttivo Omnibus) (Tratto dalla Rassegna Prassi)",
-        "link": "https://www.eutekne.it/Servizi/RassegnaPrassi/recensione.aspx?id=1119488",
-        "date": "14/08/2026",
-        "summary": "Risposta Agenzia Entrate 14.8.2026 n. 163"
       }
     ],
     "lavoro": [
@@ -1392,10 +1376,34 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Giustizia, aumentano le pene pecuniarie e cresce il gettito",
+        "link": "https://www.ilsole24ore.com/art/giustizia-aumentano-pene-pecuniarie-e-cresce-gettito-AJxtfar",
+        "date": "2026-08-22T03:04:15.000Z",
+        "summary": "La Relazione della Giustizia misura l’impatto della riforma Cartabia. Incrementano i provvedimenti di sostituzione e l’incasso è in progressiva salita"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Sui balconi del condominio l’amministratore risponde solo per le parti comuni",
         "link": "https://www.ilsole24ore.com/art/sui-balconi-condominio-l-amministratore-risponde-solo-le-parti-comuni-AJW0Heq",
         "date": "2026-08-21T03:06:29.000Z",
         "summary": "Il recente crollo a Livorno ha riportato l’attenzione sulle diverse responsabilità nella gestione della manutenzione"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Piccoli tribunali in crisi per la durata dei vuoti in organico",
+        "link": "https://www.ilsole24ore.com/art/piccoli-tribunali-crisi-la-durata-vuoti-organico-AJfKckq",
+        "date": "2026-08-21T03:04:13.000Z",
+        "summary": "Il punto in una delibera approvata dal Csm sugli effetti del turn over"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Scatta il reato di tortura per la rapina particolarmente violenta",
+        "link": "https://www.ilsole24ore.com/art/scatta-reato-tortura-la-rapina-particolarmente-violenta-AJpYfbq",
+        "date": "2026-08-21T03:02:01.000Z",
+        "summary": "La costrizione fisica e psicologica induce le persone aggredite a fare quanto i rapinatori chiedono con estrema violenza"
       },
       {
         "category": "crisi_impresa",
@@ -1416,34 +1424,10 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Adempimenti, oggi il Fisco riparte con 140 diversi tipi di versamenti",
-        "link": "https://www.ilsole24ore.com/art/adempimenti-oggi-fisco-riparte-140-diversi-tipi-versamenti-AJKT6jp",
-        "date": "2026-08-20T03:04:00.000Z",
-        "summary": "Finita la pausa di Ferragosto, i contribuenti sono chiamati alla cassa per chiudere i conti del 2025 e pagare il primo acconto del 2026"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "In Piemonte l’accesso alla professione di estetista scatena lo scontro",
         "link": "https://www.ilsole24ore.com/art/in-piemonte-l-accesso-professione-estetista-scatena-scontro-AJhximb",
         "date": "2026-08-20T03:02:02.000Z",
         "summary": "Agenzie formative contro Regione Piemonte che, al termine del percorso Iefp, consente l’abilitazione tramite esame specifico"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Cassazione: Modello 231 generico? Alt al controllo giudiziario",
-        "link": "https://www.ilsole24ore.com/art/cassazione-modello-231-generico-alt-controllo-giudiziario-AJj2GAp",
-        "date": "2026-08-19T03:08:38.000Z",
-        "summary": "Il deficit di concretezza conduce all’inaccessibilità della misura per la Srl. Non basta l’affermazione d’indipendenza degli organi di controllo"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Condominio, ammesso lo spioncino elettronico ma vietate le riprese sistematiche",
-        "link": "https://www.ilsole24ore.com/art/condominio-ammesso-spioncino-elettronico-ma-vietate-riprese-sistematiche-AJwcnCY",
-        "date": "2026-08-19T03:06:00.000Z",
-        "summary": "Le immagini vanno raccolte per finalità determinate e custodite per brevi periodi. Non può diventare un sistema di controllo continuo per il vicino o il portinaio"
       },
       {
         "category": "crisi_impresa",
