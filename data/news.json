@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T05:33:45.052Z",
+  "generatedAt": "2026-08-23T05:35:07.991Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -13,11 +13,27 @@
     "fiscale": [
       {
         "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "ASD e SSD i chiarimenti dellAgenzia su rimborsi compensi sportivi e IVA",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13609-fisco-e-sport-dilettantistico-cosa-cambia-con-il-dlgs-362021-per-asd-e-ssd.html",
+        "date": "2026-08-23T00:00:00.000Z",
+        "summary": "Agevolazioni fiscali, rimborsi ai volontari, compensi sportivi e IVA: con la Circolare n. 7/2026 l'Agenzia chiarisce l'applicazione del d.lgs. 36/2021 su ASD e SSD"
+      },
+      {
+        "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Giustizia, aumentano le pene pecuniarie e cresce il gettito",
         "link": "https://www.ilsole24ore.com/art/giustizia-aumentano-pene-pecuniarie-e-cresce-gettito-AJxtfar",
         "date": "2026-08-22T03:04:15.000Z",
         "summary": "La Relazione della Giustizia misura l’impatto della riforma Cartabia. Incrementano i provvedimenti di sostituzione e l’incasso è in progressiva salita"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Il poliziotto può multare anche se è fuori servizio",
+        "link": "https://www.ilsole24ore.com/art/il-poliziotto-puo-multare-anche-se-e-fuori-servizio-AJco2Or",
+        "date": "2026-08-22T03:02:01.000Z",
+        "summary": "I giudici amministrativi annullano la sanzione inflitta dal questore per aver rilevato infrazioni fuori dalla scuola del figlio perché le forze dell’ordine sono sempre in servizio"
       },
       {
         "category": "fiscale",
@@ -125,14 +141,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "In Piemonte l’accesso alla professione di estetista scatena lo scontro",
-        "link": "https://www.ilsole24ore.com/art/in-piemonte-l-accesso-professione-estetista-scatena-scontro-AJhximb",
-        "date": "2026-08-20T03:02:02.000Z",
-        "summary": "Agenzie formative contro Regione Piemonte che, al termine del percorso Iefp, consente l’abilitazione tramite esame specifico"
-      },
-      {
-        "category": "fiscale",
         "source": "Fisco e Tasse",
         "title": "Rimborsi forfettari ai volontari sportivi I chiarimenti delle Entrate",
         "link": "https://www.fiscoetasse.com/approfondimenti/17395-rimborsi-forfettari-ai-volontari-sportivi-i-chiarimenti-delle-entrate.html",
@@ -178,14 +186,6 @@
         "link": "https://www.fiscoetasse.com/domande-e-risposte/12878-fer-x-definitivo-che-cose.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "FER X definitivo il GSE specifica che si attendono le ulteriori istruzioni per l'avvio definitivo delle procedure"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Lavoratori frontalieri in Svizzera scambio automatico dei dati",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17386-frontaliere-svizzeri-scambio-automatico-dati.html",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": "Lavoratori frontalieri in Svizzera: dal 1° gennaio 2027 operativo lo scambio automatico dei dati retributivi con l'Italia"
       },
       {
         "category": "fiscale",
@@ -647,11 +647,27 @@
     "contabile": [
       {
         "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "ASD e SSD i chiarimenti dellAgenzia su rimborsi compensi sportivi e IVA",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13609-fisco-e-sport-dilettantistico-cosa-cambia-con-il-dlgs-362021-per-asd-e-ssd.html",
+        "date": "2026-08-23T00:00:00.000Z",
+        "summary": "Agevolazioni fiscali, rimborsi ai volontari, compensi sportivi e IVA: con la Circolare n. 7/2026 l'Agenzia chiarisce l'applicazione del d.lgs. 36/2021 su ASD e SSD"
+      },
+      {
+        "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Giustizia, aumentano le pene pecuniarie e cresce il gettito",
         "link": "https://www.ilsole24ore.com/art/giustizia-aumentano-pene-pecuniarie-e-cresce-gettito-AJxtfar",
         "date": "2026-08-22T03:04:15.000Z",
         "summary": "La Relazione della Giustizia misura l’impatto della riforma Cartabia. Incrementano i provvedimenti di sostituzione e l’incasso è in progressiva salita"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Il poliziotto può multare anche se è fuori servizio",
+        "link": "https://www.ilsole24ore.com/art/il-poliziotto-puo-multare-anche-se-e-fuori-servizio-AJco2Or",
+        "date": "2026-08-22T03:02:01.000Z",
+        "summary": "I giudici amministrativi annullano la sanzione inflitta dal questore per aver rilevato infrazioni fuori dalla scuola del figlio perché le forze dell’ordine sono sempre in servizio"
       },
       {
         "category": "contabile",
@@ -751,14 +767,6 @@
       },
       {
         "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "In Piemonte l’accesso alla professione di estetista scatena lo scontro",
-        "link": "https://www.ilsole24ore.com/art/in-piemonte-l-accesso-professione-estetista-scatena-scontro-AJhximb",
-        "date": "2026-08-20T03:02:02.000Z",
-        "summary": "Agenzie formative contro Regione Piemonte che, al termine del percorso Iefp, consente l’abilitazione tramite esame specifico"
-      },
-      {
-        "category": "contabile",
         "source": "Fisco e Tasse",
         "title": "Rimborsi forfettari ai volontari sportivi I chiarimenti delle Entrate",
         "link": "https://www.fiscoetasse.com/approfondimenti/17395-rimborsi-forfettari-ai-volontari-sportivi-i-chiarimenti-delle-entrate.html",
@@ -804,14 +812,6 @@
         "link": "https://www.fiscoetasse.com/domande-e-risposte/12878-fer-x-definitivo-che-cose.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "FER X definitivo il GSE specifica che si attendono le ulteriori istruzioni per l'avvio definitivo delle procedure"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Lavoratori frontalieri in Svizzera scambio automatico dei dati",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17386-frontaliere-svizzeri-scambio-automatico-dati.html",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": "Lavoratori frontalieri in Svizzera: dal 1° gennaio 2027 operativo lo scambio automatico dei dati retributivi con l'Italia"
       },
       {
         "category": "contabile",
@@ -1099,6 +1099,38 @@
     "condominio": [
       {
         "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Hacked by CoupDeGrace",
+        "link": "https://www.confedilizia.it/93a041017169-htm-2/",
+        "date": "2026-08-22T16:52:37.000Z",
+        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Hacked by CoupDeGrace",
+        "link": "https://www.confedilizia.it/93a041017169-htm/",
+        "date": "2026-08-22T16:52:32.000Z",
+        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Hacked by CoupDeGrace",
+        "link": "https://www.confedilizia.it/9e32bad95de7-htm-2/",
+        "date": "2026-08-22T08:36:51.000Z",
+        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Hacked by CoupDeGrace",
+        "link": "https://www.confedilizia.it/9e32bad95de7-htm/",
+        "date": "2026-08-22T08:36:46.000Z",
+        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "San Francisco riconquista il titolo di città più cara degli Stati Uniti",
         "link": "https://www.ilsole24ore.com/art/immobili-boom-dell-ai-manda-tilt-prezzi-case-san-francisco-AJNhfbj",
@@ -1235,38 +1267,6 @@
       },
       {
         "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Rete 4 – 4.8.2026 – TG4 – Ore 19",
-        "link": "https://www.confedilizia.it/rete-4-4-8-2026-tg4-ore-19/",
-        "date": "2026-08-05T06:50:12.000Z",
-        "summary": "L'articolo Rete 4 – 4.8.2026 – TG4 – Ore 19 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "LA7 – 4.8.2026 – L’aria che tira – Ore 12.30",
-        "link": "https://www.confedilizia.it/la7-4-8-2026-laria-che-tira-ore-12-30/",
-        "date": "2026-08-05T06:44:12.000Z",
-        "summary": "L'articolo LA7 – 4.8.2026 – L’aria che tira – Ore 12.30 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Liberoquotidiano.it – 4.8.2026 – Roberto Saviano difende Spin Time e si schiera con l’illegalità",
-        "link": "https://www.confedilizia.it/liberoquotidiano-it-4-8-2026-roberto-saviano-difende-spin-time-e-si-schiera-con-lillegalita/",
-        "date": "2026-08-05T06:32:25.000Z",
-        "summary": "L'articolo Liberoquotidiano.it – 4.8.2026 – Roberto Saviano difende Spin Time e si schiera con l’illegalità sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Nicolaporro.it – 4.8.2026 – Spin Time, altro che “socialità”: cosa succederebbe in un Paese civile",
-        "link": "https://www.confedilizia.it/nicolaporro-it-4-8-2026-spin-time-altro-che-socialita-cosa-succederebbe-in-un-paese-civile/",
-        "date": "2026-08-05T06:31:50.000Z",
-        "summary": "L'articolo Nicolaporro.it – 4.8.2026 – Spin Time, altro che “socialità”: cosa succederebbe in un Paese civile sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "Segro dice sì a Prologis: accordo da 19 miliardi di dollari, nasce un colosso della logistica",
         "link": "https://www.ilsole24ore.com/art/segro-dice-si-prologis-accordo-19-miliardi-dollari-nasce-colosso-logistica-AJoYkle",
@@ -1384,6 +1384,14 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Il poliziotto può multare anche se è fuori servizio",
+        "link": "https://www.ilsole24ore.com/art/il-poliziotto-puo-multare-anche-se-e-fuori-servizio-AJco2Or",
+        "date": "2026-08-22T03:02:01.000Z",
+        "summary": "I giudici amministrativi annullano la sanzione inflitta dal questore per aver rilevato infrazioni fuori dalla scuola del figlio perché le forze dell’ordine sono sempre in servizio"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Sui balconi del condominio l’amministratore risponde solo per le parti comuni",
         "link": "https://www.ilsole24ore.com/art/sui-balconi-condominio-l-amministratore-risponde-solo-le-parti-comuni-AJW0Heq",
         "date": "2026-08-21T03:06:29.000Z",
@@ -1420,14 +1428,6 @@
         "link": "https://www.ilsole24ore.com/art/il-caporalato-non-puo-essere-escluso-il-lavoratore-assunto-auto-e-casa-AJVA3rp",
         "date": "2026-08-20T03:06:28.000Z",
         "summary": "A fronte dell’evidente sfruttamento il reato non va scartato a priori. Lo stato di bisogno va valutato caso per caso"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "In Piemonte l’accesso alla professione di estetista scatena lo scontro",
-        "link": "https://www.ilsole24ore.com/art/in-piemonte-l-accesso-professione-estetista-scatena-scontro-AJhximb",
-        "date": "2026-08-20T03:02:02.000Z",
-        "summary": "Agenzie formative contro Regione Piemonte che, al termine del percorso Iefp, consente l’abilitazione tramite esame specifico"
       },
       {
         "category": "crisi_impresa",
