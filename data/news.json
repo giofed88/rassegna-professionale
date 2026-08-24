@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T05:35:07.991Z",
+  "generatedAt": "2026-08-24T05:43:12.248Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -11,6 +11,46 @@
   },
   "items": {
     "fiscale": [
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Noleggio sociale lACI scioglie tutti i dubbi",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4412-noleggio-sociale-laci-scioglie-tutti-i-dubbi.html",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": "Noleggio sociale auto a 100 euro: requisiti, domanda, costi e come funziona"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Dichiarazione TARI novit per presentazione e sanzioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4411-dichiarazione-tari-novita-per-presentazione-e-sanzioni.html",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": "Dichiarazione TARI: diminuiscono i termini per la presentazione con il federalismo fiscale e cambiano le sanzioni in caso di omissione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Canone unico il MEF attiva la procedura di invio",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4410-canone-unico-il-mef-attiva-la-procedura-di-invio.html",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": "Procedura per l'invio, tramite il portale federalismo fiscale, delle delibere dei Comuni e delle tariffe per il canone unico 2021-2025. Cosa ha previsto il Dlgs Federalismo"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Transazione fiscale novit 2026 e regole per i professionisti",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17393-transazione-fiscale-novita-2026-e-regole-per-i-professionisti.html",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": "La transazione fiscale tra dimensione locale e rigore procedimentale: il quadro dopo le riforme del 2026"
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Pausa estiva: effetti sui pagamenti degli atti impositivi",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/24/pausa-estiva-effetti-sui-pagamenti-degli-atti-impositivi/",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
@@ -86,42 +126,10 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Noleggio sociale lACI scioglie tutti i dubbi",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4412-noleggio-sociale-laci-scioglie-tutti-i-dubbi.html",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": "Noleggio sociale auto a 100 euro: requisiti, domanda, costi e come funziona"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Dichiarazione TARI novit per presentazione e sanzioni",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4411-dichiarazione-tari-novita-per-presentazione-e-sanzioni.html",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": "Dichiarazione TARI: diminuiscono i termini per la presentazione con il federalismo fiscale e cambiano le sanzioni in caso di omissione"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "ASD e SSD chiarimenti ADE su profili fiscali",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4408-asd-ssd-chiarimenti-ade-su-profili-fiscali.html",
         "date": "2026-08-21T00:00:00.000Z",
         "summary": "Enti sportivi dilettantistici e lavoro sportivo: indicazioni delle Entrate su esenzioni, rimborsi e adempimenti per il pagamento delle imposte"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Accertamento annullato il Fisco pu rifarlo La Cassazione chiarisce quando  possibile",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4402-accertamento-annullato-il-fisco-pu%C3%B2-rifarlo-la-cassazione-chiarisce-quando-e-possibile.html",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": "Fisco, l’Agenzia può annullare un accertamento e rifarlo: cosa ha deciso la Cassazione"
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Fondo Simest IA: 200 milioni per le PMI dal 21 settembre",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/21/fondo-simest-ia-200-milioni-per-le-pmi-dal-21-settembre/",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": ""
       },
       {
         "category": "fiscale",
@@ -154,14 +162,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17394-tax-control-framework-contro-i-rischi-fiscali-anche-nel-terzo-settore.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "TCF: un efficace presidio della compliance anche per gli enti non commerciali che esercitano attività economiche."
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Canone unico il MEF attiva la procedura di invio",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4410-canone-unico-il-mef-attiva-la-procedura-di-invio.html",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": "Procedura per l'invio, tramite il portale federalismo fiscale, delle delibere dei Comuni e delle tariffe per il canone unico 2021-2025. Cosa ha previsto il Dlgs Federalismo"
       },
       {
         "category": "fiscale",
@@ -574,8 +574,32 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
+        "title": "In G.U. il decreto di attuazione del PNRR",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/24/in-g.u.-il-decreto-di-attuazione-del-pnrr",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Canone unico: via libera all’invio delle delibere 2021-2025 sul Portale del federalismo fiscale",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/24/canone-unico-via-libera-allinvio-delle-delibere-20212025-sul-portale-del-federalismo-fiscale/",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
         "title": "Accertamento su costi pluriennali: rileva la prima dichiarazione",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/21/accertamento-su-costi-pluriennali-rileva-la-prima-dichiarazione/",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Fondo Simest IA: 200 milioni per le PMI dal 21 settembre",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/21/fondo-simest-ia-200-milioni-per-le-pmi-dal-21-settembre/",
         "date": "2026-08-21T00:00:00.000Z",
         "summary": ""
       },
@@ -606,30 +630,6 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Derivazione rafforzata: le novità del decreto Omnibus",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/20/derivazione-rafforzata-le-novita-del-decreto-omnibus/",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Decreto Omnibus e CPB: le agevolazioni per chi rinnova",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/19/cpb/",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Ritenute per le locazioni brevi: il caso Airbnb dopo gli ultimi accordi con il Fisco",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/19/ritenute-per-le-locazioni-brevi-il-caso-airbnb-dopo-gli-ultimi-accordi-con-il-fisco/",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
         "title": "Buona Estate da MySolution: i servizi di agosto",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/buona-estate-da-mysolution-servizi-di-agosto/",
         "date": "2026-08-07T00:00:00.000Z",
@@ -645,6 +645,38 @@
       }
     ],
     "contabile": [
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Noleggio sociale lACI scioglie tutti i dubbi",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4412-noleggio-sociale-laci-scioglie-tutti-i-dubbi.html",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": "Noleggio sociale auto a 100 euro: requisiti, domanda, costi e come funziona"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Dichiarazione TARI novit per presentazione e sanzioni",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4411-dichiarazione-tari-novita-per-presentazione-e-sanzioni.html",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": "Dichiarazione TARI: diminuiscono i termini per la presentazione con il federalismo fiscale e cambiano le sanzioni in caso di omissione"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Canone unico il MEF attiva la procedura di invio",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4410-canone-unico-il-mef-attiva-la-procedura-di-invio.html",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": "Procedura per l'invio, tramite il portale federalismo fiscale, delle delibere dei Comuni e delle tariffe per il canone unico 2021-2025. Cosa ha previsto il Dlgs Federalismo"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Transazione fiscale novit 2026 e regole per i professionisti",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17393-transazione-fiscale-novita-2026-e-regole-per-i-professionisti.html",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": "La transazione fiscale tra dimensione locale e rigore procedimentale: il quadro dopo le riforme del 2026"
+      },
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
@@ -720,34 +752,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Noleggio sociale lACI scioglie tutti i dubbi",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4412-noleggio-sociale-laci-scioglie-tutti-i-dubbi.html",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": "Noleggio sociale auto a 100 euro: requisiti, domanda, costi e come funziona"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Dichiarazione TARI novit per presentazione e sanzioni",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4411-dichiarazione-tari-novita-per-presentazione-e-sanzioni.html",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": "Dichiarazione TARI: diminuiscono i termini per la presentazione con il federalismo fiscale e cambiano le sanzioni in caso di omissione"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "ASD e SSD chiarimenti ADE su profili fiscali",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4408-asd-ssd-chiarimenti-ade-su-profili-fiscali.html",
         "date": "2026-08-21T00:00:00.000Z",
         "summary": "Enti sportivi dilettantistici e lavoro sportivo: indicazioni delle Entrate su esenzioni, rimborsi e adempimenti per il pagamento delle imposte"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Accertamento annullato il Fisco pu rifarlo La Cassazione chiarisce quando  possibile",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4402-accertamento-annullato-il-fisco-pu%C3%B2-rifarlo-la-cassazione-chiarisce-quando-e-possibile.html",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": "Fisco, l’Agenzia può annullare un accertamento e rifarlo: cosa ha deciso la Cassazione"
       },
       {
         "category": "contabile",
@@ -780,14 +788,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17394-tax-control-framework-contro-i-rischi-fiscali-anche-nel-terzo-settore.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "TCF: un efficace presidio della compliance anche per gli enti non commerciali che esercitano attività economiche."
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Canone unico il MEF attiva la procedura di invio",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4410-canone-unico-il-mef-attiva-la-procedura-di-invio.html",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": "Procedura per l'invio, tramite il portale federalismo fiscale, delle delibere dei Comuni e delle tariffe per il canone unico 2021-2025. Cosa ha previsto il Dlgs Federalismo"
       },
       {
         "category": "contabile",
@@ -1018,6 +1018,30 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
+        "title": "Pubblicato in GU il decreto di attuazione del PNRR",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/24/pubblicato-in-gu-il-decreto-di-attuazione-del-pnrr/",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Agenzia delle Entrate: rettifica in merito alla fiscalità del dipendente della Banca d’Italia residente in Francia",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/24/rettifica-dellagenzia-delle-entrate-in-merito-alla-fiscalita-del-dipendente-della-banca-ditalia-residente-in-francia/",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "In GU le disposizioni sulle assunzioni in deroga per le società organizzatrici dell’America’s Cup - Napoli 2027",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/24/in-gu-le-disposizioni-sulle-assunzioni-in-deroga-per-le-societa-organizzatrici-dellamericas-cup---napoli-2027/",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
         "title": "Home Care Premium 2025-2028: nuove funzionalità nelle procedure",
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/21/home-care-premium-2025-2028-nuove-funzionalita-nelle-procedure/",
         "date": "2026-08-21T00:00:00.000Z",
@@ -1066,30 +1090,6 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Ferie e retribuzione: indennità, buoni pasto e festività soppresse entrano nel calcolo",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/19/ferie-e-festivita-soppresse-la-cassazione-ribadisce-il-principio-della-retribuzione-piena/",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Cassazione: Direttiva macchine e vizi occulti del macchinario",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/19/cassazione-direttiva-macchine-e-vizi-occulti-del-macchinario/",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Convenzione INPS, INL, Regioni Sicilia, Friuli-Venezia Giulia, Provincie autonome di Trento, Bolzano, Confindustria, CGIL, CISL e UIL: attività di comunicazione dei dati relativi alla rappresentanza delle OO.SS. per la contrattazione collettiva",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/19/convenzione-inps-inl-regioni-sicilia-friuli-venezia-giulia-provincie-autonome-di-trento-bolzano-confindustria-cgil-cisl-e-uil-attivita-di-raccolta-e-comunicazione-dei-dati-relativi-alla-rappresentanza-delle-oo.ss.-per-la-contrattazione-collettiva",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
         "title": "Buona Estate da MySolution: i servizi di agosto",
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/buona-estate-da-mysolution-i-servizi-di-agosto/",
         "date": "2026-08-07T00:00:00.000Z",
@@ -1097,6 +1097,14 @@
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Hacked by CoupDeGrace",
+        "link": "https://www.confedilizia.it/0c1f2c58327e-htm/",
+        "date": "2026-08-23T19:09:44.000Z",
+        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1256,14 +1264,6 @@
         "link": "https://www.confedilizia.it/teleambiente-tv-5-8-2026-direttiva-case-green-procedura-dinfrazione-per-tutti-i-27-stati-membri-il-commento-di-confedilizia/",
         "date": "2026-08-06T06:35:21.000Z",
         "summary": "L'articolo Teleambiente.tv – 5.8.2026 – Direttiva case green, procedura d’infrazione per tutti i 27 stati membri. Il commento di Confedilizia sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Spin Time: articolo su Il Tempo",
-        "link": "https://www.confedilizia.it/spin-time-articolo-su-il-tempo/",
-        "date": "2026-08-05T09:29:53.000Z",
-        "summary": "Sulla vicenda Spin Time siamo a una fase di stallo. L’immobile è sotto sequestro, i suoi ex abitanti (abusivi) sono in parte in strada e in parte in sistemazioni alternative e nel frattempo è in corso un dialogo fra il Comune di Roma, interessato all’acquisto dell’edificio, e i proprietari dello stabile, la società Investire, […]\nL'articolo Spin Time: articolo su Il Tempo sembra essere il primo su"
       },
       {
         "category": "condominio",
