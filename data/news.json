@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:43:12.248Z",
+  "generatedAt": "2026-08-25T05:37:43.434Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -11,6 +11,46 @@
   },
   "items": {
     "fiscale": [
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Lucciole di strada, no ai fogli di via se non commettono reati",
+        "link": "https://www.ilsole24ore.com/art/lucciole-strada-no-fogli-via-se-non-commettono-reati-AJqOgXt",
+        "date": "2026-08-25T03:04:14.000Z",
+        "summary": "Sono illegittimi se disposti solo in virtù del meretricio esercitato in abiti succinti e in assenza di adescamento di minori o altri reati"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Contributi agricoltura per prodotti DOP e IGP occhio alla scadenza del 24 settembre",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4415-contributi-agricoltura-per-prodotti-dop-e-igp-occhio-alla-scadenza-del-24-settembre.html",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": "Contributi DOP e IGP 2026: fino a 250mila euro per valorizzare le eccellenze agroalimentari"
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Pensione tedesca di sicurezza sociale: imponibile in Italia solo la quota tassabile in Germania",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/25/pensione-tedesca-di-sicurezza-sociale-imponibile-in-italia-solo-la-quota-tassabile-in-germania/",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Agenzia delle Entrate - Normativa e prassi",
+        "title": "Interpello: Assoggettamento ad imposizione di una pensione di sicurezza sociale tedesca, erogata ad pensionato residente in Italia in possesso della cittadinanza italiana, oggetto di una certificazione rilasciata dall'ufficio delle imposte di Neubrandenburg (risposta n. 164)",
+        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10272449/Risposta+n.+164_2026/831c4a33-fdd6-7d02-6ca1-0a26f9117e99",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Agevolazioni SSD il commento delle Entrate",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17399-agevolazioni-ssd-il-commento-delle-entrate.html",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": "SSD compatibilità tra la disciplina ex d.lgs. n. 36/2021 e i regimi di decommercializzazione ai fini IRES e IVA"
+      },
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
@@ -42,14 +82,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17393-transazione-fiscale-novita-2026-e-regole-per-i-professionisti.html",
         "date": "2026-08-24T00:00:00.000Z",
         "summary": "La transazione fiscale tra dimensione locale e rigore procedimentale: il quadro dopo le riforme del 2026"
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Pausa estiva: effetti sui pagamenti degli atti impositivi",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/24/pausa-estiva-effetti-sui-pagamenti-degli-atti-impositivi/",
-        "date": "2026-08-24T00:00:00.000Z",
-        "summary": ""
       },
       {
         "category": "fiscale",
@@ -141,14 +173,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Il caporalato non può essere escluso per il lavoratore assunto con auto e casa",
-        "link": "https://www.ilsole24ore.com/art/il-caporalato-non-puo-essere-escluso-il-lavoratore-assunto-auto-e-casa-AJVA3rp",
-        "date": "2026-08-20T03:06:28.000Z",
-        "summary": "A fronte dell’evidente sfruttamento il reato non va scartato a priori. Lo stato di bisogno va valutato caso per caso"
-      },
-      {
-        "category": "fiscale",
         "source": "Fisco e Tasse",
         "title": "Rimborsi forfettari ai volontari sportivi I chiarimenti delle Entrate",
         "link": "https://www.fiscoetasse.com/approfondimenti/17395-rimborsi-forfettari-ai-volontari-sportivi-i-chiarimenti-delle-entrate.html",
@@ -198,14 +222,6 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Mamma non convivente ricoverata nella RSA le spese esentasse",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4404-mamma-non-convivente-ricoverata-nella-rsa-le-spese-esentasse.html",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": "Welfare aziendale, rimborso RSA esentasse anche per il genitore non convivente: il nuovo chiarimento delle Entrate"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Sanzioni USA il caso Rice Lake e le vendite indirette verso lIran",
         "link": "https://www.fiscoetasse.com/approfondimenti/17392-sanzioni-usa-il-caso-rice-lake-e-le-vendite-indirette-verso-liran.html",
         "date": "2026-08-18T00:00:00.000Z",
@@ -226,14 +242,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17388-criteri-di-qualificazione-dei-soggetti-assimilati-alle-holding-industriali.html",
         "date": "2026-08-18T00:00:00.000Z",
         "summary": "Le tre dimensioni fiscali della holding dopo il decreto correttivo Omnibus: classificazione, dividendi e income test"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Crediti dimposta da DTA e NPL",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17387-crediti-dimposta-da-dta-e-npl.html",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": "Crediti d'imposta da DTA e NPL: la mappa dei rischi che il mercato non si è ancora dato"
       },
       {
         "category": "fiscale",
@@ -337,22 +345,6 @@
         "title": "Istituzione dei codici tributo per il versamento, tramite il modello F24 e il modello F24 Versamenti con elementi identificativi (F24 ELIDE), delle somme dovute a seguito di atti di recupero dell’IVA agevolata per disabili, dell’imposta sugli intrattenimenti e dell’imposta erariale sui voli dei passeggeri di aerotaxi e voli taxi (risoluzione n. 28)",
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196141/RIS_n_28_del_23_07_2026/d6ee8d91-64a0-6515-0688-7fe53eaaab01",
         "date": "2026-07-23T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Istituzione dei codici tributo per il versamento, tramite modello F24, degli importi dovuti in ipotesi di ravvedimento in relazione agli obblighi informativi di cui all’articolo 51, comma 9, e agli obblighi dichiarativi di cui all’articolo 53, comma 1, del decreto legislativo 27 dicembre 2023, n. 209, in materia di imposizione minima globale (risoluzione n. 27)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196141/RIS_n_27_del_23_07_2026/210a18fd-c714-bb16-878b-c75d566ad98a",
-        "date": "2026-07-23T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello: IVA – numeri 127–quinquies), 127–septies) e 127–quaterdecies), della Tabella A, parte III, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633 – Prestazioni di servizi rese nell'ambito di un intervento di ricostruzione della sede di un'associazione di promozione sociale (risposta n. 150)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196933/Risposta+n.+150_2026/169e5e2e-1a04-95e3-202c-360e901504d4",
-        "date": "2026-07-22T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -502,26 +494,26 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Costi relativi al personale somministrato - Indicazione nel modello IRAP (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116197",
-        "date": "21/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 21.8.2026 - \"Somministrazione di manodopera con IRAP variabile\" - Fornero L."
+        "title": "Fideiussione bancaria - Clausole ABI lesive della libertà di concorrenza - Nullità parziale - Decadenza ex art. 1957 c.c. - Istanza stragiudiziale - Azione giudiziale - Contrasto giurisprudenziale  (Cass. 15.7.2026 n. 23301) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116070",
+        "date": "24/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"Decadenza dalla garanzia fideiussoria impedita “a semplice richiesta” con dubbi\" - Novella C."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Effetti - Tassatività delle cause di estinzione (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114586",
-        "date": "20/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 20.8.2026 - \"Estinzione del processo per mancata riassunzione con motivi tassativi\" - Cissello A."
+        "title": "Socio non amministratore - Concorrenza con la società - Diritto di controllo - Limiti (Trib. Ancona 7.4.2025) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119417",
+        "date": "24/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"La concorrenza del socio non amministratore di srl restringe il diritto di controllo\" - Meoli M. - Tombari E."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Enti del Terzo settore - Soggetti esclusi - Ordini e collegi professionali e soggetti controllati (nota Min. Lavoro 14.8.2026 n. 13041) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119528",
-        "date": "18/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 18.8.2026 - \"Ordini, collegi professionali ed enti controllati esclusi dal Terzo settore\" - Rivetti P."
+        "title": "Adempimento collaborativo - Tax control framework (TCF) - Contraddittorio con l'Agenzia delle Entrate - Interpello e ravvedimento (circ. Agenzia delle Entrate 6.8.2026 n. 6) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120367",
+        "date": "24/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"Sostanza del contraddittorio preventivo valorizzata nell’adempimento collaborativo\" - Formica G."
       },
       {
         "category": "fiscale",
@@ -574,8 +566,24 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
+        "title": "IMU: il D.Lgs. n. 147/2026 ridisegna dichiarazione IMU, accertamenti e regime sanzionatorio",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/25/imu-il-d.lgs.-1472026-ridisegna-dichiarazione-imu-accertamenti-e-regime-sanzionatorio",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
         "title": "In G.U. il decreto di attuazione del PNRR",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/24/in-g.u.-il-decreto-di-attuazione-del-pnrr",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Pausa estiva: effetti sui pagamenti degli atti impositivi",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/24/pausa-estiva-effetti-sui-pagamenti-degli-atti-impositivi/",
         "date": "2026-08-24T00:00:00.000Z",
         "summary": ""
       },
@@ -614,22 +622,6 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Versamento delle imposte per i soggetti ISA al 20 agosto con maggiorazione dello 0,8%",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/20/versamento-delle-imposte-per-i-soggetti-isa-al-20-agosto-con-maggiorazione-dello-080/",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Come funziona il riallineamento straordinario tra valori contabili e fiscali",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/20/come-funziona-il-riallineamento-straordinario-tra-valori-contabili-e-fiscali/",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
         "title": "Buona Estate da MySolution: i servizi di agosto",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/buona-estate-da-mysolution-servizi-di-agosto/",
         "date": "2026-08-07T00:00:00.000Z",
@@ -645,6 +637,30 @@
       }
     ],
     "contabile": [
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Lucciole di strada, no ai fogli di via se non commettono reati",
+        "link": "https://www.ilsole24ore.com/art/lucciole-strada-no-fogli-via-se-non-commettono-reati-AJqOgXt",
+        "date": "2026-08-25T03:04:14.000Z",
+        "summary": "Sono illegittimi se disposti solo in virtù del meretricio esercitato in abiti succinti e in assenza di adescamento di minori o altri reati"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Contributi agricoltura per prodotti DOP e IGP occhio alla scadenza del 24 settembre",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4415-contributi-agricoltura-per-prodotti-dop-e-igp-occhio-alla-scadenza-del-24-settembre.html",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": "Contributi DOP e IGP 2026: fino a 250mila euro per valorizzare le eccellenze agroalimentari"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Agevolazioni SSD il commento delle Entrate",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17399-agevolazioni-ssd-il-commento-delle-entrate.html",
+        "date": "2026-08-24T00:00:00.000Z",
+        "summary": "SSD compatibilità tra la disciplina ex d.lgs. n. 36/2021 e i regimi di decommercializzazione ai fini IRES e IVA"
+      },
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
@@ -767,14 +783,6 @@
       },
       {
         "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Il caporalato non può essere escluso per il lavoratore assunto con auto e casa",
-        "link": "https://www.ilsole24ore.com/art/il-caporalato-non-puo-essere-escluso-il-lavoratore-assunto-auto-e-casa-AJVA3rp",
-        "date": "2026-08-20T03:06:28.000Z",
-        "summary": "A fronte dell’evidente sfruttamento il reato non va scartato a priori. Lo stato di bisogno va valutato caso per caso"
-      },
-      {
-        "category": "contabile",
         "source": "Fisco e Tasse",
         "title": "Rimborsi forfettari ai volontari sportivi I chiarimenti delle Entrate",
         "link": "https://www.fiscoetasse.com/approfondimenti/17395-rimborsi-forfettari-ai-volontari-sportivi-i-chiarimenti-delle-entrate.html",
@@ -824,14 +832,6 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Mamma non convivente ricoverata nella RSA le spese esentasse",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4404-mamma-non-convivente-ricoverata-nella-rsa-le-spese-esentasse.html",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": "Welfare aziendale, rimborso RSA esentasse anche per il genitore non convivente: il nuovo chiarimento delle Entrate"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Sanzioni USA il caso Rice Lake e le vendite indirette verso lIran",
         "link": "https://www.fiscoetasse.com/approfondimenti/17392-sanzioni-usa-il-caso-rice-lake-e-le-vendite-indirette-verso-liran.html",
         "date": "2026-08-18T00:00:00.000Z",
@@ -852,14 +852,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17388-criteri-di-qualificazione-dei-soggetti-assimilati-alle-holding-industriali.html",
         "date": "2026-08-18T00:00:00.000Z",
         "summary": "Le tre dimensioni fiscali della holding dopo il decreto correttivo Omnibus: classificazione, dividendi e income test"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Crediti dimposta da DTA e NPL",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17387-crediti-dimposta-da-dta-e-npl.html",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": "Crediti d'imposta da DTA e NPL: la mappa dei rischi che il mercato non si è ancora dato"
       },
       {
         "category": "contabile",
@@ -944,26 +936,26 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Costi relativi al personale somministrato - Indicazione nel modello IRAP (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116197",
-        "date": "21/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 21.8.2026 - \"Somministrazione di manodopera con IRAP variabile\" - Fornero L."
+        "title": "Fideiussione bancaria - Clausole ABI lesive della libertà di concorrenza - Nullità parziale - Decadenza ex art. 1957 c.c. - Istanza stragiudiziale - Azione giudiziale - Contrasto giurisprudenziale  (Cass. 15.7.2026 n. 23301) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116070",
+        "date": "24/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"Decadenza dalla garanzia fideiussoria impedita “a semplice richiesta” con dubbi\" - Novella C."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Effetti - Tassatività delle cause di estinzione (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114586",
-        "date": "20/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 20.8.2026 - \"Estinzione del processo per mancata riassunzione con motivi tassativi\" - Cissello A."
+        "title": "Socio non amministratore - Concorrenza con la società - Diritto di controllo - Limiti (Trib. Ancona 7.4.2025) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119417",
+        "date": "24/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"La concorrenza del socio non amministratore di srl restringe il diritto di controllo\" - Meoli M. - Tombari E."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Enti del Terzo settore - Soggetti esclusi - Ordini e collegi professionali e soggetti controllati (nota Min. Lavoro 14.8.2026 n. 13041) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119528",
-        "date": "18/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 18.8.2026 - \"Ordini, collegi professionali ed enti controllati esclusi dal Terzo settore\" - Rivetti P."
+        "title": "Adempimento collaborativo - Tax control framework (TCF) - Contraddittorio con l'Agenzia delle Entrate - Interpello e ravvedimento (circ. Agenzia delle Entrate 6.8.2026 n. 6) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120367",
+        "date": "24/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"Sostanza del contraddittorio preventivo valorizzata nell’adempimento collaborativo\" - Formica G."
       },
       {
         "category": "contabile",
@@ -1018,6 +1010,30 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
+        "title": "Quando il superminimo resta escluso dall'assorbimento negli aumenti contrattuali collettivi",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/25/quando-il-superminimo-resta-escluso-dallassorbimento-negli-aumenti-contrattuali-collettivi/",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "INPS, 3 milioni di giovani utilizzano i servizi digitali",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/25/inps-3-milioni-di-giovani-utilizzano-i-servizi-digitali/",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Pensione tedesca, la quota esente in Germania non è imponibile in Italia",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/25/pensione-tedesca-la-quota-esente-in-germania-non-e-imponibile-in-italia/",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
         "title": "Pubblicato in GU il decreto di attuazione del PNRR",
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/24/pubblicato-in-gu-il-decreto-di-attuazione-del-pnrr/",
         "date": "2026-08-24T00:00:00.000Z",
@@ -1066,30 +1082,6 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Fondazione Studi CdL: analisi sulla disciplina retributiva nei vari Paesi UE",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/20/fondazione-studi-cdl-analisi-sulla-disciplina-retributiva-nei-vari-paesi-ue/",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Licenziamento illegittimo e reintegra: il lavoratore deve restituire l’indennità di preavviso",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/20/licenziamento-illegittimo-e-reintegra-il-lavoratore-deve-restituire-lindennita-di-preavviso/",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Fondazioni degli ordini professionali escluse dal Terzo settore",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/20/fondazioni-degli-ordini-professionali-escluse-dal-terzo-settore/",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
         "title": "Buona Estate da MySolution: i servizi di agosto",
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/buona-estate-da-mysolution-i-servizi-di-agosto/",
         "date": "2026-08-07T00:00:00.000Z",
@@ -1101,41 +1093,121 @@
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
         "title": "Hacked by CoupDeGrace",
-        "link": "https://www.confedilizia.it/0c1f2c58327e-htm/",
-        "date": "2026-08-23T19:09:44.000Z",
+        "link": "https://www.confedilizia.it/0ae4b6d6db85-htm/",
+        "date": "2026-08-24T16:35:10.000Z",
         "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Hacked by CoupDeGrace",
-        "link": "https://www.confedilizia.it/93a041017169-htm-2/",
-        "date": "2026-08-22T16:52:37.000Z",
-        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
+        "title": "Primanotizia24.it – 24.8.2026 – Sisma 2016, Confedilizia: “Incentivi orientati sulla prevenzione per la sicurezza delle case”",
+        "link": "https://www.confedilizia.it/primanotizia24-it-24-8-2026-sisma-2016-confedilizia-incentivi-orientati-sulla-prevenzione-per-la-sicurezza-delle-case/",
+        "date": "2026-08-24T13:14:16.000Z",
+        "summary": "L'articolo Primanotizia24.it – 24.8.2026 – Sisma 2016, Confedilizia: “Incentivi orientati sulla prevenzione per la sicurezza delle case” sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Hacked by CoupDeGrace",
-        "link": "https://www.confedilizia.it/93a041017169-htm/",
-        "date": "2026-08-22T16:52:32.000Z",
-        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
+        "title": "Sisma 2016, Confedilizia: investire in prevenzione",
+        "link": "https://www.confedilizia.it/sisma-2016-confedilizia-investire-in-prevenzione/",
+        "date": "2026-08-24T12:45:34.000Z",
+        "summary": "Sisma 2016, Confedilizia: investire in prevenzione\n“Nella ricorrenza del decennale del sisma che ha colpito il centro Italia, al doveroso e commosso ricordo delle vittime e delle loro famiglie deve affiancarsi una responsabile riflessione su quanto potrebbe essere fatto per limitare i danni alle persone e alle cose provocati dai terremoti....\nL'articolo Sisma 2016, Confedilizia: investire in preve"
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Hacked by CoupDeGrace",
-        "link": "https://www.confedilizia.it/9e32bad95de7-htm-2/",
-        "date": "2026-08-22T08:36:51.000Z",
-        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
+        "title": "Ilrestodelcarlino.it – 21.8.2026 – Confedilizia, il decalogo: “Creano un danno al valore dell’immobile. Cancellateli subito”",
+        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-21-8-2026-confedilizia-il-decalogo-creano-un-danno-al-valore-dellimmobile-cancellateli-subito/",
+        "date": "2026-08-24T10:36:00.000Z",
+        "summary": "L'articolo Ilrestodelcarlino.it – 21.8.2026 – Confedilizia, il decalogo: “Creano un danno al valore dell’immobile. Cancellateli subito” sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
-        "title": "Hacked by CoupDeGrace",
-        "link": "https://www.confedilizia.it/9e32bad95de7-htm/",
-        "date": "2026-08-22T08:36:46.000Z",
-        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
+        "title": "Ilrestodelcarlino.it – 21.8.2026 – L’assessora Stefania Bondavalli: “La strategia per il centro storico: sicurezza e rilancio economico”",
+        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-21-8-2026-lassessora-stefania-bondavalli-la-strategia-per-il-centro-storico-sicurezza-e-rilancio-economico/",
+        "date": "2026-08-24T10:35:02.000Z",
+        "summary": "L'articolo Ilrestodelcarlino.it – 21.8.2026 – L’assessora Stefania Bondavalli: “La strategia per il centro storico: sicurezza e rilancio economico” sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ilrestodelcarlino.it – 18.8.2026 – Concorso ’Future 4 cities’. L’esagono è in finale",
+        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-18-8-2026-concorso-future-4-cities-lesagono-e-in-finale/",
+        "date": "2026-08-24T10:32:40.000Z",
+        "summary": "L'articolo Ilrestodelcarlino.it – 18.8.2026 – Concorso ’Future 4 cities’. L’esagono è in finale sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Nicolaporro.it – 16.8.2026 – L’Imu trasforma gli immobili in ruderi",
+        "link": "https://www.confedilizia.it/nicolaporro-it-16-8-2026-limu-trasforma-gli-immobili-in-ruderi/",
+        "date": "2026-08-24T10:24:53.000Z",
+        "summary": "L'articolo Nicolaporro.it – 16.8.2026 – L’Imu trasforma gli immobili in ruderi sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Parmareport.it – 16.8.2026 – Commercio: 560 mila euro dalla Regione per il Centro Storico",
+        "link": "https://www.confedilizia.it/parmareport-it-16-8-2026-commercio-560-mila-euro-dalla-regione-per-il-centro-storico/",
+        "date": "2026-08-24T10:24:32.000Z",
+        "summary": "L'articolo Parmareport.it – 16.8.2026 – Commercio: 560 mila euro dalla Regione per il Centro Storico sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ilgiornale.it – 15.8.2026 –  Quei “santi in paradiso” di Spin Time",
+        "link": "https://www.confedilizia.it/ilgiornale-it-15-8-2026-quei-santi-in-paradiso-di-spin-time/",
+        "date": "2026-08-24T10:23:53.000Z",
+        "summary": "L'articolo Ilgiornale.it – 15.8.2026 –  Quei “santi in paradiso” di Spin Time sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Ilrestodelcarlino.it – 14.8.2026 – Casa, parlano i proprietari: “Per aiutare l’Appennino servono opere e servizi”",
+        "link": "https://www.confedilizia.it/ilrestodelcarlino-it-14-8-2026-casa-parlano-i-proprietari-per-aiutare-lappennino-servono-opere-e-servizi/",
+        "date": "2026-08-24T10:22:35.000Z",
+        "summary": "L'articolo Ilrestodelcarlino.it – 14.8.2026 – Casa, parlano i proprietari: “Per aiutare l’Appennino servono opere e servizi” sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Laleggepertutti.it – 13.8.2026 – Bonus ristrutturazioni, dal 2027 le detrazioni si dimezzano: cosa cambia con e senza proroga",
+        "link": "https://www.confedilizia.it/laleggepertutti-it-13-8-2026-bonus-ristrutturazioni-dal-2027-le-detrazioni-si-dimezzano-cosa-cambia-con-e-senza-proroga/",
+        "date": "2026-08-24T10:20:59.000Z",
+        "summary": "L'articolo Laleggepertutti.it – 13.8.2026 – Bonus ristrutturazioni, dal 2027 le detrazioni si dimezzano: cosa cambia con e senza proroga sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Teleambiente.tv – 12.8.2026 – Giovani e sostenibilità, incentivi nei contratti di locazione? Il parere di Confedilizia",
+        "link": "https://www.confedilizia.it/teleambiente-tv-12-8-2026-giovani-e-sostenibilita-incentivi-nei-contratti-di-locazione-il-parere-di-confedilizia/",
+        "date": "2026-08-24T10:18:04.000Z",
+        "summary": "L'articolo Teleambiente.tv – 12.8.2026 – Giovani e sostenibilità, incentivi nei contratti di locazione? Il parere di Confedilizia sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Idealista.it – 10.8.2026 – Per Confedilizia l’Imu continua a produrre ruderi, +129% dal 2011",
+        "link": "https://www.confedilizia.it/idealista-it-10-8-2026-per-confedilizia-limu-continua-a-produrre-ruderi-129-dal-2011/",
+        "date": "2026-08-24T10:04:47.000Z",
+        "summary": "L'articolo Idealista.it – 10.8.2026 – Per Confedilizia l’Imu continua a produrre ruderi, +129% dal 2011 sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Nicolaporro.it – 10.8.2026 – L’Imu continua a produrre ruderi",
+        "link": "https://www.confedilizia.it/nicolaporro-it-10-8-2026-limu-continua-a-produrre-ruderi/",
+        "date": "2026-08-24T10:03:43.000Z",
+        "summary": "L'articolo Nicolaporro.it – 10.8.2026 – L’Imu continua a produrre ruderi sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Liberoquotidiano.it – 9.8.2026 – “Da Spin Time valore sociale”. Ecco lo stupidario pro abusivi",
+        "link": "https://www.confedilizia.it/liberoquotidiano-it-9-8-2026-da-spin-time-valore-sociale-ecco-lo-stupidario-pro-abusivi/",
+        "date": "2026-08-24T10:02:11.000Z",
+        "summary": "L'articolo Liberoquotidiano.it – 9.8.2026 – “Da Spin Time valore sociale”. Ecco lo stupidario pro abusivi sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
@@ -1163,35 +1235,11 @@
       },
       {
         "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Hacked by CoupDeGrace",
-        "link": "https://www.confedilizia.it/9bd5efc71ab6-htm-2/",
-        "date": "2026-08-19T04:38:07.000Z",
-        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Hacked by CoupDeGrace",
-        "link": "https://www.confedilizia.it/9bd5efc71ab6-htm/",
-        "date": "2026-08-19T04:38:00.000Z",
-        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "Tci, il fondo del magnate inglese Chris Hohn investe oltre 600 milioni di dollari negli hotel in Italia",
         "link": "https://www.ilsole24ore.com/art/tci-fondo-magnate-inglese-chris-hohn-investe-oltre-600-milioni-dollari-hotel-italia-AJPUhqo",
         "date": "2026-08-18T11:08:00.000Z",
         "summary": "Lo rileva il Financial Times. L’hedge fund punta sulla capacità del settore di continuare ad aumentare le tariffe grazie alla forte domanda internazionale e alla scarsità di immobili di pregio nelle località più richieste"
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Hacked by CoupDeGrace",
-        "link": "https://www.confedilizia.it/b1a80856e26c-htm/",
-        "date": "2026-08-17T00:23:25.000Z",
-        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
@@ -1208,62 +1256,6 @@
         "link": "https://www.ilsole24ore.com/art/dba-accelera-sanita-lavoro-progettazione-day-hospital-oncologico-varese-AJGyFCj",
         "date": "2026-08-10T10:38:23.000Z",
         "summary": "È anche dall’ospedale di Varese che passa uno dei tasselli della strategia di crescita di Dba Group nel settore della sanità. Il gruppo di Villorba, quotato su Euronext Growth Milan..."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "CONFEDILIZIA GENOVA: Corso di formazione iniziale per amministratori di condominio 5.11.2026 – 20.5.2027",
-        "link": "https://www.confedilizia.it/confedilizia-genova-corso-di-formazione-iniziale-per-amministratori-di-condominio-5-11-2026-20-5-2027/",
-        "date": "2026-08-06T15:12:12.000Z",
-        "summary": "CONFEDILIZIA GENOVA Corso di formazione iniziale per amministratori di condominio\nL'articolo CONFEDILIZIA GENOVA: Corso di formazione iniziale per amministratori di condominio 5.11.2026 – 20.5.2027 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Tempi.it – 6.8.2026 – Spin Time è la Silicon Valley dei comunisti che detestano la proprietà privata (altrui)",
-        "link": "https://www.confedilizia.it/tempi-it-6-8-2026-spin-time-e-la-silicon-valley-dei-comunisti-che-detestano-la-proprieta-privata-altrui/",
-        "date": "2026-08-06T11:21:14.000Z",
-        "summary": "L'articolo Tempi.it – 6.8.2026 – Spin Time è la Silicon Valley dei comunisti che detestano la proprietà privata (altrui) sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ruderi in Italia: una crescita continua",
-        "link": "https://www.confedilizia.it/ruderi-in-italia-una-crescita-continua/",
-        "date": "2026-08-06T09:18:09.000Z",
-        "summary": "Confedilizia: l’Imu continua a produrre ruderi, +129% dal 2011, +1,1% nell’ultimo anno Continua ad aumentare il numero degli immobili ridotti in ruderi. Lo rileva la Confedilizia sulla base dei dati diffusi dall’Agenzia delle entrate sullo stato del patrimonio immobiliare italiano. Le cosiddette “unità collabenti” – cioè i fabbricati totalmente in rovina, inseriti nella categoria […]\nL'articolo Ru"
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Gazzettadireggio.it – 5.8.2026 – Dalla Regione pronti 560 mila euro per il rilancio centro storico di Reggio Emilia: ecco il piano",
-        "link": "https://www.confedilizia.it/gazzettadireggio-it-5-8-2026-dalla-regione-pronti-560-mila-euro-per-il-rilancio-centro-storico-di-reggio-emilia-ecco-il-piano/",
-        "date": "2026-08-06T06:36:45.000Z",
-        "summary": "L'articolo Gazzettadireggio.it – 5.8.2026 – Dalla Regione pronti 560 mila euro per il rilancio centro storico di Reggio Emilia: ecco il piano sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Ilpiacenza.it – 5.8.2026 – Finanziamento regionale di 560 mila euro per l’Hub urbano di Piacenza",
-        "link": "https://www.confedilizia.it/ilpiacenza-it-5-8-2026-finanziamento-regionale-di-560-mila-euro-per-lhub-urbano-di-piacenza/",
-        "date": "2026-08-06T06:36:20.000Z",
-        "summary": "L'articolo Ilpiacenza.it – 5.8.2026 – Finanziamento regionale di 560 mila euro per l’Hub urbano di Piacenza sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Iltempo.it – 5.8.2026 – Spin Time, Spaziani Testa: “Ecco cosa dovrebbe accadere se l’Italia fosse un Paese civile”",
-        "link": "https://www.confedilizia.it/iltempo-it-5-8-2026-spin-time-spaziani-testa-ecco-cosa-dovrebbe-accadere-se-litalia-fosse-un-paese-civile/",
-        "date": "2026-08-06T06:35:51.000Z",
-        "summary": "L'articolo Iltempo.it – 5.8.2026 – Spin Time, Spaziani Testa: “Ecco cosa dovrebbe accadere se l’Italia fosse un Paese civile” sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Teleambiente.tv – 5.8.2026 – Direttiva case green, procedura d’infrazione per tutti i 27 stati membri. Il commento di Confedilizia",
-        "link": "https://www.confedilizia.it/teleambiente-tv-5-8-2026-direttiva-case-green-procedura-dinfrazione-per-tutti-i-27-stati-membri-il-commento-di-confedilizia/",
-        "date": "2026-08-06T06:35:21.000Z",
-        "summary": "L'articolo Teleambiente.tv – 5.8.2026 – Direttiva case green, procedura d’infrazione per tutti i 27 stati membri. Il commento di Confedilizia sembra essere il primo su Confedilizia."
       },
       {
         "category": "condominio",
@@ -1376,6 +1368,14 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Lucciole di strada, no ai fogli di via se non commettono reati",
+        "link": "https://www.ilsole24ore.com/art/lucciole-strada-no-fogli-via-se-non-commettono-reati-AJqOgXt",
+        "date": "2026-08-25T03:04:14.000Z",
+        "summary": "Sono illegittimi se disposti solo in virtù del meretricio esercitato in abiti succinti e in assenza di adescamento di minori o altri reati"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Giustizia, aumentano le pene pecuniarie e cresce il gettito",
         "link": "https://www.ilsole24ore.com/art/giustizia-aumentano-pene-pecuniarie-e-cresce-gettito-AJxtfar",
         "date": "2026-08-22T03:04:15.000Z",
@@ -1420,14 +1420,6 @@
         "link": "https://www.ilsole24ore.com/art/bici-giu-murazzi-appello-bis-cherici-valutare-dipendenza-branco-AJP6Rop",
         "date": "2026-08-20T03:08:39.000Z",
         "summary": "Pena da rivedere al ribasso, rinnovando il dibattimento, per capire quanto il percorso psicologico ha influito sulla personalità dell'imputata"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Il caporalato non può essere escluso per il lavoratore assunto con auto e casa",
-        "link": "https://www.ilsole24ore.com/art/il-caporalato-non-puo-essere-escluso-il-lavoratore-assunto-auto-e-casa-AJVA3rp",
-        "date": "2026-08-20T03:06:28.000Z",
-        "summary": "A fronte dell’evidente sfruttamento il reato non va scartato a priori. Lo stato di bisogno va valutato caso per caso"
       },
       {
         "category": "crisi_impresa",
