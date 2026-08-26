@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:37:43.434Z",
+  "generatedAt": "2026-08-26T05:40:09.238Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -14,10 +14,74 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "La tutela della salute e della sicurezza non può ricadere sui rider",
+        "link": "https://www.ilsole24ore.com/art/la-tutela-salute-e-sicurezza-non-puo-ricadere-rider-AJxR1cu",
+        "date": "2026-08-26T03:02:01.000Z",
+        "summary": "Non spetta ai ciclofattorini fare valutazioni e l’azienda deve fornire vari dispositivi, da acqua e sali minerali agli indumenti termoprotettivi"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Affitto dazienda o cessione possono confondersi",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4419-affitto-dazienda-o-cessione-possono-confondersi.html",
+        "date": "2026-08-26T00:00:00.000Z",
+        "summary": "Affitto d’azienda riqualificato come cessione: per la Cassazione conta l’operazione effettiva"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Fattura generica attenzione alla detrazione IVA",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4417-fattura-generica-attenzione-alla-detrazione-iva.html",
+        "date": "2026-08-26T00:00:00.000Z",
+        "summary": "Fattura generica, la detrazione IVA non si perde sempre: quando contratto e documenti salvano il credito"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Pensione di sicurezza sociale tedesca la quota esente in Italia",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4416-pensione-di-sicurezza-sociale-tedesca-la-quota-esente-in-italia.html",
+        "date": "2026-08-26T00:00:00.000Z",
+        "summary": "Tassazione pensionati tedeschi residenti in Italia: a cosa prestare attenzione per la pensione di sicurezza sociale. La certificazione unica tedesca sulla esenzione irpef"
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "DSA, detrazione IRPEF del 19% per gli strumenti a supporto dell’apprendimento",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/26/dsa-detrazione-irpef-del-19-per-gli-strumenti-a-supporto-dellapprendimento/",
+        "date": "2026-08-26T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Lucciole di strada, no ai fogli di via se non commettono reati",
         "link": "https://www.ilsole24ore.com/art/lucciole-strada-no-fogli-via-se-non-commettono-reati-AJqOgXt",
         "date": "2026-08-25T03:04:14.000Z",
         "summary": "Sono illegittimi se disposti solo in virtù del meretricio esercitato in abiti succinti e in assenza di adescamento di minori o altri reati"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Ultima chiamata per la cedolare secca sugli affitti commerciali",
+        "link": "https://www.ilsole24ore.com/art/ultima-chiamata-la-cedolare-secca-affitti-commerciali-AJupWVt",
+        "date": "2026-08-25T03:02:01.000Z",
+        "summary": "L’estensione della misura alle locazioni non abitative non sarebbe solo un intervento fiscale, ma uno strumento di politica economica"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Rischi fiscali pregressi nuova disclosure nel TCF ed effetti premiali",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17403-rischi-fiscali-pregressi-nuova-disclosure-nel-tcf-ed-effetti-premiali.html",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": "Meccanismo, condizioni e sistema premiale sulla comunicazione dei rischi connessi alle annualità precedenti l'ingresso nell'adempimento collaborativo e nel TCF dopo l'Omnibus"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Disciplina IRAP applicabile ai compensi per i lavoratori cococo",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17402-disciplina-irap-applicabile-ai-compensi-per-i-lavoratori-cococo.html",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": "IRAP per compensi per i collaboratori coordinati e continuativi nell’area del dilettantismo. Un confronto con il Terzo settore"
       },
       {
         "category": "fiscale",
@@ -29,11 +93,11 @@
       },
       {
         "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Pensione tedesca di sicurezza sociale: imponibile in Italia solo la quota tassabile in Germania",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/25/pensione-tedesca-di-sicurezza-sociale-imponibile-in-italia-solo-la-quota-tassabile-in-germania/",
+        "source": "Fisco e Tasse",
+        "title": "Criptoattivit regole per i professionisti",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17396-cripto-attivita-regole-per-i-professionisti.html",
         "date": "2026-08-25T00:00:00.000Z",
-        "summary": ""
+        "summary": "Scambio automatico d'informazioni sulle cripto-attività e irrilevanza fiscale: il perimetro che il professionista deve conoscere"
       },
       {
         "category": "fiscale",
@@ -78,14 +142,6 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Transazione fiscale novit 2026 e regole per i professionisti",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17393-transazione-fiscale-novita-2026-e-regole-per-i-professionisti.html",
-        "date": "2026-08-24T00:00:00.000Z",
-        "summary": "La transazione fiscale tra dimensione locale e rigore procedimentale: il quadro dopo le riforme del 2026"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "ASD e SSD i chiarimenti dellAgenzia su rimborsi compensi sportivi e IVA",
         "link": "https://www.fiscoetasse.com/normativa-prassi/13609-fisco-e-sport-dilettantistico-cosa-cambia-con-il-dlgs-362021-per-asd-e-ssd.html",
         "date": "2026-08-23T00:00:00.000Z",
@@ -114,14 +170,6 @@
         "link": "https://www.ilsole24ore.com/art/sui-balconi-condominio-l-amministratore-risponde-solo-le-parti-comuni-AJW0Heq",
         "date": "2026-08-21T03:06:29.000Z",
         "summary": "Il recente crollo a Livorno ha riportato l’attenzione sulle diverse responsabilità nella gestione della manutenzione"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Piccoli tribunali in crisi per la durata dei vuoti in organico",
-        "link": "https://www.ilsole24ore.com/art/piccoli-tribunali-crisi-la-durata-vuoti-organico-AJfKckq",
-        "date": "2026-08-21T03:04:13.000Z",
-        "summary": "Il punto in una delibera approvata dal Csm sugli effetti del turn over"
       },
       {
         "category": "fiscale",
@@ -165,14 +213,6 @@
       },
       {
         "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Bici giù dai Murazzi, appello bis per Cherici: valutare la dipendenza dal branco",
-        "link": "https://www.ilsole24ore.com/art/bici-giu-murazzi-appello-bis-cherici-valutare-dipendenza-branco-AJP6Rop",
-        "date": "2026-08-20T03:08:39.000Z",
-        "summary": "Pena da rivedere al ribasso, rinnovando il dibattimento, per capire quanto il percorso psicologico ha influito sulla personalità dell'imputata"
-      },
-      {
-        "category": "fiscale",
         "source": "Fisco e Tasse",
         "title": "Rimborsi forfettari ai volontari sportivi I chiarimenti delle Entrate",
         "link": "https://www.fiscoetasse.com/approfondimenti/17395-rimborsi-forfettari-ai-volontari-sportivi-i-chiarimenti-delle-entrate.html",
@@ -202,46 +242,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4407-indagini-finanziarie-e-doppia-attivita-spetta-al-contribuente-lonere-della-prova.html",
         "date": "2026-08-20T00:00:00.000Z",
         "summary": "La Cassazione chiarisce il perimetro dell'onere della prova nel caso del contribuente con doppia attività sottoposto a indagini finanziarie"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "FER X definitivo che cos",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12878-fer-x-definitivo-che-cose.html",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": "FER X definitivo il GSE specifica che si attendono le ulteriori istruzioni per l'avvio definitivo delle procedure"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Regime agevolativo IRES e IVA per SSD adeguamento statuti",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17390-regime-agevolativo-ires-e-iva-per-ssd-adeguamento-degli-statuti-tra-art-148-tuir-e-dlgs.html",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": "Regime agevolativo IRES e IVA per SSD: adeguamento degli statuti tra art. 148 TUIR e D.Lgs. 36/2021"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Sanzioni USA il caso Rice Lake e le vendite indirette verso lIran",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17392-sanzioni-usa-il-caso-rice-lake-e-le-vendite-indirette-verso-liran.html",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": "Il provvedimento OFAC chiarisce i rischi delle triangolazioni commerciali attraverso Paesi terzi e l’importanza di verificare la destinazione finale delle merci"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "I limiti alla responsabilit solidale del rappresentante fiscale del soggetto estero",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17391-i-limiti-alla-responsabilita-solidale-del-rappresentante-fiscale-del-soggetto-estero.html",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": "La responsabilità solidale IVA del rappresentante fiscale richiede un effettivo coinvolgimento nelle operazioni e non può tradursi in una forma di responsabilità oggettiva"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Criteri di qualificazione dei soggetti assimilati alle holding industriali",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17388-criteri-di-qualificazione-dei-soggetti-assimilati-alle-holding-industriali.html",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": "Le tre dimensioni fiscali della holding dopo il decreto correttivo Omnibus: classificazione, dividendi e income test"
       },
       {
         "category": "fiscale",
@@ -494,26 +494,26 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Fideiussione bancaria - Clausole ABI lesive della libertà di concorrenza - Nullità parziale - Decadenza ex art. 1957 c.c. - Istanza stragiudiziale - Azione giudiziale - Contrasto giurisprudenziale  (Cass. 15.7.2026 n. 23301) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116070",
-        "date": "24/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"Decadenza dalla garanzia fideiussoria impedita “a semplice richiesta” con dubbi\" - Novella C."
+        "title": "Novità del DLgs. 47/2026 - Interpretazione degli statuti esistenti - Necessità o meno di modifiche (Studio Consiglio nazionale del Notariato 25.6.2026 n. 63-2026/I) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120632",
+        "date": "25/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 25.8.2026 - \"Convivente dell’amministratore sempre fuori dall’organo di controllo\" - Meoli M."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Socio non amministratore - Concorrenza con la società - Diritto di controllo - Limiti (Trib. Ancona 7.4.2025) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119417",
-        "date": "24/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"La concorrenza del socio non amministratore di srl restringe il diritto di controllo\" - Meoli M. - Tombari E."
+        "title": "Holding - Partecipazioni in società sub-holding - Verifica della sussistenza dei requisiti “oggettivi” PEX della residenza e della commercialità (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1105791",
+        "date": "25/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 25.8.2026 - \"Verifica dei requisiti oggettivi pex da scalare sulle partecipate della sub-holding\" - Zanetti E."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Adempimento collaborativo - Tax control framework (TCF) - Contraddittorio con l'Agenzia delle Entrate - Interpello e ravvedimento (circ. Agenzia delle Entrate 6.8.2026 n. 6) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120367",
-        "date": "24/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"Sostanza del contraddittorio preventivo valorizzata nell’adempimento collaborativo\" - Formica G."
+        "title": "Pensioni private erogate in regime di sicurezza sociale - Convenzione contro le doppie imposizione Italia-Germania - Esenzione parziale in Italia (risposta a interpello Agenzia delle Entrate 24.8.2026 n. 164) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120635",
+        "date": "25/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 25.8.2026 - \"Esente la quota di pensione di sicurezza sociale tedesca\" - Corso L."
       },
       {
         "category": "fiscale",
@@ -566,8 +566,24 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
+        "title": "Accise sul gasolio: aliquota ridotta solo per le giornate del 25 e 26 agosto",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/26/accise-sul-gasolio-aliquota-ridotta-solo-per-le-giornate-del-25-e-26-agosto/",
+        "date": "2026-08-26T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
         "title": "IMU: il D.Lgs. n. 147/2026 ridisegna dichiarazione IMU, accertamenti e regime sanzionatorio",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/25/imu-il-d.lgs.-1472026-ridisegna-dichiarazione-imu-accertamenti-e-regime-sanzionatorio",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Pensione tedesca di sicurezza sociale: imponibile in Italia solo la quota tassabile in Germania",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/25/pensione-tedesca-di-sicurezza-sociale-imponibile-in-italia-solo-la-quota-tassabile-in-germania/",
         "date": "2026-08-25T00:00:00.000Z",
         "summary": ""
       },
@@ -606,22 +622,6 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Fondo Simest IA: 200 milioni per le PMI dal 21 settembre",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/21/fondo-simest-ia-200-milioni-per-le-pmi-dal-21-settembre/",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Lavoro sportivo dilettante: calcolo della base imponibile per la gestione separata e compilazione del quadro RR",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/21/lavoro-sportivo-dilettante-calcolo-della-base-imponibile-per-la-gestione-separata-e-compilazione-del-quadro-rr/",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
         "title": "Buona Estate da MySolution: i servizi di agosto",
         "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/07/buona-estate-da-mysolution-servizi-di-agosto/",
         "date": "2026-08-07T00:00:00.000Z",
@@ -640,10 +640,66 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "La tutela della salute e della sicurezza non può ricadere sui rider",
+        "link": "https://www.ilsole24ore.com/art/la-tutela-salute-e-sicurezza-non-puo-ricadere-rider-AJxR1cu",
+        "date": "2026-08-26T03:02:01.000Z",
+        "summary": "Non spetta ai ciclofattorini fare valutazioni e l’azienda deve fornire vari dispositivi, da acqua e sali minerali agli indumenti termoprotettivi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Affitto dazienda o cessione possono confondersi",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4419-affitto-dazienda-o-cessione-possono-confondersi.html",
+        "date": "2026-08-26T00:00:00.000Z",
+        "summary": "Affitto d’azienda riqualificato come cessione: per la Cassazione conta l’operazione effettiva"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Fattura generica attenzione alla detrazione IVA",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4417-fattura-generica-attenzione-alla-detrazione-iva.html",
+        "date": "2026-08-26T00:00:00.000Z",
+        "summary": "Fattura generica, la detrazione IVA non si perde sempre: quando contratto e documenti salvano il credito"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Pensione di sicurezza sociale tedesca la quota esente in Italia",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4416-pensione-di-sicurezza-sociale-tedesca-la-quota-esente-in-italia.html",
+        "date": "2026-08-26T00:00:00.000Z",
+        "summary": "Tassazione pensionati tedeschi residenti in Italia: a cosa prestare attenzione per la pensione di sicurezza sociale. La certificazione unica tedesca sulla esenzione irpef"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Lucciole di strada, no ai fogli di via se non commettono reati",
         "link": "https://www.ilsole24ore.com/art/lucciole-strada-no-fogli-via-se-non-commettono-reati-AJqOgXt",
         "date": "2026-08-25T03:04:14.000Z",
         "summary": "Sono illegittimi se disposti solo in virtù del meretricio esercitato in abiti succinti e in assenza di adescamento di minori o altri reati"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Ultima chiamata per la cedolare secca sugli affitti commerciali",
+        "link": "https://www.ilsole24ore.com/art/ultima-chiamata-la-cedolare-secca-affitti-commerciali-AJupWVt",
+        "date": "2026-08-25T03:02:01.000Z",
+        "summary": "L’estensione della misura alle locazioni non abitative non sarebbe solo un intervento fiscale, ma uno strumento di politica economica"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Rischi fiscali pregressi nuova disclosure nel TCF ed effetti premiali",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17403-rischi-fiscali-pregressi-nuova-disclosure-nel-tcf-ed-effetti-premiali.html",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": "Meccanismo, condizioni e sistema premiale sulla comunicazione dei rischi connessi alle annualità precedenti l'ingresso nell'adempimento collaborativo e nel TCF dopo l'Omnibus"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Disciplina IRAP applicabile ai compensi per i lavoratori cococo",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17402-disciplina-irap-applicabile-ai-compensi-per-i-lavoratori-cococo.html",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": "IRAP per compensi per i collaboratori coordinati e continuativi nell’area del dilettantismo. Un confronto con il Terzo settore"
       },
       {
         "category": "contabile",
@@ -652,6 +708,14 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4415-contributi-agricoltura-per-prodotti-dop-e-igp-occhio-alla-scadenza-del-24-settembre.html",
         "date": "2026-08-25T00:00:00.000Z",
         "summary": "Contributi DOP e IGP 2026: fino a 250mila euro per valorizzare le eccellenze agroalimentari"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Criptoattivit regole per i professionisti",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17396-cripto-attivita-regole-per-i-professionisti.html",
+        "date": "2026-08-25T00:00:00.000Z",
+        "summary": "Scambio automatico d'informazioni sulle cripto-attività e irrilevanza fiscale: il perimetro che il professionista deve conoscere"
       },
       {
         "category": "contabile",
@@ -688,14 +752,6 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Transazione fiscale novit 2026 e regole per i professionisti",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17393-transazione-fiscale-novita-2026-e-regole-per-i-professionisti.html",
-        "date": "2026-08-24T00:00:00.000Z",
-        "summary": "La transazione fiscale tra dimensione locale e rigore procedimentale: il quadro dopo le riforme del 2026"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "ASD e SSD i chiarimenti dellAgenzia su rimborsi compensi sportivi e IVA",
         "link": "https://www.fiscoetasse.com/normativa-prassi/13609-fisco-e-sport-dilettantistico-cosa-cambia-con-il-dlgs-362021-per-asd-e-ssd.html",
         "date": "2026-08-23T00:00:00.000Z",
@@ -728,18 +784,18 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Piccoli tribunali in crisi per la durata dei vuoti in organico",
-        "link": "https://www.ilsole24ore.com/art/piccoli-tribunali-crisi-la-durata-vuoti-organico-AJfKckq",
-        "date": "2026-08-21T03:04:13.000Z",
-        "summary": "Il punto in una delibera approvata dal Csm sugli effetti del turn over"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Scatta il reato di tortura per la rapina particolarmente violenta",
         "link": "https://www.ilsole24ore.com/art/scatta-reato-tortura-la-rapina-particolarmente-violenta-AJpYfbq",
         "date": "2026-08-21T03:02:01.000Z",
         "summary": "La costrizione fisica e psicologica induce le persone aggredite a fare quanto i rapinatori chiedono con estrema violenza"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "ASD e SSD chiarimenti ADE su profili fiscali",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4408-asd-ssd-chiarimenti-ade-su-profili-fiscali.html",
+        "date": "2026-08-21T00:00:00.000Z",
+        "summary": "Enti sportivi dilettantistici e lavoro sportivo: indicazioni delle Entrate su esenzioni, rimborsi e adempimenti per il pagamento delle imposte"
       },
       {
         "category": "contabile",
@@ -768,30 +824,6 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "ASD e SSD chiarimenti ADE su profili fiscali",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4408-asd-ssd-chiarimenti-ade-su-profili-fiscali.html",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": "Enti sportivi dilettantistici e lavoro sportivo: indicazioni delle Entrate su esenzioni, rimborsi e adempimenti per il pagamento delle imposte"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Bici giù dai Murazzi, appello bis per Cherici: valutare la dipendenza dal branco",
-        "link": "https://www.ilsole24ore.com/art/bici-giu-murazzi-appello-bis-cherici-valutare-dipendenza-branco-AJP6Rop",
-        "date": "2026-08-20T03:08:39.000Z",
-        "summary": "Pena da rivedere al ribasso, rinnovando il dibattimento, per capire quanto il percorso psicologico ha influito sulla personalità dell'imputata"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Rimborsi forfettari ai volontari sportivi I chiarimenti delle Entrate",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17395-rimborsi-forfettari-ai-volontari-sportivi-i-chiarimenti-delle-entrate.html",
-        "date": "2026-08-20T00:00:00.000Z",
-        "summary": "Il volontario sportivo. Trattamento fiscale dei rimborsi forfettari. I chiarimenti dalle Entrate"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Tax control framework contro i rischi fiscali anche nel terzo settore",
         "link": "https://www.fiscoetasse.com/approfondimenti/17394-tax-control-framework-contro-i-rischi-fiscali-anche-nel-terzo-settore.html",
         "date": "2026-08-20T00:00:00.000Z",
@@ -816,42 +848,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "FER X definitivo che cos",
-        "link": "https://www.fiscoetasse.com/domande-e-risposte/12878-fer-x-definitivo-che-cose.html",
+        "title": "Rimborsi forfettari ai volontari sportivi I chiarimenti delle Entrate",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17395-rimborsi-forfettari-ai-volontari-sportivi-i-chiarimenti-delle-entrate.html",
         "date": "2026-08-20T00:00:00.000Z",
-        "summary": "FER X definitivo il GSE specifica che si attendono le ulteriori istruzioni per l'avvio definitivo delle procedure"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Regime agevolativo IRES e IVA per SSD adeguamento statuti",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17390-regime-agevolativo-ires-e-iva-per-ssd-adeguamento-degli-statuti-tra-art-148-tuir-e-dlgs.html",
-        "date": "2026-08-19T00:00:00.000Z",
-        "summary": "Regime agevolativo IRES e IVA per SSD: adeguamento degli statuti tra art. 148 TUIR e D.Lgs. 36/2021"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Sanzioni USA il caso Rice Lake e le vendite indirette verso lIran",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17392-sanzioni-usa-il-caso-rice-lake-e-le-vendite-indirette-verso-liran.html",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": "Il provvedimento OFAC chiarisce i rischi delle triangolazioni commerciali attraverso Paesi terzi e l’importanza di verificare la destinazione finale delle merci"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "I limiti alla responsabilit solidale del rappresentante fiscale del soggetto estero",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17391-i-limiti-alla-responsabilita-solidale-del-rappresentante-fiscale-del-soggetto-estero.html",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": "La responsabilità solidale IVA del rappresentante fiscale richiede un effettivo coinvolgimento nelle operazioni e non può tradursi in una forma di responsabilità oggettiva"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Criteri di qualificazione dei soggetti assimilati alle holding industriali",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17388-criteri-di-qualificazione-dei-soggetti-assimilati-alle-holding-industriali.html",
-        "date": "2026-08-18T00:00:00.000Z",
-        "summary": "Le tre dimensioni fiscali della holding dopo il decreto correttivo Omnibus: classificazione, dividendi e income test"
+        "summary": "Il volontario sportivo. Trattamento fiscale dei rimborsi forfettari. I chiarimenti dalle Entrate"
       },
       {
         "category": "contabile",
@@ -936,26 +936,26 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Fideiussione bancaria - Clausole ABI lesive della libertà di concorrenza - Nullità parziale - Decadenza ex art. 1957 c.c. - Istanza stragiudiziale - Azione giudiziale - Contrasto giurisprudenziale  (Cass. 15.7.2026 n. 23301) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116070",
-        "date": "24/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"Decadenza dalla garanzia fideiussoria impedita “a semplice richiesta” con dubbi\" - Novella C."
+        "title": "Novità del DLgs. 47/2026 - Interpretazione degli statuti esistenti - Necessità o meno di modifiche (Studio Consiglio nazionale del Notariato 25.6.2026 n. 63-2026/I) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120632",
+        "date": "25/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 25.8.2026 - \"Convivente dell’amministratore sempre fuori dall’organo di controllo\" - Meoli M."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Socio non amministratore - Concorrenza con la società - Diritto di controllo - Limiti (Trib. Ancona 7.4.2025) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119417",
-        "date": "24/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"La concorrenza del socio non amministratore di srl restringe il diritto di controllo\" - Meoli M. - Tombari E."
+        "title": "Holding - Partecipazioni in società sub-holding - Verifica della sussistenza dei requisiti “oggettivi” PEX della residenza e della commercialità (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1105791",
+        "date": "25/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 25.8.2026 - \"Verifica dei requisiti oggettivi pex da scalare sulle partecipate della sub-holding\" - Zanetti E."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Adempimento collaborativo - Tax control framework (TCF) - Contraddittorio con l'Agenzia delle Entrate - Interpello e ravvedimento (circ. Agenzia delle Entrate 6.8.2026 n. 6) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120367",
-        "date": "24/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 24.8.2026 - \"Sostanza del contraddittorio preventivo valorizzata nell’adempimento collaborativo\" - Formica G."
+        "title": "Pensioni private erogate in regime di sicurezza sociale - Convenzione contro le doppie imposizione Italia-Germania - Esenzione parziale in Italia (risposta a interpello Agenzia delle Entrate 24.8.2026 n. 164) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120635",
+        "date": "25/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 25.8.2026 - \"Esente la quota di pensione di sicurezza sociale tedesca\" - Corso L."
       },
       {
         "category": "contabile",
@@ -1007,6 +1007,22 @@
       }
     ],
     "lavoro": [
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Rilasciata la versione 4.32.3 dell’allegato tecnico Uniemens",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/26/rilasciata-la-versione-4.32.3-dellallegato-tecnico-uniemens",
+        "date": "2026-08-26T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "Sisma Centro Italia, esoneri contributivi confermati nel 2026",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/26/sisma-centro-italia-esoneri-contributivi-confermati-nel-2026/",
+        "date": "2026-08-26T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
@@ -1066,22 +1082,6 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Smart working senza contratto scritto: illegittimo il licenziamento per assenza",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/21/smart-working-senza-contratto-scritto-illegittimo-il-licenziamento-per-assenza/",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
-        "title": "Lavoro sportivo dilettantistico: calcolo della base imponibile per la gestione separata e compilazione del quadro RR",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/21/lavoro-sportivo-dilettantistico-calcolo-della-base-imponibile-per-la-gestione-separata-e-compilazione-del-quadro-rr/",
-        "date": "2026-08-21T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "lavoro",
-        "source": "MySolution Lavoro",
         "title": "Buona Estate da MySolution: i servizi di agosto",
         "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/07/buona-estate-da-mysolution-i-servizi-di-agosto/",
         "date": "2026-08-07T00:00:00.000Z",
@@ -1089,6 +1089,62 @@
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Hacked by CoupDeGrace",
+        "link": "https://www.confedilizia.it/dd799d7fe505-htm/",
+        "date": "2026-08-25T17:41:58.000Z",
+        "summary": "Hacked by CoupDeGrace Greetz: Hmei7, BrokenPipe, SimSimi, L4663r666h05t, AntonKil, d3b~x, Index Php, Mdn_Newbie, Sultan Haikal, Brian Kamikaze\nL'articolo Hacked by CoupDeGrace sembra essere il primo su Confedilizia."
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Case al mare, Croazia più cara dell’Italia",
+        "link": "https://www.ilsole24ore.com/art/case-mare-croazia-piu-cara-dell-italia-AJmevZu",
+        "date": "2026-08-25T17:35:00.000Z",
+        "summary": "L’alta domanda da parte di acquirenti stranieri, assieme all’adozione dell’euro, sono dietro al forte boom dei valori immobiliari"
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "I podcast di Confedilizia su Casa Radio",
+        "link": "https://www.confedilizia.it/i-podcast-di-confedilizia-su-casa-radio/",
+        "date": "2026-08-25T14:54:17.000Z",
+        "summary": "Il 7 maggio sono partiti “I podcast di Confedilizia su Casa Radio”. Nel corso della rubrica – che è andata in onda su Casa Radio tutti i giovedì, dalle 11,30 alle 12, fino al 25 giugno compreso – ogni settimana, attraverso l’analisi di casi concreti, gli esperti della Confedilizia hanno approfondito argomenti legati […]\nL'articolo I podcast di Confedilizia su Casa Radio sembra essere il primo su C"
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Monza, pubblicato l’avviso del Demanio per uno studentato nell’ex caserma",
+        "link": "https://www.ilsole24ore.com/art/monza-pubblicato-l-avviso-demanio-uno-studentato-nell-ex-caserma-AJl3gLu",
+        "date": "2026-08-25T14:29:19.000Z",
+        "summary": "Per riqualificare circa 19 mila metri quadrati del complesso, il contributo pubblico potrà arrivare fino a 22,8 milioni di euro. Le proposte dovranno arrivare entro il 31 gennaio 2027"
+      },
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Venezia, continua il mercato delle isole private: in vendita Crevan",
+        "link": "https://www.ilsole24ore.com/art/venezia-continua-mercato-isole-private-vendita-crevan-AJmX4Fu",
+        "date": "2026-08-25T13:02:37.000Z",
+        "summary": "Un’isola di 5.700 metri quadrati nella Laguna Nord, con un fortino napoleonico trasformato in residenza, due approdi e vista su Burano e Torcello"
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Cedolare secca affitti commerciali, ultimo appello",
+        "link": "https://www.confedilizia.it/cedolare-secca-affitti-commerciali-ultimo-appello/",
+        "date": "2026-08-25T09:09:29.000Z",
+        "summary": "La legge delega per la riforma fiscale, pubblicata in Gazzetta Ufficiale esattamente tre anni fa, il 14 agosto del 2023, prevede all’articolo 5, tra i principi e criteri direttivi per la revisione del sistema di imposizione sui redditi delle persone fisiche, “per i redditi dei fabbricati, la possibilità di estendere il regime della cedolare secca […]\nL'articolo Cedolare secca affitti commerciali, "
+      },
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Monitorimmobiliare.it – 24.8.2026 – Sisma 2016, Confedilizia: investire in prevenzione",
+        "link": "https://www.confedilizia.it/monitorimmobiliare-it-24-8-2026-sisma-2016-confedilizia-investire-in-prevenzione/",
+        "date": "2026-08-25T07:43:32.000Z",
+        "summary": "L'articolo Monitorimmobiliare.it – 24.8.2026 – Sisma 2016, Confedilizia: investire in prevenzione sembra essere il primo su Confedilizia."
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1179,38 +1235,6 @@
       },
       {
         "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Teleambiente.tv – 12.8.2026 – Giovani e sostenibilità, incentivi nei contratti di locazione? Il parere di Confedilizia",
-        "link": "https://www.confedilizia.it/teleambiente-tv-12-8-2026-giovani-e-sostenibilita-incentivi-nei-contratti-di-locazione-il-parere-di-confedilizia/",
-        "date": "2026-08-24T10:18:04.000Z",
-        "summary": "L'articolo Teleambiente.tv – 12.8.2026 – Giovani e sostenibilità, incentivi nei contratti di locazione? Il parere di Confedilizia sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Idealista.it – 10.8.2026 – Per Confedilizia l’Imu continua a produrre ruderi, +129% dal 2011",
-        "link": "https://www.confedilizia.it/idealista-it-10-8-2026-per-confedilizia-limu-continua-a-produrre-ruderi-129-dal-2011/",
-        "date": "2026-08-24T10:04:47.000Z",
-        "summary": "L'articolo Idealista.it – 10.8.2026 – Per Confedilizia l’Imu continua a produrre ruderi, +129% dal 2011 sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Nicolaporro.it – 10.8.2026 – L’Imu continua a produrre ruderi",
-        "link": "https://www.confedilizia.it/nicolaporro-it-10-8-2026-limu-continua-a-produrre-ruderi/",
-        "date": "2026-08-24T10:03:43.000Z",
-        "summary": "L'articolo Nicolaporro.it – 10.8.2026 – L’Imu continua a produrre ruderi sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Liberoquotidiano.it – 9.8.2026 – “Da Spin Time valore sociale”. Ecco lo stupidario pro abusivi",
-        "link": "https://www.confedilizia.it/liberoquotidiano-it-9-8-2026-da-spin-time-valore-sociale-ecco-lo-stupidario-pro-abusivi/",
-        "date": "2026-08-24T10:02:11.000Z",
-        "summary": "L'articolo Liberoquotidiano.it – 9.8.2026 – “Da Spin Time valore sociale”. Ecco lo stupidario pro abusivi sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "San Francisco riconquista il titolo di città più cara degli Stati Uniti",
         "link": "https://www.ilsole24ore.com/art/immobili-boom-dell-ai-manda-tilt-prezzi-case-san-francisco-AJNhfbj",
@@ -1220,26 +1244,10 @@
       {
         "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Londra, a Battersea residenze raffinate sul molo storico del Tamigi",
-        "link": "https://www.ilsole24ore.com/art/londra-battersea-residenze-raffinate-molo-storico-tamigi-AJp0TNq",
-        "date": "2026-08-20T08:47:54.000Z",
-        "summary": "Creato da London Square, Ransome’s Wharf prevede 118 appartamenti in cinque edifici affacciati sul fiume e collegati da giardini. Al centro una piazza con ristoranti, bar e negozi. Fine lavori: il 2028. I prezzi partono da 1,1 milioni di sterline."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "PlanRadar, i nuovi AI agents chiudono il gap tra le fasi di cantiere e la loro implementazione, in totale autonomia",
         "link": "https://www.ilsole24ore.com/art/planradar-nuovi-agents-chiudono-gap-le-fasi-cantiere-e-loro-implementazione-totale-autonomia-AJ5RIbp",
         "date": "2026-08-19T09:19:01.000Z",
         "summary": "Gli agenti intervengono in automatico ogni volta che si verifica un evento in un progetto su piattaforma PlanRadar, senza bisogno di approvazione, ma sotto la supervisione dei team competenti"
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Tci, il fondo del magnate inglese Chris Hohn investe oltre 600 milioni di dollari negli hotel in Italia",
-        "link": "https://www.ilsole24ore.com/art/tci-fondo-magnate-inglese-chris-hohn-investe-oltre-600-milioni-dollari-hotel-italia-AJPUhqo",
-        "date": "2026-08-18T11:08:00.000Z",
-        "summary": "Lo rileva il Financial Times. L’hedge fund punta sulla capacità del settore di continuare ad aumentare le tariffe grazie alla forte domanda internazionale e alla scarsità di immobili di pregio nelle località più richieste"
       },
       {
         "category": "condominio",
@@ -1264,14 +1272,6 @@
         "link": "https://www.ilsole24ore.com/art/segro-dice-si-prologis-accordo-19-miliardi-dollari-nasce-colosso-logistica-AJoYkle",
         "date": "2026-08-04T15:51:00.000Z",
         "summary": "Il gruppo britannico di investimenti immobiliari Segro ha accettato l’offerta di acquisizione avanzata dalla statunitense Prologis, in un’operazione del valore complessivo di 18,8 miliardi di dollari (circa 14,3 miliardi di..."
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "Certosa District, in arrivo co-living, formazione e nuove imprese",
-        "link": "https://www.ilsole24ore.com/art/certosa-district-arrivo-co-living-formazione-e-nuove-imprese-AJz65gT",
-        "date": "2026-08-03T15:35:00.000Z",
-        "summary": "Nel quartiere a nord-ovest di Milano recuperati 75mila mq, tra un hub per la formazione, 187 appartamenti e 6mila mq di verde. A settembre, Rossignol inaugura la sede italiana. Nuova società estera entro l’anno. Investimento globale, oltre 300 milioni"
       },
       {
         "category": "condominio",
@@ -1368,10 +1368,26 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "La tutela della salute e della sicurezza non può ricadere sui rider",
+        "link": "https://www.ilsole24ore.com/art/la-tutela-salute-e-sicurezza-non-puo-ricadere-rider-AJxR1cu",
+        "date": "2026-08-26T03:02:01.000Z",
+        "summary": "Non spetta ai ciclofattorini fare valutazioni e l’azienda deve fornire vari dispositivi, da acqua e sali minerali agli indumenti termoprotettivi"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Lucciole di strada, no ai fogli di via se non commettono reati",
         "link": "https://www.ilsole24ore.com/art/lucciole-strada-no-fogli-via-se-non-commettono-reati-AJqOgXt",
         "date": "2026-08-25T03:04:14.000Z",
         "summary": "Sono illegittimi se disposti solo in virtù del meretricio esercitato in abiti succinti e in assenza di adescamento di minori o altri reati"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Ultima chiamata per la cedolare secca sugli affitti commerciali",
+        "link": "https://www.ilsole24ore.com/art/ultima-chiamata-la-cedolare-secca-affitti-commerciali-AJupWVt",
+        "date": "2026-08-25T03:02:01.000Z",
+        "summary": "L’estensione della misura alle locazioni non abitative non sarebbe solo un intervento fiscale, ma uno strumento di politica economica"
       },
       {
         "category": "crisi_impresa",
@@ -1400,26 +1416,10 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Piccoli tribunali in crisi per la durata dei vuoti in organico",
-        "link": "https://www.ilsole24ore.com/art/piccoli-tribunali-crisi-la-durata-vuoti-organico-AJfKckq",
-        "date": "2026-08-21T03:04:13.000Z",
-        "summary": "Il punto in una delibera approvata dal Csm sugli effetti del turn over"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Scatta il reato di tortura per la rapina particolarmente violenta",
         "link": "https://www.ilsole24ore.com/art/scatta-reato-tortura-la-rapina-particolarmente-violenta-AJpYfbq",
         "date": "2026-08-21T03:02:01.000Z",
         "summary": "La costrizione fisica e psicologica induce le persone aggredite a fare quanto i rapinatori chiedono con estrema violenza"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Bici giù dai Murazzi, appello bis per Cherici: valutare la dipendenza dal branco",
-        "link": "https://www.ilsole24ore.com/art/bici-giu-murazzi-appello-bis-cherici-valutare-dipendenza-branco-AJP6Rop",
-        "date": "2026-08-20T03:08:39.000Z",
-        "summary": "Pena da rivedere al ribasso, rinnovando il dibattimento, per capire quanto il percorso psicologico ha influito sulla personalità dell'imputata"
       },
       {
         "category": "crisi_impresa",
