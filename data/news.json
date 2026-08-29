@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T17:15:48.501Z",
+  "generatedAt": "2026-08-29T11:33:27.515Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -11,6 +11,14 @@
   },
   "items": {
     "fiscale": [
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Amianto in micro cantiere, sì al deposito temporaneo presso la ditta esecutrice",
+        "link": "https://www.ilsole24ore.com/art/amianto-micro-cantiere-si-deposito-temporaneo-presso-ditta-esecutrice-AJCfThx",
+        "date": "2026-08-29T03:08:37.000Z",
+        "summary": "Via libera del Mase senza autorizzazione in caso di piccole quantità"
+      },
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -130,30 +138,6 @@
         "link": "https://www.ilsole24ore.com/art/accordo-meta-usa-anche-ue-si-rafforzi-protezione-minori-online-AJOZpMw",
         "date": "2026-08-27T15:00:43.000Z",
         "summary": "Confermato il dialogo in corso fra la Commissione e la big tech. Attesa a novembre l’udienza conclusiva della class action inibitoria italiana"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Affitti brevi, la stretta si allarga ancora: nuovi limiti anche a Verona",
-        "link": "https://www.ilsole24ore.com/art/affitti-brevi-stretta-si-allarga-ancora-nuovi-limiti-anche-verona-AJ26DMv",
-        "date": "2026-08-27T03:06:27.000Z",
-        "summary": "Il Comune approva la variante 70: cambi di destinazione d’uso obbligatori e blocco delle locazioni turistiche nel centro Unesco"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Chi sottrae soldi all’azienda può compensare il debito lavorando gratis in futuro",
-        "link": "https://www.ilsole24ore.com/art/chi-sottrae-soldi-all-azienda-puo-compensare-debito-lavorando-gratis-futuro-AJwNHcv",
-        "date": "2026-08-27T03:04:13.000Z",
-        "summary": "La soluzione è legittima anche se non concordata in forma scritta"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Carcere e 3 milioni di multa   al migrante-scafista anche se non è un trafficante",
-        "link": "https://www.ilsole24ore.com/art/carcere-e-3-milioni-multa-migrante-scafista-anche-se-non-e-trafficante-AJPFEUv",
-        "date": "2026-08-27T03:02:01.000Z",
-        "summary": "Condanna per concorso in immigrazione clandestina alla persona che si presta ad aggiustare i motori in cambio della traversata gratis verso l’Italia"
       },
       {
         "category": "fiscale",
@@ -624,6 +608,14 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Amianto in micro cantiere, sì al deposito temporaneo presso la ditta esecutrice",
+        "link": "https://www.ilsole24ore.com/art/amianto-micro-cantiere-si-deposito-temporaneo-presso-ditta-esecutrice-AJCfThx",
+        "date": "2026-08-29T03:08:37.000Z",
+        "summary": "Via libera del Mase senza autorizzazione in caso di piccole quantità"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Qualifiche professionali invalide se non riconosciute nel Paese d’origine",
         "link": "https://www.ilsole24ore.com/art/qualifiche-professionali-invalide-se-non-riconosciute-paese-d-origine-AJGnHPw",
         "date": "2026-08-28T03:04:15.000Z",
@@ -724,30 +716,6 @@
         "link": "https://www.ilsole24ore.com/art/accordo-meta-usa-anche-ue-si-rafforzi-protezione-minori-online-AJOZpMw",
         "date": "2026-08-27T15:00:43.000Z",
         "summary": "Confermato il dialogo in corso fra la Commissione e la big tech. Attesa a novembre l’udienza conclusiva della class action inibitoria italiana"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Affitti brevi, la stretta si allarga ancora: nuovi limiti anche a Verona",
-        "link": "https://www.ilsole24ore.com/art/affitti-brevi-stretta-si-allarga-ancora-nuovi-limiti-anche-verona-AJ26DMv",
-        "date": "2026-08-27T03:06:27.000Z",
-        "summary": "Il Comune approva la variante 70: cambi di destinazione d’uso obbligatori e blocco delle locazioni turistiche nel centro Unesco"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Chi sottrae soldi all’azienda può compensare il debito lavorando gratis in futuro",
-        "link": "https://www.ilsole24ore.com/art/chi-sottrae-soldi-all-azienda-puo-compensare-debito-lavorando-gratis-futuro-AJwNHcv",
-        "date": "2026-08-27T03:04:13.000Z",
-        "summary": "La soluzione è legittima anche se non concordata in forma scritta"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Carcere e 3 milioni di multa   al migrante-scafista anche se non è un trafficante",
-        "link": "https://www.ilsole24ore.com/art/carcere-e-3-milioni-multa-migrante-scafista-anche-se-non-e-trafficante-AJPFEUv",
-        "date": "2026-08-27T03:02:01.000Z",
-        "summary": "Condanna per concorso in immigrazione clandestina alla persona che si presta ad aggiustare i motori in cambio della traversata gratis verso l’Italia"
       },
       {
         "category": "contabile",
@@ -1320,6 +1288,14 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Amianto in micro cantiere, sì al deposito temporaneo presso la ditta esecutrice",
+        "link": "https://www.ilsole24ore.com/art/amianto-micro-cantiere-si-deposito-temporaneo-presso-ditta-esecutrice-AJCfThx",
+        "date": "2026-08-29T03:08:37.000Z",
+        "summary": "Via libera del Mase senza autorizzazione in caso di piccole quantità"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Qualifiche professionali invalide se non riconosciute nel Paese d’origine",
         "link": "https://www.ilsole24ore.com/art/qualifiche-professionali-invalide-se-non-riconosciute-paese-d-origine-AJGnHPw",
         "date": "2026-08-28T03:04:15.000Z",
@@ -1332,30 +1308,6 @@
         "link": "https://www.ilsole24ore.com/art/accordo-meta-usa-anche-ue-si-rafforzi-protezione-minori-online-AJOZpMw",
         "date": "2026-08-27T15:00:43.000Z",
         "summary": "Confermato il dialogo in corso fra la Commissione e la big tech. Attesa a novembre l’udienza conclusiva della class action inibitoria italiana"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Affitti brevi, la stretta si allarga ancora: nuovi limiti anche a Verona",
-        "link": "https://www.ilsole24ore.com/art/affitti-brevi-stretta-si-allarga-ancora-nuovi-limiti-anche-verona-AJ26DMv",
-        "date": "2026-08-27T03:06:27.000Z",
-        "summary": "Il Comune approva la variante 70: cambi di destinazione d’uso obbligatori e blocco delle locazioni turistiche nel centro Unesco"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Chi sottrae soldi all’azienda può compensare il debito lavorando gratis in futuro",
-        "link": "https://www.ilsole24ore.com/art/chi-sottrae-soldi-all-azienda-puo-compensare-debito-lavorando-gratis-futuro-AJwNHcv",
-        "date": "2026-08-27T03:04:13.000Z",
-        "summary": "La soluzione è legittima anche se non concordata in forma scritta"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Carcere e 3 milioni di multa   al migrante-scafista anche se non è un trafficante",
-        "link": "https://www.ilsole24ore.com/art/carcere-e-3-milioni-multa-migrante-scafista-anche-se-non-e-trafficante-AJPFEUv",
-        "date": "2026-08-27T03:02:01.000Z",
-        "summary": "Condanna per concorso in immigrazione clandestina alla persona che si presta ad aggiustare i motori in cambio della traversata gratis verso l’Italia"
       },
       {
         "category": "crisi_impresa",
