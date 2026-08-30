@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T11:33:27.515Z",
+  "generatedAt": "2026-08-30T10:25:57.780Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -18,6 +18,22 @@
         "link": "https://www.ilsole24ore.com/art/amianto-micro-cantiere-si-deposito-temporaneo-presso-ditta-esecutrice-AJCfThx",
         "date": "2026-08-29T03:08:37.000Z",
         "summary": "Via libera del Mase senza autorizzazione in caso di piccole quantità"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Accertamenti fiscali cambiano le regole i nuovi limiti per il Fisco",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4427-accertamenti-fiscali-cambiano-le-regole-i-nuovi-limiti-per-il-fisco.html",
+        "date": "2026-08-29T00:00:00.000Z",
+        "summary": "Il Decreto Omnibus riscrive alcuni punti chiave dei controlli: nuovi termini per i costi pluriennali, stretta sulla presunzione degli utili ai soci e altro"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Transazione fiscale lipoteca si paga la Cassazione chiarisce quando scatta limposta",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4422-transazione-fiscale-lipoteca-si-paga-la-cassazione-chiarisce-quando-scatta-limposta.html",
+        "date": "2026-08-29T00:00:00.000Z",
+        "summary": "Niente esenzione per l’ipoteca concessa a garanzia dei debiti con il Fisco: per la Cassazione l’Agenzia delle Entrate non coincide con lo “Stato” ai fini dell’agevolazione"
       },
       {
         "category": "fiscale",
@@ -74,14 +90,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4428-bonus-politiche-attive-veneto-nuove-risorse-requisiti-e-istruzioni-inps.html",
         "date": "2026-08-28T00:00:00.000Z",
         "summary": "L'INPS illustra l'Atto integrativo che affianca il finanziamento PNRR-GOL al FSE+ per l'erogazione dei bonus di politica attiva in Regione Veneto, con i requisiti per i beneficiari"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Accertamento e Decreto Omnibus cosa cambia e a cosa prestare attenzione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4427-accertamento-e-decreto-omnibus-cosa-cambia-e-a-cosa-prestare-attenzione.html",
-        "date": "2026-08-28T00:00:00.000Z",
-        "summary": "Decreto Omnibus, nuove regole sugli accertamenti: limiti per componenti pluriennali, società a ristretta base e antieconomicità"
       },
       {
         "category": "fiscale",
@@ -154,14 +162,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17408-societa-per-azioni-cambiano-le-regole-cose-devono-verificare-amministratori-e-sindacihtml",
         "date": "2026-08-27T00:00:00.000Z",
         "summary": "Nuove incompatibilità, check-up degli statuti e vigilanza sui rischi: cosa cambia per il professionista con il D.Lgs. 47/2026"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Ipoteca a garanzia della transazione fiscale la Cassazione dice si allimposta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4422-ipoteca-a-garanzia-della-transazione-fiscale-la-cassazione-dice-si-allimposta.html",
-        "date": "2026-08-27T00:00:00.000Z",
-        "summary": "L’ipoteca a garanzia della transazione fiscale non è esente dall’imposta ipotecaria: cosa ha deciso la Cassazione n. 24487/2026"
       },
       {
         "category": "fiscale",
@@ -615,6 +615,22 @@
       },
       {
         "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Accertamenti fiscali cambiano le regole i nuovi limiti per il Fisco",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4427-accertamenti-fiscali-cambiano-le-regole-i-nuovi-limiti-per-il-fisco.html",
+        "date": "2026-08-29T00:00:00.000Z",
+        "summary": "Il Decreto Omnibus riscrive alcuni punti chiave dei controlli: nuovi termini per i costi pluriennali, stretta sulla presunzione degli utili ai soci e altro"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Transazione fiscale lipoteca si paga la Cassazione chiarisce quando scatta limposta",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4422-transazione-fiscale-lipoteca-si-paga-la-cassazione-chiarisce-quando-scatta-limposta.html",
+        "date": "2026-08-29T00:00:00.000Z",
+        "summary": "Niente esenzione per l’ipoteca concessa a garanzia dei debiti con il Fisco: per la Cassazione l’Agenzia delle Entrate non coincide con lo “Stato” ai fini dell’agevolazione"
+      },
+      {
+        "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Qualifiche professionali invalide se non riconosciute nel Paese d’origine",
         "link": "https://www.ilsole24ore.com/art/qualifiche-professionali-invalide-se-non-riconosciute-paese-d-origine-AJGnHPw",
@@ -660,14 +676,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4428-bonus-politiche-attive-veneto-nuove-risorse-requisiti-e-istruzioni-inps.html",
         "date": "2026-08-28T00:00:00.000Z",
         "summary": "L'INPS illustra l'Atto integrativo che affianca il finanziamento PNRR-GOL al FSE+ per l'erogazione dei bonus di politica attiva in Regione Veneto, con i requisiti per i beneficiari"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Accertamento e Decreto Omnibus cosa cambia e a cosa prestare attenzione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4427-accertamento-e-decreto-omnibus-cosa-cambia-e-a-cosa-prestare-attenzione.html",
-        "date": "2026-08-28T00:00:00.000Z",
-        "summary": "Decreto Omnibus, nuove regole sugli accertamenti: limiti per componenti pluriennali, società a ristretta base e antieconomicità"
       },
       {
         "category": "contabile",
@@ -732,14 +740,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17408-societa-per-azioni-cambiano-le-regole-cose-devono-verificare-amministratori-e-sindacihtml",
         "date": "2026-08-27T00:00:00.000Z",
         "summary": "Nuove incompatibilità, check-up degli statuti e vigilanza sui rischi: cosa cambia per il professionista con il D.Lgs. 47/2026"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Ipoteca a garanzia della transazione fiscale la Cassazione dice si allimposta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4422-ipoteca-a-garanzia-della-transazione-fiscale-la-cassazione-dice-si-allimposta.html",
-        "date": "2026-08-27T00:00:00.000Z",
-        "summary": "L’ipoteca a garanzia della transazione fiscale non è esente dall’imposta ipotecaria: cosa ha deciso la Cassazione n. 24487/2026"
       },
       {
         "category": "contabile",
