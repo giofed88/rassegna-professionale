@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T11:30:38.572Z",
+  "generatedAt": "2026-09-01T09:52:59.805Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -14,10 +14,98 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Controlli automatici, ricorsi, notifiche: come la riforma cambierà le multe",
+        "link": "https://www.ilsole24ore.com/art/controlli-automatici-ricorsi-notifiche-come-riforma-cambiera-multe-AJzUPVt",
+        "date": "2026-09-01T03:06:27.000Z",
+        "summary": "Dalla stretta sulle infrazioni contemporanee ai trattamenti più favorevoli per chi perde i ricorsi e per chi ha diritto all’autotutela"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Nuove multe a importi variabili: possibili sconti fino al 50% e aumenti del 100%",
+        "link": "https://www.ilsole24ore.com/art/nuove-multe-importi-variabili-possibili-sconti-fino-50percento-e-aumenti-100percento-AJTQPVt",
+        "date": "2026-09-01T03:04:00.000Z",
+        "summary": "La bozza della riforma abbandona il principio della sanzione quasi sempre uguale per tutti: spazio a un sistema personalizzato e complesso. Con un beneficio inedito per i motociclisti"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Concessioni demaniali perizie asseverate candidature commercialisti da settembre",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4438-concessioni-demaniali-perize-asseverate-candidature-commercialisti-da-settembre.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Concessioni demaniali, perizie asseverate: al via le candidature dei commercialisti. Come entrare negli elenchi"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Bonus fiscali e incentivi  assunzioni 2027 quali saranno davvero confermati",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4437-bonus-fiscali-e-incentivi-assunzioni-2027-quali-saranno-davvero-confermati.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Dal bonus mamme agli incentivi per giovani, donne e over 35, fringe benefit: le misure che il Governo  pensa di rinnovare e dove ci sono già gli stanziamenti"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Concessioni balneari gare anche prima del 2027 indennizzi solo se provati",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4436-concessioni-balneari-gare-anche-prima-del-2027-indennizzi-solo-se-provati.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Il Consiglio di Stato chiarisce i tempi delle gare e le regole per gli indennizzi delle concessioni balneari"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Data Point dellEFRAG sui principi di sostenibilit",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17418-data-point-dellefrag-sui-principi-di-sostenibilita.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Rendicontazione di sostenibilità ESG: l'EFRAG pubblica data point dei nuovi European Sustainability Reporting Standards DTESRS"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Trasferirsi allestero cosa rischia chi non parte e cambia solo residenza",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17417-trasferirsi-allestero-cosa-rischia-chi-non-parte-e-cambia-solo-residenza.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Trasferirsi all’estero solo sulla carta: l’iscrizione all’AIRE non basta più"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Credito Iva cosa succede se manca la dichiarazione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4435-credito-iva-cosa-succede-se-manca-la-dichiarazione.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Credito Iva e dichiarazione omessa, la Cassazione: cartella senza accertamento, ma il contribuente può provare il credito"
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Modelli Intrastat non inviati: sanzioni per ciascun elenco senza cumulo giuridico",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/01/modelli-intrastat-non-inviati-sanzioni-per-ciascun-elenco-senza-cumulo-giuridico/",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Alessia Pifferi, confermati i 24 anni ma niente attenuante del clamore mediatico",
+        "link": "https://www.ilsole24ore.com/art/alessia-pifferi-confermati-24-anni-ma-niente-attenuante-clamore-mediatico-AJs5QZz",
+        "date": "2026-08-31T16:55:00.000Z",
+        "summary": "Depositate le motivazioni della condanna definitiva per aver lasciato morire di stenti la figlia di meno di un anno e mezzo: accettato il rischio morte"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Sistema fiscale: progressivo sul lavoro, regressivo sul capitale",
         "link": "https://www.infodata.ilsole24ore.com/2025/06/13/sistema-fiscale-italiano-progressivo-sul-lavoro-regressivo-sul-capitale/",
         "date": "2026-08-31T08:16:54.000Z",
         "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Indennizzo INAIL Danno Biologico 2026 decreto circolare e  tabella importi",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13611-indennizzo-inail-danno-biologico-2026-decreto-e-circolare-istruzioni.html",
+        "date": "2026-08-31T00:00:00.000Z",
+        "summary": "Decreto n. 98/2026 sugli indennizzi per danno biologico INAIL: rivalutazione dell'1,4% dal 1° luglio. Tabella importi aggiornata e istruzioni operative: circolare INAIL 37 2026"
       },
       {
         "category": "fiscale",
@@ -70,26 +158,18 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Sponsorizzazioni Asd sono spese pubblicitarie deducibili regole della Cassazione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4429-sponsorizzazioni-asd-sono-spese-pubblicitarie-deducibili-regole-della-cassazione.html",
+        "title": "Latto di accertamento esecutivo per i tributi regionali",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17413-latto-di-accertamento-esecutivo-per-i-tributi-regionali.html",
         "date": "2026-08-31T00:00:00.000Z",
-        "summary": "Per le ASD e SSD le sponsorizzazioni godono di una presunzione legale assoluta di spese pubblicitarie: le regole decise dalla Cassazione"
+        "summary": "Accelarazione della riscossione: tutte le novità"
       },
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Detraibilit delle assicurazioni nel 7302026 per cosa spetta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4423-detraibilita-delle-assicurazioni-nel-7302026-per-cosa-spetta.html",
+        "title": "Sponsorizzazioni Asd sono spese pubblicitarie deducibili regole della Cassazione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4429-sponsorizzazioni-asd-sono-spese-pubblicitarie-deducibili-regole-della-cassazione.html",
         "date": "2026-08-31T00:00:00.000Z",
-        "summary": "Assicurazione detraibile nel 730/2026: quanto si recupera e quali polizze danno diritto allo sconto"
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Data breach e frodi sui bonifici: come proteggere pagamenti e incassi",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/31/data-breach-teamsystem-il-rischio-non-e-soltanto-che-abbiano-letto-i-dati-ma-che-possano-usarli-per-sembrare-affidabili/",
-        "date": "2026-08-31T00:00:00.000Z",
-        "summary": ""
+        "summary": "Per le ASD e SSD le sponsorizzazioni godono di una presunzione legale assoluta di spese pubblicitarie: le regole decise dalla Cassazione"
       },
       {
         "category": "fiscale",
@@ -106,14 +186,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4427-accertamenti-fiscali-cambiano-le-regole-i-nuovi-limiti-per-il-fisco.html",
         "date": "2026-08-29T00:00:00.000Z",
         "summary": "Il Decreto Omnibus riscrive alcuni punti chiave dei controlli: nuovi termini per i costi pluriennali, stretta sulla presunzione degli utili ai soci e altro"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Transazione fiscale lipoteca si paga la Cassazione chiarisce quando scatta limposta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4422-transazione-fiscale-lipoteca-si-paga-la-cassazione-chiarisce-quando-scatta-limposta.html",
-        "date": "2026-08-29T00:00:00.000Z",
-        "summary": "Niente esenzione per l’ipoteca concessa a garanzia dei debiti con il Fisco: per la Cassazione l’Agenzia delle Entrate non coincide con lo “Stato” ai fini dell’agevolazione"
       },
       {
         "category": "fiscale",
@@ -150,66 +222,10 @@
       {
         "category": "fiscale",
         "source": "Fisco e Tasse",
-        "title": "Ritenute e utili grandi gruppi energetici versamenti anticipati",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4425-ritenute-e-utili-grandi-gruppi-energetici-versamenti-anticipati.html",
-        "date": "2026-08-28T00:00:00.000Z",
-        "summary": "Grandi gruppi energetici: il versamento anticipato di somme commisurate alle ritenute su utili deliberati"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Le nuove regole per il florovivaismo",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17407-le-nuove-regole-per-il-florovivaismo.html",
-        "date": "2026-08-28T00:00:00.000Z",
-        "summary": "Florovivaismo, le novità introdotte dal Dlgs n 51/2026: elenco delle attività interessate"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "ASD e SSD detassazione e raccolta fondi",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17406-asd-e-ssd-detassazione-e-raccolta-fondi.html",
-        "date": "2026-08-28T00:00:00.000Z",
-        "summary": "Estensione dell’agevolazione IRES ex art. 25, L. 133/1999 alle ASD e SSD: i chiarimenti delle Entrate"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "IVA al 10 per gli spettacoli quando  possibile per la Cassazione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4424-iva-al-10-per-gli-spettacoli-quando-e-possibile-per-la-cassazione.html",
-        "date": "2026-08-28T00:00:00.000Z",
-        "summary": "IVA al 10% per spettacoli: la Cassazione chiarisce quando si applica"
-      },
-      {
-        "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Accordo Meta-Usa, anche in Ue si rafforzi la protezione dei minori online",
-        "link": "https://www.ilsole24ore.com/art/accordo-meta-usa-anche-ue-si-rafforzi-protezione-minori-online-AJOZpMw",
-        "date": "2026-08-27T15:00:43.000Z",
-        "summary": "Confermato il dialogo in corso fra la Commissione e la big tech. Attesa a novembre l’udienza conclusiva della class action inibitoria italiana"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
         "title": "Gli influencer rilevanti criteri soglie e adempimenti",
         "link": "https://www.fiscoetasse.com/approfondimenti/17411-gli-influencer-rilevanti-criteri-soglie-e-adempimenti.html",
         "date": "2026-08-27T00:00:00.000Z",
         "summary": "AGCOM stabilisce soglie dimensionali che qualificano un influencer come rilevante e prevede specifici adempimenti a suo carico"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Societ per azioni cambiano le regole cosa devono verificare amministratori e sindaci",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17408-societa-per-azioni-cambiano-le-regole-cose-devono-verificare-amministratori-e-sindacihtml",
-        "date": "2026-08-27T00:00:00.000Z",
-        "summary": "Nuove incompatibilità, check-up degli statuti e vigilanza sui rischi: cosa cambia per il professionista con il D.Lgs. 47/2026"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Sconto accise sul gasolio prorogato al 5 settembre 2026 e altre misure",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13610-sconto-accise-sul-gasolio-prorogato-al-5-settembre.html",
-        "date": "2026-08-26T00:00:00.000Z",
-        "summary": "Taglio delle accise sul gasolio usato come carburante prorogato al 5 settembre 2026 e misure urgenti collegate al perdurare della crisi dei mercati petroliferi internazionali"
       },
       {
         "category": "fiscale",
@@ -305,14 +321,6 @@
         "title": "Decreti di espropriazione per pubblica utilità – Modalità di esecuzione delle relative formalità nei registri immobiliari (risoluzione n. 29)",
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196141/Risoluzione+n.+29+del+28+luglio+2026/9d443b3e-1e2f-58e6-1ba3-01464f9000a9",
         "date": "2026-07-28T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Agenzia delle Entrate - Normativa e prassi",
-        "title": "Interpello:Attività agricole connesse – determinazione catastale dei redditi – riconducibilità dell'attività alla tabella allegata al decreto ministeriale 13 febbraio 2015 – articolo 32, comma 2, lettera c), del TUIR (risposta n. 151)",
-        "link": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/risposta-n-151_2026",
-        "date": "2026-07-23T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -462,26 +470,26 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Contribuente irreperibile - Compiuta giacenza - Sospensione feriale dei termini processuali (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120618",
-        "date": "27/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 27.8.2026 - \"Compiuta giacenza senza sospensione feriale dei termini\" - Grammatico D."
+        "title": "Bancarotta documentale semplice - Principali caratteristiche (Cass. pen. 11.8.2026 nn. 30669 e 30671) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119850",
+        "date": "31/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 31.8.2026 - \"Per la bancarotta documentale semplice basta la colpa\" - Meoli M."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Condizioni per accedere all'agevolazione - Investimenti in beni rilevanti 4.0 e 5.0 - Termine del 31.10.2026 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113612",
-        "date": "26/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 26.8.2026 - \"Per l’IRES premiale termine per effettuare gli investimenti al 31 ottobre\" - Alberti P."
+        "title": "Antieconomicità delle operazioni - Novità del DLgs. 148/2026 (c.d. DLgs. correttivo \"Omnibus\" della Riforma fiscale) - Applicabilità in ambito IVA (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120653",
+        "date": "31/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 31.8.2026 - \"La disciplina sull’antieconomicità dimentica l’IVA\" - Cissello A."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Bancarotta impropria da operazioni dolose - Bancarotta impropria fiscale - Istanza di fallimento da parte di altro creditore (Cass. pen. 11.8.2026 n. 30791) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119806",
-        "date": "26/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 26.8.2026 - \"Bancarotta impropria fiscale anche se il fallimento non lo chiede l’Erario\" - Meoli M."
+        "title": "Soggetti IAS/IFRS - Marchi, avviamento e attività immateriali a vita utile indefinita - Novità del DLgs. 148/2026 (c.d. DLgs. correttivo \"Omnibus\" della Riforma fiscale) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1118779",
+        "date": "31/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 31.8.2026 - \"Attività immateriali deducibili a partire dalla svalutazione\" - Latorraca S."
       },
       {
         "category": "fiscale",
@@ -534,57 +542,57 @@
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "La correlazione POS-RT e la tolleranza del 5%: le novità del Decreto Omnibus",
-        "link": "https://www.mysolution.it/fisco/approfondimenti/circolare-monografica/2026/08/la-correlazione-pos-rt-e-la-tolleranza-del-5-le-novita-del-decreto-omnibus-pennacini/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Rientro in Studio 2026: il kit MySolution per la ripartenza",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/01/rientro-in-studio-le-novita-e-gli-strumenti-per-ripartire/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Omessa dichiarazione IVA, definite le regole per la liquidazione d’Ufficio",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/31/omessa-dichiarazione-iva-definite-le-regole-per-la-liquidazione-dufficio/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Impianto di condizionamento: quali requisiti per la detrazione edilizia nel 2026",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/01/impianto-di-condizionamento-quali-requisiti-per-la-detrazione-edilizia-nel-2026/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "OIC: focus sulla fiscalità differita per micro e piccole imprese nel nuovo principio contabile",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/31/oic.-focus-sulla-fiscalita-differita-per-micro-e-piccole-imprese-nel-nuovo-principio-contabile",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Falsi rimborsi IRPEF, nuova truffa via Sms a nome dell’Agenzia delle Entrate",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/01/falsi-rimborsi-irpef-nuova-truffa-via-sms-a-nome-dellagenzia-delle-entrate/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Fattura preceduta da “scontrino”: compilazione con regole ad hoc",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/31/fattura-preceduta-da-scontrino.-compilazione-con-regole-ad-hoc",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Trust estero trasparente: reddito del beneficiario residente con regole precise",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/01/trust-estero-trasparente.--reddito-del-beneficiario-residente-con-regole-precise",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Dazi USA-UE, agevolazioni legate all’origine non preferenziale",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/31/dazi-ue-usa-origine-non-preferenziale-decisiva-per-le-agevolazioni/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Pratica camerale inviata troppo presto: richiesta di annullamento per “salvare” i diritti di segreteria",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/01/pratica-camerale-inviata-troppo-presto-richiesta-di-annullamento-per-salvare-i-diritti-di-segreteria/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Centrale dei Rischi: come richiederla e perché è utile per il revisore",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/31/centrale-dei-rischi-come-richiederla-e-perche-e-utile-per-il-revisore/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Compensazioni con crediti fittizi: la Cassazione conferma l’interdizione del commercialista",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/01/compensazioni-con-crediti-fittizi.-la-cassazione-conferma-linterdizione-del-commercialista",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "fiscale",
         "source": "MySolution Fisco",
-        "title": "Bonus sport 2027: rifinanziato il Fondo Dote per la famiglia, ma con risorse ridotte",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/08/31/sport-figli/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Brevetti+, Disegni+ e Marchi+: 32 milioni per i nuovi bandi 2026",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/01/brevetti-disegni-e-marchi-32-milioni-per-i-nuovi-bandi-2026/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -608,10 +616,98 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Controlli automatici, ricorsi, notifiche: come la riforma cambierà le multe",
+        "link": "https://www.ilsole24ore.com/art/controlli-automatici-ricorsi-notifiche-come-riforma-cambiera-multe-AJzUPVt",
+        "date": "2026-09-01T03:06:27.000Z",
+        "summary": "Dalla stretta sulle infrazioni contemporanee ai trattamenti più favorevoli per chi perde i ricorsi e per chi ha diritto all’autotutela"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Nuove multe a importi variabili: possibili sconti fino al 50% e aumenti del 100%",
+        "link": "https://www.ilsole24ore.com/art/nuove-multe-importi-variabili-possibili-sconti-fino-50percento-e-aumenti-100percento-AJTQPVt",
+        "date": "2026-09-01T03:04:00.000Z",
+        "summary": "La bozza della riforma abbandona il principio della sanzione quasi sempre uguale per tutti: spazio a un sistema personalizzato e complesso. Con un beneficio inedito per i motociclisti"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Concessioni demaniali perizie asseverate candidature commercialisti da settembre",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4438-concessioni-demaniali-perize-asseverate-candidature-commercialisti-da-settembre.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Concessioni demaniali, perizie asseverate: al via le candidature dei commercialisti. Come entrare negli elenchi"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Bonus fiscali e incentivi  assunzioni 2027 quali saranno davvero confermati",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4437-bonus-fiscali-e-incentivi-assunzioni-2027-quali-saranno-davvero-confermati.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Dal bonus mamme agli incentivi per giovani, donne e over 35, fringe benefit: le misure che il Governo  pensa di rinnovare e dove ci sono già gli stanziamenti"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Concessioni balneari gare anche prima del 2027 indennizzi solo se provati",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4436-concessioni-balneari-gare-anche-prima-del-2027-indennizzi-solo-se-provati.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Il Consiglio di Stato chiarisce i tempi delle gare e le regole per gli indennizzi delle concessioni balneari"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Data Point dellEFRAG sui principi di sostenibilit",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17418-data-point-dellefrag-sui-principi-di-sostenibilita.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Rendicontazione di sostenibilità ESG: l'EFRAG pubblica data point dei nuovi European Sustainability Reporting Standards DTESRS"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Trasferirsi allestero cosa rischia chi non parte e cambia solo residenza",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17417-trasferirsi-allestero-cosa-rischia-chi-non-parte-e-cambia-solo-residenza.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Trasferirsi all’estero solo sulla carta: l’iscrizione all’AIRE non basta più"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Credito Iva cosa succede se manca la dichiarazione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4435-credito-iva-cosa-succede-se-manca-la-dichiarazione.html",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": "Credito Iva e dichiarazione omessa, la Cassazione: cartella senza accertamento, ma il contribuente può provare il credito"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Alessia Pifferi, confermati i 24 anni ma niente attenuante del clamore mediatico",
+        "link": "https://www.ilsole24ore.com/art/alessia-pifferi-confermati-24-anni-ma-niente-attenuante-clamore-mediatico-AJs5QZz",
+        "date": "2026-08-31T16:55:00.000Z",
+        "summary": "Depositate le motivazioni della condanna definitiva per aver lasciato morire di stenti la figlia di meno di un anno e mezzo: accettato il rischio morte"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Sistema fiscale: progressivo sul lavoro, regressivo sul capitale",
         "link": "https://www.infodata.ilsole24ore.com/2025/06/13/sistema-fiscale-italiano-progressivo-sul-lavoro-regressivo-sul-capitale/",
         "date": "2026-08-31T08:16:54.000Z",
         "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Indennizzo INAIL Danno Biologico 2026 decreto circolare e  tabella importi",
+        "link": "https://www.fiscoetasse.com/normativa-prassi/13611-indennizzo-inail-danno-biologico-2026-decreto-e-circolare-istruzioni.html",
+        "date": "2026-08-31T00:00:00.000Z",
+        "summary": "Decreto n. 98/2026 sugli indennizzi per danno biologico INAIL: rivalutazione dell'1,4% dal 1° luglio. Tabella importi aggiornata e istruzioni operative: circolare INAIL 37 2026"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Amianto le linee guida UE 2026",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4431-amianto-le-linee-guida-ue-2026.html",
+        "date": "2026-08-31T00:00:00.000Z",
+        "summary": "le Linee guida per la gestione  dei rischi e delle problematiche legate all'asbesto nei luoghi di lavoro  fornite dall'Unione Europea . Gli obblighi e le istruzioni operative"
       },
       {
         "category": "contabile",
@@ -648,14 +744,6 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Amianto le linee guida UE 2026",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4431-amianto-le-linee-guida-ue-2026.html",
-        "date": "2026-08-31T00:00:00.000Z",
-        "summary": "le Linee guida per la gestione  dei rischi e delle problematiche legate all'asbesto nei luoghi di lavoro  fornite dall'Unione Europea . Gli obblighi e le istruzioni operative"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Dichiarazione IVA omessa scatta la liquidazione del Fisco sanzione al 120",
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4430-dichiarazione-iva-omessa-scatta-la-liquidazione-de-fisco-sanzione-al-120.html",
         "date": "2026-08-31T00:00:00.000Z",
@@ -664,18 +752,18 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Sponsorizzazioni Asd sono spese pubblicitarie deducibili regole della Cassazione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4429-sponsorizzazioni-asd-sono-spese-pubblicitarie-deducibili-regole-della-cassazione.html",
+        "title": "Latto di accertamento esecutivo per i tributi regionali",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17413-latto-di-accertamento-esecutivo-per-i-tributi-regionali.html",
         "date": "2026-08-31T00:00:00.000Z",
-        "summary": "Per le ASD e SSD le sponsorizzazioni godono di una presunzione legale assoluta di spese pubblicitarie: le regole decise dalla Cassazione"
+        "summary": "Accelarazione della riscossione: tutte le novità"
       },
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Detraibilit delle assicurazioni nel 7302026 per cosa spetta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4423-detraibilita-delle-assicurazioni-nel-7302026-per-cosa-spetta.html",
+        "title": "Sponsorizzazioni Asd sono spese pubblicitarie deducibili regole della Cassazione",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4429-sponsorizzazioni-asd-sono-spese-pubblicitarie-deducibili-regole-della-cassazione.html",
         "date": "2026-08-31T00:00:00.000Z",
-        "summary": "Assicurazione detraibile nel 730/2026: quanto si recupera e quali polizze danno diritto allo sconto"
+        "summary": "Per le ASD e SSD le sponsorizzazioni godono di una presunzione legale assoluta di spese pubblicitarie: le regole decise dalla Cassazione"
       },
       {
         "category": "contabile",
@@ -692,14 +780,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4427-accertamenti-fiscali-cambiano-le-regole-i-nuovi-limiti-per-il-fisco.html",
         "date": "2026-08-29T00:00:00.000Z",
         "summary": "Il Decreto Omnibus riscrive alcuni punti chiave dei controlli: nuovi termini per i costi pluriennali, stretta sulla presunzione degli utili ai soci e altro"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Transazione fiscale lipoteca si paga la Cassazione chiarisce quando scatta limposta",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4422-transazione-fiscale-lipoteca-si-paga-la-cassazione-chiarisce-quando-scatta-limposta.html",
-        "date": "2026-08-29T00:00:00.000Z",
-        "summary": "Niente esenzione per l’ipoteca concessa a garanzia dei debiti con il Fisco: per la Cassazione l’Agenzia delle Entrate non coincide con lo “Stato” ai fini dell’agevolazione"
       },
       {
         "category": "contabile",
@@ -728,58 +808,10 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Ritenute e utili grandi gruppi energetici versamenti anticipati",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4425-ritenute-e-utili-grandi-gruppi-energetici-versamenti-anticipati.html",
-        "date": "2026-08-28T00:00:00.000Z",
-        "summary": "Grandi gruppi energetici: il versamento anticipato di somme commisurate alle ritenute su utili deliberati"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Le nuove regole per il florovivaismo",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17407-le-nuove-regole-per-il-florovivaismo.html",
-        "date": "2026-08-28T00:00:00.000Z",
-        "summary": "Florovivaismo, le novità introdotte dal Dlgs n 51/2026: elenco delle attività interessate"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "ASD e SSD detassazione e raccolta fondi",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17406-asd-e-ssd-detassazione-e-raccolta-fondi.html",
-        "date": "2026-08-28T00:00:00.000Z",
-        "summary": "Estensione dell’agevolazione IRES ex art. 25, L. 133/1999 alle ASD e SSD: i chiarimenti delle Entrate"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "IVA al 10 per gli spettacoli quando  possibile per la Cassazione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4424-iva-al-10-per-gli-spettacoli-quando-e-possibile-per-la-cassazione.html",
-        "date": "2026-08-28T00:00:00.000Z",
-        "summary": "IVA al 10% per spettacoli: la Cassazione chiarisce quando si applica"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Accordo Meta-Usa, anche in Ue si rafforzi la protezione dei minori online",
-        "link": "https://www.ilsole24ore.com/art/accordo-meta-usa-anche-ue-si-rafforzi-protezione-minori-online-AJOZpMw",
-        "date": "2026-08-27T15:00:43.000Z",
-        "summary": "Confermato il dialogo in corso fra la Commissione e la big tech. Attesa a novembre l’udienza conclusiva della class action inibitoria italiana"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Gli influencer rilevanti criteri soglie e adempimenti",
         "link": "https://www.fiscoetasse.com/approfondimenti/17411-gli-influencer-rilevanti-criteri-soglie-e-adempimenti.html",
         "date": "2026-08-27T00:00:00.000Z",
         "summary": "AGCOM stabilisce soglie dimensionali che qualificano un influencer come rilevante e prevede specifici adempimenti a suo carico"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Societ per azioni cambiano le regole cosa devono verificare amministratori e sindaci",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17408-societa-per-azioni-cambiano-le-regole-cose-devono-verificare-amministratori-e-sindacihtml",
-        "date": "2026-08-27T00:00:00.000Z",
-        "summary": "Nuove incompatibilità, check-up degli statuti e vigilanza sui rischi: cosa cambia per il professionista con il D.Lgs. 47/2026"
       },
       {
         "category": "contabile",
@@ -788,14 +820,6 @@
         "link": "https://press-magazine.it/compensi-ctu-dal-tar-lazio-un-passo-importante-verso-ladeguamento-delle-tariffe/",
         "date": "2026-08-26T11:38:12.000Z",
         "summary": "Il Consiglio nazionale dei commercialisti esprime forte apprezzamento per la sentenza del Tar Lazio 14327/2026, pubblicata lo scorso 19 agosto, sull’adeguamento dei compensi degli ausiliari del magistrato, ancora sostanzialmente ancorati ai valori fissati dal D.M. 30 […]"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Sconto accise sul gasolio prorogato al 5 settembre 2026 e altre misure",
-        "link": "https://www.fiscoetasse.com/normativa-prassi/13610-sconto-accise-sul-gasolio-prorogato-al-5-settembre.html",
-        "date": "2026-08-26T00:00:00.000Z",
-        "summary": "Taglio delle accise sul gasolio usato come carburante prorogato al 5 settembre 2026 e misure urgenti collegate al perdurare della crisi dei mercati petroliferi internazionali"
       },
       {
         "category": "contabile",
@@ -872,26 +896,26 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Contribuente irreperibile - Compiuta giacenza - Sospensione feriale dei termini processuali (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120618",
-        "date": "27/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 27.8.2026 - \"Compiuta giacenza senza sospensione feriale dei termini\" - Grammatico D."
+        "title": "Bancarotta documentale semplice - Principali caratteristiche (Cass. pen. 11.8.2026 nn. 30669 e 30671) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119850",
+        "date": "31/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 31.8.2026 - \"Per la bancarotta documentale semplice basta la colpa\" - Meoli M."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Condizioni per accedere all'agevolazione - Investimenti in beni rilevanti 4.0 e 5.0 - Termine del 31.10.2026 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1113612",
-        "date": "26/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 26.8.2026 - \"Per l’IRES premiale termine per effettuare gli investimenti al 31 ottobre\" - Alberti P."
+        "title": "Antieconomicità delle operazioni - Novità del DLgs. 148/2026 (c.d. DLgs. correttivo \"Omnibus\" della Riforma fiscale) - Applicabilità in ambito IVA (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120653",
+        "date": "31/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 31.8.2026 - \"La disciplina sull’antieconomicità dimentica l’IVA\" - Cissello A."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Bancarotta impropria da operazioni dolose - Bancarotta impropria fiscale - Istanza di fallimento da parte di altro creditore (Cass. pen. 11.8.2026 n. 30791) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1119806",
-        "date": "26/08/2026",
-        "summary": "Il Quotidiano del Commercialista del 26.8.2026 - \"Bancarotta impropria fiscale anche se il fallimento non lo chiede l’Erario\" - Meoli M."
+        "title": "Soggetti IAS/IFRS - Marchi, avviamento e attività immateriali a vita utile indefinita - Novità del DLgs. 148/2026 (c.d. DLgs. correttivo \"Omnibus\" della Riforma fiscale) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1118779",
+        "date": "31/08/2026",
+        "summary": "Il Quotidiano del Commercialista del 31.8.2026 - \"Attività immateriali deducibili a partire dalla svalutazione\" - Latorraca S."
       },
       {
         "category": "contabile",
@@ -946,57 +970,73 @@
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Lavoro sportivo: i chiarimenti dell'Agenzia delle Entrate",
-        "link": "https://www.mysolution.it/lavoro/approfondimenti/circolare-monografica/2026/08/i-chiarimenti-dellae-sul-lavoro-sportivo/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Circolare per il Cliente del 1° settembre 2026, n. 311",
+        "link": "https://www.mysolution.it/lavoro/informative/circolare-cliente/20262/092/circolare-per-il-cliente-del-1-settembre-2026-n.-311",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Consulenti del lavoro e farmacisti: in GU i comunicati MLPS inerenti alla previdenza",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/31/in-gu-i-comunicati-mlps-inerenti-alla-previdenza-di-consulenti-del-lavoro-e-farmacisti/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "CCNL Metalmeccanica Piccola Industria (Confimi): siglato l’Accordo di rinnovo",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/09/01/siglato-laccr-del-ccnl-metalmeccanica-piccola-industria-confimi/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "In GU i comunicati MLPS sulla previdenza di avvocati, periti industriali, ingegneri ed architetti liberi professionisti",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/31/in-gu-i-comunicati-mlps-sulla-previdenza-di-avvocati-periti-industriali-ingegneri-ed-architetti-liberi-professionisti/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "In GU gli indici dei prezzi al consumo ISTAT di giugno e luglio 2026",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/09/01/in-gu-gli-indici-dei-prezzi-al-consumo-istat-di-giugno-e-luglio-2026/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Allievi delle Scuole militari: in GU le nuove paghe nette giornaliere",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/31/in-gu-le-nuove-paghe-nette-giornaliere-spettanti-agli-allievi-delle-scuole-militari/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Bonus sport 2027: rifinanziato il Fondo Dote per la famiglia, ma con risorse ridotte",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/09/01/bonus-sport-2027-rifinanziato-il-fondo-dote-per-la-famiglia-ma-con-risorse-ridotte/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Gestione e verifica del mandato digitale: integrata la procedura “DOCSAN” con la “Piattaforma intermediari”",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/31/inps-integrata-la-procedura-docsan-con-la-piattaforma-intermediari-per-la-gestione-e-la-verifica-del-mandato-digitale/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "AppLI: aumentata dal MLPS l’offerta di corsi gratuiti sulle competenze digitali",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/09/01/appli-aumentata-dal-mlps-lofferta-di-corsi-gratuiti-sulle-competenze-digitali/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "INPS: la convenzione con F.I.S.I. per la riscossione dei contributi sindacali sulle prestazioni pensionistiche",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/31/inps-la-convenzione-con-f.i.s.i.-per-la-riscossione-dei-contributi-sindacali-sulle-prestazioni-pensionistiche",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Rivalutazione annuale degli indennizzi del danno biologico decorrenti da luglio 2026",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/09/01/inail-rivalutazione-annuale-degli-indennizzi-del-danno-biologico-decorrenti-da-luglio-2026/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
         "category": "lavoro",
         "source": "MySolution Lavoro",
-        "title": "Convenzione INPS-NURSIND per la riscossione dei contributi sindacali sulle prestazioni pensionistiche",
-        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/08/31/inps-la-convenzione-con-nursind-per-la-riscossione-dei-contributi-sindacali-sulle-prestazioni-pensionistiche/",
-        "date": "2026-08-31T00:00:00.000Z",
+        "title": "Atto di indirizzo per l'anno 2026 inerente l'individuazione degli obiettivi generali del \"Codice del Terzo Settore\"",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/09/01/pubblicato-dal-mlps-latto-di-indirizzo-per-lanno-2026-inerente-allindividuazione-degli-obiettivi-general-del-codice-del-terzo-settore/",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "In GU le nuove risorse disponibili per bandi Brevetti+, Marchi+ e Disegni+",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/09/01/in-gu-le-nuove-risorse-disponibili-per-bandi-brevetti-marchi-e-disegni/",
+        "date": "2026-09-01T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "lavoro",
+        "source": "MySolution Lavoro",
+        "title": "In GU i comunicati MLPS inerenti alla previdenza di ragionieri, geometri liberi professionisti, addetti in agricoltura ed avvocati",
+        "link": "https://www.mysolution.it/lavoro/informazioni/news/2026/09/01/in-gu-i-comunicati-mlps-inerenti-alla-previdenza-di-ragionieri-geometri-liberi-professionisti-addetti-in-agricoltura-ed-avvocati/",
+        "date": "2026-09-01T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -1009,6 +1049,14 @@
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Confedilizia - Comunicati",
+        "title": "Appuntamenti Settembre 2026",
+        "link": "https://www.confedilizia.it/appuntamenti-settembre-2026/",
+        "date": "2026-08-31T13:57:06.000Z",
+        "summary": "L'articolo Appuntamenti Settembre 2026 sembra essere il primo su Confedilizia."
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1171,14 +1219,6 @@
       },
       {
         "category": "condominio",
-        "source": "Confedilizia - Comunicati",
-        "title": "Parmareport.it – 16.8.2026 – Commercio: 560 mila euro dalla Regione per il Centro Storico",
-        "link": "https://www.confedilizia.it/parmareport-it-16-8-2026-commercio-560-mila-euro-dalla-regione-per-il-centro-storico/",
-        "date": "2026-08-24T10:24:32.000Z",
-        "summary": "L'articolo Parmareport.it – 16.8.2026 – Commercio: 560 mila euro dalla Regione per il Centro Storico sembra essere il primo su Confedilizia."
-      },
-      {
-        "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "San Francisco riconquista il titolo di città più cara degli Stati Uniti",
         "link": "https://www.ilsole24ore.com/art/immobili-boom-dell-ai-manda-tilt-prezzi-case-san-francisco-AJNhfbj",
@@ -1206,10 +1246,26 @@
       {
         "category": "contenzioso",
         "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "TASSAZIONE DELLE FIDEIUSSIONI ENUNCIATE IN ATTI GIUDIZIARI",
+        "link": "https://www.dgt.mef.gov.it/gt/-/tassazione-delle-fideiussioni-enunciate-in-atti-giudiziari?search=true",
+        "date": "2026-06-29T00:00:00.000Z",
+        "summary": "Sentenza del 29/06/2026 n. 1997/Sezione 4 - Corte di Giustizia Tributaria di secondo grado della Puglia"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
         "title": "Società non operative e presunzione di redditività",
         "link": "https://www.dgt.mef.gov.it/gt/-/societ%C3%A0-non-operative-e-presunzione-di-redditivit%C3%A0?search=true",
         "date": "2026-06-25T00:00:00.000Z",
         "summary": "Sentenza del 25/06/2026 n. 726/Sezione 1 - Corte di Giustizia Tributaria di secondo grado della Toscana"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "CONDIZIONI DI EFFICACIA DELLA SENTENZA PENALE DI ASSOLUZIONE NEL PROCESSO TRIBUTARIO",
+        "link": "https://www.dgt.mef.gov.it/gt/-/condizioni-di-efficacia-della-sentenza-penale-di-assoluzione-nel-processo-tributario?search=true",
+        "date": "2026-06-15T00:00:00.000Z",
+        "summary": "Sentenza del 15/06/2026 n. 678/Sezione 3 - Corte di Giustizia Tributaria di secondo grado della Toscana"
       },
       {
         "category": "contenzioso",
@@ -1230,10 +1286,18 @@
       {
         "category": "contenzioso",
         "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Contraddittorio preventivo e deroghe",
-        "link": "https://www.dgt.mef.gov.it/gt/-/contraddittorio-preventivo-e-deroghe?search=true",
-        "date": "2026-06-01T00:00:00.000Z",
-        "summary": "Sentenza del 01/06/2026 n. 8489/1 - Corte di Giustizia Tributaria di primo grado di Roma"
+        "title": "CREDITO D'IMPOSTA R&S E CRITERIO DI INNOVATIVITÀ",
+        "link": "https://www.dgt.mef.gov.it/gt/-/credito-d-imposta-r-s-e-criterio-di-innovativit%C3%80?search=true",
+        "date": "2026-05-28T00:00:00.000Z",
+        "summary": "Sentenza del 28/05/2026 n. 3752/Sezione 16 - Corte di Giustizia Tributaria di secondo grado della Campania"
+      },
+      {
+        "category": "contenzioso",
+        "source": "DGT MEF - Rassegna Sentenze Tributarie",
+        "title": "SOCIETÀ NON OPERATIVE E DETRAZIONE IVA",
+        "link": "https://www.dgt.mef.gov.it/gt/-/societ%C3%80-non-operative-e-detrazione-iva?search=true",
+        "date": "2026-05-22T00:00:00.000Z",
+        "summary": "Sentenza del 22/05/2026 n. 1588/Sezione 29 - Corte di Giustizia Tributaria di secondo grado della Puglia"
       },
       {
         "category": "contenzioso",
@@ -1246,34 +1310,10 @@
       {
         "category": "contenzioso",
         "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Utili deliberati ma non distribuiti: illegittimo il ricorso all'istituto dell'\"incasso giuridico\"",
-        "link": "https://www.dgt.mef.gov.it/gt/-/utili-deliberati-ma-non-distribuiti-illegittimo-il-ricorso-all-istituto-dell-incasso-giuridico-?search=true",
-        "date": "2026-05-20T00:00:00.000Z",
-        "summary": "Sentenza del 20/05/2026 n. 3167/4 - Corte di Giustizia Tributaria di secondo grado del Lazio"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Conferimento transfrontaliero e regime di neutralità fiscale",
-        "link": "https://www.dgt.mef.gov.it/gt/-/conferimento-transfrontaliero-e-regime-di-neutralit%C3%A0-fiscale?search=true",
-        "date": "2026-05-20T00:00:00.000Z",
-        "summary": "Sentenza del 20/05/2026 n. 2028/5 - Corte di Giustizia Tributaria di primo grado di Milano"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Ecotassa e divieto di discriminazione dei veicoli provenienti dall’Unione europea",
-        "link": "https://www.dgt.mef.gov.it/gt/-/ecotassa-e-divieto-di-discriminazione-dei-veicoli-provenienti-dall-unione-europea?search=true",
-        "date": "2026-05-08T00:00:00.000Z",
-        "summary": "Sentenza del 08/05/2026 n. 296/2 - Corte di Giustizia Tributaria di primo grado di Pescara"
-      },
-      {
-        "category": "contenzioso",
-        "source": "DGT MEF - Rassegna Sentenze Tributarie",
-        "title": "Controllo automatizzato e comunicazione di irregolarità",
-        "link": "https://www.dgt.mef.gov.it/gt/-/controllo-automatizzato-e-comunicazione-di-irregolarit%C3%A0?search=true",
-        "date": "2026-04-08T00:00:00.000Z",
-        "summary": "Sentenza del 08/04/2026 n. 262/1 - Corte di Giustizia Tributaria di secondo grado della Sardegna"
+        "title": "PROCESSO TRIBUTARIO E UTILIZZABILITÀ DEI DOCUMENTI PRIVI DI ATTESTAZIONE DI CONFORMITÀ",
+        "link": "https://www.dgt.mef.gov.it/gt/-/processo-tributario-e-utilizzabilit%C3%80-dei-documenti-privi-di-attestazione-di-conformit%C3%80?search=true",
+        "date": "2026-04-27T00:00:00.000Z",
+        "summary": "Sentenza del 27/04/2026 n. 2371/Sezione 4 - Corte di Giustizia Tributaria di primo grado di Cosenza"
       },
       {
         "category": "contenzioso",
@@ -1285,6 +1325,30 @@
       }
     ],
     "crisi_impresa": [
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Controlli automatici, ricorsi, notifiche: come la riforma cambierà le multe",
+        "link": "https://www.ilsole24ore.com/art/controlli-automatici-ricorsi-notifiche-come-riforma-cambiera-multe-AJzUPVt",
+        "date": "2026-09-01T03:06:27.000Z",
+        "summary": "Dalla stretta sulle infrazioni contemporanee ai trattamenti più favorevoli per chi perde i ricorsi e per chi ha diritto all’autotutela"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Nuove multe a importi variabili: possibili sconti fino al 50% e aumenti del 100%",
+        "link": "https://www.ilsole24ore.com/art/nuove-multe-importi-variabili-possibili-sconti-fino-50percento-e-aumenti-100percento-AJTQPVt",
+        "date": "2026-09-01T03:04:00.000Z",
+        "summary": "La bozza della riforma abbandona il principio della sanzione quasi sempre uguale per tutti: spazio a un sistema personalizzato e complesso. Con un beneficio inedito per i motociclisti"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Alessia Pifferi, confermati i 24 anni ma niente attenuante del clamore mediatico",
+        "link": "https://www.ilsole24ore.com/art/alessia-pifferi-confermati-24-anni-ma-niente-attenuante-clamore-mediatico-AJs5QZz",
+        "date": "2026-08-31T16:55:00.000Z",
+        "summary": "Depositate le motivazioni della condanna definitiva per aver lasciato morire di stenti la figlia di meno di un anno e mezzo: accettato il rischio morte"
+      },
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
@@ -1300,14 +1364,6 @@
         "link": "https://www.ilsole24ore.com/art/amianto-micro-cantiere-si-deposito-temporaneo-presso-ditta-esecutrice-AJCfThx",
         "date": "2026-08-29T03:08:37.000Z",
         "summary": "Via libera del Mase senza autorizzazione in caso di piccole quantità"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Accordo Meta-Usa, anche in Ue si rafforzi la protezione dei minori online",
-        "link": "https://www.ilsole24ore.com/art/accordo-meta-usa-anche-ue-si-rafforzi-protezione-minori-online-AJOZpMw",
-        "date": "2026-08-27T15:00:43.000Z",
-        "summary": "Confermato il dialogo in corso fra la Commissione e la big tech. Attesa a novembre l’udienza conclusiva della class action inibitoria italiana"
       },
       {
         "category": "crisi_impresa",
