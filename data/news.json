@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T09:33:54.846Z",
+  "generatedAt": "2026-09-05T08:55:09.938Z",
   "categories": {
     "fiscale": "Fiscale",
     "contabile": "Contabile",
@@ -14,10 +14,90 @@
       {
         "category": "fiscale",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "«Testo lesivo della proprietà: a rischio milioni di posti letto»",
+        "link": "https://www.ilsole24ore.com/art/testo-lesivo-proprieta-rischio-milioni-posti-letto-AJTsqs3",
+        "date": "2026-09-05T03:04:15.000Z",
+        "summary": "Contro la bozza di regolamento sugli affitti brevi arrivano anche le proteste della Lega: violati i diritti dei cittadini"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Malattia estesa al giorno prima della visita anche se si svolge in ambulatorio",
+        "link": "https://www.ilsole24ore.com/art/malattia-estesa-giorno-prima-visita-anche-se-si-svolge-ambulatorio-AJFnZu3",
+        "date": "2026-09-05T03:02:01.000Z",
+        "summary": "Finora retroattività era consentita solo se il medico veniva a casa. Cambio di orientamento alla luce dei molti accessi programmati in medicina generale"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Costi a efficacia pluriennale il Decreto Omnibus cambia le regole per laccertamento",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4455-costi-a-efficacia-pluriennale-il-decreto-omnibus-cambia-le-regole-per-laccertamento.html",
+        "date": "2026-09-05T00:00:00.000Z",
+        "summary": "Il problema degli accertamenti a catena e la soluzione prospettata dal legislatore"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Turismo, la scadenza per il GreenTour slitta al 30 settembre",
+        "link": "https://www.ilsole24ore.com/art/turismo-scadenza-il-greentour-slitta-30-settembre-AJUZ7c3",
+        "date": "2026-09-04T15:25:22.000Z",
+        "summary": "La data di scadenza per candidarsi all'incentivo, promosso dal ministero del Turismo e gestito da Invitalia, è stata spostata di quindici giorni: è il 30 settembre 2026 la nuova deadline..."
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Affitti brevi, arrivano i limiti europei: stop a locazioni e vendite",
+        "link": "https://www.ilsole24ore.com/art/affitti-brevi-arrivano-limiti-europei-stop-locazioni-e-vendite-AJS0PZ3",
+        "date": "2026-09-04T12:47:00.000Z",
+        "summary": "Pronto il testo della proposta che Bruxelles presenterà la prossima settimana"
+      },
+      {
+        "category": "fiscale",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Riciclaggio, circuiti bancari non ufficiali in crescita grazie alla tecnologia",
         "link": "https://www.ilsole24ore.com/art/riciclaggio-circuiti-bancari-non-ufficiali-crescita-grazie-tecnologia-AJvSun2",
         "date": "2026-09-04T03:04:18.000Z",
         "summary": "Tra le economie criminali che usano l’underground banking lavoro nero, frodi e finanziamento del terrorismo. Per il contrasto servono norme chiare"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Farmacisti liberi professionisti contributi per 400mila euro  richieste entro il 309",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4459-farmacisti-liberi-professionisti-contributi-per-400mila-euro-richieste-entro-il-309.html",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": "Una tantum per i farmacisti autonomi, collaboratori o borsisti: i requisiti,  le istruzioni, il modulo di domanda"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Cococo  riqualificato dipendente quando lazienda deve pagare tutto",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4458-cococo-riqualificato-dipendente-quando-lazienda-deve-pagare-tutto.html",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": "La Cassazione chiarisce che la riqualificazione giudiziale del rapporto autonomo in subordinato non costituisce \"conversione\" . Cosa cambia? FAQ in parole semplici"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "RENTRI dal 16 settembre il FIR diventa definitivamente digitale",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17430-rentri-dal-16-settembre-il-fir-diventa-definitivamente-digitale.html",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": "Fine del periodo transitorio e piena operatività del nuovo sistema di tracciabilità dei rifiuti"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Sostegno allo sport 2026 chi pu richiedere il contributo dal 9 settembre",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4457-sostegno-allo-sport-2026-chi-puo-richiedere-il-contributo-dal-9-settembre.html",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": "Parrocchie, ETS, Associazioni e ONULUS via al bando 2026 per il sostegno allo sport: come partecipare e le risposte ai dubbi frequenti sulla agevolazione"
+      },
+      {
+        "category": "fiscale",
+        "source": "Fisco e Tasse",
+        "title": "Assegno di invalidit civile ecco quale reddito conta davvero",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4456-assegno-di-invalidita-civile-ecco-quale-reddito-conta-davvero.html",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": "La Cassazione conferma  il calcolo INPS per il requisito reddituale ai fini dell'assegno conta il reddito imponibile Irpef al netto solo degli oneri deducibili,"
       },
       {
         "category": "fiscale",
@@ -69,19 +149,67 @@
       },
       {
         "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Va ammessa in Polizia la donna con tatuaggio visibile se indossa la gonna",
-        "link": "https://www.ilsole24ore.com/art/va-ammessa-polizia-donna-tatuaggio-visibile-se-indossa-gonna-AJhwTR2",
-        "date": "2026-09-03T14:23:00.000Z",
-        "summary": "Per l’avvocato generale della Corte Ue è una discriminazione basata sul sesso la combinazione tra divieto di tatuaggi e obbligo di una divisa specifica"
+        "source": "MySolution Fisco",
+        "title": "Perizie sulle concessioni demaniali: aperte le candidature dei commercialisti",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/perizie-sulle-concessioni-demaniali-aperte-le-candidature-dei-commercialisti/",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": ""
       },
       {
         "category": "fiscale",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Appalti, criteri ambientali da applicare anche ai contratti sottosoglia",
-        "link": "https://www.ilsole24ore.com/art/appalti-criteri-ambientali-applicare-anche-contratti-sottosoglia-AJPVAa1",
-        "date": "2026-09-03T03:02:01.000Z",
-        "summary": "Anac e Mase pubblicano un comunicato congiunto sui Cam: gli obblighi fissati dal Codice vanno applicati in modo esteso"
+        "source": "MySolution Fisco",
+        "title": "Decreto Omnibus: avvicinamento del reddito al risultato di bilancio",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/decreto-omnibus-avvicinamento-del-reddito-al-risultato-di-bilancio/",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Tax credit autotrasporto: conta la data di acquisto del carburante",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/tax-credit-autotrasporto-conta-la-data-di-acquisto-del-carburante/",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Giovani agricoltori: imposta sostitutiva al 12,5% nel quadro RQ",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/tassazione-sostitutiva-del-125-per-i-giovani-agricoltori-da-indicare-nel-quadro-rq-del-modello-redditi/",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Servizi su immobili all’estero: territorialità IVA, OSS e fatturazione",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/servizi-su-immobili-allestero-territorialita-iva-oss-e-fatturazione/",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Spese scolastiche: dal 2027 più dati nel 730 precompilato",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/spese-scolastiche-dal-2027-piu-dati-nel-730-precompilato/",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "Piani di recupero scaduti, niente imposte fisse sui trasferimenti immobiliari",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/piani-di-recupero-scaduti-niente-imposte-fisse-sui-trasferimenti-immobiliari/",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "MySolution Fisco",
+        "title": "ZES Unica: agevolabile l’investimento avviato prima della comunicazione",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/zes-unica.-principio-di-incentivazione-rispettato-anche-per-linvestimento-avviato-prima-della-comunicazione-preventiva",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": ""
       },
       {
         "category": "fiscale",
@@ -90,14 +218,6 @@
         "link": "https://www.agenziaentrate.gov.it/portale/documents/20143/10289089/Risposta+n.+169_2026/ad60b5ea-d951-6548-b68a-e38655baf4a5",
         "date": "2026-09-03T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Costi a efficacia pluriennale il Decreto Omnibus cambia le regole per laccertamento",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4455-costi-a-efficacia-pluriennale-il-decreto-omnibus-cambia-le-regole-per-laccertamento.html",
-        "date": "2026-09-03T00:00:00.000Z",
-        "summary": "Il problema degli accertamenti a catena e la soluzione prospettata dal legislatore"
       },
       {
         "category": "fiscale",
@@ -149,19 +269,11 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Maso chiuso la permuta autorizzata non fa perdere le agevolazioni fiscali",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4445-maso-chiuso-la-permuta-autorizzata-non-fa-perdere-le-agevolazioni-fiscali.html",
+        "source": "MySolution Fisco",
+        "title": "Agenzia delle Entrate sempre più digitale: notifiche telematiche, IA e servizi su misura",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/032/agenzia-delle-entrate-sempre-piu-digitale-notifiche-telematiche-ia-e-servizi-su-misura/",
         "date": "2026-09-03T00:00:00.000Z",
-        "summary": "Maso chiuso e compendio unico: le entrate equiparano le casistiche, vediamo il dettaglio per i masi e le condizioni per non perdere le agevolazioni fiscali"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Commercialista nominato assessore ok CNDCEC  allesonero dalla formazione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4444-commercialista-nominato-assessore-ok-del-cndcec-allesonero-dalla-formazione.html",
-        "date": "2026-09-03T00:00:00.000Z",
-        "summary": "In un pronto ordini il consiglio nazionale dei dottori commercialisti chiarisce  quando è possiibile sospensione dell'obbligo formativo in caso di  carice pubbliche"
+        "summary": ""
       },
       {
         "category": "fiscale",
@@ -178,22 +290,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17424-fringe-benefit-agenti-sportivi-la-cassazione-frena-il-fisco-sul-giudicato-riflesso.html",
         "date": "2026-09-02T00:00:00.000Z",
         "summary": "Due ordinanze recenti ammettono il collegamento negoziale tra club, calciatore e agente, ma respingono il tentativo dell’Agenzia di estendere negli anni l'accertamento sfavorevole"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Novit IMU nel decreto sul federalismo fiscale",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17423-novita-imu-nel-decreto-sul-federalismo-fiscale.html",
-        "date": "2026-09-02T00:00:00.000Z",
-        "summary": "Contenzioso con enti locali e dichiaraziobne IMU: le novità del Decreto federalismo Fiscale"
-      },
-      {
-        "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "LUL dei riders autonomi chiarimenti del Ministero sulle novit",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4443-lul-dei-riders-autonomi-chiarimenti-del-ministero.html",
-        "date": "2026-09-02T00:00:00.000Z",
-        "summary": "proroga di 90 giorni e indicazioni su registrazione delle consegne e gestione degli ordini multipli per i riders autonomi delle piattaforme digitali - Interpello n. 1 del 1.9.2026"
       },
       {
         "category": "fiscale",
@@ -221,11 +317,11 @@
       },
       {
         "category": "fiscale",
-        "source": "Fisco e Tasse",
-        "title": "Importazioni di acciaio dal 1 ottobre obbligo di prova del Paese di fusione e colata",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17421-importazioni-di-acciaio-dal-1-ottobre-obbligo-di-prova-del-paese-di-fusione-e-colata.html",
+        "source": "MySolution Fisco",
+        "title": "Rientro in Studio 2026: il kit MySolution per la ripartenza",
+        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/01/rientro-in-studio-le-novita-e-gli-strumenti-per-ripartire/",
         "date": "2026-09-01T00:00:00.000Z",
-        "summary": "Nuovi oneri documentali per gli importatori e controlli doganali sulla tracciabilità della filiera siderurgica"
+        "summary": ""
       },
       {
         "category": "fiscale",
@@ -446,129 +542,33 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Imprese di minori dimensioni - Bozza di principio contabile - Semplificazioni relative alle immobilizzazioni materiali (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120895",
-        "date": "2026-03-09T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 3.9.2026 - \"Ammortamento contabile allineato a quello fiscale\" - Latorraca S."
+        "title": "Investimento in leasing effettuato nel 2026 prima della comunicazione preventiva - Avvio del progetto successivamente all'entrata in vigore della norma agevolativa - Rispetto del \"principio di incentivazione\" (risposta interpello Agenzia delle Entrate 3.9.2026 n. 169) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1121322",
+        "date": "2026-04-09T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 4.9.2026 - \"Tax credit ZES unica per l’investimento in leasing prima della comunicazione preventiva\" - Alberti P."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Bancarotta fraudolenta patrimoniale - Principali caratteristiche (Cass. pen. 21.8.2026 n. 31753) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120982",
-        "date": "2026-03-09T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 3.9.2026 - \"Per la bancarotta fraudolenta patrimoniale vale il pericolo concreto\" - Meoli M."
+        "title": "Azione di riduzione - Necessità della previa accettazione dell'eredità con beneficio di inventario - Relictum irrisorio - Esclusione - Condizioni (Cass. 9.7.2026 n. 22986) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116067",
+        "date": "2026-04-09T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 4.9.2026 - \"Accettazione beneficiata dell’eredità per l’azione di riduzione legata all’entità dei beni relitti\" - Novella C."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Schema di atto con contestazioni diverse dall'avviso di accertamento - Confronto con la disciplina del DLgs. 219/2023 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114057",
-        "date": "2026-03-09T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 3.9.2026 - \"Schema di atto invalido se cambia la motivazione nel contraddittorio\" - Amato R."
+        "title": "Il nesso sinallagmatico tra le operazioni definisce la permuta ai fini IVA (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1121263",
+        "date": "2026-04-09T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 4.9.2026 - \"È permuta per l’IVA se esiste causa di collegamento tra atti atomistici\" - La Grutta S."
       },
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Addizionale sui compensi variabili dei dirigenti e amministratori del settore finanziario - Esclusione in caso di versamento del doppio dell'importo agli ETS - Disposizioni attuative (provv. Agenzia delle Entrate 30.7.2026 n. 223895) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1115581",
-        "date": "31/07/2026",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Incentivo all'assunzione di lavoratrici madri - Novità della L. 199/2025 (legge di bilancio 2026) - Istruzioni (circ. INPS 29.7.2026 n. 82) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1115474",
-        "date": "30/07/2026",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "Eutekne - Feed RSS",
-        "title": "Decreto di espropriazione per pubblica utilità - Modalità di esecuzione delle formalità nei registri immobiliari (ris. Agenzia delle Entrate 28.7.2026 n. 29) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1115353",
-        "date": "29/07/2026",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "IMU: dal modello unico telematico ai nuovi termini legati alla rendita catastale",
-        "link": "https://www.mysolution.it/fisco/approfondimenti/circolare-monografica/2026/09/imu-dal-modello-unico-telematico-ai-nuovi-termini-legati-alla-rendita-catastale-le-novita-del-d.lgs.-n.-1472026-setti",
-        "date": "2026-09-04T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Decreto Omnibus: avvicinamento del reddito al risultato di bilancio",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/decreto-omnibus-avvicinamento-del-reddito-al-risultato-di-bilancio/",
-        "date": "2026-09-04T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Tax credit autotrasporto: conta la data di acquisto del carburante",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/tax-credit-autotrasporto-conta-la-data-di-acquisto-del-carburante/",
-        "date": "2026-09-04T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Giovani agricoltori: imposta sostitutiva al 12,5% nel quadro RQ",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/tassazione-sostitutiva-del-125-per-i-giovani-agricoltori-da-indicare-nel-quadro-rq-del-modello-redditi/",
-        "date": "2026-09-04T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Servizi su immobili all’estero: territorialità IVA, OSS e fatturazione",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/servizi-su-immobili-allestero-territorialita-iva-oss-e-fatturazione/",
-        "date": "2026-09-04T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Spese scolastiche: dal 2027 più dati nel 730 precompilato",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/spese-scolastiche-dal-2027-piu-dati-nel-730-precompilato/",
-        "date": "2026-09-04T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Piani di recupero scaduti, niente imposte fisse sui trasferimenti immobiliari",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/piani-di-recupero-scaduti-niente-imposte-fisse-sui-trasferimenti-immobiliari/",
-        "date": "2026-09-04T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "ZES Unica: agevolabile l’investimento avviato prima della comunicazione",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/04/zes-unica.-principio-di-incentivazione-rispettato-anche-per-linvestimento-avviato-prima-della-comunicazione-preventiva",
-        "date": "2026-09-04T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Agenzia delle Entrate sempre più digitale: notifiche telematiche, IA e servizi su misura",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/032/agenzia-delle-entrate-sempre-piu-digitale-notifiche-telematiche-ia-e-servizi-su-misura/",
-        "date": "2026-09-03T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "category": "fiscale",
-        "source": "MySolution Fisco",
-        "title": "Rientro in Studio 2026: il kit MySolution per la ripartenza",
-        "link": "https://www.mysolution.it/fisco/informazioni/news/2026/09/01/rientro-in-studio-le-novita-e-gli-strumenti-per-ripartire/",
-        "date": "2026-09-01T00:00:00.000Z",
+        "title": "Investimento effettuato prima della comunicazione preventiva - Progetto avviato dopo l'entrata in vigore della norma agevolativa - Rispetto del \"principio di incentivazione\" (risposta interpello Agenzia delle Entrate 3.9.2026 n. 169) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1121322",
+        "date": "2026-04-09T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -582,6 +582,22 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
+        "title": "Credito d'imposta per il carburante degli autotrasportatori - Modalità e termini di presentazione delle domande - Presentazione entro il 15.9.2026 (DM 28.8.2026, comunicato Min. Infrastrutture e trasporti 28.8.2026 e FAQ 31.8.2026) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1121060",
+        "date": "2026-02-09T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
+        "title": "Servizi di accompagnamento degli utenti, da parte di guide abilitate, a percorsi escursionistici e attività collegate - Visita in aule immersive - Trattamento IVA (risposta interpello Agenzia delle Entrate 1.9.2026 n. 166) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1121226",
+        "date": "2026-02-09T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "fiscale",
+        "source": "Eutekne - Feed RSS",
         "title": "Riforma dei tributi locali e federalismo fiscale - Novità del DLgs. 147/2026 (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=460848",
         "date": "2026-02-09T00:00:00.000Z",
@@ -590,8 +606,8 @@
       {
         "category": "fiscale",
         "source": "Eutekne - Feed RSS",
-        "title": "Delega per la riforma dell'ordinamento forense (Tratto da Schede di Aggiornamento)",
-        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=461384",
+        "title": "Concordato preventivo biennale 2026-2027 alla luce del DLgs. 148/2026 (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=461150",
         "date": "2026-02-09T00:00:00.000Z",
         "summary": ""
       }
@@ -600,10 +616,106 @@
       {
         "category": "contabile",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "«Testo lesivo della proprietà: a rischio milioni di posti letto»",
+        "link": "https://www.ilsole24ore.com/art/testo-lesivo-proprieta-rischio-milioni-posti-letto-AJTsqs3",
+        "date": "2026-09-05T03:04:15.000Z",
+        "summary": "Contro la bozza di regolamento sugli affitti brevi arrivano anche le proteste della Lega: violati i diritti dei cittadini"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Malattia estesa al giorno prima della visita anche se si svolge in ambulatorio",
+        "link": "https://www.ilsole24ore.com/art/malattia-estesa-giorno-prima-visita-anche-se-si-svolge-ambulatorio-AJFnZu3",
+        "date": "2026-09-05T03:02:01.000Z",
+        "summary": "Finora retroattività era consentita solo se il medico veniva a casa. Cambio di orientamento alla luce dei molti accessi programmati in medicina generale"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Costi a efficacia pluriennale il Decreto Omnibus cambia le regole per laccertamento",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4455-costi-a-efficacia-pluriennale-il-decreto-omnibus-cambia-le-regole-per-laccertamento.html",
+        "date": "2026-09-05T00:00:00.000Z",
+        "summary": "Il problema degli accertamenti a catena e la soluzione prospettata dal legislatore"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Turismo, la scadenza per il GreenTour slitta al 30 settembre",
+        "link": "https://www.ilsole24ore.com/art/turismo-scadenza-il-greentour-slitta-30-settembre-AJUZ7c3",
+        "date": "2026-09-04T15:25:22.000Z",
+        "summary": "La data di scadenza per candidarsi all'incentivo, promosso dal ministero del Turismo e gestito da Invitalia, è stata spostata di quindici giorni: è il 30 settembre 2026 la nuova deadline..."
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Affitti brevi, arrivano i limiti europei: stop a locazioni e vendite",
+        "link": "https://www.ilsole24ore.com/art/affitti-brevi-arrivano-limiti-europei-stop-locazioni-e-vendite-AJS0PZ3",
+        "date": "2026-09-04T12:47:00.000Z",
+        "summary": "Pronto il testo della proposta che Bruxelles presenterà la prossima settimana"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Concessioni demaniali: attiva la procedura telematica per gli incarichi dei professionisti per le perizie asseverate",
+        "link": "https://press-magazine.it/concessioni-demaniali-attiva-la-procedura-telematica-per-gli-incarichi-dei-professionisti-per-le-perizie-asseverate/",
+        "date": "2026-09-04T09:58:57.000Z",
+        "summary": "È attiva la procedura telematica per l’acquisizione delle disponibilità dei dottori commercialisti e degli esperti contabili allo svolgimento delle perizie asseverate previste dall’art. 1, comma 9, del D.L. n. 131/2024, finalizzate alla determinazione dell’indennizzo dovuto dal […]"
+      },
+      {
+        "category": "contabile",
+        "source": "CNDCEC - Comunicati",
+        "title": "Il 24 settembre Speciale Telefisco",
+        "link": "https://press-magazine.it/il-24-settembre-speciale-telefisco/",
+        "date": "2026-09-04T09:30:00.000Z",
+        "summary": "Anche quest’anno i commercialisti saranno presenti a Speciale Telefisco, l’appuntamento organizzato dal Sole 24 Ore – L’Esperto risponde in collaborazione con il Consiglio nazionale della categoria. L’evento si svolgerà in diretta streaming giovedì 24 settembre dalle […]"
+      },
+      {
+        "category": "contabile",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Riciclaggio, circuiti bancari non ufficiali in crescita grazie alla tecnologia",
         "link": "https://www.ilsole24ore.com/art/riciclaggio-circuiti-bancari-non-ufficiali-crescita-grazie-tecnologia-AJvSun2",
         "date": "2026-09-04T03:04:18.000Z",
         "summary": "Tra le economie criminali che usano l’underground banking lavoro nero, frodi e finanziamento del terrorismo. Per il contrasto servono norme chiare"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Farmacisti liberi professionisti contributi per 400mila euro  richieste entro il 309",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4459-farmacisti-liberi-professionisti-contributi-per-400mila-euro-richieste-entro-il-309.html",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": "Una tantum per i farmacisti autonomi, collaboratori o borsisti: i requisiti,  le istruzioni, il modulo di domanda"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Cococo  riqualificato dipendente quando lazienda deve pagare tutto",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4458-cococo-riqualificato-dipendente-quando-lazienda-deve-pagare-tutto.html",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": "La Cassazione chiarisce che la riqualificazione giudiziale del rapporto autonomo in subordinato non costituisce \"conversione\" . Cosa cambia? FAQ in parole semplici"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "RENTRI dal 16 settembre il FIR diventa definitivamente digitale",
+        "link": "https://www.fiscoetasse.com/approfondimenti/17430-rentri-dal-16-settembre-il-fir-diventa-definitivamente-digitale.html",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": "Fine del periodo transitorio e piena operatività del nuovo sistema di tracciabilità dei rifiuti"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Sostegno allo sport 2026 chi pu richiedere il contributo dal 9 settembre",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4457-sostegno-allo-sport-2026-chi-puo-richiedere-il-contributo-dal-9-settembre.html",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": "Parrocchie, ETS, Associazioni e ONULUS via al bando 2026 per il sostegno allo sport: come partecipare e le risposte ai dubbi frequenti sulla agevolazione"
+      },
+      {
+        "category": "contabile",
+        "source": "Fisco e Tasse",
+        "title": "Assegno di invalidit civile ecco quale reddito conta davvero",
+        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4456-assegno-di-invalidita-civile-ecco-quale-reddito-conta-davvero.html",
+        "date": "2026-09-04T00:00:00.000Z",
+        "summary": "La Cassazione conferma  il calcolo INPS per il requisito reddituale ai fini dell'assegno conta il reddito imponibile Irpef al netto solo degli oneri deducibili,"
       },
       {
         "category": "contabile",
@@ -652,30 +764,6 @@
         "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4446-aule-immersive-nei-musei-ed-escursioni-lagenzia-chiarisce-la-corretta-qualificazione-iva.html",
         "date": "2026-09-04T00:00:00.000Z",
         "summary": "Interpello Agenzia n. 166 del 1.9.2026 il trattamento Iva su escursioni  guidate,  laboratori naturalistici e esperienze in aule multimediali"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Va ammessa in Polizia la donna con tatuaggio visibile se indossa la gonna",
-        "link": "https://www.ilsole24ore.com/art/va-ammessa-polizia-donna-tatuaggio-visibile-se-indossa-gonna-AJhwTR2",
-        "date": "2026-09-03T14:23:00.000Z",
-        "summary": "Per l’avvocato generale della Corte Ue è una discriminazione basata sul sesso la combinazione tra divieto di tatuaggi e obbligo di una divisa specifica"
-      },
-      {
-        "category": "contabile",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Appalti, criteri ambientali da applicare anche ai contratti sottosoglia",
-        "link": "https://www.ilsole24ore.com/art/appalti-criteri-ambientali-applicare-anche-contratti-sottosoglia-AJPVAa1",
-        "date": "2026-09-03T03:02:01.000Z",
-        "summary": "Anac e Mase pubblicano un comunicato congiunto sui Cam: gli obblighi fissati dal Codice vanno applicati in modo esteso"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Costi a efficacia pluriennale il Decreto Omnibus cambia le regole per laccertamento",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4455-costi-a-efficacia-pluriennale-il-decreto-omnibus-cambia-le-regole-per-laccertamento.html",
-        "date": "2026-09-03T00:00:00.000Z",
-        "summary": "Il problema degli accertamenti a catena e la soluzione prospettata dal legislatore"
       },
       {
         "category": "contabile",
@@ -728,22 +816,6 @@
       {
         "category": "contabile",
         "source": "Fisco e Tasse",
-        "title": "Maso chiuso la permuta autorizzata non fa perdere le agevolazioni fiscali",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4445-maso-chiuso-la-permuta-autorizzata-non-fa-perdere-le-agevolazioni-fiscali.html",
-        "date": "2026-09-03T00:00:00.000Z",
-        "summary": "Maso chiuso e compendio unico: le entrate equiparano le casistiche, vediamo il dettaglio per i masi e le condizioni per non perdere le agevolazioni fiscali"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Commercialista nominato assessore ok CNDCEC  allesonero dalla formazione",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4444-commercialista-nominato-assessore-ok-del-cndcec-allesonero-dalla-formazione.html",
-        "date": "2026-09-03T00:00:00.000Z",
-        "summary": "In un pronto ordini il consiglio nazionale dei dottori commercialisti chiarisce  quando è possiibile sospensione dell'obbligo formativo in caso di  carice pubbliche"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
         "title": "Meccanismo CBAM le novit operative ADM di agosto 2026",
         "link": "https://www.fiscoetasse.com/approfondimenti/17427-meccanismo-cbam-le-novita-operative-adm-di-agosto-2026.html",
         "date": "2026-09-02T00:00:00.000Z",
@@ -756,30 +828,6 @@
         "link": "https://www.fiscoetasse.com/approfondimenti/17424-fringe-benefit-agenti-sportivi-la-cassazione-frena-il-fisco-sul-giudicato-riflesso.html",
         "date": "2026-09-02T00:00:00.000Z",
         "summary": "Due ordinanze recenti ammettono il collegamento negoziale tra club, calciatore e agente, ma respingono il tentativo dell’Agenzia di estendere negli anni l'accertamento sfavorevole"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Novit IMU nel decreto sul federalismo fiscale",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17423-novita-imu-nel-decreto-sul-federalismo-fiscale.html",
-        "date": "2026-09-02T00:00:00.000Z",
-        "summary": "Contenzioso con enti locali e dichiaraziobne IMU: le novità del Decreto federalismo Fiscale"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "LUL dei riders autonomi chiarimenti del Ministero sulle novit",
-        "link": "https://www.fiscoetasse.com/new-rassegna-stampa/4443-lul-dei-riders-autonomi-chiarimenti-del-ministero.html",
-        "date": "2026-09-02T00:00:00.000Z",
-        "summary": "proroga di 90 giorni e indicazioni su registrazione delle consegne e gestione degli ordini multipli per i riders autonomi delle piattaforme digitali - Interpello n. 1 del 1.9.2026"
-      },
-      {
-        "category": "contabile",
-        "source": "Fisco e Tasse",
-        "title": "Importazioni di acciaio dal 1 ottobre obbligo di prova del Paese di fusione e colata",
-        "link": "https://www.fiscoetasse.com/approfondimenti/17421-importazioni-di-acciaio-dal-1-ottobre-obbligo-di-prova-del-paese-di-fusione-e-colata.html",
-        "date": "2026-09-01T00:00:00.000Z",
-        "summary": "Nuovi oneri documentali per gli importatori e controlli doganali sulla tracciabilità della filiera siderurgica"
       },
       {
         "category": "contabile",
@@ -847,66 +895,34 @@
       },
       {
         "category": "contabile",
-        "source": "CNDCEC - Comunicati",
-        "title": "Terzo settore, dai commercialisti un volume sui bilanci",
-        "link": "https://press-magazine.it/terzo-settore-dai-commercialisti-un-volume-sui-bilanci-2/",
-        "date": "2026-07-31T08:30:23.000Z",
-        "summary": "Il Consiglio e la Fondazione nazionali dei commercialisti hanno pubblicato il volume “Il bilancio degli enti del Terzo settore. Un’analisi normativa e tecnico-contabile alla luce della più recente prassi ministeriale e operativa”. La pubblicazione, curata da […]"
-      },
-      {
-        "category": "contabile",
-        "source": "CNDCEC - Comunicati",
-        "title": "Insediato il nuovo Consiglio di disciplina nazionale dei commercialisti",
-        "link": "https://press-magazine.it/insediato-il-nuovo-consiglio-di-disciplina-nazionale/",
-        "date": "2026-07-30T11:04:14.000Z",
-        "summary": "Si è insediato ufficialmente il nuovo Consiglio di disciplina nazionale dei commercialisti. Dell’organismo fanno parte quattro donne e sette uomini. A guidarlo, in qualità di presidente, sarà Vito Montanaro, dell’Ordine di Taranto, mentre la carica di […]"
+        "source": "Eutekne - Feed RSS",
+        "title": "Investimento in leasing effettuato nel 2026 prima della comunicazione preventiva - Avvio del progetto successivamente all'entrata in vigore della norma agevolativa - Rispetto del \"principio di incentivazione\" (risposta interpello Agenzia delle Entrate 3.9.2026 n. 169) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1121322",
+        "date": "2026-04-09T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 4.9.2026 - \"Tax credit ZES unica per l’investimento in leasing prima della comunicazione preventiva\" - Alberti P."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Imprese di minori dimensioni - Bozza di principio contabile - Semplificazioni relative alle immobilizzazioni materiali (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120895",
-        "date": "2026-03-09T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 3.9.2026 - \"Ammortamento contabile allineato a quello fiscale\" - Latorraca S."
+        "title": "Azione di riduzione - Necessità della previa accettazione dell'eredità con beneficio di inventario - Relictum irrisorio - Esclusione - Condizioni (Cass. 9.7.2026 n. 22986) (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1116067",
+        "date": "2026-04-09T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 4.9.2026 - \"Accettazione beneficiata dell’eredità per l’azione di riduzione legata all’entità dei beni relitti\" - Novella C."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Bancarotta fraudolenta patrimoniale - Principali caratteristiche (Cass. pen. 21.8.2026 n. 31753) (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1120982",
-        "date": "2026-03-09T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 3.9.2026 - \"Per la bancarotta fraudolenta patrimoniale vale il pericolo concreto\" - Meoli M."
+        "title": "Il nesso sinallagmatico tra le operazioni definisce la permuta ai fini IVA (Tratto dal Notiziario)",
+        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1121263",
+        "date": "2026-04-09T00:00:00.000Z",
+        "summary": "Il Quotidiano del Commercialista del 4.9.2026 - \"È permuta per l’IVA se esiste causa di collegamento tra atti atomistici\" - La Grutta S."
       },
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Schema di atto con contestazioni diverse dall'avviso di accertamento - Confronto con la disciplina del DLgs. 219/2023 (Tratto dal Notiziario)",
-        "link": "https://www.eutekne.it/Servizi/Notiziario/recensione.aspx?id=1114057",
-        "date": "2026-03-09T00:00:00.000Z",
-        "summary": "Il Quotidiano del Commercialista del 3.9.2026 - \"Schema di atto invalido se cambia la motivazione nel contraddittorio\" - Amato R."
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Addizionale sui compensi variabili dei dirigenti e amministratori del settore finanziario - Esclusione in caso di versamento del doppio dell'importo agli ETS - Disposizioni attuative (provv. Agenzia delle Entrate 30.7.2026 n. 223895) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1115581",
-        "date": "31/07/2026",
-        "summary": ""
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Incentivo all'assunzione di lavoratrici madri - Novità della L. 199/2025 (legge di bilancio 2026) - Istruzioni (circ. INPS 29.7.2026 n. 82) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1115474",
-        "date": "30/07/2026",
-        "summary": ""
-      },
-      {
-        "category": "contabile",
-        "source": "Eutekne - Feed RSS",
-        "title": "Decreto di espropriazione per pubblica utilità - Modalità di esecuzione delle formalità nei registri immobiliari (ris. Agenzia delle Entrate 28.7.2026 n. 29) (Tratto da La Settimana in Breve)",
-        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1115353",
-        "date": "29/07/2026",
+        "title": "Investimento effettuato prima della comunicazione preventiva - Progetto avviato dopo l'entrata in vigore della norma agevolativa - Rispetto del \"principio di incentivazione\" (risposta interpello Agenzia delle Entrate 3.9.2026 n. 169) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1121322",
+        "date": "2026-04-09T00:00:00.000Z",
         "summary": ""
       },
       {
@@ -920,6 +936,22 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
+        "title": "Credito d'imposta per il carburante degli autotrasportatori - Modalità e termini di presentazione delle domande - Presentazione entro il 15.9.2026 (DM 28.8.2026, comunicato Min. Infrastrutture e trasporti 28.8.2026 e FAQ 31.8.2026) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1121060",
+        "date": "2026-02-09T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
+        "title": "Servizi di accompagnamento degli utenti, da parte di guide abilitate, a percorsi escursionistici e attività collegate - Visita in aule immersive - Trattamento IVA (risposta interpello Agenzia delle Entrate 1.9.2026 n. 166) (Tratto da La Settimana in Breve)",
+        "link": "https://www.eutekne.it/Servizi/SettimanaInBreve/recensione.aspx?id=1121226",
+        "date": "2026-02-09T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "category": "contabile",
+        "source": "Eutekne - Feed RSS",
         "title": "Riforma dei tributi locali e federalismo fiscale - Novità del DLgs. 147/2026 (Tratto da Schede di Aggiornamento)",
         "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=460848",
         "date": "2026-02-09T00:00:00.000Z",
@@ -928,8 +960,8 @@
       {
         "category": "contabile",
         "source": "Eutekne - Feed RSS",
-        "title": "Delega per la riforma dell'ordinamento forense (Tratto da Schede di Aggiornamento)",
-        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=461384",
+        "title": "Concordato preventivo biennale 2026-2027 alla luce del DLgs. 148/2026 (Tratto da Schede di Aggiornamento)",
+        "link": "https://www.eutekne.it/Servizi/SchedeAggiornamento/testo.aspx?id=461150",
         "date": "2026-02-09T00:00:00.000Z",
         "summary": ""
       }
@@ -1001,6 +1033,14 @@
       }
     ],
     "condominio": [
+      {
+        "category": "condominio",
+        "source": "Il Sole 24 Ore - Casa e Condominio",
+        "title": "Generali Real Estate studia l’entrata nel capitale di Ream Sgr",
+        "link": "https://www.ilsole24ore.com/art/generali-real-estate-studia-l-entrata-capitale-ream-sgr-AJRLKV3",
+        "date": "2026-09-04T13:42:00.000Z",
+        "summary": "Generali Real Estate potrebbe entrare nel capitale di Ream Sgr con una quota di circa il 20 per cento. L’operazione relativa a una possibile partnership, ancora allo studio e nelle..."
+      },
       {
         "category": "condominio",
         "source": "Confedilizia - Comunicati",
@@ -1164,14 +1204,6 @@
       {
         "category": "condominio",
         "source": "Il Sole 24 Ore - Casa e Condominio",
-        "title": "In Italia sono una decina le isole (private) in vendita",
-        "link": "https://www.ilsole24ore.com/art/in-italia-sono-decina-isole-private-vendita-AJF8qPv",
-        "date": "2026-08-26T15:11:58.000Z",
-        "summary": "Dopo la notizia della messa sul mercato dell’isola di Crevan, nella Laguna veneta, sono circa una decina gli isolotti in vendita in Italia. Dal Veneto alla Sicilia. Le richieste vanno da 1,5 milioni di euro per asset più piccoli o con forte componente di recupero fino ai 24 milioni proprio nei pressi della Serenissima"
-      },
-      {
-        "category": "condominio",
-        "source": "Il Sole 24 Ore - Casa e Condominio",
         "title": "Monza, pubblicato l’avviso del Demanio per uno studentato nell’ex caserma",
         "link": "https://www.ilsole24ore.com/art/monza-pubblicato-l-avviso-demanio-uno-studentato-nell-ex-caserma-AJl3gLu",
         "date": "2026-08-25T14:29:19.000Z",
@@ -1280,26 +1312,58 @@
       {
         "category": "crisi_impresa",
         "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "«Testo lesivo della proprietà: a rischio milioni di posti letto»",
+        "link": "https://www.ilsole24ore.com/art/testo-lesivo-proprieta-rischio-milioni-posti-letto-AJTsqs3",
+        "date": "2026-09-05T03:04:15.000Z",
+        "summary": "Contro la bozza di regolamento sugli affitti brevi arrivano anche le proteste della Lega: violati i diritti dei cittadini"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Malattia estesa al giorno prima della visita anche se si svolge in ambulatorio",
+        "link": "https://www.ilsole24ore.com/art/malattia-estesa-giorno-prima-visita-anche-se-si-svolge-ambulatorio-AJFnZu3",
+        "date": "2026-09-05T03:02:01.000Z",
+        "summary": "Finora retroattività era consentita solo se il medico veniva a casa. Cambio di orientamento alla luce dei molti accessi programmati in medicina generale"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Turismo, la scadenza per il GreenTour slitta al 30 settembre",
+        "link": "https://www.ilsole24ore.com/art/turismo-scadenza-il-greentour-slitta-30-settembre-AJUZ7c3",
+        "date": "2026-09-04T15:25:22.000Z",
+        "summary": "La data di scadenza per candidarsi all'incentivo, promosso dal ministero del Turismo e gestito da Invitalia, è stata spostata di quindici giorni: è il 30 settembre 2026 la nuova deadline..."
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
+        "title": "Affitti brevi, arrivano i limiti europei: stop a locazioni e vendite",
+        "link": "https://www.ilsole24ore.com/art/affitti-brevi-arrivano-limiti-europei-stop-locazioni-e-vendite-AJS0PZ3",
+        "date": "2026-09-04T12:47:00.000Z",
+        "summary": "Pronto il testo della proposta che Bruxelles presenterà la prossima settimana"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Concessioni demaniali: attiva la procedura telematica per gli incarichi dei professionisti per le perizie asseverate",
+        "link": "https://press-magazine.it/concessioni-demaniali-attiva-la-procedura-telematica-per-gli-incarichi-dei-professionisti-per-le-perizie-asseverate/",
+        "date": "2026-09-04T09:58:57.000Z",
+        "summary": "È attiva la procedura telematica per l’acquisizione delle disponibilità dei dottori commercialisti e degli esperti contabili allo svolgimento delle perizie asseverate previste dall’art. 1, comma 9, del D.L. n. 131/2024, finalizzate alla determinazione dell’indennizzo dovuto dal […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "CNDCEC - Crisi d'impresa",
+        "title": "Il 24 settembre Speciale Telefisco",
+        "link": "https://press-magazine.it/il-24-settembre-speciale-telefisco/",
+        "date": "2026-09-04T09:30:00.000Z",
+        "summary": "Anche quest’anno i commercialisti saranno presenti a Speciale Telefisco, l’appuntamento organizzato dal Sole 24 Ore – L’Esperto risponde in collaborazione con il Consiglio nazionale della categoria. L’evento si svolgerà in diretta streaming giovedì 24 settembre dalle […]"
+      },
+      {
+        "category": "crisi_impresa",
+        "source": "Il Sole 24 Ore - Norme e Tributi",
         "title": "Riciclaggio, circuiti bancari non ufficiali in crescita grazie alla tecnologia",
         "link": "https://www.ilsole24ore.com/art/riciclaggio-circuiti-bancari-non-ufficiali-crescita-grazie-tecnologia-AJvSun2",
         "date": "2026-09-04T03:04:18.000Z",
         "summary": "Tra le economie criminali che usano l’underground banking lavoro nero, frodi e finanziamento del terrorismo. Per il contrasto servono norme chiare"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Va ammessa in Polizia la donna con tatuaggio visibile se indossa la gonna",
-        "link": "https://www.ilsole24ore.com/art/va-ammessa-polizia-donna-tatuaggio-visibile-se-indossa-gonna-AJhwTR2",
-        "date": "2026-09-03T14:23:00.000Z",
-        "summary": "Per l’avvocato generale della Corte Ue è una discriminazione basata sul sesso la combinazione tra divieto di tatuaggi e obbligo di una divisa specifica"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "Il Sole 24 Ore - Norme e Tributi",
-        "title": "Appalti, criteri ambientali da applicare anche ai contratti sottosoglia",
-        "link": "https://www.ilsole24ore.com/art/appalti-criteri-ambientali-applicare-anche-contratti-sottosoglia-AJPVAa1",
-        "date": "2026-09-03T03:02:01.000Z",
-        "summary": "Anac e Mase pubblicano un comunicato congiunto sui Cam: gli obblighi fissati dal Codice vanno applicati in modo esteso"
       },
       {
         "category": "crisi_impresa",
@@ -1364,22 +1428,6 @@
         "link": "https://press-magazine.it/societa-di-capitali-torna-a-crescere-il-fatturato-28-nel-2025-54-nel-2026-e-32-nel-2027/",
         "date": "2026-07-31T08:42:15.000Z",
         "summary": "In attesa dei primi dati di bilancio relativi all’annualità 2025, il fatturato delle società di capitali, che rappresenta il 75% del fatturato totale delle imprese italiane, nel 2025 e nei due anni successivi tornerà a crescere dopo la battuta d’arresto del […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "CNDCEC - Crisi d'impresa",
-        "title": "Terzo settore, dai commercialisti un volume sui bilanci",
-        "link": "https://press-magazine.it/terzo-settore-dai-commercialisti-un-volume-sui-bilanci-2/",
-        "date": "2026-07-31T08:30:23.000Z",
-        "summary": "Il Consiglio e la Fondazione nazionali dei commercialisti hanno pubblicato il volume “Il bilancio degli enti del Terzo settore. Un’analisi normativa e tecnico-contabile alla luce della più recente prassi ministeriale e operativa”. La pubblicazione, curata da […]"
-      },
-      {
-        "category": "crisi_impresa",
-        "source": "CNDCEC - Crisi d'impresa",
-        "title": "Insediato il nuovo Consiglio di disciplina nazionale dei commercialisti",
-        "link": "https://press-magazine.it/insediato-il-nuovo-consiglio-di-disciplina-nazionale/",
-        "date": "2026-07-30T11:04:14.000Z",
-        "summary": "Si è insediato ufficialmente il nuovo Consiglio di disciplina nazionale dei commercialisti. Dell’organismo fanno parte quattro donne e sette uomini. A guidarlo, in qualità di presidente, sarà Vito Montanaro, dell’Ordine di Taranto, mentre la carica di […]"
       }
     ],
     "finanza_agevolata": [
